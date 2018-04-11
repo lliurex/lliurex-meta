@@ -1,0 +1,224 @@
+= Servers and Daemons =
+
+Database:
+
+ * postgresql-plperl-10
+ * postgresql-plpython-10
+ * postgresql-plpython3-10
+ * postgresql-pltcl-10
+
+Email:
+
+ * fetchmail
+ * procmail
+ * exim4
+ * exim4-daemon-heavy
+ * exim4-daemon-light
+ * exim4-doc-html
+ * mail-stack-delivery
+ * mailman
+
+Must also consider webmail and so on...
+
+VPN:
+
+ * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
+ * strongswan-ike
+ * strongswan-plugin-dhcp
+ * strongswan-plugin-eap-md5
+ * strongswan-plugin-eap-mschapv2
+ * strongswan-plugin-eap-peap
+ * strongswan-plugin-eap-radius
+ * strongswan-plugin-eap-tls
+ * strongswan-plugin-eap-tnc
+ * strongswan-plugin-eap-ttls
+ * strongswan-plugin-gmp
+ * strongswan-plugin-ldap
+ * strongswan-plugin-mysql
+ * strongswan-plugin-openssl
+ * strongswan-plugin-pkcs11
+ * strongswan-plugin-radattr
+ * strongswan-plugin-sql
+ * strongswan-plugin-unbound
+ * strongswan-pt-tls-client
+ * strongswan-tnc-base
+ * strongswan-tnc-client
+ * strongswan-tnc-pdp
+ * strongswan-tnc-server
+
+Web servers:
+
+ * nginx
+
+Web applications:
+
+ * zope3-sandbox
+ * python-moinmoin      # moin (>= 1.5)
+ * memcached #ClintByrum - server-maverick-uds-web20-workloads
+ * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
+ * rabbitmq-server
+
+Utilities:
+
+ * htop    # used quite often in favor of top
+ * logcheck		  # great security tool for any server
+ * logcheck-database	  # useful for above
+ * rrdtool
+ * iotop
+ * john
+ * libmemcached-tools #ClintByrum - server-maverick-uds-web20-workloads
+ * nicstat
+ * nut # UPS management
+ * nut-cgi
+ * nut-snmp
+
+Radius server:
+
+ * freeradius
+
+Authentication:
+
+ * sssd
+ * sssd-tools
+
+Backup:
+
+ * mtx
+
+Proxy:
+
+ * haproxy #ClintByrum server-maverick-uds-cloud-loadbalancing
+
+Configuration Management:
+
+ * etckeeper
+
+Monitoring:
+
+ * nagios3
+ * nagios3-common
+ * nagios3-doc
+ * monitoring-plugins-basic
+ * monitoring-plugins-standard
+ * nagios-plugins-basic    # transitional package: remove in Xenial+1
+ * nagios-plugins-standard # transitional package: remove in Xenial+1
+ * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
+ * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
+
+Storage:
+
+ * ceph
+ * radosgw
+ * python-ceph
+
+Other:
+
+ * samba-doc-pdf
+ * ibmasm-utils
+ * rabbitmq-server
+ * unzip
+ * openvswitch
+ * openvswitch-switch-dpdk
+ * lxd
+ * lxd-client
+
+OpenStack:
+
+ * nova-api
+ * nova-network
+ * nova-objectstore
+ * nova-scheduler
+ * nova-volume
+ * nova-compute
+ * nova-compute-kvm
+ * nova-compute-lxc
+ * nova-compute-lxd # James Page LP: #1540597
+ * nova-vncproxy
+ * nova-cert
+ * nova-scheduler # James Page LP: #1180084
+ * nova-conductor
+
+ * swift-account
+ * swift-container
+ * swift-doc
+ * swift-object
+ * swift-proxy
+
+ * glance
+
+ * keystone
+
+ * python-keystoneclient
+ * python-cinderclient
+ * python-swiftclient
+ * python-glanceclient
+ * python-neutronclient
+
+ * ceilometer-collector
+ * ceilometer-api
+ * ceilometer-agent-compute
+ * ceilometer-agent-central
+
+ * openstack-dashboard
+
+ * cinder-volume
+ * cinder-api
+ * cinder-scheduler
+ * cinder-backup
+
+ * neutron-server
+ * neutron-l3-agent
+ * neutron-dhcp-agent
+ * neutron-openvswitch-agent
+ * neutron-linuxbridge-agent
+ * neutron-lbaas-agent
+ * neutron-metadata-agent
+ * neutron-vpn-agent
+
+ * heat-engine
+ * heat-api
+ * heat-api-cfn
+ * heat-api-cloudwatch
+
+ * aodh-api # https://bugs.launchpad.net/bugs/1546728
+ * aodh-evaluator
+ * aodh-notifier
+ * aodh-listener
+ * aodh-expirer
+
+ * barbican-api # https://bugs.launchpad.net/bugs/1543754
+ * barbican-worker
+ * barbican-keystone-listener
+
+ * designate # https://bugs.launchpad.net/bugs/1543748
+ * designate-zone-manager
+ * designate-sink
+ * designate-pool-manager
+ * designate-mdns
+ * designate-producer
+ * designate-worker
+
+ * libapache2-mod-auth-mellon # https://bugs.launchpad.net/bugs/1610286
+
+KVM Virtualization Stack:
+# held via virt-host tasks before
+
+ * qemu-system-x86 [i386 amd64]
+ * qemu-system-ppc [powerpc ppc64el]
+ * qemu-system-aarch64 [arm64]
+ * qemu-system-s390x [s390x]
+ * qemu-kvm
+ * libvirt-daemon-system
+
+Cloud:
+
+ * cloud-utils
+ * joyent-mdata-client
+
+IPv6 tools:
+
+ * quagga                 # RobertCollins
+
+Language Interpreters:
+
+ * ruby

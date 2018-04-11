@@ -1,0 +1,78 @@
+== FileSystem ==
+
+ * acl
+ * nfs-common
+ * smbclient            # to access files on other SAMBA and Windows servers
+ * (dmraid)
+ * (exfat-fuse)
+ * (exfat-utils)
+
+== Basic services ==
+
+ * n4d
+ * n4d-lliurex-base
+ * n4d-remote-gui-plugin
+# * lliurex-preseed-common
+# * (lliurex-ssh-login)
+# * dr-valentin
+ * (libnss-myhostname)
+# * lliurex-base-files
+# * llxcfg-runtime
+ * (whois)
+# * lliurex-keyring
+# * (lliurex-statistics)
+# * (lliurex-mate-welcome)
+
+TODO: remove by future essential
+ * python-minimal 
+ 
+== Themes ==
+
+# * lliurex-grub-custom
+ * libdrm2
+
+== OFICIAL LANGUAGES ==
+
+ * language-pack-es-base
+ * language-pack-es
+
+== Advanced Apps ==
+
+ * vim
+ * (htop)
+ * (partimage)
+ * (deborphan)
+ * realpath
+ * unrar
+ * rar
+ * screen
+ * p7zip-full
+ * (libpam-ck-connector)
+ * (iotop)
+ * (iperf)
+ * (xinput-calibrator)
+ * (gpm)
+ * (gettext)
+ * (lshw)
+
+ * (tree)
+ * (ffmpeg)
+ * (module-assistant)
+ * (testdisk)
+ * (extundelete)
+
+== Hardware ==
+  
+ * acpid
+
+== Network ==
+
+ * wireless-tools
+ * (libnss-mdns) 
+ * ca-certificates      # common SSL certificates
+ * wpasupplicant        # ScottJamesRemnant
+ * (traceroute)
+ * (curl)
+ * (axel)
+ * (iftop)
+ * (ethtool)

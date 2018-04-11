@@ -1,0 +1,8 @@
+== Kernel ==
+
+ * %linux
+ * %linux-meta
+ * %linux-signed
+ * kexec-tools
+ * thermald
+ * kernel-wedge

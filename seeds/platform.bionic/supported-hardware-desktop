@@ -1,0 +1,9 @@
+= Hardware =
+
+ * irda-utils
+ * wacom-tools
+ * gobi-loader
+
+== Filesystems ==
+
+ * hfsplus
