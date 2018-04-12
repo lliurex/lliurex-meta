@@ -1,15 +1,17 @@
 Source: lliurex-meta
-Section: unknown
+Section: admin
 Priority: optional
-Maintainer: kbut <kbut@unknown>
-Build-Depends: debhelper (>= 10)
+Maintainer: Raul Rodrigo Segura <raurodse@gmail.com>
+Build-Depends: debhelper (>= 10), germinate, lliurex-meta-tools
 Standards-Version: 4.1.2
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: https://anonscm.debian.org/git/collab-maint/lliurex-meta.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/lliurex-meta.git
+Homepage: https://lliurex.net
+#Vcs-Git: https://gitlab.com/gaticos/lliurex-meta.git 
 
-Package: lliurex-meta
+Package: lliurex-meta-desktop
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Lliurex-Flavours: desktop, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex
+ List of all packages for lliurex
+
