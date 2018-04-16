@@ -27,5 +27,5 @@ else
     echo "Seed changes applied into meta files"
     echo "Summary"
     echo "==========="
-    svn st
+#    svn st
 fi
