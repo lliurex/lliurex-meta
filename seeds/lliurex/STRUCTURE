@@ -24,7 +24,7 @@ meta-desktop: neon-desktop llx-desktop-common llx-edu-apps-eso-secundaria llx-ed
 meta-minimal-client: llx-base llx-minimal-classroom llx-class-client
 meta-client: neon-desktop llx-class-common llx-class-client llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
 meta-server: neon-desktop llx-class-server llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
-meta-infantil: ubuntu-mate-desktop llx-desktop-common llx-edu-apps-infantil-primaria llx-recursos
+meta-infantil: neon-desktop llx-desktop-common llx-edu-apps-infantil-primaria llx-recursos
 meta-pime: neon-desktop  llx-desktop-common llx-pime
 meta-music: neon-desktop llx-desktop-common llx-music
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
