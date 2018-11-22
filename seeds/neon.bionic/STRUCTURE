@@ -1,5 +1,0 @@
-include platform.bionic
-desktop: desktop-common
-all: desktop
-live: desktop
-ship-live: boot live

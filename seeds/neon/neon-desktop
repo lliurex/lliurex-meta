@@ -32,6 +32,7 @@ Input methods:
 
 Fonts:
  * fonts-noto-hinted
+ * fonts-noto-color-emoji
  * fonts-hack-ttf
  * fonts-symbola
 
@@ -62,6 +63,7 @@ Fonts:
  * powerdevil
  * systemsettings
  * (plasma-widgets-addons)
+ * (plasma-calendar-addons)
  * (kde-config-gtk-style) #GTK setup
  * (kde-config-gtk-style-preview) # brings in the gtk libraries
  * (plasma-discover)
@@ -84,6 +86,7 @@ Fonts:
  * (kde-config-plymouth)
  * (plasma-vault)
  * (plasma-workspace-wayland)
+ * (plasma-browser-integration)
 
 = Applications
 
@@ -98,6 +101,7 @@ Fonts:
  * (okular)
  * (firefox) # needs GTK fixed up
  * (kdialog)
+ * (kdegraphics-thumbnailers)
 
 = Other =
 
@@ -122,13 +126,14 @@ Fonts:
  * neon-settings
  * neon-keyring
  * software-properties-common
- * qapt-deb-installer # https://bugs.kde.org/show_bug.cgi?id=365236
  * fonts-noto-hinted # Plasma's default font, we want this!
  * fonts-hack-ttf
  * (desktop-file-utils) # used by appimage https://github.com/blue-systems/pangea-tooling/issues/4
  * neon-hardware-integration # UDev rules applying hardware fixes where necessary.
  * docker-neon
  * (drkonqi-pk-debug-installer) # Debug installer for drkonqi
+ * distro-release-notifier
+ * ubuntu-release-upgrader-qt
 
 == Blacklist ==
 
@@ -145,11 +150,37 @@ We use modesetting in neon for intel https://phabricator.kde.org/T3734
  * (xserver-xorg-video-intel-native-modesetting) # This is what we force
  * !xserver-xorg-video-intel # Don't want this.
 
+== Input Drivers ==
+
+We use evdev even on 18.04 where libinput is the platform default. This is
+because our KCMs aren't up to the part. The actual preference switch is carried
+out by neon-settings. We only need to make sure evdev is installed in some form.
+This is only recommends so users can opt to switch to libiniput manually if
+they so choose.
+
+ * (xserver-xorg-input-evdev)
+
+Also drag in synaptics. It's also available by default in xenial, alongside
+evdev and its absence seems to cause trouble with certain touchpads
+https://bugs.kde.org/show_bug.cgi?id=397269
+
+ * (xserver-xorg-input-synaptics)
+
 == Oops handling ==
 
 Disable oops handling by default. As of kcrash 5.29 oops are automatically forwarded to handlers, which by default would be apport, which we do not want. coredumpd might be handy, but is not used right now https://phabricator.kde.org/T3891
 
-We will thus mangle the output by sedding out the following: kerneloops-daemon, whoopsie, apport, systemd-coredump
+We will thus mangle the output by sedding out the following: kerneloops-daemon, whoopsie, apport, systemd-coredump.
+This happens in our ./update script!
+
+== Ubuntu Masking ==
+
+Ubuntu has some excessively useless deps deep in the stack. We'll "mask" them
+with our own empty versions to get rid of them.
+
+ * (neon-adwaita) # https://phabricator.kde.org/T8363
+ * (neon-ubuntu-advantage-tools) # https://phabricator.kde.org/T8633
+ * (neon-apport) # https://phabricator.kde.org/T8659
 
 == Sanity ==
 

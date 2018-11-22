@@ -27,7 +27,6 @@ Task-Test-new-install: skip show
  * ktimer
  * kcron
  * ksystemlog
- * kuser
  * khelpcenter
  * analitza
  * artikulate
@@ -160,6 +159,17 @@ Task-Test-new-install: skip show
  * kmarkdownwebview
  * kmymoney
  * kstars
+ * juk
+ * kimagemapeditor
+ * kget
+ * kmix
+ * kmouth
+ * kolf
+ * ksirk
+ * palapeli
+ * sweeper
+ * zeronconf-ioslave
+ * kde-dev-scripts
 
 == Calligra ==
 

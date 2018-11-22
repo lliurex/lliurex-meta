@@ -1,5 +1,0 @@
-feature follow-recommends
-include neon.bionic
-llx-print-server:
-llx-base:
-meta-desktop: desktop llx-base
