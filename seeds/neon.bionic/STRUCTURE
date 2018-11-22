@@ -1,6 +1,6 @@
 include platform.bionic
 neon-desktop: desktop-common
 neon-all: neon-desktop
-neon-live: neon-desktop
-neon-ship-live: boot live
+neon-live: neon-desktop common-live
+neon-ship-live: boot neon-live
 neon-desktop-ko: neon-desktop
