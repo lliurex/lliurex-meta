@@ -1,17 +1,32 @@
 Source: lliurex-meta
 Section: admin
 Priority: optional
-Maintainer: Raul Rodrigo Segura <raurodse@gmail.com>
+Maintainer: LliureX Team <lliurex@gva.es>
 Build-Depends: debhelper (>= 10), germinate, lliurex-meta-tools
 Standards-Version: 4.1.2
 Homepage: https://lliurex.net
-#Vcs-Git: https://gitlab.com/gaticos/lliurex-meta.git 
+Vcs-Git: https://github.com/lliurex/lliurex-meta.git
 
 Package: lliurex-meta-desktop
 Architecture: any
 Lliurex-Flavours: desktop, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex
+Description: MetaPackage of Lliurex Desktop
  List of all packages for lliurex
 
+Package: lliurex-meta-server
+Architecture: any
+Lliurex-Flavours: server, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Server
+ List of all packages for lliurex
+
+Package: lliurex-meta-client
+Architecture: any
+Lliurex-Flavours: client, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Client
+ List of all packages for lliurex
