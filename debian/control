@@ -8,7 +8,7 @@ Homepage: https://lliurex.net
 Vcs-Git: https://github.com/lliurex/lliurex-meta.git
 
 Package: lliurex-meta-desktop
-Architecture: any
+Architecture: any-amd64
 Lliurex-Flavours: desktop, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
@@ -16,7 +16,7 @@ Description: MetaPackage of Lliurex Desktop
  List of all packages for lliurex
 
 Package: lliurex-meta-server
-Architecture: any
+Architecture: any-amd64
 Lliurex-Flavours: server, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
@@ -24,7 +24,7 @@ Description: MetaPackage of Lliurex Server
  List of all packages for lliurex
 
 Package: lliurex-meta-client
-Architecture: any
+Architecture: any-amd64
 Lliurex-Flavours: client, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
