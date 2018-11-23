@@ -1,3 +1,9 @@
+lliurex-meta (18.01) bionic; urgency=high
+
+  * First version
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 23 Nov 2018 14:21:04 +0100
+
 lliurex-meta (1.0) bionic; urgency=medium
 
   * Initial Release.

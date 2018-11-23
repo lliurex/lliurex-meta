@@ -30,3 +30,11 @@ Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Client
  List of all packages for lliurex
+
+Package: lliurex-meta-live
+Architecture: any-amd64
+Lliurex-Flavours: live, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Live
+ List of all packages for lliurex
