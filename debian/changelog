@@ -1,3 +1,9 @@
+lliurex-meta (18.02) bionic; urgency=medium
+
+  * Add to client seed task-recursive 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 28 Nov 2018 14:13:47 +0100
+
 lliurex-meta (18.01) bionic; urgency=high
 
   * First version
