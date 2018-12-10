@@ -1,4 +1,9 @@
 meta-desktop lliurex-meta-desktop
-meta-server lliurex-meta-server
+meta-minimal-client lliurex-meta-minimal-client
 meta-client lliurex-meta-client
+meta-server lliurex-meta-server
+meta-infantil lliurex-meta-infantil
+meta-pime lliurex-meta-pime
+meta-music lliurex-meta-music
+meta-supported lliurex-meta-supported
 meta-live lliurex-meta-live

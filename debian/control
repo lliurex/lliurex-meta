@@ -15,12 +15,12 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Desktop
  List of all packages for lliurex
 
-Package: lliurex-meta-server
+Package: lliurex-meta-minimal-client
 Architecture: any-amd64
-Lliurex-Flavours: server, edu
+Lliurex-Flavours: live, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Server
+Description: MetaPackage of Lliurex minimal client
  List of all packages for lliurex
 
 Package: lliurex-meta-client
@@ -31,6 +31,46 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Client
  List of all packages for lliurex
 
+Package: lliurex-meta-server
+Architecture: any-amd64
+Lliurex-Flavours: server, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Server
+ List of all packages for lliurex
+
+Package: lliurex-meta-infantil
+Architecture: any-amd64
+Lliurex-Flavours: live, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Infantil
+ List of all packages for lliurex
+
+Package: lliurex-meta-pime
+Architecture: any-amd64
+Lliurex-Flavours: live, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Live
+ List of all packages for lliurex
+
+Package: lliurex-meta-music
+Architecture: any-amd64
+Lliurex-Flavours: live, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Live
+ List of all packages for lliurex
+
+Package: lliurex-meta-supported
+Architecture: any-amd64
+Lliurex-Flavours: live, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Live
+ List of all packages for lliurex
+
 Package: lliurex-meta-live
 Architecture: any-amd64
 Lliurex-Flavours: live, edu
@@ -38,3 +78,4 @@ Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Live
  List of all packages for lliurex
+
