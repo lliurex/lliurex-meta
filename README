@@ -1,3 +1,20 @@
 Neon seeds
 https://packaging.neon.kde.org/neon/seeds.git/
 https://anongit.neon.kde.org/neon/seeds.git
+
+Bionic branches 
+================
+Neon/release ( all architectures ) ----- Esta es la buena .
+Neon/release-lts ( amd64 )
+Neon/stable
+Neon/unstable
+
+
+Xenial branches
+================
+Master
+Neon/release-lts_xenial
+Neon/release_xenial
+Neon/stable_xenial
+Neon/unstable_xenial
+
