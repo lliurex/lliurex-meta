@@ -1,0 +1,45 @@
+== Apps ==
+=== Common ===
+ * (tuxpaint)  # Comentar para hacer iso
+ * (lliurex-tuxpaint-stamps)  # Comentar para hacer iso
+ * (tuxpaint-config)
+ * (tuxmath)
+ * (tuxtype)
+ * (gcompris-qt)
+ * (childsplay)
+ * (omnitux)  # Comentar para hacer iso
+ * (ri-li)  # Comentar para hacer iso
+
+==== ODE ====
+
+ * (hotpotatoes)
+ * (lliurex-hotpotatoes-data)
+ * (freeplane)
+ * (intef-exe)
+ * (pdfshuffler)
+ * (edilim)
+ * (shutter)
+ * (kazam)
+
+=== INFANTIL ===
+
+ * (mathwar)
+ * (pysycache)
+ * (pysycache-qcv)
+
+=== PRIMARIA ===
+
+ * jclic
+ * (openjdk-8-jre)
+
+==== ARTS ====
+
+ * (solfege)
+ * (musescore)
+ * (qstopmotion)
+
+==== SCIENCE ====
+
+ * (scratch)
+ * (stellarium)  # Comentar para hacer iso
+ * (marble)

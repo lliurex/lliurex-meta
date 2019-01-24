@@ -1,0 +1,28 @@
+== ENTERPRISE APPS ==
+ * cifs-utils
+ * dosbox
+ * linux-headers-generic
+ * openssh-server
+ * lliurex-ssh-login
+ * planner
+ * playonlinux
+ * remmina
+ * tomboy
+ * ocrfeeder
+ * (pdfshuffler)
+ * (xul-ext-lightning)
+
+== Utils ==
+ * zero-lliurex-msad
+ * zero-lliurex-dni
+
+== LOGIN ON NET ==
+
+ * (lliurex-enterprise-mount)
+ * (domain-startup-check)
+
+== Active Directory integration ==
+
+ * (pbis-open)
+ * (pbis-open-upgrade)
+ * (pbis-open-gui)

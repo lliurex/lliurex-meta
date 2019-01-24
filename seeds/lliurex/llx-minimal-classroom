@@ -1,0 +1,43 @@
+== Services == 
+
+ * openssh-server
+
+== System config ==
+
+ * lliurex-preseed-nslcd
+ * lliurex-preseed-libnss-ldapd
+ * llx-pam-configs
+ * lliurex-sudoers
+ * n4d-pamnss
+ * n4d-hostname 
+
+===  Session ===
+
+ * home-linker 
+ * (lliurex-moving-core)
+TODO
+(umounter-lightdm) // Umount net 
+(home-linker-lightdm) // Link run to home
+lightdm-classroom // Mount net for users
+
+== Environment == 
+
+ * lliurex-classroom-env-configuration
+
+== Services == 
+
+ * cifs-utils
+ * disable-apparmor
+ * n4d-client-plugins // Send files to teacher
+
+== Apps == 
+ 
+ * lliurex-homework-harvester
+
+TODO
+lightdm
+
+== Branding ==
+
+TODO
+ (lightdm-showlistusers)

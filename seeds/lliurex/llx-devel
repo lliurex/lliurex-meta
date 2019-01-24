@@ -1,0 +1,27 @@
+ = APPS FOR DEVELOPERS == 
+ 
+ * (build-essential)
+ * libssl-dev 
+ * subversion 
+ * git 
+ * git-svn
+ * git-buildpackage
+ * mercurial 
+ * mercurial-git 
+ * hgsubversion 
+ * devscripts 
+ * svn-buildpackage 
+ 
+ * zero-dev
+ * scite
+ * extlinux
+ * terminator
+ * atool
+ * dh-autoreconf
+ * meld
+ * poedit
+ * packaging-dev
+ * ubuntu-dev-tools
+
+ * mc
+ * aptitude
