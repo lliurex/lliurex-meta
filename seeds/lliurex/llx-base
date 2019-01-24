@@ -12,23 +12,18 @@
  * n4d
  * n4d-lliurex-base
  * n4d-remote-gui-plugin
-# * lliurex-preseed-common
-# * (lliurex-ssh-login)
-# * dr-valentin
+ * lliurex-preseed-common
+ * (lliurex-ssh-login)
+ * dr-valentin
  * (libnss-myhostname)
-# * lliurex-base-files
-# * llxcfg-runtime
+ * lliurex-base-files
  * (whois)
-# * lliurex-keyring
-# * (lliurex-statistics)
-# * (lliurex-mate-welcome)
+ * lliurex-keyring
+ * (lliurex-statistics)
 
-TODO: remove by future essential
- * python-minimal 
- 
 == Themes ==
 
-# * lliurex-grub-custom
+ * lliurex-grub-custom
  * libdrm2
 
 == OFICIAL LANGUAGES ==
@@ -40,24 +35,19 @@ TODO: remove by future essential
 
  * vim
  * (htop)
- * (partimage)
- * (deborphan)
  * realpath
  * unrar
  * rar
  * screen
  * p7zip-full
- * (libpam-ck-connector)
  * (iotop)
  * (iperf)
  * (xinput-calibrator)
  * (gpm)
  * (gettext)
  * (lshw)
-
  * (tree)
  * (ffmpeg)
- * (module-assistant)
  * (testdisk)
  * (extundelete)
 
@@ -69,8 +59,8 @@ TODO: remove by future essential
 
  * wireless-tools
  * (libnss-mdns) 
- * ca-certificates      # common SSL certificates
- * wpasupplicant        # ScottJamesRemnant
+ * ca-certificates      
+ * wpasupplicant        
  * (traceroute)
  * (curl)
  * (axel)

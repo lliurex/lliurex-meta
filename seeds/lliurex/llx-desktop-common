@@ -1,0 +1,212 @@
+== Start session ==
+
+ * sddm
+
+== Environment == 
+
+ * gksu
+ * (keep-skel)
+ * keep-skel-plugins-base
+ * (lliurex-mime-settings)
+ * (ibus-m17n)
+ * libwmf-bin 
+ * (network-manager-pptp)
+ * (user-setup) # ????
+ * lliurex-profile-d
+
+== Filesystem == 
+
+ * xdg-user-dirs 
+
+== Hardware ==
+
+ * (pcscd) 
+ * (pcsc-tools) 
+ * (bluetooth) 
+
+== Cli tools ==
+ * gpart
+
+== Base apps ==
+
+ * audacity
+ * tuxpaint
+ * k3b
+ * kamoso
+ * imagination
+ * kdenlive
+ * musescore
+ * qstopmotion
+ * soundjuicer
+ * gimp 
+ * telegram
+ * mypaint
+ * inkscape
+ * digikam
+ * filezilla
+ * transmission-qt
+ * firefox
+ * (libreoffice)
+ * (thunderbird)
+
+ TODO: Add Amarok/Clementine/Tomahowk
+
+== Others apps == 
+ * blender
+ * librecad
+ * scribus
+ * (pstoedit)
+ * (synaptic)
+ * zenity
+ * scite
+ * (gimp-plugin-registry)
+ * (remmina)
+ * krename
+ * (icedtea-plugin)
+ * (onboard)
+ * (pavucontrol-qt)
+ * (pavucontrol-qt-l10n)
+ * (libreoffice-style-elementary)
+ * libreoffice
+ * libreoffice-base-core 
+ * libreoffice-pdfimport 
+ * libreoffice-wiki-publisher 
+ * libreoffice-ogltrans
+ * libreoffice-report-builder
+ * libreoffice-kde
+libreoffice-gtk2
+
+
+TODO
+(lliurex-ultimate-rescue)
+(usb-creator-gtk)
+(avidemux)
+
+
+== LliureX Apps == 
+ 
+ * (lliurex-perfilreset)
+ * lliurex-up
+ * (dpkgunlocker-gui)
+ * (lliurex-desktops-keeper)
+ * (lliurex-flash-installer)
+ * zero-center
+ * python3-lliurex-store
+ * (lliurex-store)
+ * (zero-lliurex-analytics) # 15M
+ * (lliurex-java-panel)
+ * (lliurex-gdrive-core)
+ * (lliurex-gdrive-gui)
+ * (lliurex-gdrive-indicator)
+TODO
+(lliurex-firefox-settings) # --
+(lliurex-certificates)
+lliurex-apt2
+
+=== Zero Center ===
+
+ * zero-lliurex-dvdcss # 20M
+ * zero-lliurex-sketchup [i386] # 350M (amd64 750M) arrastra el wine
+ * zero-lliurex-gearth  # Comentar para hacer iso
+ * zero-lliurex-adobereader # 2M
+ * zero-lliurex-adobeair # 2M
+ * zero-lliurex-fonts # 14M
+ * zero-lliurex-flavours # 2M
+ * (zero-lliurex-skype)
+ * (zero-lliurex-spotify)
+ * (zero-lliurex-dropbox-installer)
+ * (zero-lliurex-wine64)
+ * (zero-lliurex-midicss)
+ * (zero-lliurex-chromecast)
+ * (zero-lliurex-ocrfeeder)
+
+
+== Fonts ==
+
+ * fonts-dejavu-core
+ * fonts-freefont-ttf
+ * fonts-inconsolata
+ * fonts-cantarell
+ * fonts-liberation
+ * fonts-opensymbol
+ * fonts-unfonts-core
+ * fonts-breip
+ * fonts-ecolier-court
+ * fonts-ecolier-lignes-court
+ * fonts-rufscript
+ * fonts-tomsontalks
+ * 
+
+== Theme ==
+ * lliurex-menus 
+ * lliurex-artwork-defaults-desktop
+
+TODO: 
+gtk2-engines 
+(humanity-icon-theme) 
+lliurex-artwork-icons 
+lliurex-artwork-backgrounds-desktop 
+lliurex-artwork-window-desktop
+lliurex-artwork-plymouth-desktop
+lliurex-artwork-plymouth-text
+lliurex-artwork-backgrounds-contest
+
+== Languages ==
+
+ * language-pack-lliurex-valencian
+ * Official-Langs: en es
+ * language-pack-gnome-${Official-Langs}-base
+
+ * language-pack-gnome-en
+ * language-pack-gnome-es
+ * (language-pack-gnome-ca) 
+ * (language-pack-ca) 
+
+ * (firefox-locale-es) 
+ * (firefox-locale-ca) 
+
+ * libreoffice-l10n-es 
+ * libreoffice-l10n-ca 
+ * (libreoffice-l10n-en-gb) 
+ * (libreoffice-l10n-en-za) 
+
+ * (libreoffice-help-ca) 
+ * (libreoffice-help-es) 
+ * (libreoffice-help-en-gb) 
+ * (libreoffice-help-en-us) 
+
+ * (thunderbird-locale-en-us) 
+ * (thunderbird-locale-en-gb) 
+ * (thunderbird-locale-en) 
+ * (thunderbird-locale-ca) 
+ * (thunderbird-locale-es-es) 
+
+ * gimp-help-es 
+ * gimp-help-en 
+
+ * (poppler-data) 
+
+=== Dictionaries ===
+
+ * (mythes-en-us) 
+ * (mythes-es) 
+ * (mythes-ca) 
+
+ * (myspell-en-gb) 
+ * (myspell-en-us) 
+ * (myspell-ca) 
+ * (myspell-es) 
+
+ * (wcatalan) 
+ * (wbritish) 
+ * (wspanish) 
+ * (wamerican) 
+
+ * (hyphen-en-us) 
+ * (hyphen-es) 
+ * (hyphen-ca) 
+
+ * (hunspell-ca)
+ * (hunspell-es)
+ * (hunspell-en-gb)
+ * (hunspell-en-us)
