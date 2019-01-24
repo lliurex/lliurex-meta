@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: lliurex-meta
-Source: https://gitlab.com/gaticos/lliurex-meta.git
+Source: https://github.com/lliurex/lliurex-meta.git
 
 Files: *
 Copyright: 2018 kbut <raurodse@gmail.com>
