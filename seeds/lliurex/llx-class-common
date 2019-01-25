@@ -1,0 +1,59 @@
+== Apps == 
+
+ * conky
+ * (lliurex-conky)
+ * lliurex-cssh
+ * llum
+ * (epoptes)
+ * (lliurex-shutdowner)
+ * (lliurex-cdlocker)
+ * (lliurex-moving-editor)
+ * (lliurex-remote-installer-gui)
+
+TODO
+(air-installer)
+(air-manager)
+
+== Services ==
+
+ * llx-ltsp-xrandr-thinclient
+ * (lliurex-ntpdate)
+ * lliurex-profile-d-class
+ * (lliurex-rsyslog-filters)
+
+== N4D plugins ==
+
+ * n4d-pamnss
+ * n4d-client-plugins
+ * n4d-hostname
+ * n4d-homecleaner
+ * lliurex-homework-harvester
+
+== Branding ==
+
+ * (lliurex-artwork-window-aula)
+ * lliurex-jclic-aula
+
+
+TODO
+(lightdm-showlistusers)
+(lliurex-firefox-settings-client)
+
+== LLIUREX JCLIC ENVIRONMENT ==
+
+ * (openjdk-8-jre)
+
+== Hardware == 
+ * (lliurex-smartcard-udev-fixer)
+
+== Environment ==
+
+TODO
+syncer-plank-client
+
+== Zero-Center ==
+
+ * zero-lliurex-technology
+ * zero-lliurex-promethean
+ * zero-lliurex-mixxx
+

@@ -1,0 +1,29 @@
+This seed is needed to add depends into pool from zero-installers
+
+= Java =
+
+ * oracle-java8-installer
+ * oracle-java11-installer
+
+= Owncloud =
+
+ * nextcloud
+TODO
+owncloud-deps
+
+= Moodle =
+
+ * lliurex-moodle
+
+= Pyromaths = 
+
+TODO
+(pyromaths)
+(gummi)
+(texlive-lang-spanish)
+
+= PMB = 
+ * lliurex-pmb
+
+= AdobeAir =
+ * libnspr4

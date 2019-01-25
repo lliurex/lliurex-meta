@@ -1,0 +1,106 @@
+== Services == 
+ 
+ * nfs-kernel-server
+ * (llx-netinstall)
+ * lliurex-firefox-plugins
+ * (lliurex-firefox-settings-server)
+ * (xrdp) # Configure xrdp to Smart Center
+ * (lliurex-custom-xrdp)
+ * (lliurex-jclic-shared)
+ * lliurex-www
+ * ntp
+
+=== N4D ===
+
+ * n4d-network
+ * n4d-ldap
+ * n4d-samba
+ * n4d-proxy
+ * n4d-server-plugins
+ * n4d-dnsmasq
+ * n4d-netfolders
+ * n4d-apache
+ * (n4d-cups)
+ * (n4d-mysql)
+ * (n4d-nat-frontend)
+ * (n4d-client-exe-manager)
+ * (n4d-cdlocker-server)
+ * (n4d-moving-profiles)
+ * n4d-nfs
+ * n4d-matrix-server
+ * n4d-lliurex-mirror
+ * n4d-freeradius
+ * n4d-shutdowner-server
+ * home-eraser-server
+
+TODO
+(n4d-lliurexberry)
+admin-center-lliurex-apt-n4d
+
+=== LTSP ===
+
+ * (ltsp-server-standalone)
+ * (ltsp-server)
+ * (ltsp-client)
+ * (ldm-lliurex-theme)
+ * (lmd-usb-mount-disabler)
+ * lmd-server
+ * lmd-lliurex-data
+ * mini-light-client
+ * (lliurex-artwork-defaults-xfce-desktop)
+ * n4d-epoptes-server
+ * home-linker-ldm-sudoers
+
+TODO
+(lliurex-maker)
+n4d-lliurexberry-server
+
+=== OpenSysClone === 
+
+ * (open-sysclone-server)
+ * (open-sysclone-system)
+ * (open-sysclone-rescue)
+
+== Apps ==
+
+ * home-eraser-gui
+ * (open-sysclone-gui)
+ * (clusterssh)
+ * (lliurex-backup)
+ * (lliurex-easy-sites)
+ * dr-valentin-server-common
+ * (llx-network-config)
+ * (lliurex-lab)
+ * lliurex-nextcloud
+ * lliurex-freeradius
+ * zero-server-wizard
+ * (lliurex-moving-editor)
+ * (lliurex-mirror)
+ * (lliurex-remote-installer-server)
+
+TODO
+owncloud-deps-php7.0
+(lliurex-printa-classroom)
+syncer-plank
+
+=== Admin center ===
+
+ * (lmd-manager-cli)
+ * admin-center
+ * admin-center-lliurex-guard
+ * admin-center-ltsp
+ * admin-center-llx-bootmanager
+ * admin-center-llx-netinstall
+
+TODO
+admin-center-lliurex-apt-module
+admin-center-lliurex-mirror
+
+=== Zero installers ===
+
+ * (zero-lliurex-moodle)
+ * (zero-jclic)
+ * (zero-lliurex-pmb)
+ * (zero-lliurex-mirror-redirect)
+ * (zero-lliurex-openboard) [amd64]
+

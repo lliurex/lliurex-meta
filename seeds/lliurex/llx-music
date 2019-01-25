@@ -1,0 +1,58 @@
+== UBUNTUSTUDIO-METAS ==
+ * (ubuntustudio-photography)
+ * (ubuntustudio-video)
+ * (ubuntustudio-graphics)
+ * (ubuntustudio-audio)
+ * (ubuntustudio-audio-plugins)
+ * (ubuntustudio-font-meta)
+
+== AUDIO ==
+ * (ardour3)
+ * (rosegarden)
+ * (tuxguitar)
+ * (sonic-visualiser)
+ * (qsampler)
+ * (pmidi)
+ * (solfege)
+ * (musescore)
+
+== VIDEO ==
+ * (pykaraoke)
+ * (handbrake)
+ * (dvgrab)
+ * (ffmpeg2theora)
+ * (qstopmotion)
+ * (subtitleeditor)
+ * (xjadeo)
+ * (dvdstyler)
+ * (dvdstyler-data)
+ * (dvd+rw-tools)
+ * (cdrdao)
+ * (brasero)
+
+== PHOTO ==
+ * (agave)
+ * (blender)
+ * (enblend)
+ * (fontforge)
+ * (gimp-data-extras)
+ * (gimp-gap)
+ * (gimp-plugin-registry)
+ * (gimp-ufraw)
+ * (gnome-raw-thumbnailer)
+ * (hugin)
+ * (inkscape)
+ * (nautilus-image-converter)
+ * (scribus)
+ * (xsane)
+ * (darktable)
+ * (rawtherapee)
+
+== HARDWARE ==
+ * (entangle)
+ * (mudita24)
+== SETTINGS ==
+ * lliurex-artwork-defaults-musica
+
+== RT KERNEL ==
+ * linux-lowlatency

@@ -1,0 +1,108 @@
+= UEFI = 
+
+ * efibootmgr             
+ * grub-efi               
+ * grub-efi-amd64         
+ * grub-efi-amd64-bin     
+ * grub-efi-amd64-signed  
+ * secureboot-db          
+ * setserial              
+ * shim                   
+ * shim-signed            
+ * mokutil
+ * boot-repair
+
+= LTSP = 
+
+ * pxelinux
+ * lmd-client
+ * jwm
+
+= Apps = 
+
+ * ocrfeeder
+ * tesseract-ocr
+ * tesseract-ocr-spa
+ * tesseract-ocr-cat
+ * tesseract-ocr-eng
+ * wine
+ * eviacam
+ * codeblocks
+ * s4a
+ * klavaro
+ * graphicsmagick
+ * fam
+ * gamin
+ * flameshot
+ * noteshrink
+ * noteshrink-gui
+ * catfish
+ * openscad
+ * bell-scheduler
+ * mkchromecast
+ * kolourpaint
+
+TODO
+tuxboot
+wmctrl
+
+
+== Special services ==
+
+ * squid-ssl
+ * zero-lliurex-transparent-proxy
+ * qemu-guest-agent
+
+== Mysql ==
+
+ * mysql-client-5.7
+
+== Apps == 
+
+ * freecad
+ * bluegriffon
+ * bluefish
+ * byob-snap
+ * ardublock
+ * lliurex-abies2pmb
+ * air-installer
+ * air-manager
+ * python3-air-manager
+ * casimir-editor
+ * class-jam
+ * synfigstudio
+
+== LTSP ==
+
+ * home-linker-ldm-client
+
+== Hardware ==
+
+ * mtp-tools 
+ * mtpfs
+ * lsb
+
+== Libs ==
+
+ * libpulse-dev
+ * libxcb-xinerama0
+ * libgd3
+ * libgsf-1-common
+ * libgsf-1-114
+ * libmsi0
+ * msitools
+ * vlc-plugin-fluidsynth
+ * libqt5designer5
+ * libsndio6.1
+ * libsdl2-2.0-0
+ * libva-wayland1
+ * python-zeroconf
+ * python-pyqt5
+ * youtube-dl
+ * libguess1
+ * mpv
+ * rtmpdump
+ * mixxx
+ * xserver-xorg-hwe-18.04
+ * linux-signed-generic-hwe-18.04
+ * linux-signed-generic-hwe-18.04-edge
