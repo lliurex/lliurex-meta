@@ -37,9 +37,9 @@
  * kdenlive
  * musescore
  * qstopmotion
- * soundjuicer
+ * sound-juicer
  * gimp 
- * telegram
+ * telegram-desktop
  * mypaint
  * inkscape
  * digikam
@@ -190,10 +190,7 @@ lliurex-artwork-backgrounds-contest
  * (mythes-es) 
  * (mythes-ca) 
 
- * (myspell-en-gb) 
- * (myspell-en-us) 
- * (myspell-ca) 
- * (myspell-es) 
+  * (myspell-es) 
 
  * (wcatalan) 
  * (wbritish) 

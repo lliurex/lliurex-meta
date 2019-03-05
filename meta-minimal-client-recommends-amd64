@@ -1,6 +1,5 @@
 axel
 curl
-deborphan
 dmraid
 ethtool
 exfat-fuse
@@ -15,9 +14,10 @@ iotop
 iperf
 libnss-mdns
 libnss-myhostname
+lliurex-moving-core
+lliurex-ssh-login
+lliurex-statistics
 lshw
-module-assistant
-partimage
 printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
