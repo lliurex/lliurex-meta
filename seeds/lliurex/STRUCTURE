@@ -1,13 +1,9 @@
 feature follow-recommends
 include neon.bionic
 llx-print-server:
-
 llx-base: llx-print-server
 llx-minimal-desktop:
 llx-desktop-common: llx-minimal-desktop desktop-common llx-base
-
-
-
 llx-devel:
 llx-music:
 llx-extra-apps:
