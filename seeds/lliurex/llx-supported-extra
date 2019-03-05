@@ -95,7 +95,7 @@ wmctrl
  * libqt5designer5
  * libsndio6.1
  * libsdl2-2.0-0
- * libva-wayland1
+ * libva-wayland2
  * python-zeroconf
  * python-pyqt5
  * youtube-dl

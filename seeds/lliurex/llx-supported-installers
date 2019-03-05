@@ -17,8 +17,10 @@ owncloud-deps
 
 = Pyromaths = 
 
+ * (pyromaths)
+ * (pyromaths-qt)
+
 TODO
-(pyromaths)
 (gummi)
 (texlive-lang-spanish)
 

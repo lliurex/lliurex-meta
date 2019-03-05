@@ -9,10 +9,8 @@
  * (lliurex-cdlocker)
  * (lliurex-moving-editor)
  * (lliurex-remote-installer-gui)
-
-TODO
-(air-installer)
-(air-manager)
+ * (air-installer)
+ * (air-manager)
 
 == Services ==
 
@@ -34,10 +32,8 @@ TODO
  * (lliurex-artwork-window-aula)
  * lliurex-jclic-aula
 
-
 TODO
 (lightdm-showlistusers)
-(lliurex-firefox-settings-client)
 
 == LLIUREX JCLIC ENVIRONMENT ==
 

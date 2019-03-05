@@ -4,7 +4,6 @@
 
 == Environment == 
 
- * gksu
  * (keep-skel)
  * keep-skel-plugins-base
  * (lliurex-mime-settings)
@@ -13,6 +12,7 @@
  * (network-manager-pptp)
  * (user-setup) # ????
  * lliurex-profile-d
+ * pkexec
 
 == Filesystem == 
 
@@ -96,8 +96,9 @@ libreoffice-gtk3
  * (lliurex-gdrive-core)
  * (lliurex-gdrive-gui)
  * (lliurex-gdrive-indicator)
+ * (lliurex-firefox-settings)
+ * (lliurex-on-fire)
 TODO
-(lliurex-firefox-settings) # --
 (lliurex-certificates)
 lliurex-apt2
 
