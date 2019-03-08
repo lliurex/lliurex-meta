@@ -4,8 +4,6 @@
 
 == Environment == 
 
- * (keep-skel)
- * keep-skel-plugins-base
  * (lliurex-mime-settings)
  * (ibus-m17n)
  * libwmf-bin 

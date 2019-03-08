@@ -1,4 +1,6 @@
 acpi-support
+air-installer
+air-manager
 apparmor
 ark
 avahi-autoipd
@@ -117,6 +119,7 @@ libreoffice-style-elementary
 lliurex-cdlocker
 lliurex-conky
 lliurex-desktops-keeper
+lliurex-firefox-settings
 lliurex-flash-installer
 lliurex-gdrive-core
 lliurex-gdrive-gui
@@ -127,6 +130,7 @@ lliurex-mime-settings
 lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
+lliurex-on-fire
 lliurex-remote-installer-gui
 lliurex-rsyslog-filters
 lliurex-shutdowner
@@ -273,6 +277,7 @@ zero-lliurex-dropbox-installer
 zero-lliurex-gearth
 zero-lliurex-midicss
 zero-lliurex-ocrfeeder
+zero-lliurex-pyromaths
 zero-lliurex-s4a
 zero-lliurex-skype
 zero-lliurex-spotify

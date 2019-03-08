@@ -114,6 +114,7 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-style-elementary
 lliurex-desktops-keeper
+lliurex-firefox-settings
 lliurex-flash-installer
 lliurex-gdrive-core
 lliurex-gdrive-gui
@@ -121,6 +122,7 @@ lliurex-gdrive-indicator
 lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-mime-settings
+lliurex-on-fire
 lliurex-ssh-login
 lliurex-statistics
 lliurex-store
@@ -262,6 +264,7 @@ zero-lliurex-dropbox-installer
 zero-lliurex-gearth
 zero-lliurex-midicss
 zero-lliurex-ocrfeeder
+zero-lliurex-pyromaths
 zero-lliurex-s4a
 zero-lliurex-skype
 zero-lliurex-spotify

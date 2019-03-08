@@ -19,7 +19,8 @@
 == LOGIN ON NET ==
 
  * (lliurex-enterprise-mount)
- * (domain-startup-check)
+TODO
+(domain-startup-check)
 
 == Active Directory integration ==
 

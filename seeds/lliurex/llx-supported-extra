@@ -41,10 +41,10 @@
  * bell-scheduler
  * mkchromecast
  * kolourpaint
+ * wmctrl
 
 TODO
 tuxboot
-wmctrl
 
 
 == Special services ==
@@ -79,7 +79,7 @@ wmctrl
 == Hardware ==
 
  * mtp-tools 
- * mtpfs
+ * jmtpfs
  * lsb
 
 == Libs ==

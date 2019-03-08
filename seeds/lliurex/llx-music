@@ -4,10 +4,10 @@
  * (ubuntustudio-graphics)
  * (ubuntustudio-audio)
  * (ubuntustudio-audio-plugins)
- * (ubuntustudio-font-meta)
+ * (ubuntustudio-fonts)
 
 == AUDIO ==
- * (ardour3)
+ * (ardour)
  * (rosegarden)
  * (tuxguitar)
  * (sonic-visualiser)
@@ -31,7 +31,7 @@
  * (brasero)
 
 == PHOTO ==
- * (agave)
+ * (gpick)
  * (blender)
  * (enblend)
  * (fontforge)
