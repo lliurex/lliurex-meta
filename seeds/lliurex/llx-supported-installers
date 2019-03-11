@@ -18,9 +18,9 @@ This seed is needed to add depends into pool from zero-installers
  * (pyromaths)
  * (pyromaths-qt)
 
-TODO
-(gummi)
-(texlive-lang-spanish)
+= LaTex =
+ * (gummi)
+ * (texlive-lang-spanish)
 
 = PMB = 
  * lliurex-pmb
