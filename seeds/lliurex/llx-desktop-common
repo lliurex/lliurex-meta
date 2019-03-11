@@ -10,7 +10,7 @@
  * (network-manager-pptp)
  * (user-setup) # ????
  * lliurex-profile-d
- * pkexec
+ * policykit-1
 
 == Filesystem == 
 
