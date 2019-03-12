@@ -1,5 +1,6 @@
 acpi-support
 apparmor
+ardour
 ark
 avahi-autoipd
 avahi-daemon
@@ -28,6 +29,8 @@ dolphin
 dpkgunlocker-gui
 drkonqi-pk-debug-installer
 dvd+rw-tools
+dvdstyler
+dvdstyler-data
 dvgrab
 enblend
 entangle
@@ -65,6 +68,7 @@ gimp-plugin-registry
 gimp-plugin-registry
 gimp-ufraw
 gnome-raw-thumbnailer
+gpick
 gpm
 grub-theme-breeze
 gwenview
@@ -225,6 +229,7 @@ tree
 tuxguitar
 ubuntustudio-audio
 ubuntustudio-audio-plugins
+ubuntustudio-fonts
 ubuntustudio-graphics
 ubuntustudio-photography
 ubuntustudio-video

@@ -3,6 +3,7 @@ bash-completion
 build-essential
 command-not-found
 friendly-recovery
+gummi
 iputils-tracepath
 irqbalance
 manpages
@@ -18,6 +19,7 @@ pyromaths-qt
 rsyslog
 tcpdump
 telnet
+texlive-lang-spanish
 ufw
 update-manager-core
 ureadahead
