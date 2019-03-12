@@ -26,4 +26,6 @@ TODO
 
  * (pbis-open)
  * (pbis-open-upgrade)
- * (pbis-open-gui)
+
+Deprecated
+(pbis-open-gui)
