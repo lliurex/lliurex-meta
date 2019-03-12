@@ -1,3 +1,9 @@
+lliurex-meta (19.03.1) bionic; urgency=medium
+
+  * First release
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 12 Mar 2019 09:41:27 +0100
+
 lliurex-meta (18.03) bionic; urgency=medium
 
   * Added all meta
