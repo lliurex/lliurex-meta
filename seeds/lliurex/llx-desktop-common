@@ -33,7 +33,7 @@
  * kamoso
  * imagination
  * kdenlive
- * musescore
+ * musescore3
  * qstopmotion
  * sound-juicer
  * gimp 
@@ -96,8 +96,8 @@ libreoffice-gtk3
  * (lliurex-gdrive-indicator)
  * (lliurex-firefox-settings)
  * (lliurex-on-fire)
+ * (lliurex-certificates)
 TODO
-(lliurex-certificates)
 lliurex-apt2
 
 === Zero Center ===
@@ -161,6 +161,7 @@ lliurex-artwork-backgrounds-contest
 
  * (firefox-locale-es) 
  * (firefox-locale-ca) 
+ * (firefox-locale-ca-va)
 
  * libreoffice-l10n-es 
  * libreoffice-l10n-ca 
@@ -176,7 +177,8 @@ lliurex-artwork-backgrounds-contest
  * (thunderbird-locale-en-gb) 
  * (thunderbird-locale-en) 
  * (thunderbird-locale-ca) 
- * (thunderbird-locale-es-es) 
+ * (thunderbird-locale-es-es)
+ * (thunderbird-locale-ca-va)
 
  * gimp-help-es 
  * gimp-help-en 
