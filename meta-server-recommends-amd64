@@ -37,6 +37,7 @@ extundelete
 ffmpeg
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 fonts-indic
 fonts-kacst-one
@@ -60,6 +61,7 @@ fwupdate
 fwupdate-signed
 gcompris-qt
 gdis
+geogebra-classic
 gettext
 gimp
 gimp-plugin-registry
@@ -121,7 +123,9 @@ libreoffice-l10n-en-za
 libreoffice-style-elementary
 lliurex-backup
 lliurex-cdlocker
+lliurex-certificates
 lliurex-conky
+lliurex-custom-xrdp
 lliurex-desktops-keeper
 lliurex-easy-sites
 lliurex-firefox-settings
@@ -132,12 +136,15 @@ lliurex-gdrive-indicator
 lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-jclic-shared
+lliurex-lab
 lliurex-mime-settings
 lliurex-mirror
 lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
 lliurex-on-fire
+lliurex-perfilreset
+lliurex-quota-gui
 lliurex-remote-installer-gui
 lliurex-remote-installer-server
 lliurex-rsyslog-filters
@@ -162,8 +169,8 @@ milou
 mlocate
 mobile-broadband-provider-info
 mtr-tiny
-musescore
-musescore
+musescore3
+musescore3
 mythes-ca
 mythes-en-us
 mythes-es
@@ -259,6 +266,7 @@ telnet
 testdisk
 thunderbird
 thunderbird-locale-ca
+thunderbird-locale-ca-va
 thunderbird-locale-en
 thunderbird-locale-en-gb
 thunderbird-locale-en-us
@@ -292,6 +300,7 @@ xrdp
 xserver-xorg-input-evdev
 xserver-xorg-input-synaptics
 xserver-xorg-video-intel-native-modesetting
+zero-jclic-reports
 zero-lliurex-analytics
 zero-lliurex-arasuite
 zero-lliurex-chromecast

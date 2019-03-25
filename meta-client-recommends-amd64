@@ -36,6 +36,7 @@ extundelete
 ffmpeg
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 fonts-indic
 fonts-kacst-one
@@ -59,6 +60,7 @@ fwupdate
 fwupdate-signed
 gcompris-qt
 gdis
+geogebra-classic
 gettext
 gimp
 gimp-plugin-registry
@@ -119,6 +121,7 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-style-elementary
 lliurex-cdlocker
+lliurex-certificates
 lliurex-conky
 lliurex-desktops-keeper
 lliurex-firefox-settings
@@ -133,6 +136,8 @@ lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
 lliurex-on-fire
+lliurex-perfilreset
+lliurex-quota-gui
 lliurex-remote-installer-gui
 lliurex-rsyslog-filters
 lliurex-shutdowner
@@ -149,8 +154,8 @@ milou
 mlocate
 mobile-broadband-provider-info
 mtr-tiny
-musescore
-musescore
+musescore3
+musescore3
 mythes-ca
 mythes-en-us
 mythes-es
@@ -240,6 +245,7 @@ telnet
 testdisk
 thunderbird
 thunderbird-locale-ca
+thunderbird-locale-ca-va
 thunderbird-locale-en
 thunderbird-locale-en-gb
 thunderbird-locale-en-us

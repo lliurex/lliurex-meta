@@ -42,6 +42,7 @@ ffmpeg
 ffmpeg2theora
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 fontforge
 fonts-indic
@@ -119,6 +120,7 @@ libreoffice-help-es
 libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-style-elementary
+lliurex-certificates
 lliurex-desktops-keeper
 lliurex-firefox-settings
 lliurex-flash-installer
@@ -128,6 +130,7 @@ lliurex-gdrive-indicator
 lliurex-java-panel
 lliurex-mime-settings
 lliurex-on-fire
+lliurex-perfilreset
 lliurex-ssh-login
 lliurex-statistics
 lliurex-store
@@ -139,7 +142,7 @@ mlocate
 mobile-broadband-provider-info
 mtr-tiny
 mudita24
-musescore
+musescore3
 mythes-ca
 mythes-en-us
 mythes-es
@@ -220,6 +223,7 @@ telnet
 testdisk
 thunderbird
 thunderbird-locale-ca
+thunderbird-locale-ca-va
 thunderbird-locale-en
 thunderbird-locale-en-gb
 thunderbird-locale-en-us

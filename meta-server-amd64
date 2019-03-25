@@ -32,6 +32,7 @@ cups-client
 debconf
 debconf-i18n
 digikam
+disable-apparmor
 distro-release-notifier
 dmidecode
 dnsutils
@@ -71,6 +72,8 @@ gimp-help-es
 gpart
 gwenview
 hdparm
+home-eraser-gui
+home-eraser-server
 home-linker
 home-linker-ldm-sudoers
 imagination
@@ -140,6 +143,7 @@ lliurex-freeradius
 lliurex-grub-custom
 lliurex-homework-harvester
 lliurex-jclic-aula
+lliurex-keyring
 lliurex-menus
 lliurex-nextcloud
 lliurex-preseed-common
@@ -147,10 +151,12 @@ lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
 lliurex-profile-d
 lliurex-profile-d-class
+lliurex-quota
 lliurex-sudoers
 lliurex-up
 lliurex-www
 llum
+llx-ltsp-xrandr-thinclient
 llx-pam-configs
 lmd-lliurex-data
 lmd-server
@@ -166,7 +172,7 @@ mawk
 mime-support
 mini-light-client
 mount
-musescore
+musescore3
 mypaint
 n4d
 n4d-apache
@@ -174,6 +180,7 @@ n4d-client-plugins
 n4d-dnsmasq
 n4d-epoptes-server
 n4d-freeradius
+n4d-homecleaner
 n4d-hostname
 n4d-ldap
 n4d-lliurex-base

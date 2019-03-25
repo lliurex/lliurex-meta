@@ -124,6 +124,7 @@ libwmf-bin
 lliurex-artwork-defaults-desktop
 lliurex-base-files
 lliurex-grub-custom
+lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-profile-d
@@ -139,7 +140,7 @@ man-db
 mawk
 mime-support
 mount
-musescore
+musescore3
 mypaint
 n4d
 n4d-lliurex-base

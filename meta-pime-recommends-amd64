@@ -30,6 +30,7 @@ extundelete
 ffmpeg
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 fonts-indic
 fonts-kacst-one
@@ -97,6 +98,7 @@ libreoffice-help-es
 libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-style-elementary
+lliurex-certificates
 lliurex-desktops-keeper
 lliurex-enterprise-mount
 lliurex-firefox-settings
@@ -107,6 +109,7 @@ lliurex-gdrive-indicator
 lliurex-java-panel
 lliurex-mime-settings
 lliurex-on-fire
+lliurex-perfilreset
 lliurex-ssh-login
 lliurex-statistics
 lliurex-store
@@ -132,6 +135,8 @@ openssh-client
 packagekit
 pavucontrol-qt
 pavucontrol-qt-l10n
+pbis-open
+pbis-open-upgrade
 pcmciautils
 pcsc-tools
 pcscd
@@ -187,6 +192,7 @@ telnet
 testdisk
 thunderbird
 thunderbird-locale-ca
+thunderbird-locale-ca-va
 thunderbird-locale-en
 thunderbird-locale-en-gb
 thunderbird-locale-en-us

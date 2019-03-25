@@ -44,6 +44,7 @@ bison-doc
 block-modules-4.15.0-44-generic-di
 block-modules-4.18.0-14-generic-di
 bluefish
+bluegriffon
 bogl-bterm-udeb
 bonnie++
 boot-repair
@@ -81,6 +82,7 @@ cinder-api
 cinder-backup
 cinder-scheduler
 cinder-volume
+class-jam
 clock-setup
 cloud-guest-utils
 cloud-utils
@@ -316,15 +318,15 @@ lilo
 lilo-installer
 lintian
 linux-aws
-linux-aws-headers-4.15.0-1033
-linux-aws-tools-4.15.0-1033
+linux-aws-headers-4.15.0-1034
+linux-aws-tools-4.15.0-1034
 linux-azure
 linux-azure-cloud-tools-4.18.0-1013
 linux-azure-headers-4.18.0-1013
 linux-azure-tools-4.18.0-1013
 linux-buildinfo-4.15.0-1028-gcp
 linux-buildinfo-4.15.0-1030-kvm
-linux-buildinfo-4.15.0-1033-aws
+linux-buildinfo-4.15.0-1034-aws
 linux-buildinfo-4.15.0-1034-oem
 linux-buildinfo-4.15.0-46-generic
 linux-buildinfo-4.15.0-46-lowlatency
@@ -363,7 +365,7 @@ linux-generic-hwe-18.04
 linux-gke
 linux-headers-4.15.0-1028-gcp
 linux-headers-4.15.0-1030-kvm
-linux-headers-4.15.0-1033-aws
+linux-headers-4.15.0-1034-aws
 linux-headers-4.15.0-1034-oem
 linux-headers-4.15.0-46
 linux-headers-4.15.0-46-generic
@@ -395,7 +397,7 @@ linux-hwe-tools-4.18.0-16
 linux-hwe-udebs-generic
 linux-hwe-udebs-generic
 linux-image-4.15.0-1030-kvm
-linux-image-4.15.0-1033-aws
+linux-image-4.15.0-1034-aws
 linux-image-4.15.0-1034-oem
 linux-image-4.15.0-46-generic
 linux-image-4.15.0-46-lowlatency
@@ -439,7 +441,7 @@ linux-lowlatency-hwe-16.04-edge
 linux-lowlatency-hwe-18.04
 linux-modules-4.15.0-1028-gcp
 linux-modules-4.15.0-1030-kvm
-linux-modules-4.15.0-1033-aws
+linux-modules-4.15.0-1034-aws
 linux-modules-4.15.0-1034-oem
 linux-modules-4.15.0-46-generic
 linux-modules-4.15.0-46-lowlatency
@@ -481,7 +483,7 @@ linux-source-4.15.0
 linux-source-4.18.0
 linux-tools-4.15.0-1028-gcp
 linux-tools-4.15.0-1030-kvm
-linux-tools-4.15.0-1033-aws
+linux-tools-4.15.0-1034-aws
 linux-tools-4.15.0-1034-oem
 linux-tools-4.15.0-46
 linux-tools-4.15.0-46-generic
@@ -661,6 +663,7 @@ pastebinit
 pata-modules-4.15.0-44-generic-di
 pata-modules-4.18.0-14-generic-di
 patchutils
+pbis-open-dev
 pbuilder
 pciutils
 pciutils-udeb
