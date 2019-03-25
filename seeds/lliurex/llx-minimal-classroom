@@ -29,6 +29,7 @@ lightdm-classroom // Mount net for users
  * cifs-utils
  * disable-apparmor
  * n4d-client-plugins // Send files to teacher
+ * lliurex-quota
 
 == Apps == 
  
