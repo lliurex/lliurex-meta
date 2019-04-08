@@ -23,10 +23,10 @@ cups-filters
 curl
 curl
 desktop-file-utils
+dia
 dmraid
 dolphin
 dpkgunlocker-gui
-drgeo-doc
 drkonqi-pk-debug-installer
 epoptes
 ethtool
@@ -99,6 +99,7 @@ kde-spectacle
 kdegraphics-thumbnailers
 kdialog
 kerneloops
+kig
 kimageformat-plugins
 konsole
 kscreen
@@ -252,7 +253,6 @@ thunderbird-locale-en-us
 thunderbird-locale-es-es
 traceroute
 tree
-tuxmath
 tuxpaint
 tuxpaint-config
 tuxtype
