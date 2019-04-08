@@ -12,8 +12,7 @@
 ==== MATHS ====
 
  * (gnuplot)
- * (drgeo)
- * (drgeo-doc)
+ * (kig)
  * (xaos)
  * (geogebra-classic)
 
@@ -59,7 +58,7 @@
 
 ==== MISC ====
 
- * (pencil)
+ * (dia)
 
 ==== DEVEL ====
 
