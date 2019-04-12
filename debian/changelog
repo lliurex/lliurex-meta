@@ -1,7 +1,13 @@
-lliurex-meta (19.03.26) bionic; urgency=high
+lliurex-meta (19.03.27) bionic; urgency=medium
 
   * Add calamares to live
-  * Replace mathwar by tuxmath
+  * Replaces mathwar by tuxmath
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 12 Apr 2019 09:43:40 +0200
+
+lliurex-meta (19.03.26) bionic; urgency=high
+
+  * Dummy upgrade
 
  -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 12 Apr 2019 09:35:13 +0200
 
