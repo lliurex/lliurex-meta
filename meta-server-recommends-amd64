@@ -178,6 +178,7 @@ mythes-es
 n4d-cdlocker-server
 n4d-client-exe-manager
 n4d-cups
+n4d-easysites
 n4d-moving-profiles
 n4d-mysql
 n4d-nat-frontend
@@ -191,6 +192,10 @@ ntfs-3g
 okular
 omnitux
 onboard
+open-sysclone-gui
+open-sysclone-rescue
+open-sysclone-server
+open-sysclone-system
 openjdk-8-jre
 openjdk-8-jre
 openssh-client

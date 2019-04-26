@@ -1,3 +1,10 @@
+lliurex-meta (19.03.28) bionic; urgency=high
+
+  * Adding n4d-easysites
+  * Adding lliurex-live-fixes to meta
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 26 Apr 2019 08:51:22 +0200
+
 lliurex-meta (19.03.27) bionic; urgency=medium
 
   * Add calamares to live
