@@ -17,6 +17,7 @@ bzip2
 ca-certificates
 ca-certificates
 cifs-utils
+classroom-mountmode-override
 client-mount
 conky
 console-setup

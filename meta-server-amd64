@@ -22,6 +22,7 @@ bzip2
 ca-certificates
 ca-certificates
 cifs-utils
+classroom-mountmode
 conky
 console-setup
 cpio
@@ -176,6 +177,7 @@ musescore3
 mypaint
 n4d
 n4d-apache
+n4d-autofs
 n4d-client-plugins
 n4d-dnsmasq
 n4d-epoptes-server

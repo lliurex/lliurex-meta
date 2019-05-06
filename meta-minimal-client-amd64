@@ -2,6 +2,7 @@ acl
 acpid
 ca-certificates
 cifs-utils
+classroom-mountmode-override
 client-mount
 conky
 cups
