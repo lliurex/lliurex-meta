@@ -16,6 +16,7 @@ foomatic-db-compressed-ppds
 grub-ipxe
 home-eraser-client
 home-linker
+home-linker-display-manager
 language-pack-es
 language-pack-es-base
 libdrm2
@@ -58,6 +59,7 @@ p7zip-full
 rar
 screen
 smbclient
+umounter-systemd
 unrar
 vim
 wireless-tools

@@ -73,6 +73,7 @@ gwenview
 hdparm
 home-eraser-client
 home-linker
+home-linker-display-manager
 imagination
 info
 init
@@ -238,6 +239,7 @@ ubuntu-minimal
 ubuntu-release-upgrader-qt
 ubuntu-standard
 udev
+umounter-systemd
 unrar
 unzip
 usbutils

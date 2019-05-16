@@ -14,7 +14,10 @@
 ===  Session ===
 
  * home-linker 
+ * home-linker-display-manager
+ * umounter-systemd
  * (lliurex-moving-core)
+
 TODO
 (umounter-lightdm) // Umount net 
 (home-linker-lightdm) // Link run to home

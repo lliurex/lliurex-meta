@@ -76,6 +76,7 @@ hdparm
 home-eraser-gui
 home-eraser-server
 home-linker
+home-linker-display-manager
 home-linker-ldm-sudoers
 imagination
 info
@@ -256,6 +257,7 @@ ubuntu-minimal
 ubuntu-release-upgrader-qt
 ubuntu-standard
 udev
+umounter-systemd
 unrar
 unzip
 usbutils
