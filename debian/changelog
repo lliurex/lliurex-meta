@@ -1,3 +1,10 @@
+lliurex-meta (19.03.30) bionic; urgency=medium
+
+  * Added baikonur as source
+  * home-linker changes
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 16 May 2019 12:47:03 +0200
+
 lliurex-meta (19.03.29) bionic; urgency=high
 
   * Adding n4d-autofs
