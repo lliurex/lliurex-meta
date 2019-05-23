@@ -85,7 +85,7 @@ libreoffice-gtk3
  * lliurex-up
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
- * (lliurex-flash-installer)
+ * (zero-lliurex-flash)
  * zero-center
  * python3-lliurex-store
  * (lliurex-store)
@@ -97,8 +97,6 @@ libreoffice-gtk3
  * (lliurex-firefox-settings)
  * (lliurex-on-fire)
  * (lliurex-certificates)
-TODO
-lliurex-apt2
 
 === Zero Center ===
 
