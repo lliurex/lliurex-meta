@@ -1,3 +1,9 @@
+lliurex-meta (19.03.31) bionic; urgency=medium
+
+  * Fixed n4d-classroom-mountmode pkg name
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 27 May 2019 09:27:32 +0200
+
 lliurex-meta (19.03.30) bionic; urgency=medium
 
   * Added baikonur as source
