@@ -136,10 +136,10 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
-lliurex-artwork-defaults-desktop
 lliurex-base-files
 lliurex-classroom-env-configuration
 lliurex-cssh
+lliurex-desktop-defaults
 lliurex-firefox-plugins
 lliurex-freeradius
 lliurex-grub-custom

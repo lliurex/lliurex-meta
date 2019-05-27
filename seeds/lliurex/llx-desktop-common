@@ -134,7 +134,7 @@ libreoffice-gtk3
 
 == Theme ==
  * lliurex-menus 
- * lliurex-artwork-defaults-desktop
+ * lliurex-desktop-defaults
 
 TODO: 
 gtk2-engines 

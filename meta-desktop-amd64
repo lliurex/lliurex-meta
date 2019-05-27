@@ -121,8 +121,8 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
-lliurex-artwork-defaults-desktop
 lliurex-base-files
+lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus

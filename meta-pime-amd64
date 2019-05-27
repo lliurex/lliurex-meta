@@ -120,8 +120,8 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 linux-headers-generic
-lliurex-artwork-defaults-desktop
 lliurex-base-files
+lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
