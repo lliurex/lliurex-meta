@@ -102,7 +102,6 @@ lliurex-certificates
 lliurex-desktops-keeper
 lliurex-enterprise-mount
 lliurex-firefox-settings
-lliurex-flash-installer
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
@@ -223,6 +222,7 @@ xul-ext-lightning
 zero-lliurex-analytics
 zero-lliurex-chromecast
 zero-lliurex-dropbox-installer
+zero-lliurex-flash
 zero-lliurex-midicss
 zero-lliurex-ocrfeeder
 zero-lliurex-skype
