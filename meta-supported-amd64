@@ -518,6 +518,7 @@ live-installer
 livecd-rootfs
 lliurex-abies2pmb
 lliurex-moodle
+lmd-client
 load-cdrom
 load-iso
 load-media
