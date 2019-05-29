@@ -27,3 +27,5 @@ This seed is needed to add depends into pool from zero-installers
 
 = AdobeAir =
  * libnspr4
+
+ * lliurex-lab
