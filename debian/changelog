@@ -1,3 +1,10 @@
+lliurex-meta (19.03.34) bionic; urgency=medium
+
+  * Remove openjdk-8, synaptic
+  * Add lliurex-classroom-defaults
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 29 May 2019 13:49:53 +0200
+
 lliurex-meta (19.03.33) bionic; urgency=medium
 
   * Lmd packages

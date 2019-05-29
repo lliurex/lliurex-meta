@@ -21,6 +21,7 @@ language-pack-es
 language-pack-es-base
 libdrm2
 lliurex-base-files
+lliurex-classroom-defaults
 lliurex-classroom-env-configuration
 lliurex-client-env-configuration
 lliurex-cssh

@@ -137,6 +137,7 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 lliurex-base-files
+lliurex-classroom-defaults
 lliurex-classroom-env-configuration
 lliurex-cssh
 lliurex-desktop-defaults

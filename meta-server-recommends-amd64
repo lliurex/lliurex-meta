@@ -137,7 +137,6 @@ lliurex-gdrive-indicator
 lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-jclic-shared
-lliurex-lab
 lliurex-mime-settings
 lliurex-mirror
 lliurex-moving-core
@@ -196,8 +195,6 @@ open-sysclone-gui
 open-sysclone-rescue
 open-sysclone-server
 open-sysclone-system
-openjdk-8-jre
-openjdk-8-jre
 openssh-client
 packagekit
 pavucontrol-qt
@@ -266,7 +263,6 @@ solfege
 solfege
 stellarium
 stellarium
-synaptic
 tcpdump
 telnet
 testdisk

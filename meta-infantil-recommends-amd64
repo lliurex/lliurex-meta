@@ -140,7 +140,6 @@ ntfs-3g
 okular
 omnitux
 onboard
-openjdk-8-jre
 openssh-client
 packagekit
 pavucontrol-qt
@@ -202,7 +201,6 @@ shutter
 snapd
 solfege
 stellarium
-synaptic
 tcpdump
 telnet
 testdisk
