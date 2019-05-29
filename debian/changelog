@@ -1,3 +1,21 @@
+lliurex-meta (19.03.33) bionic; urgency=medium
+
+  * Lmd packages
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 28 May 2019 16:26:00 +0200
+
+lliurex-meta (19.03.32) bionic; urgency=medium
+
+  * Using lliurex-desktop-settings as artwork meta package
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 27 May 2019 16:52:30 +0200
+
+lliurex-meta (19.03.31) bionic; urgency=medium
+
+  * Fixed n4d-classroom-mountmode pkg name
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 27 May 2019 09:27:32 +0200
+
 lliurex-meta (19.03.30) bionic; urgency=medium
 
   * Added baikonur as source

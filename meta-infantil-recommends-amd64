@@ -107,7 +107,6 @@ libreoffice-style-elementary
 lliurex-certificates
 lliurex-desktops-keeper
 lliurex-firefox-settings
-lliurex-flash-installer
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
@@ -243,6 +242,7 @@ zero-lliurex-analytics
 zero-lliurex-arasuite
 zero-lliurex-chromecast
 zero-lliurex-dropbox-installer
+zero-lliurex-flash
 zero-lliurex-gearth
 zero-lliurex-midicss
 zero-lliurex-ocrfeeder

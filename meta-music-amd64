@@ -118,9 +118,9 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 linux-lowlatency
-lliurex-artwork-defaults-desktop
 lliurex-artwork-defaults-musica
 lliurex-base-files
+lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
@@ -223,4 +223,5 @@ zero-lliurex-dvdcss
 zero-lliurex-flavours
 zero-lliurex-fonts
 zero-lliurex-gearth
+zero-lliurex-scratch
 zip

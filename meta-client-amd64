@@ -132,12 +132,12 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
-lliurex-artwork-defaults-desktop
 lliurex-base-files
 lliurex-classroom-env-configuration
 lliurex-client-env-configuration
 lliurex-cssh
 lliurex-cups-client
+lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-homework-harvester
 lliurex-jclic-aula
@@ -270,5 +270,6 @@ zero-lliurex-jclic-biblio
 zero-lliurex-mixxx
 zero-lliurex-promethean
 zero-lliurex-recursos
+zero-lliurex-scratch
 zero-lliurex-technology
 zip
