@@ -36,10 +36,6 @@
 TODO
 (lightdm-showlistusers)
 
-== LLIUREX JCLIC ENVIRONMENT ==
-
- * (openjdk-8-jre)
-
 == Hardware == 
  * (lliurex-smartcard-udev-fixer)
 
