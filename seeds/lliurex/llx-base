@@ -9,6 +9,7 @@
 
 == Basic services ==
 
+ * lliurex-apt-divert
  * n4d
  * n4d-lliurex-base
  * n4d-remote-gui-plugin
