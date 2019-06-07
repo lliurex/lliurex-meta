@@ -10,7 +10,7 @@
  * ntp
 
 === N4D ===
-
+ * n4d-lliurex-guard
  * n4d-network
  * n4d-ldap
  * n4d-samba
@@ -85,7 +85,6 @@ syncer-plank
 
  * (lmd-manager-cli)
  * admin-center
- * admin-center-lliurex-guard
  * admin-center-ltsp
  * admin-center-llx-bootmanager
  * admin-center-llx-netinstall
