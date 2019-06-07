@@ -1,3 +1,10 @@
+lliurex-meta (19.06.1) bionic; urgency=medium
+
+  * Add lliurex-apt-divert to resolv problem on netinstall due to
+    neon-settings package
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 07 Jun 2019 12:42:59 +0200
+
 lliurex-meta (19.03.34) bionic; urgency=medium
 
   * Remove openjdk-8, synaptic
