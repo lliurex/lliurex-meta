@@ -68,5 +68,5 @@ Ubiquity needs full filesystem support for the partitioner.
 
 These packages make up the Ubiquity live installer.
 
- * ubiquity-frontend-kde [amd64]
+# * ubiquity-frontend-kde [amd64]
  * ubiquity-slideshow-neon [amd64]

@@ -1,5 +1,6 @@
 Task-Recursive: True
- * calamares                                                                                                                                                                                    
- * calamares-settings-lliurex
- * calamares-copykernel
+# * calamares                                                                                                                                                                                    
+# * calamares-settings-lliurex
+# * calamares-copykernel
+ * ubiquity-frontend-kde
  * lliurex-live-fixes
