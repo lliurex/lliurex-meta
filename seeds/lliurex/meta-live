@@ -1,7 +1,7 @@
  * calamares
  * calamares-settings-lliurex
  * calamares-copykernel
- * ubiquity-frontend-kde [amd64]
- * ubiquity-slideshow-neon [amd64]
+ * ubiquity-frontend-kde
+ * ubiquity-slideshow-neon
  * grub-pc
  * lliurex-live-fixes
