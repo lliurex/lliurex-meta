@@ -1,6 +1,6 @@
-lliurex-meta (19.06.4) bionic; urgency=medium
+lliurex-meta (19.06.5) bionic; urgency=medium
 
-  * lalala
+  * Adding ubiquity
 
  -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 17 Jun 2019 13:04:31 +0200
 
