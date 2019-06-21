@@ -129,11 +129,11 @@ libreoffice-gtk3
  * fonts-ecolier-lignes-court
  * fonts-rufscript
  * fonts-tomsontalks
- * 
 
 == Theme ==
  * lliurex-menus 
  * lliurex-desktop-defaults
+ * (adwaita-icon-theme)
 
 TODO: 
 gtk2-engines 

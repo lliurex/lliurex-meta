@@ -1,3 +1,9 @@
+lliurex-meta (19.06.6) bionic; urgency=medium
+
+  * Added adwaita-icon-theme
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 21 Jun 2019 13:40:28 +0200
+
 lliurex-meta (19.06.5) bionic; urgency=medium
 
   * Adding ubiquity
