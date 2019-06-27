@@ -2,7 +2,6 @@ This seed is needed to add depends into pool from zero-installers
 
 = Java =
 
- * oracle-java8-installer
  * oracle-java11-installer
 
 = Owncloud =

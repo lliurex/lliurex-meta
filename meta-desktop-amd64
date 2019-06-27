@@ -125,6 +125,7 @@ lliurex-apt-divert
 lliurex-base-files
 lliurex-desktop-defaults
 lliurex-grub-custom
+lliurex-guard
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
@@ -145,6 +146,7 @@ musescore3
 mypaint
 n4d
 n4d-lliurex-base
+n4d-lliurex-guard
 n4d-remote-gui-plugin
 neon-hardware-integration
 neon-keyring

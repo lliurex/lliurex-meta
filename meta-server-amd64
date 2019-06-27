@@ -144,6 +144,7 @@ lliurex-desktop-defaults
 lliurex-firefox-plugins
 lliurex-freeradius
 lliurex-grub-custom
+lliurex-guard
 lliurex-homework-harvester
 lliurex-jclic-aula
 lliurex-keyring
@@ -189,6 +190,7 @@ n4d-homecleaner
 n4d-hostname
 n4d-ldap
 n4d-lliurex-base
+n4d-lliurex-guard
 n4d-lliurex-mirror
 n4d-netfolders
 n4d-network

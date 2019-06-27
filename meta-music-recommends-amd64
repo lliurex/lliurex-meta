@@ -259,10 +259,14 @@ xserver-xorg-input-evdev
 xserver-xorg-input-synaptics
 xserver-xorg-video-intel-native-modesetting
 zero-lliurex-analytics
+zero-lliurex-autofirma
 zero-lliurex-chromecast
+zero-lliurex-dni
 zero-lliurex-dropbox-installer
 zero-lliurex-flash
+zero-lliurex-krita
 zero-lliurex-midicss
+zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-skype
 zero-lliurex-spotify

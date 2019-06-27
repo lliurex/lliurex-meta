@@ -1,3 +1,13 @@
+lliurex-meta (19.06.7) bionic; urgency=medium
+
+  * Added lliurex-easy-sites to clients
+  * Added zero-lliurex-obs-studio, zero-lliurex-autofirmam zero-lliurex-dni,
+    zero-lliurex-krita, zero-lliurex-freecad
+  * removed oracle-java8-installer
+  * removed s4a 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 27 Jun 2019 16:24:34 +0200
+
 lliurex-meta (19.06.6) bionic; urgency=medium
 
   * Added adwaita-icon-theme
