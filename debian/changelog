@@ -1,3 +1,9 @@
+lliurex-meta (19.06.9) bionic; urgency=medium
+
+  * Add kde translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 28 Jun 2019 14:26:51 +0200
+
 lliurex-meta (19.06.8) bionic; urgency=medium
 
   * Add posterazor to desktop seed
