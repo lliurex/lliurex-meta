@@ -1,3 +1,10 @@
+lliurex-meta (19.06.) bionic; urgency=medium
+
+  * Add posterazor to desktop seed
+  * Add ubiquity-hook to copy sourceslist on live seed
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 28 Jun 2019 09:03:16 +0200
+
 lliurex-meta (19.06.7) bionic; urgency=medium
 
   * Added lliurex-easy-sites to clients
