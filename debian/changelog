@@ -1,4 +1,4 @@
-lliurex-meta (19.06.) bionic; urgency=medium
+lliurex-meta (19.06.8) bionic; urgency=medium
 
   * Add posterazor to desktop seed
   * Add ubiquity-hook to copy sourceslist on live seed
