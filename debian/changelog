@@ -1,3 +1,9 @@
+lliurex-meta (19.06.10) bionic; urgency=medium
+
+  * Removed grub-pc dependecy
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 01 Jul 2019 10:09:09 +0200
+
 lliurex-meta (19.06.9) bionic; urgency=medium
 
   * Add kde translations
