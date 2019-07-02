@@ -1,3 +1,9 @@
+lliurex-meta (19.06.12) bionic; urgency=medium
+
+  * Add extrapackages and desktoplayout ubiquity plugins
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 02 Jul 2019 15:06:50 +0200
+
 lliurex-meta (19.06.11) bionic; urgency=medium
 
   * Adding lliurex-unattended-upgrades
