@@ -156,6 +156,7 @@ lliurex-ssh-login
 lliurex-statistics
 lliurex-store
 lliurex-tuxpaint-stamps
+lliurex-unattended-upgrades
 llx-netinstall
 llx-network-config
 lmd-manager-cli

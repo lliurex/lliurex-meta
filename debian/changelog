@@ -1,3 +1,9 @@
+lliurex-meta (19.06.11) bionic; urgency=medium
+
+  * Adding lliurex-unattended-upgrades
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 02 Jul 2019 13:27:37 +0200
+
 lliurex-meta (19.06.10) bionic; urgency=medium
 
   * Removed grub-pc dependecy
