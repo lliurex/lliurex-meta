@@ -1,3 +1,9 @@
+lliurex-meta (19.06.12) bionic; urgency=high
+
+  * Updated supported list
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 03 Jul 2019 12:38:18 +0200
+
 lliurex-meta (19.06.11) bionic; urgency=medium
 
   * Adding lliurex-unattended-upgrades
