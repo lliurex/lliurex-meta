@@ -186,6 +186,7 @@ qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qt5-image-formats-plugins
 remmina
+repoman
 rsyslog
 snapd
 tcpdump

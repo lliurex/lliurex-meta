@@ -1,3 +1,9 @@
+lliurex-meta (19.06.13) bionic; urgency=medium
+
+  * Added first-aid-kit,repoman
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 05 Jul 2019 12:14:04 +0200
+
 lliurex-meta (19.06.12) bionic; urgency=high
 
   * Updated supported list
