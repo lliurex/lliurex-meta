@@ -1,4 +1,4 @@
-lliurex-meta (19.06.13) bionic; urgency=medium
+lliurex-meta (19.06.14) bionic; urgency=medium
 
   * Added first-aid-kit,repoman
 
@@ -7,6 +7,7 @@ lliurex-meta (19.06.13) bionic; urgency=medium
 lliurex-meta (19.06.12) bionic; urgency=high
 
   * Updated supported list
+  * Added ubiquity packages
 
  -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 03 Jul 2019 12:38:18 +0200
 
