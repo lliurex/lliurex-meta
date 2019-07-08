@@ -83,6 +83,7 @@ libreoffice-gtk3
  * (repoman) 
  * (lliurex-perfilreset)
  * lliurex-up
+ * (repoman)
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
  * (zero-lliurex-flash)
@@ -98,6 +99,7 @@ libreoffice-gtk3
  * (lliurex-on-fire)
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
+ * first-aid-kit
 
 === Zero Center ===
 
