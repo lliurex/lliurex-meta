@@ -150,6 +150,7 @@ n4d-remote-gui-plugin
 neon-hardware-integration
 neon-keyring
 neon-settings
+net-tools
 netbase
 netcat-openbsd
 nfs-common

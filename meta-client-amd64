@@ -188,6 +188,7 @@ n4d-shutdowner-client
 neon-hardware-integration
 neon-keyring
 neon-settings
+net-tools
 netbase
 netcat-openbsd
 nfs-common

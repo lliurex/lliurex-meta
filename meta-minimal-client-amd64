@@ -55,6 +55,7 @@ n4d-lliurex-base
 n4d-pamnss
 n4d-remote-gui-plugin
 n4d-shutdowner-client
+net-tools
 nfs-common
 openprinting-ppds
 openssh-server
