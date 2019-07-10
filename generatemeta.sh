@@ -1,5 +1,12 @@
 #!/bin/bash
 germinate-update-metapackage --nodch
+for x in $(cat metapackage-map | awk '{print $1}' | tr '\n' ' '); do
+	for y in $(ls ${x}*| grep -v old$); do
+		while read line; do
+			sed -i -e "/$line/d" $y
+		done < seeds/lliurex/blacklist
+	done
+done
 #svn st meta* | grep "M" | awk '{ print $2 }' | xargs svn diff | grep -e "^+[^+]" | sed -e "s%^+%%g" | sort -u > /tmp/addpackages
 #svn st meta* | grep "M" | awk '{ print $2 }' | xargs svn diff | grep -e "^-[^-]" | sed -e "s%^-%%g" | sort -u > /tmp/removepackages
 #packages=$(cat /tmp/addpackages | tr "\n" ",")
