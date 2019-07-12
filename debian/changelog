@@ -1,3 +1,10 @@
+lliurex-meta (19.07.12) bionic; urgency=medium
+
+  * Add mintstick to burn iso on usb
+  * Add zero-lliurex-smart to use smart boards
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 12 Jul 2019 09:58:35 +0200
+
 lliurex-meta (19.07.11) bionic; urgency=medium
 
   * Add synaptic
