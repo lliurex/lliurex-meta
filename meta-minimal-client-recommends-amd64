@@ -18,7 +18,6 @@ iperf
 libnss-mdns
 libnss-myhostname
 lliurex-cdlocker
-lliurex-conky
 lliurex-easy-sites
 lliurex-easysites-zerocenter-files
 lliurex-moving-core
@@ -32,6 +31,7 @@ lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lliurex-statistics
 lshw
+plasma-widget-lliurex-quota
 printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups

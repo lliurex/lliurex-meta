@@ -5,8 +5,6 @@
 == Apps == 
 
  * lliurex-guard
- * conky
- * (lliurex-conky)
  * lliurex-cssh
  * llum
  * (epoptes)
@@ -17,6 +15,7 @@
  * (air-installer)
  * (air-manager)
  * (lliurex-quota-gui)
+ * (plasma-widget-lliurex-quota)
  * (lliurex-easy-sites)
  * (lliurex-easysites-zerocenter-files)
 
