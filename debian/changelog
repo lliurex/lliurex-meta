@@ -1,4 +1,4 @@
-lliurex-meta (19.07.12ubuntu1) UNRELEASED; urgency=medium
+lliurex-meta (19.07.13) bionic; urgency=medium
 
   * Adding plasma quotas widget
   * Adding gparted
