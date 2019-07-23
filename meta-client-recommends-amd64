@@ -56,6 +56,7 @@ freeplane
 freeplane
 friendly-recovery
 fritzing
+fritzing-parts
 fwupd
 fwupdate
 fwupdate-signed
@@ -66,6 +67,7 @@ gettext
 gimp
 gimp-plugin-registry
 gnuplot
+gparted
 gperiodic
 gpm
 grub-theme-breeze
@@ -124,7 +126,6 @@ libreoffice-l10n-en-za
 libreoffice-style-elementary
 lliurex-cdlocker
 lliurex-certificates
-lliurex-conky
 lliurex-desktops-keeper
 lliurex-easy-sites
 lliurex-easysites-zerocenter-files
@@ -193,6 +194,7 @@ plasma-pa
 plasma-runners-addons
 plasma-vault
 plasma-wallpapers-addons
+plasma-widget-lliurex-quota
 plasma-widgets-addons
 plasma-workspace-wayland
 plymouth

@@ -1,9 +1,16 @@
+lliurex-meta (19.07.13) bionic; urgency=medium
+
+  * Adding plasma quotas widget
+  * Adding gparted
+  * Removing conky
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 18 Jul 2019 12:40:48 +0200
+
 lliurex-meta (19.07.12) bionic; urgency=medium
 
-  * Add mintstick to burn iso on usb
-  * Add zero-lliurex-smart to use smart boards
+  * Fritzing-parts added
 
- -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 12 Jul 2019 09:58:35 +0200
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 12 Jul 2019 13:30:22 +0200
 
 lliurex-meta (19.07.11) bionic; urgency=medium
 

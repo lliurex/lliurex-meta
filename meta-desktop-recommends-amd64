@@ -53,6 +53,7 @@ freeplane
 freeplane
 friendly-recovery
 fritzing
+fritzing-parts
 fwupd
 fwupdate
 fwupdate-signed
@@ -63,6 +64,7 @@ gettext
 gimp
 gimp-plugin-registry
 gnuplot
+gparted
 gperiodic
 gpm
 grub-theme-breeze
