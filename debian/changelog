@@ -1,3 +1,9 @@
+lliurex-meta (19.07.15) bionic; urgency=medium
+
+  * Add music and infantil themes 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 23 Jul 2019 15:46:18 +0200
+
 lliurex-meta (19.07.14) bionic; urgency=medium
 
   * Remove lliurex-guard from desktop
