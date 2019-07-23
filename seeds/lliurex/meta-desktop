@@ -1,4 +1,6 @@
 Task-Recursive: True
 
- * lliurex-guard
- * n4d-lliurex-guard
+#TODO Enable when systemd-resolver has been removed
+lliurex-guard
+lliurex-guard-data
+n4d-lliurex-guard
