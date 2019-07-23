@@ -11,6 +11,7 @@
 
 === N4D ===
  * n4d-lliurex-guard
+ * lliurex-guard-data
  * n4d-network
  * n4d-ldap
  * n4d-samba
