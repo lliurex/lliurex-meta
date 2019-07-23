@@ -1,3 +1,10 @@
+lliurex-meta (19.07.14) bionic; urgency=medium
+
+  * Remove lliurex-guard from desktop
+  * Add lliurex-guard filters to server
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 23 Jul 2019 10:54:12 +0200
+
 lliurex-meta (19.07.13) bionic; urgency=medium
 
   * Adding plasma quotas widget
