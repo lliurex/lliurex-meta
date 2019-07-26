@@ -32,6 +32,7 @@ dosfstools
 dr-valentin
 ed
 eject
+epi-gtk
 file
 filezilla
 firefox
@@ -120,12 +121,12 @@ libu2f-udev
 libwmf-bin
 linux-lowlatency
 lliurex-apt-divert
-lliurex-artwork-defaults-musica
 lliurex-base-files
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
+lliurex-musica-defaults
 lliurex-preseed-common
 lliurex-profile-d
 lliurex-up
@@ -139,6 +140,7 @@ lvm2
 man-db
 mawk
 mime-support
+mintstick
 mount
 musescore3
 mypaint

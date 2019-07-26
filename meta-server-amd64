@@ -41,6 +41,7 @@ dr-valentin
 dr-valentin-server-common
 ed
 eject
+epi-gtk
 file
 filezilla
 firefox
@@ -145,6 +146,7 @@ lliurex-firefox-plugins
 lliurex-freeradius
 lliurex-grub-custom
 lliurex-guard
+lliurex-guard-data
 lliurex-homework-harvester
 lliurex-jclic-aula
 lliurex-keyring
@@ -175,6 +177,7 @@ man-db
 mawk
 mime-support
 mini-light-client
+mintstick
 mount
 musescore3
 mypaint

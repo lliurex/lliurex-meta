@@ -54,6 +54,7 @@
 
 == Others apps == 
 
+ * mintstick
  * (pstoedit)
  * zenity
  * scite
@@ -103,6 +104,7 @@ libreoffice-gtk3
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
  * first-aid-kit
+ * epi-gtk
 
 === Zero Center ===
 
@@ -124,7 +126,7 @@ libreoffice-gtk3
  * (zero-lliurex-autofirma)
  * (zero-lliurex-dni)
  * (zero-lliurex-krita)
-
+ * (zero-lliurex-smart)
 
 == Fonts ==
 
