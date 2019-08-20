@@ -11,6 +11,7 @@
  * shim-signed            
  * mokutil
  * boot-repair
+ * grub-pc
 
 = LTSP = 
 
