@@ -115,6 +115,8 @@ tuxboot
  * libxmlrpc-c++8-dev
  * ipython3
  * qtbase5-private-dev
+ * libzen0v5
+ * libmediainfo0v5
 
 == PIME ==
 

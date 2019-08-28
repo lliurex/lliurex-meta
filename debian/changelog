@@ -1,3 +1,9 @@
+lliurex-meta (19.07.20) bionic; urgency=medium
+
+  * Adding new supported libraries
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 28 Aug 2019 14:01:42 +0200
+
 lliurex-meta (19.07.19) bionic; urgency=medium
 
   * Adding grub-pc to supported

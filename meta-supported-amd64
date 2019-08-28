@@ -296,6 +296,7 @@ libgsf-1-common
 libguess1
 libiberty-dev
 libkmod2-udeb
+libmediainfo0v5
 libmemcached-dev
 libmemcached-tools
 libmsi0
@@ -318,6 +319,7 @@ libva-wayland2
 libvirt-daemon-system
 libxcb-xinerama0
 libxmlrpc-c++8-dev
+libzen0v5
 lilo
 lilo-installer
 lintian
