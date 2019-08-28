@@ -1,6 +1,6 @@
 lliurex-meta (19.07.20) bionic; urgency=medium
 
-  * Adding new supported libraries
+  * Adding new supported libraries: libzen0v5, libmediainfo0v5
 
  -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 28 Aug 2019 14:01:42 +0200
 
