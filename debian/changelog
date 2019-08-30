@@ -1,3 +1,9 @@
+lliurex-meta (19.07.21) bionic; urgency=medium
+
+  * Adding lliurex-disable-discover-indicatr
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 30 Aug 2019 10:22:29 +0200
+
 lliurex-meta (19.07.20) bionic; urgency=medium
 
   * Adding new supported libraries: libzen0v5, libmediainfo0v5

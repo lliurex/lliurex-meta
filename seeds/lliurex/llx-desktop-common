@@ -87,6 +87,7 @@ libreoffice-gtk3
  * (repoman) 
  * (lliurex-perfilreset)
  * lliurex-up
+ * (lliurex-disable-discover-indicator)
  * (repoman)
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
