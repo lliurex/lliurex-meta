@@ -131,6 +131,7 @@ lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-profile-d
+lliurex-shutdowner
 lliurex-up
 locales
 logrotate
@@ -148,6 +149,7 @@ mypaint
 n4d
 n4d-lliurex-base
 n4d-remote-gui-plugin
+n4d-shutdowner-server
 neon-hardware-integration
 neon-keyring
 neon-settings

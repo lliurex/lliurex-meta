@@ -4,3 +4,6 @@ Task-Recursive: True
 lliurex-guard
 lliurex-guard-data
 n4d-lliurex-guard
+
+ * lliurex-shutdowner
+ * n4d-shutdowner-server

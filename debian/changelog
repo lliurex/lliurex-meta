@@ -1,3 +1,9 @@
+lliurex-meta (19.07.22) bionic; urgency=medium
+
+  * Adding lliurex-shutdowner to desktops only
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 09 Sep 2019 17:43:56 +0200
+
 lliurex-meta (19.07.21) bionic; urgency=medium
 
   * Adding lliurex-disable-discover-indicatr
