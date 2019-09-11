@@ -107,6 +107,7 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-style-elementary
 lliurex-certificates
+lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
 lliurex-firefox-settings
@@ -247,6 +248,7 @@ xserver-xorg-video-intel-native-modesetting
 zero-lliurex-analytics
 zero-lliurex-arasuite
 zero-lliurex-autofirma
+zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-dni
 zero-lliurex-dropbox-installer

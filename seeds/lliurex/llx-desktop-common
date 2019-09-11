@@ -104,6 +104,7 @@ libreoffice-gtk3
  * (lliurex-on-fire)
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
+ * (lliurex-desktop-layout-selector)
  * first-aid-kit
  * epi-gtk
 
@@ -122,6 +123,7 @@ libreoffice-gtk3
  * (zero-lliurex-wine64)
  * (zero-lliurex-midicss)
  * (zero-lliurex-chromecast)
+ * (zero-lliurex-chrome)
  * (zero-lliurex-ocrfeeder)
  * (zero-lliurex-obs-studio)
  * (zero-lliurex-autofirma)

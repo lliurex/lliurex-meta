@@ -330,7 +330,7 @@ linux-azure
 linux-azure-cloud-tools-5.0.0-1018
 linux-azure-headers-5.0.0-1018
 linux-azure-tools-5.0.0-1018
-linux-buildinfo-4.15.0-1040-gcp
+linux-buildinfo-4.15.0-1042-gcp
 linux-buildinfo-4.15.0-1044-kvm
 linux-buildinfo-4.15.0-1048-aws
 linux-buildinfo-4.15.0-1050-oem
@@ -362,13 +362,13 @@ linux-cloud-tools-virtual-hwe-18.04
 linux-crashdump
 linux-doc
 linux-gcp
-linux-gcp-headers-4.15.0-1040
-linux-gcp-tools-4.15.0-1040
+linux-gcp-headers-4.15.0-1042
+linux-gcp-tools-4.15.0-1042
 linux-generic
 linux-generic-hwe-16.04
 linux-generic-hwe-16.04-edge
 linux-generic-hwe-18.04
-linux-headers-4.15.0-1040-gcp
+linux-headers-4.15.0-1042-gcp
 linux-headers-4.15.0-1044-kvm
 linux-headers-4.15.0-1048-aws
 linux-headers-4.15.0-1050-oem
@@ -423,7 +423,7 @@ linux-image-lowlatency-hwe-16.04
 linux-image-lowlatency-hwe-16.04-edge
 linux-image-lowlatency-hwe-18.04
 linux-image-oem
-linux-image-unsigned-4.15.0-1040-gcp
+linux-image-unsigned-4.15.0-1042-gcp
 linux-image-unsigned-4.15.0-1050-oem
 linux-image-unsigned-4.15.0-62-generic
 linux-image-unsigned-4.15.0-62-lowlatency
@@ -442,7 +442,7 @@ linux-lowlatency
 linux-lowlatency-hwe-16.04
 linux-lowlatency-hwe-16.04-edge
 linux-lowlatency-hwe-18.04
-linux-modules-4.15.0-1040-gcp
+linux-modules-4.15.0-1042-gcp
 linux-modules-4.15.0-1044-kvm
 linux-modules-4.15.0-1048-aws
 linux-modules-4.15.0-1050-oem
@@ -451,7 +451,7 @@ linux-modules-4.15.0-62-lowlatency
 linux-modules-5.0.0-1018-azure
 linux-modules-5.0.0-27-generic
 linux-modules-5.0.0-27-lowlatency
-linux-modules-extra-4.15.0-1040-gcp
+linux-modules-extra-4.15.0-1042-gcp
 linux-modules-extra-4.15.0-1048-aws
 linux-modules-extra-4.15.0-62-generic
 linux-modules-extra-5.0.0-1018-azure
@@ -485,7 +485,7 @@ linux-signed-lowlatency-hwe-18.04
 linux-source
 linux-source-4.15.0
 linux-source-5.0.0
-linux-tools-4.15.0-1040-gcp
+linux-tools-4.15.0-1042-gcp
 linux-tools-4.15.0-1044-kvm
 linux-tools-4.15.0-1048-aws
 linux-tools-4.15.0-1050-oem

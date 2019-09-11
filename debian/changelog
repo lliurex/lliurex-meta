@@ -1,3 +1,10 @@
+lliurex-meta (19.07.23) bionic; urgency=medium
+
+  * Lliurex-desktop-layout-selector
+  * zero-lliurex-chrome
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 11 Sep 2019 13:34:02 +0200
+
 lliurex-meta (19.07.22) bionic; urgency=medium
 
   * Adding lliurex-shutdowner to desktops only

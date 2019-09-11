@@ -130,6 +130,7 @@ lliurex-backup
 lliurex-cdlocker
 lliurex-certificates
 lliurex-custom-xrdp
+lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
 lliurex-easy-sites
@@ -315,6 +316,7 @@ zero-jclic-reports
 zero-lliurex-analytics
 zero-lliurex-arasuite
 zero-lliurex-autofirma
+zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-dni
 zero-lliurex-dropbox-installer
