@@ -1,9 +1,6 @@
 Task-Recursive: True
 
-#TODO Enable when systemd-resolver has been removed
-lliurex-guard
-lliurex-guard-data
-n4d-lliurex-guard
-
+ * lliurex-guard-data
+ * lliurex-guard-standalone
  * lliurex-shutdowner
  * n4d-shutdowner-server
