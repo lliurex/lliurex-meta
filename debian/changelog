@@ -1,3 +1,9 @@
+lliurex-meta (19.07.25) bionic; urgency=medium
+
+  * Add lliurex-analytics-server to supported
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 30 Sep 2019 13:12:01 +0200
+
 lliurex-meta (19.07.24) bionic; urgency=medium
 
   * Added python2-xpra dependency
