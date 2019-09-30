@@ -60,6 +60,7 @@ tuxboot
  * squid-ssl
  * zero-lliurex-transparent-proxy
  * qemu-guest-agent
+ * lliurex-analytics-server
 
 == Mysql ==
 
