@@ -1,3 +1,9 @@
+lliurex-meta (19.07.26) bionic; urgency=medium
+
+  * Added shutter missing libraries
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 03 Oct 2019 17:06:24 +0200
+
 lliurex-meta (19.07.25) bionic; urgency=medium
 
   * Add lliurex-analytics-server to supported
