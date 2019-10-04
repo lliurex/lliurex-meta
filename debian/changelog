@@ -1,3 +1,9 @@
+lliurex-meta (19.07.28) bionic; urgency=medium
+
+  * Adding lilypond
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 04 Oct 2019 13:18:51 +0200
+
 lliurex-meta (19.07.27) bionic; urgency=medium
 
   * removing grub-ipxe dependency
