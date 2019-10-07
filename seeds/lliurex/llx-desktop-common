@@ -72,7 +72,8 @@
  * libreoffice-wiki-publisher 
  * libreoffice-ogltrans
  * libreoffice-report-builder
-
+ * libreoffice-sdbc-firebird
+ * libreoffice-sdbc-hsqldb
 
 TODO
 (lliurex-ultimate-rescue)
