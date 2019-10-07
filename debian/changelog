@@ -1,3 +1,9 @@
+lliurex-meta (19.07.29) bionic; urgency=medium
+
+  * Replace libreoffice-base-core by libreoffice-base
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 07 Oct 2019 11:59:57 +0200
+
 lliurex-meta (19.07.28) bionic; urgency=medium
 
   * Adding lilypond
