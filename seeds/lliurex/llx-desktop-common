@@ -67,13 +67,11 @@
  * (pavucontrol-qt-l10n)
  * (libreoffice-style-elementary)
  * libreoffice
- * libreoffice-base-core 
+ * libreoffice-base 
  * libreoffice-pdfimport 
  * libreoffice-wiki-publisher 
  * libreoffice-ogltrans
  * libreoffice-report-builder
- * libreoffice-sdbc-firebird
- * libreoffice-sdbc-hsqldb
 
 TODO
 (lliurex-ultimate-rescue)
