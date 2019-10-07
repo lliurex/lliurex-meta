@@ -123,7 +123,7 @@ language-selector-common
 less
 libdrm2
 libpam-systemd
-libreoffice-base-core
+libreoffice-base
 libreoffice-l10n-ca
 libreoffice-l10n-es
 libreoffice-ogltrans
