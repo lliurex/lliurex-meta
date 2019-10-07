@@ -59,6 +59,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fonts-ubuntu
 frameworkintegration
+frescobaldi
 friendly-recovery
 fwupd
 fwupdate
@@ -122,6 +123,7 @@ libreoffice-help-es
 libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-style-elementary
+lilypond
 lliurex-certificates
 lliurex-desktop-layout-selector
 lliurex-desktops-keeper

@@ -336,13 +336,21 @@ linux-buildinfo-4.15.0-1051-aws
 linux-buildinfo-4.15.0-1057-oem
 linux-buildinfo-4.15.0-65-generic
 linux-buildinfo-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-buildinfo-5.0.0-1022-azure
+=======
+linux-buildinfo-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-buildinfo-5.0.0-31-generic
 linux-buildinfo-5.0.0-31-lowlatency
 linux-cloud-tools-4.15.0-65
 linux-cloud-tools-4.15.0-65-generic
 linux-cloud-tools-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-cloud-tools-5.0.0-1022-azure
+=======
+linux-cloud-tools-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-cloud-tools-5.0.0-31-generic
 linux-cloud-tools-5.0.0-31-lowlatency
 linux-cloud-tools-azure
@@ -375,7 +383,11 @@ linux-headers-4.15.0-1057-oem
 linux-headers-4.15.0-65
 linux-headers-4.15.0-65-generic
 linux-headers-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-headers-5.0.0-1022-azure
+=======
+linux-headers-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-headers-5.0.0-31
 linux-headers-5.0.0-31-generic
 linux-headers-5.0.0-31-lowlatency
@@ -405,7 +417,11 @@ linux-image-4.15.0-1051-aws
 linux-image-4.15.0-1057-oem
 linux-image-4.15.0-65-generic
 linux-image-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-image-5.0.0-1022-azure
+=======
+linux-image-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-image-aws
 linux-image-azure
 linux-image-extra-virtual
@@ -427,7 +443,11 @@ linux-image-unsigned-4.15.0-1044-gcp
 linux-image-unsigned-4.15.0-1057-oem
 linux-image-unsigned-4.15.0-65-generic
 linux-image-unsigned-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-image-unsigned-5.0.0-1022-azure
+=======
+linux-image-unsigned-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-image-unsigned-5.0.0-31-generic
 linux-image-unsigned-5.0.0-31-lowlatency
 linux-image-virtual
@@ -448,13 +468,21 @@ linux-modules-4.15.0-1051-aws
 linux-modules-4.15.0-1057-oem
 linux-modules-4.15.0-65-generic
 linux-modules-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-modules-5.0.0-1022-azure
+=======
+linux-modules-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-modules-5.0.0-31-generic
 linux-modules-5.0.0-31-lowlatency
 linux-modules-extra-4.15.0-1044-gcp
 linux-modules-extra-4.15.0-1051-aws
 linux-modules-extra-4.15.0-65-generic
+<<<<<<< HEAD
 linux-modules-extra-5.0.0-1022-azure
+=======
+linux-modules-extra-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-modules-extra-5.0.0-31-generic
 linux-modules-extra-aws
 linux-modules-extra-azure
@@ -492,7 +520,11 @@ linux-tools-4.15.0-1057-oem
 linux-tools-4.15.0-65
 linux-tools-4.15.0-65-generic
 linux-tools-4.15.0-65-lowlatency
+<<<<<<< HEAD
 linux-tools-5.0.0-1022-azure
+=======
+linux-tools-5.0.0-1020-azure
+>>>>>>> 0da303347a1a86d461477b54dbb0793f83dbd150
 linux-tools-5.0.0-31-generic
 linux-tools-5.0.0-31-lowlatency
 linux-tools-aws

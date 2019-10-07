@@ -69,7 +69,6 @@ gimp
 gimp-help-en
 gimp-help-es
 gpart
-grub-ipxe
 gwenview
 hdparm
 home-eraser-client
@@ -84,6 +83,7 @@ inputattach
 iproute2
 iptables
 iputils-ping
+ipxe
 isc-dhcp-client
 jclic
 jclic
