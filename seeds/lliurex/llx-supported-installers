@@ -28,3 +28,8 @@ This seed is needed to add depends into pool from zero-installers
  * libnspr4
 
  * lliurex-lab
+
+= Fonts =
+
+ * lliurex-artwork-fonts
+ * lliurex-artwork-fonts-classroom
