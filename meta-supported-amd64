@@ -198,6 +198,7 @@ git
 git-buildpackage
 git-svn
 glance
+gnome-orca
 gnu-efi
 gobi-loader
 gpgv-udeb
