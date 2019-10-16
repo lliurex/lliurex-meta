@@ -1,3 +1,9 @@
+lliurex-meta (19.07.34) bionic; urgency=medium
+
+  * Adding zero-lliurex-inventory
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 16 Oct 2019 12:39:04 +0200
+
 lliurex-meta (19.07.33) bionic; urgency=medium
 
   * Adding gnome-orca
