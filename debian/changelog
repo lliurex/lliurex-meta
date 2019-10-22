@@ -1,3 +1,9 @@
+lliurex-meta (19.07.35) bionic; urgency=medium
+
+  * Adding llx-guest
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 22 Oct 2019 13:52:58 +0200
+
 lliurex-meta (19.07.34) bionic; urgency=medium
 
   * Adding zero-lliurex-inventory
