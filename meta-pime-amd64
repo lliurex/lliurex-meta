@@ -132,6 +132,7 @@ lliurex-preseed-common
 lliurex-profile-d
 lliurex-ssh-login
 lliurex-up
+llx-guest
 locales
 logrotate
 lsb-release

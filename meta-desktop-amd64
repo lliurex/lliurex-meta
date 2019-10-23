@@ -133,6 +133,7 @@ lliurex-preseed-common
 lliurex-profile-d
 lliurex-shutdowner
 lliurex-up
+llx-guest
 locales
 logrotate
 lsb-release

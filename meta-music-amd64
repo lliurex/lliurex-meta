@@ -130,6 +130,7 @@ lliurex-musica-defaults
 lliurex-preseed-common
 lliurex-profile-d
 lliurex-up
+llx-guest
 locales
 logrotate
 lsb-release
