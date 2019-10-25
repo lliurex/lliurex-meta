@@ -124,6 +124,7 @@ tuxboot
  * qtbase5-private-dev
  * libzen0v5
  * libmediainfo0v5
+ * libxml-xpath-perl
 
 == PIME ==
 

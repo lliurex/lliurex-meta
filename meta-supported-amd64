@@ -319,6 +319,7 @@ libtool
 libva-wayland2
 libvirt-daemon-system
 libxcb-xinerama0
+libxml-xpath-perl
 libxmlrpc-c++8-dev
 libzen0v5
 lilo
