@@ -131,3 +131,8 @@ tuxboot
 == PIME ==
 
  * pbis-open-dev
+
+== DISABLING PACKAGES ==
+
+ * disable-epoptes-client
+
