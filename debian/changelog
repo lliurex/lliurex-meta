@@ -1,3 +1,9 @@
+lliurex-meta (19.07.41) bionic; urgency=medium
+
+  * Scratch and friends
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 19 Dec 2019 13:44:35 +0100
+
 lliurex-meta (19.07.40) bionic; urgency=medium
 
   * Adding newer scratch installer
