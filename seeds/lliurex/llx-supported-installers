@@ -8,6 +8,10 @@ This seed is needed to add depends into pool from zero-installers
 
  * nextcloud
 
+= OpenMeetings = 
+
+ * lliurex-openmeetings
+
 = Moodle =
 
  * lliurex-moodle

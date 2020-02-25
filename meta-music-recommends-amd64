@@ -101,6 +101,7 @@ kde-config-plymouth
 kde-config-sddm
 kde-spectacle
 kdegraphics-thumbnailers
+kdesdk-thumbnailers
 kdialog
 kerneloops
 kimageformat-plugins
@@ -134,6 +135,7 @@ lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
 lliurex-java-panel
+lliurex-journald-settings
 lliurex-langpack-kde
 lliurex-mime-settings
 lliurex-on-fire

@@ -17,7 +17,7 @@ Description: MetaPackage of Lliurex Desktop
 
 Package: lliurex-meta-minimal-client
 Architecture: any-amd64
-Lliurex-Flavours: live, edu
+Lliurex-Flavours: edu, minimal-client
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex minimal client
@@ -41,7 +41,7 @@ Description: MetaPackage of Lliurex Server
 
 Package: lliurex-meta-infantil
 Architecture: any-amd64
-Lliurex-Flavours: live, edu
+Lliurex-Flavours: edu, infantil
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Infantil
@@ -49,7 +49,7 @@ Description: MetaPackage of Lliurex Infantil
 
 Package: lliurex-meta-pime
 Architecture: any-amd64
-Lliurex-Flavours: live, edu
+Lliurex-Flavours: pime, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Live
@@ -57,7 +57,7 @@ Description: MetaPackage of Lliurex Live
 
 Package: lliurex-meta-music
 Architecture: any-amd64
-Lliurex-Flavours: live, edu
+Lliurex-Flavours: music, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Live
@@ -65,7 +65,7 @@ Description: MetaPackage of Lliurex Live
 
 Package: lliurex-meta-supported
 Architecture: any-amd64
-Lliurex-Flavours: live, edu
+Lliurex-Flavours: supported, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Live
