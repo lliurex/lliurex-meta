@@ -39,6 +39,15 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Server
  List of all packages for lliurex
 
+Package: lliurex-meta-server-lite
+Architecture: any-amd64
+Lliurex-Flavours: server, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Server
+ List of all packages for lliurex
+
+
 Package: lliurex-meta-infantil
 Architecture: any-amd64
 Lliurex-Flavours: edu, infantil

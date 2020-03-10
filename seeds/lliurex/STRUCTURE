@@ -29,3 +29,4 @@ meta-infantil: neon-desktop llx-desktop-common llx-edu-apps-infantil-primaria ll
 meta-pime: neon-desktop  llx-desktop-common llx-pime
 meta-music: neon-desktop llx-desktop-common llx-music
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
+meta-server-lite: neon-desktop llx-desktop-common llx-class-server
