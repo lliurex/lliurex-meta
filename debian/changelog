@@ -1,3 +1,9 @@
+lliurex-meta (19.07.43) bionic; urgency=medium
+
+  * meta-server-lite seed
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 10 Mar 2020 11:57:56 +0100
+
 lliurex-meta (19.07.42) bionic; urgency=medium
 
   * Scratch scratch scratch
