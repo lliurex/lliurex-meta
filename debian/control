@@ -31,6 +31,15 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Client
  List of all packages for lliurex
 
+Package: lliurex-meta-client-lite
+Architecture: any-amd64
+Lliurex-Flavours: client
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Client lite
+ List of all packages for lliurex
+
+
 Package: lliurex-meta-server
 Architecture: any-amd64
 Lliurex-Flavours: server, edu
@@ -41,10 +50,10 @@ Description: MetaPackage of Lliurex Server
 
 Package: lliurex-meta-server-lite
 Architecture: any-amd64
-Lliurex-Flavours: server, edu
+Lliurex-Flavours: server
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Server
+Description: MetaPackage of Lliurex Server lite
  List of all packages for lliurex
 
 

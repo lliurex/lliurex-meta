@@ -1,3 +1,9 @@
+lliurex-meta (19.07.44) bionic; urgency=medium
+
+  * meta-client-lite seed
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 11 Mar 2020 12:50:26 +0100
+
 lliurex-meta (19.07.43) bionic; urgency=medium
 
   * meta-server-lite seed
