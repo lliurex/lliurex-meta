@@ -31,3 +31,4 @@ meta-music: neon-desktop llx-desktop-common llx-music
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
 meta-server-lite: neon-desktop llx-desktop-common llx-class-server
 meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom
+meta-desktop-lite: neon-desktop llx-desktop-common
