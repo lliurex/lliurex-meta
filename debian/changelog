@@ -1,3 +1,9 @@
+lliurex-meta (19.07.46) bionic; urgency=medium
+
+  * Added admin-center zero link
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 11 May 2020 09:12:45 +0200
+
 lliurex-meta (19.07.45) bionic; urgency=medium
 
   * meta-desktop-lite seed
