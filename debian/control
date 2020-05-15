@@ -17,7 +17,7 @@ Description: MetaPackage of Lliurex Desktop
 
 Package: lliurex-meta-desktop-lite
 Architecture: any-amd64
-Lliurex-Flavours: desktop, lite
+Lliurex-Flavours: desktop-lite
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Desktop Lite
@@ -41,7 +41,7 @@ Description: MetaPackage of Lliurex Client
 
 Package: lliurex-meta-client-lite
 Architecture: any-amd64
-Lliurex-Flavours: client, lite
+Lliurex-Flavours: client-lite
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Client lite
@@ -58,7 +58,7 @@ Description: MetaPackage of Lliurex Server
 
 Package: lliurex-meta-server-lite
 Architecture: any-amd64
-Lliurex-Flavours: server, lite
+Lliurex-Flavours: server-lite
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Server lite
