@@ -1,1 +1,9 @@
 Task-Recursive: True
+
+ * n4d-client-exe-consumer
+ * (n4d-check-server)
+ * n4d-clientvars
+ * n4d-shutdowner-client
+ * n4d-cdlocker-client
+ * lliurex-remote-installer-client
+ * home-eraser-client

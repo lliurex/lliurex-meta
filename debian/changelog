@@ -1,3 +1,9 @@
+lliurex-meta (19.07.48) bionic; urgency=medium
+
+  * Adding n4d plugins to minimal client
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 25 May 2020 11:54:12 +0200
+
 lliurex-meta (19.07.47) bionic; urgency=medium
 
   * Fixing lite flavour name
