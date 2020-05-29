@@ -1,3 +1,9 @@
+lliurex-meta (19.07.49) bionic; urgency=medium
+
+  * Adding updated debconf kde support
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 29 May 2020 12:02:44 +0200
+
 lliurex-meta (19.07.48) bionic; urgency=medium
 
   * Adding n4d plugins to minimal client

@@ -23,6 +23,7 @@ cups-bsd
 cups-client
 debconf
 debconf-i18n
+debconf-kde-helper
 digikam
 distro-release-notifier
 dmidecode

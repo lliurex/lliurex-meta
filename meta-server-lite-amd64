@@ -29,6 +29,7 @@ cups-bsd
 cups-client
 debconf
 debconf-i18n
+debconf-kde-helper
 digikam
 disable-apparmor
 distro-release-notifier

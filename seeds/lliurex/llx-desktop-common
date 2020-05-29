@@ -12,6 +12,7 @@
  * lliurex-profile-d
  * policykit-1
  * (kdesdk-thumbnailers)
+ * debconf-kde-helper
 
 == Filesystem == 
 
