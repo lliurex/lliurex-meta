@@ -123,6 +123,7 @@ libwmf-bin
 linux-lowlatency
 lliurex-apt-divert
 lliurex-base-files
+lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-keyring

@@ -127,6 +127,7 @@ libwmf-bin
 lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-env-configuration
+lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-homework-harvester

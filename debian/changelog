@@ -1,3 +1,9 @@
+lliurex-meta (19.07.50) bionic; urgency=medium
+
+  * Added lliurex-common-utils
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 02 Jun 2020 13:52:19 +0200
+
 lliurex-meta (19.07.49) bionic; urgency=medium
 
   * Adding updated debconf kde support

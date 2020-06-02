@@ -137,6 +137,7 @@ lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-defaults
 lliurex-classroom-env-configuration
+lliurex-common-utils
 lliurex-cssh
 lliurex-desktop-defaults
 lliurex-firefox-plugins

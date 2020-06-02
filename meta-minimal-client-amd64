@@ -24,6 +24,7 @@ lliurex-base-files
 lliurex-classroom-defaults
 lliurex-classroom-env-configuration
 lliurex-client-env-configuration
+lliurex-common-utils
 lliurex-cssh
 lliurex-cups-client
 lliurex-grub-custom
