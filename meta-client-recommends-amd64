@@ -57,8 +57,6 @@ frameworkintegration
 freeplane
 freeplane
 friendly-recovery
-fritzing
-fritzing-parts
 fwupd
 fwupdate
 fwupdate-signed
@@ -74,7 +72,6 @@ gperiodic
 gpm
 grub-theme-breeze
 gwenview
-hotpotatoes
 hplip
 htop
 hunspell-ca
@@ -145,7 +142,6 @@ lliurex-firefox-settings
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
-lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-journald-settings
 lliurex-langpack-kde

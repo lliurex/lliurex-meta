@@ -1,3 +1,10 @@
+lliurex-meta (19.07.51) bionic; urgency=medium
+
+  * Removing hotpotatoes and fritzing from meta. User will have to use 
+    zero-center instead.
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 04 Jun 2020 10:09:37 +0200
+
 lliurex-meta (19.07.50) bionic; urgency=medium
 
   * Added lliurex-common-utils
