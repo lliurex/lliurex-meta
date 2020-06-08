@@ -1,4 +1,4 @@
-lliurex-meta (19.07.51+nmu1) UNRELEASED; urgency=medium
+lliurex-meta (19.07.52) bionic; urgency=medium
 
   * add hotpotatoes and fritzing to server and client to test iso-level option 
     on xorriso
