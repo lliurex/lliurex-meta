@@ -1,5 +1,6 @@
 acl
 acpid
+bell-scheduler-zerocenter-files
 ca-certificates
 cifs-utils
 classroom-mountmode-override
