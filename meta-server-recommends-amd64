@@ -58,8 +58,6 @@ frameworkintegration
 freeplane
 freeplane
 friendly-recovery
-fritzing
-fritzing-parts
 fwupd
 fwupdate
 fwupdate-signed
@@ -173,6 +171,7 @@ lliurex-statistics
 lliurex-store
 lliurex-tuxpaint-stamps
 lliurex-unattended-upgrades
+llixhoot
 llx-netinstall
 llx-network-config
 lmd-manager-cli
