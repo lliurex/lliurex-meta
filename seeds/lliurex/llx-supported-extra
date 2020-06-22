@@ -97,6 +97,7 @@ tuxboot
 
 == Libs ==
 
+ * udisks2-btrfs
  * libpulse-dev
  * libxcb-xinerama0
  * libgd3

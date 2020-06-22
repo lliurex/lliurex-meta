@@ -820,6 +820,7 @@ ubuntu-minimal
 ubuntu-standard
 udev
 udev-udeb
+udisks2-btrfs
 udpkg
 unzip
 usb-discover

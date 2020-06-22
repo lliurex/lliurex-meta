@@ -1,3 +1,9 @@
+lliurex-meta (19.07.55) bionic; urgency=medium
+
+  * Added udisks2-btrfs to supported
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 22 Jun 2020 08:34:33 +0200
+
 lliurex-meta (19.07.54) bionic; urgency=medium
 
   * Adding llixhoot to server edu
