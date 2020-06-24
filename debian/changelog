@@ -1,3 +1,9 @@
+lliurex-meta (19.07.56) bionic; urgency=medium
+
+  * ainur to supported
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 24 Jun 2020 18:25:12 +0200
+
 lliurex-meta (19.07.55) bionic; urgency=medium
 
   * Added udisks2-btrfs to supported
