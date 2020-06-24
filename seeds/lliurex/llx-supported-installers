@@ -28,6 +28,10 @@ This seed is needed to add depends into pool from zero-installers
 = PMB = 
  * lliurex-pmb
 
+= Slideshow =
+ * lliurex-news-setup
+ * lliurex-news-slideshow
+
 = AdobeAir =
  * libnspr4
 
