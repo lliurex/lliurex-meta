@@ -20,6 +20,10 @@ llx-supported-installers:
 llx-music:
 llx-recursos:
 llx-pime:
+llx-lite-common:
+llx-server-lite: llx-lite-common
+llx-client-lite: llx-lite-common
+llx-desktop-lite: llx-lite-common
 meta-live: neon-live
 meta-desktop: neon-desktop llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
 meta-minimal-client: llx-base llx-minimal-classroom llx-class-client
@@ -29,6 +33,6 @@ meta-infantil: neon-desktop llx-desktop-common llx-edu-apps-infantil-primaria ll
 meta-pime: neon-desktop  llx-desktop-common llx-pime
 meta-music: neon-desktop llx-desktop-common llx-music
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
-meta-server-lite: neon-desktop llx-desktop-common llx-class-server
-meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom
-meta-desktop-lite: neon-desktop llx-desktop-common
+meta-server-lite: neon-desktop llx-desktop-common llx-class-server llx-server-lite
+meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom llx-client-lite
+meta-desktop-lite: neon-desktop llx-desktop-common llx-desktop-lite
