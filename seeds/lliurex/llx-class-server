@@ -104,4 +104,4 @@ admin-center-lliurex-mirror
  * (zero-lliurex-pmb)
  * (zero-lliurex-mirror-redirect)
  * (zero-lliurex-openboard) [amd64]
-
+ * (lliurex-news-installer)
