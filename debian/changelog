@@ -1,6 +1,8 @@
 lliurex-meta (19.07.57) bionic; urgency=medium
 
   * printa to classroom
+  * lliurex news
+  * fritzing and stellarium zmds
 
  -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 26 Jun 2020 09:42:21 +0200
 

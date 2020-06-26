@@ -283,8 +283,6 @@ shutter
 snapd
 solfege
 solfege
-stellarium
-stellarium
 synaptic
 tcpdump
 telnet
@@ -334,6 +332,7 @@ zero-lliurex-dni
 zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-freecad
+zero-lliurex-fritzing
 zero-lliurex-gearth
 zero-lliurex-inventory
 zero-lliurex-krita
@@ -351,4 +350,5 @@ zero-lliurex-scratch3
 zero-lliurex-skype
 zero-lliurex-smart
 zero-lliurex-spotify
+zero-lliurex-stellarium
 zero-lliurex-wine64
