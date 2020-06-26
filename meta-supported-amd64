@@ -698,6 +698,7 @@ pcmcia-modules-4.18.0-14-generic-di
 pcmcia-storage-modules-4.15.0-44-generic-di
 pcmcia-storage-modules-4.18.0-14-generic-di
 pcmciautils-udeb
+pinentry-qt
 pkg-config
 pkgsel
 plip-modules-4.15.0-44-generic-di

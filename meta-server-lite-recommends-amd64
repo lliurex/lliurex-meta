@@ -271,9 +271,13 @@ xrdp
 xserver-xorg-input-evdev
 xserver-xorg-input-synaptics
 xserver-xorg-video-intel-native-modesetting
+zero-fp-administrativo
+zero-fp-electronica
+zero-fp-informatica
 zero-jclic-reports
 zero-lliurex-analytics
 zero-lliurex-autofirma
+zero-lliurex-blockly-arduino
 zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-dni
