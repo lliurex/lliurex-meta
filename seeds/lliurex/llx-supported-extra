@@ -121,7 +121,7 @@ tuxboot
  * xserver-xorg-hwe-18.04
  * linux-signed-generic-hwe-18.04
  * linux-signed-generic-hwe-18.04-edge
- * pineentry-qt
+ * pinentry-qt
  * kdelibs5-dev
  * libxmlrpc-c++8-dev
  * ipython3
