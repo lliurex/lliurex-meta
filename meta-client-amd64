@@ -144,6 +144,7 @@ lliurex-common-utils
 lliurex-cssh
 lliurex-cups-client
 lliurex-desktop-defaults
+lliurex-extra-configs
 lliurex-grub-custom
 lliurex-guard
 lliurex-homework-harvester
@@ -187,6 +188,8 @@ n4d-homecleaner
 n4d-hostname
 n4d-lliurex-base
 n4d-pamnss
+n4d-printa-client
+n4d-printa-server
 n4d-remote-gui-plugin
 n4d-shutdowner-client
 neon-hardware-integration
@@ -212,6 +215,11 @@ pm-utils
 policykit-1
 popularity-contest
 powerdevil
+printa-backend
+printa-client
+printa-common-data
+printa-printer-config
+printa-users-manager
 printer-driver-pnm2ppa
 procps
 psmisc

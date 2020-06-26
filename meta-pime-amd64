@@ -127,6 +127,7 @@ lliurex-apt-divert
 lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults
+lliurex-extra-configs
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus

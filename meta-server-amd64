@@ -146,6 +146,7 @@ lliurex-classroom-env-configuration
 lliurex-common-utils
 lliurex-cssh
 lliurex-desktop-defaults
+lliurex-extra-configs
 lliurex-firefox-plugins
 lliurex-freeradius
 lliurex-grub-custom
@@ -203,6 +204,8 @@ n4d-netfolders
 n4d-network
 n4d-nfs
 n4d-pamnss
+n4d-printa-client
+n4d-printa-server
 n4d-proxy
 n4d-remote-gui-plugin
 n4d-samba
@@ -233,6 +236,11 @@ pm-utils
 policykit-1
 popularity-contest
 powerdevil
+printa-backend
+printa-client
+printa-common-data
+printa-printer-config
+printa-users-manager
 printer-driver-pnm2ppa
 procps
 psmisc

@@ -18,6 +18,13 @@
  * (plasma-widget-lliurex-quota)
  * (lliurex-easy-sites)
  * (lliurex-easysites-zerocenter-files)
+ * printa-backend
+ * printa-printer-config
+ * printa-users-manager
+ * printa-client
+ * printa-common-data
+ * n4d-printa-server
+ * n4d-printa-client
 
 == Services ==
 

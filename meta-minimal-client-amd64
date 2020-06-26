@@ -28,6 +28,7 @@ lliurex-client-env-configuration
 lliurex-common-utils
 lliurex-cssh
 lliurex-cups-client
+lliurex-extra-configs
 lliurex-grub-custom
 lliurex-guard
 lliurex-homework-harvester
@@ -54,6 +55,8 @@ n4d-homecleaner
 n4d-hostname
 n4d-lliurex-base
 n4d-pamnss
+n4d-printa-client
+n4d-printa-server
 n4d-remote-gui-plugin
 n4d-shutdowner-client
 net-tools
@@ -61,6 +64,11 @@ nfs-common
 openprinting-ppds
 openssh-server
 p7zip-full
+printa-backend
+printa-client
+printa-common-data
+printa-printer-config
+printa-users-manager
 rar
 screen
 smbclient
