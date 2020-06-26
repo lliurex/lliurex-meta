@@ -105,3 +105,4 @@ admin-center-lliurex-mirror
  * (zero-lliurex-mirror-redirect)
  * (zero-lliurex-openboard) [amd64]
  * (lliurex-news-installer)
+ * (zero-lliurex-blockly-arduino)
