@@ -740,6 +740,7 @@ python3-examples
 python3-gi-cairo
 python3-launchpadlib
 python3-setuptools
+python3-wxgtk4.0
 qemu-guest-agent
 qemu-kvm
 qemu-system-x86
