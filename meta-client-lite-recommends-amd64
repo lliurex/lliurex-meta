@@ -1,5 +1,8 @@
 acpi-support
+admin-center-zerolink
 adwaita-icon-theme
+air-installer
+air-manager
 apparmor
 ark
 avahi-autoipd
@@ -24,6 +27,7 @@ dmraid
 dolphin
 dpkgunlocker-gui
 drkonqi-pk-debug-installer
+epoptes
 ethtool
 exfat-fuse
 exfat-utils
@@ -102,10 +106,13 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
+lliurex-cdlocker
 lliurex-certificates
 lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-easy-sites
+lliurex-easysites-zerocenter-files
 lliurex-firefox-settings
 lliurex-gdrive-core
 lliurex-gdrive-gui
@@ -113,10 +120,18 @@ lliurex-gdrive-indicator
 lliurex-java-panel
 lliurex-journald-settings
 lliurex-langpack-kde
+lliurex-libreoffice-aula-settings
 lliurex-mime-settings
 lliurex-moving-core
+lliurex-moving-editor
+lliurex-ntpdate
 lliurex-on-fire
 lliurex-perfilreset
+lliurex-quota-gui
+lliurex-remote-installer-gui
+lliurex-rsyslog-filters
+lliurex-shutdowner
+lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lliurex-statistics
 lliurex-store
@@ -158,6 +173,7 @@ plasma-pa
 plasma-runners-addons
 plasma-vault
 plasma-wallpapers-addons
+plasma-widget-lliurex-quota
 plasma-widgets-addons
 plasma-workspace-wayland
 plymouth

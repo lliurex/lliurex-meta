@@ -34,5 +34,5 @@ meta-pime: neon-desktop  llx-desktop-common llx-pime
 meta-music: neon-desktop llx-desktop-common llx-music
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
 meta-server-lite: neon-desktop llx-desktop-common llx-class-server llx-server-lite
-meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom llx-client-lite
+meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom llx-class-client llx-client-lite
 meta-desktop-lite: neon-desktop llx-desktop-common llx-desktop-lite
