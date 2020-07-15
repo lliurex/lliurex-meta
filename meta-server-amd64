@@ -184,7 +184,6 @@ mawk
 mime-support
 mini-light-client
 mount
-musescore3
 mypaint
 n4d
 n4d-apache
@@ -247,7 +246,6 @@ psmisc
 python2-xpra
 python3
 python3-lliurex-store
-qstopmotion
 qttranslations5-l10n
 rar
 rfkill
@@ -269,7 +267,6 @@ telegram-installer
 time
 transmission-qt
 tuxmath
-tuxpaint
 tzdata
 ubuntu-advantage-tools
 ubuntu-drivers-common

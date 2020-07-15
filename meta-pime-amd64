@@ -147,7 +147,6 @@ man-db
 mawk
 mime-support
 mount
-musescore3
 mypaint
 n4d
 n4d-lliurex-base
@@ -183,7 +182,6 @@ procps
 psmisc
 python3
 python3-lliurex-store
-qstopmotion
 qttranslations5-l10n
 rar
 remmina
@@ -206,7 +204,6 @@ telegram-installer
 time
 tomboy
 transmission-qt
-tuxpaint
 tzdata
 ubuntu-advantage-tools
 ubuntu-drivers-common
@@ -238,7 +235,6 @@ zero-lliurex-adobereader
 zero-lliurex-dni
 zero-lliurex-dvdcss
 zero-lliurex-flavours
-zero-lliurex-fonts
 zero-lliurex-gearth
 zero-lliurex-msad
 zip

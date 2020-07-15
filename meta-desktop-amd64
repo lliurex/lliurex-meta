@@ -148,7 +148,6 @@ man-db
 mawk
 mime-support
 mount
-musescore3
 mypaint
 n4d
 n4d-lliurex-base
@@ -181,7 +180,6 @@ procps
 psmisc
 python3
 python3-lliurex-store
-qstopmotion
 qttranslations5-l10n
 rar
 rfkill
@@ -203,7 +201,6 @@ telegram-installer
 time
 transmission-qt
 tuxmath
-tuxpaint
 tzdata
 ubuntu-advantage-tools
 ubuntu-drivers-common

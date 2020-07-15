@@ -1,3 +1,9 @@
+lliurex-meta (19.07.62) bionic; urgency=medium
+
+  * Reorganizing edu apps
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 15 Jul 2020 10:50:28 +0200
+
 lliurex-meta (19.07.61) bionic; urgency=medium
 
   * python3-wxgtk4.0
