@@ -146,6 +146,7 @@ lliurex-statistics
 lliurex-store
 lliurex-unattended-upgrades
 llixhoot
+llx-edition-studio
 llx-netinstall
 llx-network-config
 lmd-manager-cli
@@ -286,10 +287,12 @@ zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-fritzing
 zero-lliurex-inventory
+zero-lliurex-jitsi
 zero-lliurex-krita
 zero-lliurex-midicss
 zero-lliurex-mirror-redirect
 zero-lliurex-moodle
+zero-lliurex-nextcloud19
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-openboard

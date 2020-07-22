@@ -1,3 +1,15 @@
+lliurex-meta (19.07.64) bionic; urgency=medium
+
+  * zero-fp-administrativo 
+  * zero-fp-electronica 
+  * zero-fp-informatica
+  * lliurex-studio-edition
+  * nextcloud19
+  * jitsi
+
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 22 Jul 2020 10:43:45 +0200
+
 lliurex-meta (19.07.63) bionic; urgency=medium
 
   * stacer
