@@ -5,7 +5,6 @@
  * lliurex-firefox-plugins
  * (xrdp) # Configure xrdp to Smart Center
  * (lliurex-custom-xrdp)
- * (lliurex-jclic-shared)
  * lliurex-www
  * ntp
  * python2-xpra
@@ -79,7 +78,6 @@ n4d-lliurexberry-server
  * (lliurex-moving-editor)
  * (lliurex-mirror)
  * (lliurex-remote-installer-server)
- * (llixhoot)
  * (lliurex-printa-classroom)
  * (stacer)
 
@@ -101,7 +99,6 @@ admin-center-lliurex-mirror
 === Zero installers ===
 
  * (zero-lliurex-moodle)
- * (zero-jclic-reports)
  * (zero-lliurex-pmb)
  * (zero-lliurex-mirror-redirect)
  * (zero-lliurex-openboard) [amd64]
