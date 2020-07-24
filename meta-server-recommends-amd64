@@ -160,7 +160,6 @@ lliurex-moving-editor
 lliurex-news-installer
 lliurex-ntpdate
 lliurex-on-fire
-lliurex-openmeetings
 lliurex-perfilreset
 lliurex-printa-classroom
 lliurex-quota-gui
@@ -174,7 +173,6 @@ lliurex-statistics
 lliurex-store
 lliurex-tuxpaint-stamps
 lliurex-unattended-upgrades
-llixhoot
 llx-edition-studio
 llx-netinstall
 llx-network-config
@@ -342,6 +340,7 @@ zero-lliurex-gearth
 zero-lliurex-inventory
 zero-lliurex-jitsi
 zero-lliurex-krita
+zero-lliurex-llixhoot
 zero-lliurex-midicss
 zero-lliurex-mirror-redirect
 zero-lliurex-moodle
@@ -349,6 +348,7 @@ zero-lliurex-nextcloud19
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-openboard
+zero-lliurex-openmeetings
 zero-lliurex-pmb
 zero-lliurex-pyromaths
 zero-lliurex-s4a

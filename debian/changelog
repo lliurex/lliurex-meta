@@ -1,3 +1,9 @@
+lliurex-meta (19.07.67) bionic; urgency=medium
+
+  * zeros for llixhoot and openmeetings instead
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 24 Jul 2020 10:00:56 +0200
+
 lliurex-meta (19.07.66) bionic; urgency=medium
 
   * lliurex-openmeetings

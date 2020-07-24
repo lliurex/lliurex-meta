@@ -80,7 +80,6 @@ n4d-lliurexberry-server
  * (lliurex-remote-installer-server)
  * (lliurex-printa-classroom)
  * (stacer)
- * (lliurex-openmeetings)
 
 == TODO
 syncer-plank
@@ -107,3 +106,4 @@ admin-center-lliurex-mirror
  * (zero-lliurex-blockly-arduino)
  * (zero-lliurex-nextcloud19)
  * (zero-lliurex-jitsi)
+ * (zero-lliurex-openmeetings)
