@@ -80,6 +80,7 @@ n4d-lliurexberry-server
  * (lliurex-remote-installer-server)
  * (lliurex-printa-classroom)
  * (stacer)
+ * (lliurex-openmeetings)
 
 == TODO
 syncer-plank
