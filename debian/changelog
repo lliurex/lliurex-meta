@@ -1,3 +1,10 @@
+lliurex-meta (19.07.68) bionic; urgency=medium
+
+  * kmixtest to server and client
+  * llixhoot to supported
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 27 Jul 2020 08:55:29 +0200
+
 lliurex-meta (19.07.67) bionic; urgency=medium
 
   * zeros for llixhoot and openmeetings instead
