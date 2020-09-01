@@ -3,7 +3,6 @@
 Database:
 
  * postgresql-plperl-10
- * postgresql-plpython-10
  * postgresql-plpython3-10
  * postgresql-pltcl-10
 
@@ -15,36 +14,17 @@ Email:
  * exim4-daemon-heavy
  * exim4-daemon-light
  * exim4-doc-html
- * mail-stack-delivery
- * mailman
+ * dovecot-core
+
+Select the dummy MTA we want on i386
+
+ * lsb-invalid-mta [i386]
 
 Must also consider webmail and so on...
 
 VPN:
 
  * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
- * strongswan-ike
- * strongswan-plugin-dhcp
- * strongswan-plugin-eap-md5
- * strongswan-plugin-eap-mschapv2
- * strongswan-plugin-eap-peap
- * strongswan-plugin-eap-radius
- * strongswan-plugin-eap-tls
- * strongswan-plugin-eap-tnc
- * strongswan-plugin-eap-ttls
- * strongswan-plugin-gmp
- * strongswan-plugin-ldap
- * strongswan-plugin-mysql
- * strongswan-plugin-openssl
- * strongswan-plugin-pkcs11
- * strongswan-plugin-radattr
- * strongswan-plugin-sql
- * strongswan-plugin-unbound
- * strongswan-pt-tls-client
- * strongswan-tnc-base
- * strongswan-tnc-client
- * strongswan-tnc-pdp
- * strongswan-tnc-server
 
 Web servers:
 
@@ -53,13 +33,13 @@ Web servers:
 Web applications:
 
  * zope3-sandbox
- * python-moinmoin      # moin (>= 1.5)
  * memcached #ClintByrum - server-maverick-uds-web20-workloads
  * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
  * rabbitmq-server
 
 Utilities:
 
+ * gpsd    # optional to enhance chrony with HW based time data
  * htop    # used quite often in favor of top
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
@@ -71,6 +51,7 @@ Utilities:
  * nut # UPS management
  * nut-cgi
  * nut-snmp
+ * ndctl   # for management of nvdimm devices (LP: #1853506)
 
 Radius server:
 
@@ -80,6 +61,8 @@ Authentication:
 
  * sssd
  * sssd-tools
+ * adcli
+ * realmd
 
 Backup:
 
@@ -96,23 +79,34 @@ Configuration Management:
 Storage:
 
  * ceph
+ * ceph-mds
  * radosgw
- * python-ceph
+ * nfs-ganesha-ceph
 
 Other:
 
+ * anope  # requested by Canonical IS (LP: #1459692)
  * samba-doc-pdf
- * ibmasm-utils
  * rabbitmq-server
  * unzip
- * openvswitch
+ * containerd # for OCF support (LP: #1819761)
+ * runc # for OCF support (LP: #1817336)
+
+Networking:
+
+ * openvswitch-switch
  * openvswitch-switch-dpdk
- * lxd
- * lxd-client
+
+ * ovn-central
+ * ovn-host
 
 OpenStack:
 
  * ubuntu-cloud-keyring # keyring for the Ubuntu Cloud Archive
+
+ * masakari-host-monitor
+ * masakari-api
+ * masakari-engine
 
  * nova-api
  * nova-network
@@ -123,26 +117,30 @@ OpenStack:
  * nova-compute-kvm
  * nova-compute-lxc
  * nova-compute-lxd # James Page LP: #1540597
- * nova-vncproxy
+ * nova-spiceproxy
  * nova-cert
  * nova-scheduler # James Page LP: #1180084
  * nova-conductor
 
+ * swift
  * swift-account
  * swift-container
  * swift-doc
  * swift-object
+ * swift-object-expirer
  * swift-proxy
 
  * glance
 
  * keystone
 
- * python-keystoneclient
- * python-cinderclient
- * python-swiftclient
- * python-glanceclient
- * python-neutronclient
+ * python3-openstackclient
+ * python3-keystoneclient
+ * python3-cinderclient
+ * python3-swiftclient
+ * python3-glanceclient
+ * python3-neutronclient
+ * python3-osc-placement # https://bugs.launchpad.net/bugs/1790921
 
  * ceilometer-collector
  * ceilometer-api
@@ -163,7 +161,9 @@ OpenStack:
  * neutron-linuxbridge-agent
  * neutron-lbaas-agent
  * neutron-metadata-agent
- * neutron-vpn-agent
+ * neutron-ovn-metadata-agent
+
+ * python3-neutron-vpnaas # https://bugs.launchpad.net/bugs/1482765
 
  * heat-engine
  * heat-api
@@ -190,6 +190,8 @@ OpenStack:
 
  * libapache2-mod-auth-mellon # https://bugs.launchpad.net/bugs/1610286
 
+ * placement-api # https://launchpad.net/bugs/1805691
+
 KVM Virtualization Stack:
 # held via virt-host tasks before
 
@@ -212,3 +214,8 @@ IPv6 tools:
 Language Interpreters:
 
  * ruby
+
+Python transitional symlinks:
+
+ * python-dev-is-python3
+ * python-is-python3

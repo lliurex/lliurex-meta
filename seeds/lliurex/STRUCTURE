@@ -1,5 +1,5 @@
 feature follow-recommends
-include neon.bionic
+include neon.focal
 llx-print-server:
 llx-base: llx-print-server
 llx-minimal-desktop:

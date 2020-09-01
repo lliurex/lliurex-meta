@@ -20,10 +20,10 @@
  * autofs
  * awstats
  * acct
- * authbind
+ * authbind # still in use in launchpad, https://lists.ubuntu.com/archives/ubuntu-devel/2019-February/040591.html
  * siege
  * bonnie++
- * aptitude-doc-en
  * sqlite3		# CLI utility, libs in main. nijaba
  * policyrcd-script-zg2 # helps with chroot administration
  * pastebinit
+ * mlocate

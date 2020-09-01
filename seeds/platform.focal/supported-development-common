@@ -24,7 +24,7 @@
  * libc6-prof [amd64 i386 powerpc sparc]
  * libc6.1-prof [ia64]
  * gfortran-multilib
- * libstdc++-7-pic
+ * libstdc++-9-pic
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
  * make-doc
  * cmake
@@ -33,17 +33,15 @@
 
 == Revision Control ==
 
- * bzr
- * bzrtools
  * git
 
 == Package Maintainance ==
 
  * debhelper         # ColinWatson
+ * devscripts
  * dh-make
  * dupload           # ColinWatson
  * lintian
- * pbuilder          # ColinWatson
  * apt-listchanges
  * dput
  * pkgstriptranslations # for removing gettext data on the buildds
@@ -80,6 +78,7 @@
 = Misc =
 
  * util-linux-locales  # contents provided in langpacks, just needs to be held in main
+ * ubuntu-dbgsym-keyring # keyring for the ddebs
 
 = Germinate workarounds =
 

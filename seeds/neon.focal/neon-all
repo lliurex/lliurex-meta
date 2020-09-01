@@ -114,6 +114,17 @@ Task-Test-new-install: skip show
  * kcachegrind
  * kde-dev-utils
  * kio-perldoc
+ * juk
+ * kimagemapeditor
+ * kget
+ * kmix
+ * kmouth
+ * kolf
+ * ksirk
+ * palapeli
+ * sweeper
+ * zeronconf-ioslave
+ * kde-dev-scripts
 
 == kde-extras ==
 
@@ -123,12 +134,10 @@ Task-Test-new-install: skip show
  * partitionmanager
  * konversation
  * kdevelop
- * digikam
  * muon
  * skrooge
  * skanlite
  * kio-gdrive
- * peruse
  * kdevelop-php
  * kdevelop-python
  * smb4k
@@ -143,10 +152,8 @@ Task-Test-new-install: skip show
  * kronometer
  * labplot
  * muon
- * peruse
  * skanlite
  * skrooge
- * zanshin
  * gammaray
  * heaptrack
  * kio-stash
@@ -170,6 +177,7 @@ Task-Test-new-install: skip show
  * sweeper
  * zeronconf-ioslave
  * kde-dev-scripts
+ * kup-backup
 
 == Calligra ==
 

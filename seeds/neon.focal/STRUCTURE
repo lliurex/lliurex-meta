@@ -1,4 +1,4 @@
-include platform.bionic
+include platform.focal
 neon-desktop: desktop-common
 neon-all: neon-desktop
 neon-live: neon-desktop live-common

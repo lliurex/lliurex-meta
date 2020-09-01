@@ -29,7 +29,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * debconf-i18n      # buildd chroots don't need this, but other systems generally do
  * kbd
  * eject             # very popular, useful, small
- * initramfs-tools   # needed for the Ubuntu kernel
  * less
  * locales
  * lsb-release
@@ -52,7 +51,7 @@ These provide various networking services, all should be configured in a client-
 
  * isc-dhcp-client   # LaMontJones
  * iproute2
- * nplan          # foundations-aa-migrating-to-neplan (replaces ifupdown)
+ * netplan.io        # foundations-aa-migrating-to-neplan (replaces ifupdown)
 
  * iputils-ping
  * netcat-openbsd # FabioMassimoDiNitto

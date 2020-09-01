@@ -28,7 +28,6 @@ Task-Test-new-install: install skip
  * pciutils
  * usbutils
  * time
- * (mlocate)
  * (bash-completion)
 
 == Filesystems ==
@@ -44,7 +43,7 @@ These are commonly used filesystem support packages, here because someone settin
 
 These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
 
- * dnsutils       # LaMontJones
+ * bind9-dnsutils       # LaMontJones
  * ftp
  * iptables       # FabioMassimoDiNitto
  * (telnet)
@@ -73,7 +72,6 @@ These are used for debugging problems or examining the system.
  * (apparmor) # load AppArmor policies
  * (plymouth) # splash screen, and boot-time questions
  * (plymouth-theme-ubuntu-text)
- * (ureadahead)           # get things into cache as quickly as possible during boot
 
 == Network ==
 
