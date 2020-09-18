@@ -1,3 +1,9 @@
+lliurex-meta (20.09.18.01) focal; urgency=medium
+
+  * remove temporally gdrive
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 18 Sep 2020 16:46:07 +0200
+
 lliurex-meta (20.09.18) focal; urgency=medium
 
   * Add neon packages
