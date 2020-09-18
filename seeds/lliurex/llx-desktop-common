@@ -104,7 +104,7 @@ libreoffice-gtk3
  * (lliurex-unattended-upgrades)
  * (lliurex-desktop-layout-selector)
  * first-aid-kit
- * epi-gtk
+# * epi-gtk
  * llx-guest
 
 === Zero Center ===
