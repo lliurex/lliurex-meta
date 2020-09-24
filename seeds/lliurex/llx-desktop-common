@@ -131,6 +131,7 @@ libreoffice-gtk3
  * (zero-lliurex-inventory)
  * (zero-lliurex-fritzing)
  * (llx-edition-studio)
+ * (zero-lliurex-nextcloud-client)
 
 == Fonts ==
 
