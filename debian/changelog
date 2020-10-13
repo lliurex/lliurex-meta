@@ -1,3 +1,10 @@
+lliurex-meta (19.07.69) bionic; urgency=medium
+
+  * Add hplip-gui, python3-notify2 as supported.
+  * Add equivs as supported.
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 13 Oct 2020 19:35:13 +0200
+
 lliurex-meta (19.07.68) bionic; urgency=medium
 
   * kmixtest to server and client
