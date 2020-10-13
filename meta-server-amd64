@@ -125,6 +125,7 @@ libwmf-bin
 lliurex-base-files
 lliurex-keyring
 lliurex-menus
+lliurex-sudoers
 locales
 logrotate
 lsb-release

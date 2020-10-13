@@ -101,6 +101,10 @@ libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lliurex-desktops-keeper
+lliurex-disable-discover-indicator
+lliurex-mime-settings
+lliurex-ntpdate
+lliurex-ssh-login
 lshw
 manpages
 memtest86+

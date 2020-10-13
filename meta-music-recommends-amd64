@@ -120,6 +120,9 @@ libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lilypond
 lliurex-desktops-keeper
+lliurex-disable-discover-indicator
+lliurex-mime-settings
+lliurex-ssh-login
 lshw
 manpages
 memtest86+

@@ -13,6 +13,7 @@ language-pack-es-base
 libdrm2
 lliurex-base-files
 lliurex-keyring
+lliurex-sudoers
 net-tools
 nfs-common
 openprinting-ppds

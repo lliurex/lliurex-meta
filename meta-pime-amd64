@@ -123,6 +123,7 @@ linux-headers-generic
 lliurex-base-files
 lliurex-keyring
 lliurex-menus
+lliurex-ssh-login
 locales
 logrotate
 lsb-release
