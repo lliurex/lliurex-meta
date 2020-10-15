@@ -141,3 +141,7 @@ tuxboot
 
  * disable-epoptes-client
 
+== HPLIP ==
+
+ * hplip-gui
+ * python3-notify2
