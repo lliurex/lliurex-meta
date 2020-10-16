@@ -274,6 +274,7 @@ xserver-xorg-input-evdev
 xserver-xorg-input-synaptics
 xserver-xorg-video-intel-native-modesetting
 zero-lliurex-analytics
+zero-lliurex-anydesk
 zero-lliurex-autofirma
 zero-lliurex-chrome
 zero-lliurex-chromecast
