@@ -145,3 +145,7 @@ tuxboot
 
  * hplip-gui
  * python3-notify2
+
+== DEVICE TOOLS ==
+ 
+ * evtest

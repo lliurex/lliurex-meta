@@ -1,3 +1,9 @@
+lliurex-meta (19.07.76) bionic; urgency=medium
+
+  * Added evtest to supported
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 23 Dec 2020 12:31:44 +0100
+
 lliurex-meta (19.07.75) bionic; urgency=medium
 
   * lliurex-adobe-settings to meta

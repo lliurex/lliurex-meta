@@ -155,6 +155,7 @@ etckeeper
 ethdetect
 ethtool
 eviacam
+evtest
 exim4
 exim4-daemon-heavy
 exim4-daemon-light
