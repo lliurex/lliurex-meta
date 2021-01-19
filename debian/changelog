@@ -1,3 +1,9 @@
+lliurex-meta (19.07.77) bionic; urgency=medium
+
+  * Added zero-lliurex-itaca
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 19 Jan 2021 09:22:29 +0100
+
 lliurex-meta (19.07.76) bionic; urgency=medium
 
   * Added evtest to supported
