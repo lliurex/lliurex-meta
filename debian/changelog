@@ -1,3 +1,11 @@
+lliurex-meta (19.07.78) bionic; urgency=medium
+
+  * Added pmb to desktop 
+  * added systemd-unlikedserver to server to allow devices to have ip when
+    unlinked
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 21 Jan 2021 12:56:27 +0100
+
 lliurex-meta (19.07.77) bionic; urgency=medium
 
   * Added zero-lliurex-itaca

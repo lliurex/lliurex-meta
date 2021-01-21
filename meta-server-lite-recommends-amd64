@@ -239,6 +239,7 @@ rsyslog
 snapd
 stacer
 synaptic
+systemd-unlinkedserver
 tcpdump
 telnet
 testdisk
