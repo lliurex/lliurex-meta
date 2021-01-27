@@ -95,16 +95,16 @@ libreoffice-gtk3
  * (lliurex-store)
  * (zero-lliurex-analytics) # 15M
  * (lliurex-java-panel)
-# * (lliurex-gdrive-core)
-# * (lliurex-gdrive-gui)
-# * (lliurex-gdrive-indicator)
+ * (lliurex-gdrive-core)
+ * (lliurex-gdrive-gui)
+ * (lliurex-gdrive-indicator)
  * (lliurex-firefox-settings)
  * (lliurex-on-fire)
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
  * (lliurex-desktop-layout-selector)
  * first-aid-kit
-# * epi-gtk
+ * epi-gtk
  * llx-guest
 
 === Zero Center ===
