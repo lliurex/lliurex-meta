@@ -102,7 +102,6 @@ admin-center-lliurex-mirror
  * (zero-lliurex-moodle)
  * (zero-lliurex-pmb)
  * (zero-lliurex-mirror-redirect)
- * (zero-lliurex-openboard) [amd64]
  * (lliurex-news-installer)
  * (zero-lliurex-blockly-arduino)
  * (zero-lliurex-nextcloud19)

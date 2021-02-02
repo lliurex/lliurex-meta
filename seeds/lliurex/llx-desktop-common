@@ -134,9 +134,17 @@ libreoffice-gtk3
  * (llx-edition-studio)
  * (zero-lliurex-nextcloud-client)
  * (zero-lliurex-anydesk)
+ * (zero-lliurex-technology)
  * (zero-lliurex-starboard)
+ * zero-fp-administrativo
+ * zero-fp-electronica
+ * zero-fp-informatica
+ * zero-lliurex-promethean
  * zero-lliurex-palemoon
  * zero-lliurex-itaca
+ * zero-lliurex-mixxx
+ * bell-scheduler-zerocenter-files
+ * (zero-lliurex-openboard) [amd64]
 
 == Fonts ==
 
