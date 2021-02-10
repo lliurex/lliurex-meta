@@ -1,3 +1,9 @@
+lliurex-meta (20.13.1) focal; urgency=medium
+
+  *  Remove admin-center modules temporally
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 10 Feb 2021 17:05:23 +0100
+
 lliurex-meta (20.13) focal; urgency=medium
 
   * Regenerate metapackage
