@@ -114,8 +114,10 @@ lliurex-java-panel
 lliurex-mime-settings
 lliurex-mirror
 lliurex-moving-core
+lliurex-moving-editor
 lliurex-ntpdate
 lliurex-ssh-login
+lliurex-store
 llx-netinstall
 lshw
 manpages

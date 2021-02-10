@@ -130,8 +130,10 @@ lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-mime-settings
 lliurex-moving-core
+lliurex-moving-editor
 lliurex-ntpdate
 lliurex-ssh-login
+lliurex-store
 lshw
 manpages
 marble

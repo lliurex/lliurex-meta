@@ -19,6 +19,7 @@ libnss-mdns
 libnss-myhostname
 lliurex-cdlocker
 lliurex-moving-core
+lliurex-moving-editor
 lliurex-ntpdate
 lliurex-ssh-login
 lshw

@@ -150,6 +150,7 @@ mime-support
 mount
 mypaint
 n4d
+n4d-cdlocker-client
 n4d-clientvars
 n4d-hostname
 n4d-pamnss
@@ -180,6 +181,7 @@ printer-driver-pnm2ppa
 procps
 psmisc
 python3
+python3-lliurex-store
 qttranslations5-l10n
 rar
 rfkill
