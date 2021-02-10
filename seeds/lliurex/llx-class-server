@@ -88,9 +88,9 @@ syncer-plank
 
  * (lmd-manager-cli)
  * admin-center
- * admin-center-ltsp
- * admin-center-llx-bootmanager
- * admin-center-llx-netinstall
+ admin-center-ltsp
+ admin-center-llx-bootmanager
+ admin-center-llx-netinstall
 
 TODO
 admin-center-lliurex-apt-module
