@@ -1,5 +1,7 @@
 acpi-support
 adwaita-icon-theme
+air-installer
+air-manager
 apparmor
 ark
 avahi-autoipd
@@ -23,6 +25,7 @@ desktop-file-utils
 dmraid
 dolphin
 dolphin-plugins
+dpkgunlocker-gui
 drkonqi-pk-debug-installer
 epoptes
 ethtool
@@ -100,9 +103,15 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
+lliurex-cdlocker
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-gdrive-core
+lliurex-gdrive-gui
+lliurex-gdrive-indicator
+lliurex-java-panel
 lliurex-mime-settings
+lliurex-moving-core
 lliurex-ntpdate
 lliurex-ssh-login
 lshw
@@ -172,6 +181,7 @@ qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qt5-image-formats-plugins
 remmina
+repoman
 rsyslog
 snapd
 synaptic
@@ -202,3 +212,4 @@ whois
 wspanish
 xdg-utils
 xinput-calibrator
+zero-lliurex-inventory

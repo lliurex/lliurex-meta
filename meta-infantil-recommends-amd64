@@ -24,6 +24,7 @@ desktop-file-utils
 dmraid
 dolphin
 dolphin-plugins
+dpkgunlocker-gui
 drkonqi-pk-debug-installer
 ethtool
 exfat-fuse
@@ -107,7 +108,11 @@ libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-gdrive-core
+lliurex-gdrive-gui
+lliurex-gdrive-indicator
 lliurex-hotpotatoes-data
+lliurex-java-panel
 lliurex-mime-settings
 lliurex-ssh-login
 lshw
@@ -182,6 +187,7 @@ qml-module-qtquick-xmllistmodel
 qstopmotion
 qt5-image-formats-plugins
 remmina
+repoman
 ri-li
 rsyslog
 scratch
@@ -218,3 +224,7 @@ whois
 wspanish
 xdg-utils
 xinput-calibrator
+zero-lliurex-arasuite
+zero-lliurex-gearth
+zero-lliurex-inventory
+zero-lliurex-s4a

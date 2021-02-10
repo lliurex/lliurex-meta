@@ -28,6 +28,7 @@ desktop-file-utils
 dmraid
 dolphin
 dolphin-plugins
+dpkgunlocker-gui
 drkonqi-pk-debug-installer
 dvd+rw-tools
 dvgrab
@@ -121,6 +122,10 @@ libreoffice-style-elementary
 lilypond
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-gdrive-core
+lliurex-gdrive-gui
+lliurex-gdrive-indicator
+lliurex-java-panel
 lliurex-mime-settings
 lliurex-ssh-login
 lshw
@@ -197,6 +202,7 @@ qstopmotion
 qt5-image-formats-plugins
 rawtherapee
 remmina
+repoman
 rosegarden
 rsyslog
 scribus
@@ -241,3 +247,4 @@ xdg-utils
 xinput-calibrator
 xjadeo
 xsane
+zero-lliurex-inventory

@@ -1,3 +1,5 @@
+air-installer
+air-manager
 axel
 curl
 dmraid
@@ -15,6 +17,8 @@ iotop
 iperf
 libnss-mdns
 libnss-myhostname
+lliurex-cdlocker
+lliurex-moving-core
 lliurex-ntpdate
 lliurex-ssh-login
 lshw

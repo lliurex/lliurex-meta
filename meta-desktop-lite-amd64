@@ -33,6 +33,7 @@ dosfstools
 e2fsprogs
 ed
 eject
+epi-gtk
 file
 filezilla
 firefox
@@ -120,6 +121,7 @@ libwmf-bin
 lliurex-base-files
 lliurex-keyring
 lliurex-menus
+lliurex-preseed-common
 locales
 logrotate
 lsb-release
@@ -132,6 +134,7 @@ mawk
 mime-support
 mount
 mypaint
+n4d
 neon-hardware-integration
 neon-keyring
 neon-settings-2
@@ -202,4 +205,6 @@ xdg-user-dirs
 xkb-data
 xorg
 zenity
+zero-center
+zero-lliurex-gearth
 zip

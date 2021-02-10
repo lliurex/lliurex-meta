@@ -1,6 +1,8 @@
 acl
 acpid
 adduser
+admin-center-llx-bootmanager
+admin-center-llx-netinstall
 alsa-base
 alsa-utils
 anacron
@@ -17,6 +19,7 @@ bzip2
 ca-certificates
 ca-certificates
 cifs-utils
+classroom-mountmode
 console-setup
 cpio
 cron
@@ -34,6 +37,7 @@ dosfstools
 e2fsprogs
 ed
 eject
+epi-gtk
 file
 filezilla
 firefox
@@ -64,6 +68,9 @@ gimp-help-es
 gpart
 gwenview
 hdparm
+home-linker
+home-linker-display-manager
+home-linker-ldm-sudoers
 imagination
 info
 init
@@ -119,9 +126,14 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 lliurex-base-files
+lliurex-guard-data
 lliurex-keyring
 lliurex-menus
+lliurex-preseed-common
+lliurex-preseed-libnss-ldapd
+lliurex-preseed-nslcd
 lliurex-sudoers
+llx-pam-configs
 locales
 logrotate
 lsb-release
@@ -134,6 +146,15 @@ mawk
 mime-support
 mount
 mypaint
+n4d
+n4d-apache
+n4d-autofs
+n4d-classroom-mountmode
+n4d-hostname
+n4d-ldap
+n4d-lliurex-mirror
+n4d-network
+n4d-pamnss
 neon-hardware-integration
 neon-keyring
 neon-settings-2
@@ -190,6 +211,7 @@ ubuntu-minimal
 ubuntu-release-upgrader-qt
 ubuntu-standard
 udev
+umounter-systemd
 unrar
 unzip
 usbutils
@@ -207,4 +229,6 @@ xdg-user-dirs
 xkb-data
 xorg
 zenity
+zero-center
+zero-lliurex-gearth
 zip
