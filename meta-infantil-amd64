@@ -121,6 +121,7 @@ libu2f-udev
 libwmf-bin
 lliurex-base-files
 lliurex-desktop-defaults
+lliurex-grub-custom
 lliurex-infantil-defaults
 lliurex-keyring
 lliurex-menus

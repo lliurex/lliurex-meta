@@ -121,6 +121,7 @@ libwmf-bin
 linux-lowlatency
 lliurex-base-files
 lliurex-desktop-defaults
+lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
 lliurex-musica-defaults

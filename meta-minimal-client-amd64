@@ -18,6 +18,7 @@ language-pack-es-base
 libdrm2
 lliurex-base-files
 lliurex-classroom-defaults
+lliurex-grub-custom
 lliurex-keyring
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd

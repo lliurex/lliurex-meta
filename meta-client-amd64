@@ -133,6 +133,7 @@ libwmf-bin
 lliurex-base-files
 lliurex-classroom-defaults
 lliurex-desktop-defaults
+lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
