@@ -120,8 +120,10 @@ libu2f-udev
 libwmf-bin
 linux-lowlatency
 lliurex-base-files
+lliurex-desktop-defaults
 lliurex-keyring
 lliurex-menus
+lliurex-musica-defaults
 lliurex-preseed-common
 locales
 logrotate

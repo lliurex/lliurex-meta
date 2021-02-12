@@ -122,6 +122,7 @@ libu2f-udev
 libwmf-bin
 linux-headers-generic
 lliurex-base-files
+lliurex-desktop-defaults
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common

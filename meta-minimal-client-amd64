@@ -1,5 +1,6 @@
 acl
 acpid
+bell-scheduler-zerocenter-files
 ca-certificates
 cifs-utils
 classroom-mountmode-override
@@ -16,6 +17,7 @@ language-pack-es
 language-pack-es-base
 libdrm2
 lliurex-base-files
+lliurex-classroom-defaults
 lliurex-keyring
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd

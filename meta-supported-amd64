@@ -39,6 +39,7 @@ barbican-api
 barbican-keystone-listener
 barbican-worker
 base-installer
+bell-scheduler
 bind9
 bind9-dnsutils
 bison

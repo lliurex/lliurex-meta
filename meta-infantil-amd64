@@ -120,6 +120,8 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 lliurex-base-files
+lliurex-desktop-defaults
+lliurex-infantil-defaults
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
@@ -214,5 +216,6 @@ zero-lliurex-dvdcss
 zero-lliurex-fonts
 zero-lliurex-gearth
 zero-lliurex-hotpotatoes
+zero-lliurex-jclic-biblio
 zero-lliurex-recursos
 zip
