@@ -92,7 +92,7 @@ libreoffice-gtk3
  * (zero-lliurex-flash)
  * zero-center
  * python3-lliurex-store
- * (lliurex-store)
+ (lliurex-store)
  * (zero-lliurex-analytics) # 15M
  * (lliurex-java-panel)
  * (lliurex-gdrive-core)
