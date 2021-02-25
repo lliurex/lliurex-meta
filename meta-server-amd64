@@ -132,6 +132,7 @@ lliurex-base-files
 lliurex-classroom-defaults
 lliurex-desktop-defaults
 lliurex-grub-custom
+lliurex-guard
 lliurex-guard-data
 lliurex-keyring
 lliurex-menus
@@ -157,14 +158,18 @@ n4d-apache
 n4d-autofs
 n4d-classroom-mountmode
 n4d-dnsmasq
+n4d-epoptes-server
 n4d-hostname
 n4d-ldap
+n4d-lliurex-base
+n4d-lliurex-guard
 n4d-lliurex-mirror
 n4d-netfolders
 n4d-network
 n4d-nfs
 n4d-pamnss
 n4d-samba
+n4d-shutdowner-server
 neon-hardware-integration
 neon-keyring
 neon-settings-2
@@ -244,6 +249,7 @@ zenity
 zero-center
 zero-lliurex-cmaptools
 zero-lliurex-dvdcss
+zero-lliurex-flavours
 zero-lliurex-fonts
 zero-lliurex-fritzing
 zero-lliurex-gearth

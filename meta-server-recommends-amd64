@@ -134,6 +134,7 @@ lliurex-mirror
 lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
+lliurex-shutdowner
 lliurex-ssh-login
 llx-netinstall
 lshw

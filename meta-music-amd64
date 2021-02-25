@@ -139,6 +139,7 @@ mime-support
 mount
 mypaint
 n4d
+n4d-lliurex-base
 neon-hardware-integration
 neon-keyring
 neon-settings-2
@@ -212,5 +213,6 @@ xorg
 zenity
 zero-center
 zero-lliurex-dvdcss
+zero-lliurex-flavours
 zero-lliurex-gearth
 zip

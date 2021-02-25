@@ -21,6 +21,7 @@ lliurex-cdlocker
 lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
+lliurex-shutdowner
 lliurex-ssh-login
 lshw
 printer-driver-foo2zjs

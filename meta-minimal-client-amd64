@@ -19,6 +19,7 @@ libdrm2
 lliurex-base-files
 lliurex-classroom-defaults
 lliurex-grub-custom
+lliurex-guard
 lliurex-keyring
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd
@@ -28,8 +29,11 @@ llx-pam-configs
 n4d
 n4d-cdlocker-client
 n4d-clientvars
+n4d-epoptes-client
 n4d-hostname
+n4d-lliurex-base
 n4d-pamnss
+n4d-shutdowner-client
 net-tools
 nfs-common
 openprinting-ppds

@@ -128,6 +128,7 @@ lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
+lliurex-shutdowner
 locales
 logrotate
 lsb-release
@@ -141,6 +142,8 @@ mime-support
 mount
 mypaint
 n4d
+n4d-lliurex-base
+n4d-shutdowner-server
 neon-hardware-integration
 neon-keyring
 neon-settings-2
@@ -216,6 +219,7 @@ zenity
 zero-center
 zero-lliurex-cmaptools
 zero-lliurex-dvdcss
+zero-lliurex-flavours
 zero-lliurex-fonts
 zero-lliurex-gearth
 zero-lliurex-hotpotatoes
