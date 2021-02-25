@@ -34,7 +34,7 @@ meta-server: neon-desktop llx-class-server llx-class-edu-server llx-class-edu-co
 meta-infantil: neon-desktop llx-desktop-common llx-edu-apps-infantil-primaria llx-recursos
 meta-pime: neon-desktop  llx-desktop-common llx-pime
 meta-music: neon-desktop llx-desktop-common llx-music
-meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
 meta-server-lite: neon-desktop llx-desktop-common llx-class-server llx-server-lite
 meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom llx-class-client llx-client-lite
 meta-desktop-lite: neon-desktop llx-desktop-common llx-desktop-lite
+meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
