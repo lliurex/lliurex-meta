@@ -43,6 +43,8 @@
  * filezilla
  * transmission-qt
  * firefox
+ * tigervnc-standalone-server
+ * vnc-disable-composite
  * (libreoffice)
  * (libreoffice-sdbc-hsqldb)
  * (thunderbird)
