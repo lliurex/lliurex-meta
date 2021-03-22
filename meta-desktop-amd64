@@ -10,6 +10,7 @@ ark
 audacity
 baloo-kf5
 bc
+bell-scheduler-zerocenter-files
 blender
 breeze
 busybox-static
@@ -229,6 +230,9 @@ xorg
 xserver-xorg-video-intel-arbiter
 zenity
 zero-center
+zero-fp-administrativo
+zero-fp-electronica
+zero-fp-informatica
 zero-lliurex-adobereader
 zero-lliurex-cmaptools
 zero-lliurex-dvdcss
@@ -238,7 +242,9 @@ zero-lliurex-gearth
 zero-lliurex-hotpotatoes
 zero-lliurex-itaca
 zero-lliurex-jclic-biblio
+zero-lliurex-mixxx
 zero-lliurex-palemoon
 zero-lliurex-pmb
+zero-lliurex-promethean
 zero-lliurex-recursos
 zip

@@ -53,6 +53,12 @@
  * pencil
  * obs-studio
  * gnome-orca
+ * tigervnc-standalone-server
+ * vnc-disable-composite
+ 
+== Services ===
+
+ * websockify
 
 TODO
 tuxboot
