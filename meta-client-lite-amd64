@@ -34,6 +34,8 @@ distro-release-notifier
 dmidecode
 docker-neon
 dosfstools
+dr-valentin
+dr-valentin-client-common
 e2fsprogs
 ed
 eject
@@ -135,7 +137,10 @@ lliurex-menus
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
+lliurex-quota
 lliurex-sudoers
+lliurex-up
+llum
 llx-pam-configs
 locales
 logrotate
@@ -151,6 +156,7 @@ mount
 mypaint
 n4d
 n4d-cdlocker-client
+n4d-client-exe-consumer
 n4d-clientvars
 n4d-epoptes-client
 n4d-hostname
@@ -231,11 +237,13 @@ xkb-data
 xorg
 zenity
 zero-center
+zero-lliurex-adobereader
 zero-lliurex-dvdcss
 zero-lliurex-flavours
 zero-lliurex-fritzing
 zero-lliurex-gearth
 zero-lliurex-mixxx
 zero-lliurex-promethean
+zero-lliurex-smart
 zero-lliurex-technology
 zip

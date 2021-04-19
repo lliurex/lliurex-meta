@@ -1,6 +1,8 @@
 acl
 acpid
 adduser
+admin-center
+ainur
 alsa-base
 alsa-utils
 anacron
@@ -34,6 +36,8 @@ distro-release-notifier
 dmidecode
 docker-neon
 dosfstools
+dr-valentin
+dr-valentin-server-common
 e2fsprogs
 ed
 eject
@@ -134,12 +138,18 @@ lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-guard
 lliurex-guard-data
+lliurex-jclic-aula
 lliurex-keyring
 lliurex-menus
+lliurex-nextcloud
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
+lliurex-quota
 lliurex-sudoers
+lliurex-up
+lliurex-www
+llum
 llx-pam-configs
 locales
 logrotate
@@ -247,6 +257,7 @@ xkb-data
 xorg
 zenity
 zero-center
+zero-lliurex-adobereader
 zero-lliurex-cmaptools
 zero-lliurex-dvdcss
 zero-lliurex-flavours
@@ -258,6 +269,7 @@ zero-lliurex-jclic-biblio
 zero-lliurex-mixxx
 zero-lliurex-promethean
 zero-lliurex-recursos
+zero-lliurex-smart
 zero-lliurex-technology
 zero-server-wizard
 zip

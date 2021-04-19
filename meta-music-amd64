@@ -30,6 +30,7 @@ distro-release-notifier
 dmidecode
 docker-neon
 dosfstools
+dr-valentin
 e2fsprogs
 ed
 eject
@@ -126,6 +127,7 @@ lliurex-keyring
 lliurex-menus
 lliurex-musica-defaults
 lliurex-preseed-common
+lliurex-up
 locales
 logrotate
 lsb-release
@@ -212,6 +214,7 @@ xkb-data
 xorg
 zenity
 zero-center
+zero-lliurex-adobereader
 zero-lliurex-dvdcss
 zero-lliurex-flavours
 zero-lliurex-gearth

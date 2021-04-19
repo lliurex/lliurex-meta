@@ -104,9 +104,12 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
+lliurex-backup
 lliurex-cdlocker
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-easy-sites
+lliurex-easysites-zerocenter-files
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
@@ -115,8 +118,13 @@ lliurex-mime-settings
 lliurex-mirror
 lliurex-moving-core
 lliurex-moving-editor
+lliurex-news-installer
 lliurex-ntpdate
+lliurex-on-fire
+lliurex-quota-gui
+lliurex-rsyslog-filters
 lliurex-shutdowner
+lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 llx-netinstall
 lshw
@@ -130,6 +138,9 @@ mythes-ca
 mythes-en-us
 mythes-es
 n4d-cdlocker-server
+n4d-client-exe-manager
+n4d-cups
+n4d-easysites
 n4d-moving-profiles
 n4d-mysql
 n4d-nat-frontend
@@ -158,6 +169,7 @@ plasma-runners-addons
 plasma-thunderbolt
 plasma-vault
 plasma-wallpapers-addons
+plasma-widget-lliurex-quota
 plasma-widgets-addons
 plasma-workspace-wayland
 plymouth
@@ -225,8 +237,10 @@ xinput-calibrator
 xrdp
 zero-lliurex-analytics
 zero-lliurex-autofirma
+zero-lliurex-blockly-arduino
 zero-lliurex-chrome
 zero-lliurex-chromecast
+zero-lliurex-dni
 zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-fritzing
@@ -237,6 +251,8 @@ zero-lliurex-moodle
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-openmeetings
+zero-lliurex-pmb
 zero-lliurex-skype
+zero-lliurex-smart
 zero-lliurex-spotify
 zero-lliurex-wine64

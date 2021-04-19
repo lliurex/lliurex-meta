@@ -32,6 +32,7 @@ dmidecode
 docker-neon
 dosbox
 dosfstools
+dr-valentin
 e2fsprogs
 ed
 eject
@@ -128,6 +129,7 @@ lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-ssh-login
+lliurex-up
 locales
 logrotate
 lsb-release
@@ -219,6 +221,8 @@ xkb-data
 xorg
 zenity
 zero-center
+zero-lliurex-adobereader
+zero-lliurex-dni
 zero-lliurex-dvdcss
 zero-lliurex-flavours
 zero-lliurex-gearth

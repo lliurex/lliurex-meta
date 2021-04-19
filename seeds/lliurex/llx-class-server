@@ -103,6 +103,6 @@ admin-center-lliurex-mirror
  * (zero-lliurex-openboard) [amd64]
  * (lliurex-news-installer)
  * (zero-lliurex-blockly-arduino)
- * (nextcloud-installer)
+ * (lliurex-nextcloud-installer)
  * (zero-lliurex-jitsi)
  * (zero-lliurex-openmeetings)

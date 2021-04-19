@@ -107,6 +107,7 @@ lliurex-gdrive-gui
 lliurex-gdrive-indicator
 lliurex-java-panel
 lliurex-mime-settings
+lliurex-on-fire
 lliurex-ssh-login
 lshw
 manpages
@@ -212,6 +213,7 @@ zero-lliurex-analytics
 zero-lliurex-autofirma
 zero-lliurex-chrome
 zero-lliurex-chromecast
+zero-lliurex-dni
 zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-fritzing
@@ -221,5 +223,6 @@ zero-lliurex-midicss
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-skype
+zero-lliurex-smart
 zero-lliurex-spotify
 zero-lliurex-wine64

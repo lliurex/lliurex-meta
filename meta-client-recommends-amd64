@@ -123,6 +123,8 @@ libreoffice-style-elementary
 lliurex-cdlocker
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-easy-sites
+lliurex-easysites-zerocenter-files
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
@@ -132,7 +134,11 @@ lliurex-mime-settings
 lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
+lliurex-on-fire
+lliurex-quota-gui
+lliurex-rsyslog-filters
 lliurex-shutdowner
+lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lshw
 manpages
@@ -174,6 +180,7 @@ plasma-runners-addons
 plasma-thunderbolt
 plasma-vault
 plasma-wallpapers-addons
+plasma-widget-lliurex-quota
 plasma-widgets-addons
 plasma-workspace-wayland
 plymouth
@@ -257,6 +264,7 @@ zero-lliurex-arasuite
 zero-lliurex-autofirma
 zero-lliurex-chrome
 zero-lliurex-chromecast
+zero-lliurex-dni
 zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-freecad
@@ -269,7 +277,9 @@ zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-pyromaths
 zero-lliurex-s4a
+zero-lliurex-scratch3
 zero-lliurex-skype
+zero-lliurex-smart
 zero-lliurex-spotify
 zero-lliurex-stellarium
 zero-lliurex-wine64

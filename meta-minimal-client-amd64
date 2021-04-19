@@ -8,6 +8,8 @@ client-mount
 cups
 cups-bsd
 cups-client
+dr-valentin
+dr-valentin-client-common
 epoptes-client
 foomatic-db-compressed-ppds
 home-linker
@@ -24,10 +26,13 @@ lliurex-keyring
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
+lliurex-quota
 lliurex-sudoers
+llum
 llx-pam-configs
 n4d
 n4d-cdlocker-client
+n4d-client-exe-consumer
 n4d-clientvars
 n4d-epoptes-client
 n4d-hostname
@@ -50,4 +55,5 @@ wpasupplicant
 zero-lliurex-fritzing
 zero-lliurex-mixxx
 zero-lliurex-promethean
+zero-lliurex-smart
 zero-lliurex-technology
