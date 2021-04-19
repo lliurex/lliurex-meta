@@ -1,3 +1,9 @@
+lliurex-meta (21.4.19) focal; urgency=medium
+
+  * Beta preview
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 19 Apr 2021 13:45:36 +0200
+
 lliurex-meta (20.13.5) focal; urgency=medium
 
   * Add poinstaller to supported

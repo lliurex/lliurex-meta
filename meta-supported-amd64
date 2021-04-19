@@ -668,7 +668,6 @@ neutron-metadata-agent
 neutron-openvswitch-agent
 neutron-ovn-metadata-agent
 neutron-server
-nextcloud
 nfs-ganesha-ceph
 nginx
 nginx-core
