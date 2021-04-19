@@ -4,10 +4,6 @@ This seed is needed to add depends into pool from zero-installers
 
  * oracle-java11-installer
 
-= Owncloud =
-
- * nextcloud
-
 = OpenMeetings = 
 
  * lliurex-openmeetings
