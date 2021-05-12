@@ -1,3 +1,10 @@
+lliurex-meta (21.5.12) focal; urgency=medium
+
+  * Remove preschool resources
+  * add calamares modules and settings
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 12 May 2021 17:16:29 +0200
+
 lliurex-meta (21.4.19) focal; urgency=medium
 
   * Beta preview
