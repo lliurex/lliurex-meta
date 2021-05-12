@@ -32,6 +32,7 @@ extundelete
 ffmpeg
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 fonts-indic
 fonts-kacst-one
@@ -100,15 +101,20 @@ libreoffice-l10n-en-gb
 libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
+lliurex-certificates
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-firefox-settings
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
 lliurex-java-panel
+lliurex-journald-settings
 lliurex-mime-settings
 lliurex-on-fire
+lliurex-perfilreset
 lliurex-ssh-login
+lliurex-statistics
 lshw
 manpages
 memtest86+
@@ -186,6 +192,7 @@ telnet
 testdisk
 thunderbird
 thunderbird-locale-ca
+thunderbird-locale-ca-va
 thunderbird-locale-en
 thunderbird-locale-en-gb
 thunderbird-locale-en-us

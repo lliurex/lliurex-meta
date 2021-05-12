@@ -128,9 +128,13 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
+lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-defaults
+lliurex-common-utils
+lliurex-cssh
 lliurex-desktop-defaults
+lliurex-freeradius
 lliurex-grub-custom
 lliurex-guard
 lliurex-guard-data
@@ -144,6 +148,7 @@ lliurex-sudoers
 lliurex-up
 lliurex-www
 llum
+llx-guest
 llx-pam-configs
 locales
 logrotate
@@ -163,6 +168,7 @@ n4d-autofs
 n4d-classroom-mountmode
 n4d-dnsmasq
 n4d-epoptes-server
+n4d-freeradius
 n4d-hostname
 n4d-ldap
 n4d-lliurex-base
@@ -173,6 +179,7 @@ n4d-network
 n4d-nfs
 n4d-pamnss
 n4d-samba
+n4d-server-plugins
 n4d-shutdowner-server
 neon-hardware-integration
 neon-keyring
@@ -221,6 +228,7 @@ spice-vdagent
 strace
 sudo
 systemsettings
+telegram-installer
 time
 transmission-qt
 tzdata
@@ -250,6 +258,9 @@ xkb-data
 xorg
 zenity
 zero-center
+zero-fp-administrativo
+zero-fp-electronica
+zero-fp-informatica
 zero-lliurex-adobereader
 zero-lliurex-dvdcss
 zero-lliurex-flavours

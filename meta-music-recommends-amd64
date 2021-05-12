@@ -42,6 +42,7 @@ ffmpeg
 ffmpeg2theora
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 fontforge
 fonts-indic
@@ -120,15 +121,20 @@ libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lilypond
+lliurex-certificates
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-firefox-settings
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
 lliurex-java-panel
+lliurex-journald-settings
 lliurex-mime-settings
 lliurex-on-fire
+lliurex-perfilreset
 lliurex-ssh-login
+lliurex-statistics
 lshw
 manpages
 memtest86+
@@ -217,6 +223,7 @@ telnet
 testdisk
 thunderbird
 thunderbird-locale-ca
+thunderbird-locale-ca-va
 thunderbird-locale-en
 thunderbird-locale-en-gb
 thunderbird-locale-en-us

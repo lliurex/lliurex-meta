@@ -132,8 +132,11 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
+lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-defaults
+lliurex-common-utils
+lliurex-cssh
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-guard
@@ -147,6 +150,7 @@ lliurex-quota
 lliurex-sudoers
 lliurex-up
 llum
+llx-guest
 llx-pam-configs
 locales
 logrotate
@@ -214,6 +218,7 @@ spice-vdagent
 strace
 sudo
 systemsettings
+telegram-installer
 time
 transmission-qt
 tuxmath
@@ -244,6 +249,9 @@ xkb-data
 xorg
 zenity
 zero-center
+zero-fp-administrativo
+zero-fp-electronica
+zero-fp-informatica
 zero-lliurex-adobereader
 zero-lliurex-cmaptools
 zero-lliurex-dvdcss

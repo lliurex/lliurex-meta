@@ -18,8 +18,11 @@ ipxe
 language-pack-es
 language-pack-es-base
 libdrm2
+lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-defaults
+lliurex-common-utils
+lliurex-cssh
 lliurex-grub-custom
 lliurex-guard
 lliurex-keyring
@@ -52,6 +55,9 @@ unrar
 vim
 wireless-tools
 wpasupplicant
+zero-fp-administrativo
+zero-fp-electronica
+zero-fp-informatica
 zero-lliurex-fritzing
 zero-lliurex-mixxx
 zero-lliurex-promethean

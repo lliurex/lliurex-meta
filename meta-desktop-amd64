@@ -123,7 +123,9 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
+lliurex-apt-divert
 lliurex-base-files
+lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-keyring
@@ -131,6 +133,7 @@ lliurex-menus
 lliurex-preseed-common
 lliurex-shutdowner
 lliurex-up
+llx-guest
 locales
 logrotate
 lsb-release
@@ -190,6 +193,7 @@ spice-vdagent
 strace
 sudo
 systemsettings
+telegram-installer
 time
 transmission-qt
 tuxmath

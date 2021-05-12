@@ -120,7 +120,9 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
+lliurex-apt-divert
 lliurex-base-files
+lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-infantil-defaults
@@ -128,6 +130,7 @@ lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-up
+llx-guest
 locales
 logrotate
 lsb-release
@@ -172,6 +175,11 @@ python3-lliurex-store
 qttranslations5-l10n
 rar
 rfkill
+rsc-animals-vertebrats
+rsc-educacionespecial
+rsc-jclics
+rsc-matematicas3
+rsc-ser-pensar-conviure-fer
 rsync
 scite
 screen
@@ -186,6 +194,7 @@ spice-vdagent
 strace
 sudo
 systemsettings
+telegram-installer
 time
 transmission-qt
 tuxmath
