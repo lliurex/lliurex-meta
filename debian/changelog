@@ -1,3 +1,9 @@
+lliurex-meta (21.5.13) focal; urgency=medium
+
+  * Sync with neon and focal seeds
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 13 May 2021 12:10:01 +0200
+
 lliurex-meta (21.5.12) focal; urgency=medium
 
   * Remove preschool resources
