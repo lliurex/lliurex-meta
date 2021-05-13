@@ -78,7 +78,6 @@ Fonts:
  * (milou)
  * (plasma-nm)
  * (kde-config-sddm)
- * (user-manager)
  * (plasma-pa)
  * (plymouth-theme-breeze)
  * (grub-theme-breeze)
@@ -87,6 +86,10 @@ Fonts:
  * (plasma-workspace-wayland)
  * (plasma-browser-integration)
  * (plasma-thunderbolt)
+ * (plasma-disks)
+ * (plasma-firewall)
+ * (plasma-systemmonitor)
+ * (qml-module-org-kde-breeze)
 
 = Applications
 
@@ -103,6 +106,7 @@ Fonts:
  * (firefox) # needs GTK fixed up
  * (kdialog)
  * (kdegraphics-thumbnailers)
+ * (kio-fuse)
 
 = Other =
 
@@ -136,6 +140,9 @@ Fonts:
  * distro-release-notifier
  * ubuntu-release-upgrader-qt
  * (appimagelauncher)
+ * (libappimage0) # from ubuntu needed by some appimages
+ * (kde-nomodeset) # GUI to deal with the (Safe Graphics) boot mode on ISO + install
+ * (neon-configure-inotify) # configures inotify limits on linux<5.11
 
 == Blacklist ==
 

@@ -125,6 +125,9 @@ Task-Test-new-install: skip show
  * sweeper
  * zeronconf-ioslave
  * kde-dev-scripts
+ * kbackup
+ * kopete
+ * neochat
 
 == kde-extras ==
 
