@@ -23,6 +23,7 @@
  * ec2-hibinit-agent # EC2
  * ec2-instance-connect # EC2
  * gce-compute-image-packages # Google Compute Engine
+ * google-osconfig-agent # Google Compute Engine
  * walinuxagent
  * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680
  * rax-nova-agent
@@ -31,6 +32,7 @@
  * lxd-installer # installed by livecd-rootfs in minimized cloud images
  * sysfsutils
  * cloud-initramfs-rooturl # maas images initrd uses this
+ * nvme-cli # GKE (LP: #1889688)
 
 = Architecture specific packages =
 
