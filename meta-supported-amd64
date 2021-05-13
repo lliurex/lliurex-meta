@@ -188,6 +188,7 @@ glance
 gnome-orca
 gnu-efi
 gobi-loader
+google-osconfig-agent
 gpgv
 gpgv-udeb
 gpsd
@@ -201,7 +202,9 @@ grub-efi-amd64-bin
 grub-efi-amd64-signed
 grub-efi-amd64-signed
 grub-efi-amd64-signed
+grub-efi-amd64-signed
 grub-efi-ia32
+grub-ieee1275-bin
 grub-installer
 grub-legacy-ec2
 grub-pc
@@ -228,6 +231,7 @@ initrd-preseed
 installation-guide-amd64
 installation-locale
 iotop
+ipmitool
 iproute2
 iptables
 iputils-ping
@@ -690,6 +694,7 @@ nut
 nut-cgi
 nut-snmp
 nvidia-settings
+nvme-cli
 obs-studio
 ocrfeeder
 oem-config-udeb
@@ -747,6 +752,7 @@ procmail
 procps
 psmisc
 pv
+pxelinux
 pxelinux
 python-bsddb3-doc
 python-dev-is-python3
@@ -822,6 +828,7 @@ rescue-mode
 rootskel
 rrdtool
 rsync
+rsyslog-gnutls
 rtmpdump
 ruby
 runc
@@ -835,6 +842,7 @@ secureboot-db
 sensible-utils
 setserial
 shim
+shim-signed
 shim-signed
 shim-signed
 siege
@@ -860,6 +868,7 @@ swift-object-expirer
 swift-proxy
 synfigstudio
 sysfsutils
+syslinux-common
 tdsodbc
 telegram-desktop
 terminator
