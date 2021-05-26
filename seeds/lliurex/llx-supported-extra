@@ -23,6 +23,14 @@
  * lmd-client
  * jwm
 
+= JAVA = 
+
+ * openjdk-8-jre
+ * openjdk-11-jre
+ * openjdk-13-jre
+ * openjdk-14-jre
+ * openjdk-16-jre
+
 = Apps = 
 
  * llixhoot
@@ -52,6 +60,8 @@
  * pencil
  * obs-studio
  * gnome-orca
+ * stellarium
+ * winetricks 
 
 TODO
 tuxboot
@@ -131,6 +141,7 @@ tuxboot
  * libmediainfo0v5
  * libxml-xpath-perl
  * python3-wxgtk4.0
+ * libgconf-2-4
 
 == PIME ==
 

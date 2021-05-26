@@ -270,6 +270,7 @@ libdbd-pgsql
 libdbd-sqlite3
 libfile-rsyncp-perl
 libfribidi0-udeb
+libgconf-2-4
 libgd-graph-perl
 libgd3
 libgsf-1-114
@@ -693,6 +694,11 @@ nvidia-settings
 obs-studio
 ocrfeeder
 oem-config-udeb
+openjdk-11-jre
+openjdk-13-jre
+openjdk-14-jre
+openjdk-16-jre
+openjdk-8-jre
 openscad
 openssh-client-udeb
 openstack-dashboard
@@ -845,6 +851,7 @@ squashfs-tools
 squid
 sssd
 sssd-tools
+stellarium
 strace
 strace-udeb
 strongswan
@@ -900,6 +907,7 @@ wget-udeb
 whiptail
 whois
 wine
+winetricks
 wireless-tools-udeb
 wmctrl
 xe-guest-utilities

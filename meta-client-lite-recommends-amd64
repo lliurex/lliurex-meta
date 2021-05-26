@@ -128,6 +128,7 @@ lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lliurex-statistics
+lliurex-unattended-upgrades
 lshw
 manpages
 memtest86+

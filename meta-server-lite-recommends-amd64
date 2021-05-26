@@ -133,6 +133,7 @@ lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lliurex-statistics
+lliurex-unattended-upgrades
 llx-netinstall
 llx-network-config
 lshw
@@ -260,6 +261,7 @@ zero-lliurex-inventory
 zero-lliurex-jitsi
 zero-lliurex-krita
 zero-lliurex-midicss
+zero-lliurex-mirror-redirect
 zero-lliurex-moodle
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
