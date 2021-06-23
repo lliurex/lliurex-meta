@@ -149,6 +149,8 @@ lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lliurex-statistics
+lliurex-tuxpaint-stamps
+lliurex-unattended-upgrades
 lshw
 manpages
 marble
