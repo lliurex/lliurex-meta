@@ -36,6 +36,7 @@ kmod
 language-selector-common
 less
 libpam-systemd
+lliurex-live-fixes
 locales
 logrotate
 lsb-release

@@ -125,6 +125,7 @@ libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lilypond
 lliurex-certificates
+lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
 lliurex-firefox-settings
@@ -138,7 +139,9 @@ lliurex-on-fire
 lliurex-perfilreset
 lliurex-ssh-login
 lliurex-statistics
+lliurex-store
 lliurex-unattended-upgrades
+llx-edition-studio
 lshw
 manpages
 memtest86+

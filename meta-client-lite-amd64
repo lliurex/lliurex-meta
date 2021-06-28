@@ -30,6 +30,7 @@ debconf
 debconf-i18n
 debconf-kde-helper
 digikam
+disable-apparmor
 distro-release-notifier
 dmidecode
 docker-neon
@@ -44,6 +45,7 @@ epoptes-client
 file
 filezilla
 firefox
+first-aid-kit
 fonts-breip
 fonts-cantarell
 fonts-dejavu-core
@@ -71,6 +73,7 @@ gimp-help-es
 gpart
 gwenview
 hdparm
+home-eraser-client
 home-linker
 home-linker-display-manager
 imagination
@@ -130,8 +133,11 @@ libu2f-udev
 libwmf-bin
 lliurex-apt-divert
 lliurex-base-files
+lliurex-classroom-env-configuration
+lliurex-client-env-configuration
 lliurex-common-utils
 lliurex-cssh
+lliurex-cups-client
 lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-guard
@@ -140,7 +146,10 @@ lliurex-menus
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
+lliurex-profile-d
+lliurex-profile-d-class
 lliurex-quota
+lliurex-remote-installer-client
 lliurex-sudoers
 lliurex-up
 llum
@@ -166,6 +175,8 @@ n4d-epoptes-client
 n4d-hostname
 n4d-lliurex-base
 n4d-pamnss
+n4d-printa-client
+n4d-printa-server
 n4d-shutdowner-client
 neon-hardware-integration
 neon-keyring
@@ -190,6 +201,11 @@ pm-utils
 policykit-1
 popularity-contest
 powerdevil
+printa-backend
+printa-client
+printa-common-data
+printa-printer-config
+printa-users-manager
 printer-driver-pnm2ppa
 procps
 psmisc

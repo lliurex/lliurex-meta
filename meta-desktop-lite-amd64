@@ -38,6 +38,7 @@ epi-gtk
 file
 filezilla
 firefox
+first-aid-kit
 fonts-breip
 fonts-cantarell
 fonts-dejavu-core
@@ -127,6 +128,7 @@ lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
+lliurex-profile-d
 lliurex-shutdowner
 lliurex-up
 llx-guest

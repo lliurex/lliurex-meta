@@ -2,6 +2,9 @@ acl
 acpid
 adduser
 admin-center
+admin-center-lliurex-mirror
+admin-center-llx-bootmanager
+admin-center-llx-netinstall
 ainur
 alsa-base
 alsa-utils
@@ -31,6 +34,7 @@ debconf
 debconf-i18n
 debconf-kde-helper
 digikam
+disable-apparmor
 distro-release-notifier
 dmidecode
 docker-neon
@@ -44,6 +48,7 @@ epi-gtk
 file
 filezilla
 firefox
+first-aid-kit
 fonts-breip
 fonts-cantarell
 fonts-dejavu-core
@@ -71,6 +76,8 @@ gimp-help-es
 gpart
 gwenview
 hdparm
+home-eraser-gui
+home-eraser-server
 home-linker
 home-linker-display-manager
 home-linker-ldm-sudoers
@@ -131,6 +138,7 @@ libwmf-bin
 lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-defaults
+lliurex-classroom-env-configuration
 lliurex-common-utils
 lliurex-cssh
 lliurex-desktop-defaults
@@ -143,6 +151,8 @@ lliurex-menus
 lliurex-preseed-common
 lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
+lliurex-profile-d
+lliurex-profile-d-class
 lliurex-quota
 lliurex-sudoers
 lliurex-up
@@ -178,6 +188,8 @@ n4d-netfolders
 n4d-network
 n4d-nfs
 n4d-pamnss
+n4d-printa-client
+n4d-printa-server
 n4d-samba
 n4d-server-plugins
 n4d-shutdowner-server
@@ -206,6 +218,11 @@ pm-utils
 policykit-1
 popularity-contest
 powerdevil
+printa-backend
+printa-client
+printa-common-data
+printa-printer-config
+printa-users-manager
 printer-driver-pnm2ppa
 procps
 psmisc

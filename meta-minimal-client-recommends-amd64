@@ -1,5 +1,4 @@
-air-installer
-air-manager
+admin-center-zerolink
 axel
 curl
 dmraid
@@ -21,10 +20,12 @@ lliurex-cdlocker
 lliurex-easy-sites
 lliurex-easysites-zerocenter-files
 lliurex-journald-settings
+lliurex-libreoffice-aula-settings
 lliurex-moving-core
 lliurex-moving-editor
 lliurex-ntpdate
 lliurex-quota-gui
+lliurex-remote-installer-gui
 lliurex-rsyslog-filters
 lliurex-shutdowner
 lliurex-smartcard-udev-fixer

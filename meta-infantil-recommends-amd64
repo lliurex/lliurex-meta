@@ -111,6 +111,7 @@ libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lliurex-certificates
+lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
 lliurex-firefox-settings
@@ -125,8 +126,10 @@ lliurex-on-fire
 lliurex-perfilreset
 lliurex-ssh-login
 lliurex-statistics
+lliurex-store
 lliurex-tuxpaint-stamps
 lliurex-unattended-upgrades
+llx-edition-studio
 lshw
 manpages
 marble
@@ -198,6 +201,7 @@ pstoedit
 pulseaudio
 pulseaudio-module-bluetooth
 pysycache
+pysycache-qcv
 qml-module-org-kde-breeze
 qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
