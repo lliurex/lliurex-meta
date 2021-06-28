@@ -1,3 +1,11 @@
+lliurex-meta (21.6.28) focal; urgency=medium
+
+  * 3d printer
+  * runomatic
+  * admin-center modules
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 28 Jun 2021 18:23:08 +0200
+
 lliurex-meta (21.5.26) focal; urgency=medium
 
   * openjdks
