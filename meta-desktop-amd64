@@ -228,6 +228,7 @@ xorg
 zenity
 zero-center
 zero-lliurex-adobereader
+zero-lliurex-blockly-arduino-plugin
 zero-lliurex-cmaptools
 zero-lliurex-dvdcss
 zero-lliurex-flavours
@@ -235,5 +236,7 @@ zero-lliurex-fonts
 zero-lliurex-gearth
 zero-lliurex-hotpotatoes
 zero-lliurex-jclic-biblio
+zero-lliurex-lumi
 zero-lliurex-recursos
+zero-lliurex-teams
 zip
