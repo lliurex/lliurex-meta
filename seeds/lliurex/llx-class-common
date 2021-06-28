@@ -43,8 +43,6 @@
 
  * (lliurex-artwork-window-aula)
 
-TODO
-(lightdm-showlistusers)
 
 == Hardware == 
  * (lliurex-smartcard-udev-fixer)
@@ -52,8 +50,6 @@ TODO
 == Environment ==
  * (lliurex-libreoffice-aula-settings)
 
-TODO
-syncer-plank-client
 
 == Zero-Center ==
 
