@@ -1,3 +1,9 @@
+lliurex-meta (21.6.30.1) focal; urgency=medium
+
+  * Add fusioninstall
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 30 Jun 2021 18:43:25 +0200
+
 lliurex-meta (21.6.30) focal; urgency=medium
 
   * add sddm language selector theme
