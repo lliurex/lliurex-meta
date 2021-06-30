@@ -37,6 +37,7 @@ language-selector-common
 less
 libpam-systemd
 lliurex-live-fixes
+lliurex-sddm-live-theme
 locales
 logrotate
 lsb-release
