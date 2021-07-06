@@ -86,7 +86,7 @@ syncer-plank
 
  * (lmd-manager-cli)
  * admin-center
- admin-center-ltsp
+ * admin-center-ltsp
  * admin-center-llx-bootmanager
  * admin-center-llx-netinstall
 
