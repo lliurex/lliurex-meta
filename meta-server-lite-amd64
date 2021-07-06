@@ -160,6 +160,8 @@ lliurex-www
 llum
 llx-guest
 llx-pam-configs
+lmd-lliurex-data
+lmd-server
 locales
 logrotate
 lsb-release

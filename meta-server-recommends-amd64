@@ -165,7 +165,10 @@ lliurex-unattended-upgrades
 llx-edition-studio
 llx-netinstall
 llx-network-config
+lmd-manager-cli
 lshw
+ltsp
+ltsp-binaries
 manpages
 marble
 memtest86+

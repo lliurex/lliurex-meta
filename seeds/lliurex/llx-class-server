@@ -43,9 +43,8 @@ admin-center-lliurex-apt-n4d
 
 === LTSP ===
 
- * (ltsp-server-standalone)
- * (ltsp-server)
- * (ltsp-client)
+ * (ltsp)
+ * (ltsp-binaries)
  * (ldm-lliurex-theme)
  * (lmd-usb-mount-disabler)
  * lmd-server
