@@ -130,9 +130,11 @@ libreoffice-gtk3
  * (zero-lliurex-inventory)
  * (zero-lliurex-fritzing)
  * (llx-edition-studio)
- * zero-lliurex-teams
- * zero-lliurex-3d-print
- * zero-lliurex-lumi
+ * (zero-lliurex-teams)
+ * (zero-lliurex-3d-print)
+ * (zero-lliurex-lumi)
+ * (zero-lliurex-lmms) 
+
 
 == Fonts ==
 
