@@ -265,6 +265,7 @@ xaos
 xdg-utils
 xinput-calibrator
 xournal
+zero-lliurex-3d-print
 zero-lliurex-analytics
 zero-lliurex-arasuite
 zero-lliurex-autofirma
@@ -278,6 +279,8 @@ zero-lliurex-fritzing
 zero-lliurex-gearth
 zero-lliurex-inventory
 zero-lliurex-krita
+zero-lliurex-lmms
+zero-lliurex-lumi
 zero-lliurex-midicss
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
@@ -288,4 +291,5 @@ zero-lliurex-skype
 zero-lliurex-smart
 zero-lliurex-spotify
 zero-lliurex-stellarium
+zero-lliurex-teams
 zero-lliurex-wine64

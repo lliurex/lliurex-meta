@@ -268,6 +268,7 @@ xrdp
 zero-fp-administrativo
 zero-fp-electronica
 zero-fp-informatica
+zero-lliurex-3d-print
 zero-lliurex-analytics
 zero-lliurex-autofirma
 zero-lliurex-blockly-arduino
@@ -280,6 +281,8 @@ zero-lliurex-fritzing
 zero-lliurex-inventory
 zero-lliurex-jitsi
 zero-lliurex-krita
+zero-lliurex-lmms
+zero-lliurex-lumi
 zero-lliurex-midicss
 zero-lliurex-mirror-redirect
 zero-lliurex-moodle
@@ -291,4 +294,5 @@ zero-lliurex-pmb
 zero-lliurex-skype
 zero-lliurex-smart
 zero-lliurex-spotify
+zero-lliurex-teams
 zero-lliurex-wine64
