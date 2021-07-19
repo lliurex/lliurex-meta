@@ -122,6 +122,7 @@ libreoffice-l10n-en-za
 libreoffice-sdbc-firebird
 libreoffice-style-elementary
 lliurex-certificates
+lliurex-conky
 lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
@@ -278,6 +279,7 @@ zero-lliurex-freecad
 zero-lliurex-fritzing
 zero-lliurex-gearth
 zero-lliurex-inventory
+zero-lliurex-jellyfin
 zero-lliurex-krita
 zero-lliurex-lmms
 zero-lliurex-lumi

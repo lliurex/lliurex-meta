@@ -110,6 +110,7 @@ libreoffice-style-elementary
 lliurex-backup
 lliurex-cdlocker
 lliurex-certificates
+lliurex-conky
 lliurex-desktop-layout-selector
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
@@ -279,6 +280,7 @@ zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-fritzing
 zero-lliurex-inventory
+zero-lliurex-jellyfin
 zero-lliurex-jitsi
 zero-lliurex-krita
 zero-lliurex-lmms
