@@ -48,6 +48,7 @@
  * (synaptic)
  * (gparted)
  * (mintstick)
+ * (lliurex-conky)
 
  TODO: Add Amarok/Clementine/Tomahowk
 
@@ -134,7 +135,7 @@ libreoffice-gtk3
  * (zero-lliurex-3d-print)
  * (zero-lliurex-lumi)
  * (zero-lliurex-lmms) 
-
+ * (zero-lliurex-jellyfin)
 
 == Fonts ==
 
