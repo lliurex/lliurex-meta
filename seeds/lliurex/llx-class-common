@@ -23,6 +23,7 @@
  * printa-common-data
  * n4d-printa-server
  * n4d-printa-client
+ * (lliurex-conky)
 
 == Services ==
 
@@ -49,7 +50,7 @@
 
 == Environment ==
  * (lliurex-libreoffice-aula-settings)
-
+ 
 
 == Zero-Center ==
 
