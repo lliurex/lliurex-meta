@@ -1,3 +1,9 @@
+lliurex-meta (19.07.80) bionic; urgency=medium
+
+  * Added new zero launchers
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 26 Jul 2021 11:01:33 +0200
+
 lliurex-meta (19.07.79) bionic; urgency=medium
 
   * New zero launchers to desktop

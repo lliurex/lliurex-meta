@@ -136,6 +136,9 @@ libreoffice-gtk3
  * (zero-lliurex-anydesk)
  * (zero-lliurex-technology)
  * (zero-lliurex-starboard)
+ * zero-lliurex-teams
+ * zero-lliurex-lumi
+ * zero-lliurex-3d-print
  * zero-fp-administrativo
  * zero-fp-electronica
  * zero-fp-informatica
