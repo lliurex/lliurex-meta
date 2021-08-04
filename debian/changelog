@@ -1,3 +1,9 @@
+lliurex-meta (21.8.4.1) focal; urgency=medium
+
+  * Do swapspace required
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 04 Aug 2021 11:25:26 +0200
+
 lliurex-meta (21.8.4) focal; urgency=medium
 
   * Add swapspace 
