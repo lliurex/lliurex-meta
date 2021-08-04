@@ -1,3 +1,9 @@
+lliurex-meta (21.8.4) focal; urgency=medium
+
+  * Add swapspace 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 04 Aug 2021 11:16:46 +0200
+
 lliurex-meta (21.7.23) focal; urgency=medium
 
   * Move conky to only class
