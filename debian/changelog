@@ -1,3 +1,9 @@
+lliurex-meta (21.8.5) focal; urgency=medium
+
+  * Add packages to resolv dependencies
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 05 Aug 2021 11:42:43 +0200
+
 lliurex-meta (21.8.4.1) focal; urgency=medium
 
   * Do swapspace required
