@@ -62,6 +62,7 @@
  * gnome-orca
  * stellarium
  * winetricks 
+ * lliurex-on-chrome
 
 TODO
 tuxboot
@@ -93,6 +94,9 @@ tuxboot
  * robolliurex
  * telegram-desktop
  * ainur
+ * chromium-browser
+ * chromium-browser-l10n
+ * pinentry-tty
 
 == LTSP ==
 
