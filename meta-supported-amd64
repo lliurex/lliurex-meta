@@ -73,6 +73,8 @@ ceilometer-agent-compute
 ceph
 ceph-mds
 choose-mirror
+chromium-browser
+chromium-browser-l10n
 chrony
 chrony
 cifs-utils
@@ -620,6 +622,7 @@ lliurex-artwork-fonts
 lliurex-moodle
 lliurex-news-setup
 lliurex-news-slideshow
+lliurex-on-chrome
 lliurex-openmeetings
 lliurex-pmb
 lliurex-version-timestamp
@@ -708,6 +711,7 @@ nut-cgi
 nut-snmp
 nvidia-settings
 nvme-cli
+nwfermi-module
 obs-studio
 ocrfeeder
 oem-config-udeb
@@ -756,6 +760,7 @@ pciutils
 pciutils-udeb
 pcmciautils-udeb
 pinentry-qt
+pinentry-tty
 pkg-config
 pkgsel
 placement-api
