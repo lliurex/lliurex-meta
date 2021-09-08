@@ -1,3 +1,9 @@
+lliurex-meta (21.9.8) focal; urgency=medium
+
+  * Add systemd-unlinksystem to fix server with unplugged network card
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 08 Sep 2021 11:27:25 +0200
+
 lliurex-meta (21.8.5) focal; urgency=medium
 
   * Add packages to resolv dependencies
