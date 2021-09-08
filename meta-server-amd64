@@ -147,6 +147,7 @@ lliurex-classroom-env-configuration
 lliurex-common-utils
 lliurex-cssh
 lliurex-desktop-defaults
+lliurex-firefox-plugins
 lliurex-freeradius
 lliurex-grub-custom
 lliurex-guard

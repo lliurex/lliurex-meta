@@ -239,6 +239,7 @@ snapd
 stacer
 swapspace
 synaptic
+systemd-unlinkedserver
 tcpdump
 telnet
 testdisk
