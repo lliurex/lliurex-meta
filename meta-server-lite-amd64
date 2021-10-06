@@ -143,10 +143,12 @@ lliurex-classroom-env-configuration
 lliurex-common-utils
 lliurex-cssh
 lliurex-desktop-defaults
+lliurex-firefox-plugins
 lliurex-freeradius
 lliurex-grub-custom
 lliurex-guard
 lliurex-guard-data
+lliurex-homework-harvester
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
