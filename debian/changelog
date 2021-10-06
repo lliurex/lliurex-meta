@@ -1,3 +1,9 @@
+lliurex-meta (21.10) focal; urgency=medium
+
+  * Adding itaca, homework-harvester, shutter
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 06 Oct 2021 11:44:40 +0200
+
 lliurex-meta (21.8.5) focal; urgency=medium
 
   * Add packages to resolv dependencies
