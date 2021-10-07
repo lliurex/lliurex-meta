@@ -148,6 +148,7 @@ lliurex-freeradius
 lliurex-grub-custom
 lliurex-guard
 lliurex-guard-data
+lliurex-homework-harvester
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
@@ -183,6 +184,8 @@ n4d-classroom-mountmode
 n4d-dnsmasq
 n4d-epoptes-server
 n4d-freeradius
+n4d-homeworkharvester-client
+n4d-homeworkharvester-server
 n4d-hostname
 n4d-ldap
 n4d-lliurex-base

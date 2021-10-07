@@ -1,8 +1,20 @@
-lliurex-meta (21.9.8) focal; urgency=medium
+lliurex-meta (21.10.7) focal; urgency=medium
 
   * Add systemd-unlinksystem to fix server with unplugged network card
 
  -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 08 Sep 2021 11:27:25 +0200
+
+lliurex-meta (21.10.1) focal; urgency=medium
+
+  * lliurex-homework-harvester dependencies
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 06 Oct 2021 12:28:14 +0200
+
+lliurex-meta (21.10) focal; urgency=medium
+
+  * Adding itaca, homework-harvester, shutter
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 06 Oct 2021 11:44:40 +0200
 
 lliurex-meta (21.8.5) focal; urgency=medium
 

@@ -82,6 +82,7 @@ cinder-api
 cinder-backup
 cinder-scheduler
 cinder-volume
+class-jam
 clock-setup
 cloud-guest-utils
 cloud-initramfs-rooturl
@@ -254,7 +255,11 @@ john
 joyent-mdata-client
 jwm
 kbd
+<<<<<<< HEAD
 kernel-signed-image-5.4.0-84-generic-di
+=======
+kernel-signed-image-5.4.0-88-generic-di
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 kernel-wedge
 kexec-tools
 keystone
@@ -315,6 +320,7 @@ libzen0v5
 lilo
 lilo-installer
 lintian
+<<<<<<< HEAD
 linux-aws-headers-5.4.0-1056
 linux-aws-lts-20.04
 linux-aws-tools-5.4.0-1056
@@ -336,6 +342,29 @@ linux-cloud-tools-5.4.0-40-generic
 linux-cloud-tools-5.4.0-84
 linux-cloud-tools-5.4.0-84-generic
 linux-cloud-tools-5.4.0-84-lowlatency
+=======
+linux-aws-headers-5.4.0-1057
+linux-aws-lts-20.04
+linux-aws-tools-5.4.0-1057
+linux-azure-cloud-tools-5.4.0-1059
+linux-azure-headers-5.4.0-1059
+linux-azure-lts-20.04
+linux-azure-tools-5.4.0-1059
+linux-buildinfo-5.4.0-1047-kvm
+linux-buildinfo-5.4.0-1053-gcp
+linux-buildinfo-5.4.0-1055-oracle
+linux-buildinfo-5.4.0-1057-aws
+linux-buildinfo-5.4.0-1059-azure
+linux-buildinfo-5.4.0-40-generic
+linux-buildinfo-5.4.0-88-generic
+linux-buildinfo-5.4.0-88-lowlatency
+linux-buildinfo-5.6.0-1056-oem
+linux-cloud-tools-5.4.0-1059-azure
+linux-cloud-tools-5.4.0-40-generic
+linux-cloud-tools-5.4.0-88
+linux-cloud-tools-5.4.0-88-generic
+linux-cloud-tools-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-cloud-tools-azure-lts-20.04
 linux-cloud-tools-common
 linux-cloud-tools-generic
@@ -349,13 +378,20 @@ linux-cloud-tools-virtual-hwe-18.04
 linux-cloud-tools-virtual-hwe-18.04-edge
 linux-crashdump
 linux-doc
+<<<<<<< HEAD
 linux-gcp-headers-5.4.0-1052
 linux-gcp-lts-20.04
 linux-gcp-tools-5.4.0-1052
+=======
+linux-gcp-headers-5.4.0-1053
+linux-gcp-lts-20.04
+linux-gcp-tools-5.4.0-1053
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-generic
 linux-generic-hwe-18.04
 linux-generic-hwe-18.04-edge
 linux-generic-hwe-20.04
+<<<<<<< HEAD
 linux-headers-5.4.0-1046-kvm
 linux-headers-5.4.0-1052-gcp
 linux-headers-5.4.0-1054-oracle
@@ -365,6 +401,17 @@ linux-headers-5.4.0-40-generic
 linux-headers-5.4.0-84
 linux-headers-5.4.0-84-generic
 linux-headers-5.4.0-84-lowlatency
+=======
+linux-headers-5.4.0-1047-kvm
+linux-headers-5.4.0-1053-gcp
+linux-headers-5.4.0-1055-oracle
+linux-headers-5.4.0-1057-aws
+linux-headers-5.4.0-1059-azure
+linux-headers-5.4.0-40-generic
+linux-headers-5.4.0-88
+linux-headers-5.4.0-88-generic
+linux-headers-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-headers-5.6.0-1056-oem
 linux-headers-aws-lts-20.04
 linux-headers-azure-lts-20.04
@@ -385,12 +432,21 @@ linux-headers-virtual
 linux-headers-virtual-hwe-18.04
 linux-headers-virtual-hwe-18.04-edge
 linux-headers-virtual-hwe-20.04
+<<<<<<< HEAD
 linux-image-5.4.0-1054-oracle
 linux-image-5.4.0-1056-aws
 linux-image-5.4.0-1058-azure
 linux-image-5.4.0-40-generic
 linux-image-5.4.0-84-generic
 linux-image-5.4.0-84-lowlatency
+=======
+linux-image-5.4.0-1055-oracle
+linux-image-5.4.0-1057-aws
+linux-image-5.4.0-1059-azure
+linux-image-5.4.0-40-generic
+linux-image-5.4.0-88-generic
+linux-image-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-image-5.6.0-1056-oem
 linux-image-aws-lts-20.04
 linux-image-azure-lts-20.04
@@ -411,24 +467,39 @@ linux-image-oem
 linux-image-oem-20.04
 linux-image-oem-osp1
 linux-image-oracle-lts-20.04
+<<<<<<< HEAD
 linux-image-unsigned-5.4.0-1046-kvm
 linux-image-unsigned-5.4.0-1052-gcp
 linux-image-unsigned-5.4.0-1054-oracle
 linux-image-unsigned-5.4.0-1058-azure
 linux-image-unsigned-5.4.0-84-generic
 linux-image-unsigned-5.4.0-84-lowlatency
+=======
+linux-image-unsigned-5.4.0-1047-kvm
+linux-image-unsigned-5.4.0-1053-gcp
+linux-image-unsigned-5.4.0-1055-oracle
+linux-image-unsigned-5.4.0-1059-azure
+linux-image-unsigned-5.4.0-88-generic
+linux-image-unsigned-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-image-unsigned-5.6.0-1056-oem
 linux-image-virtual
 linux-image-virtual-hwe-18.04
 linux-image-virtual-hwe-18.04-edge
 linux-image-virtual-hwe-20.04
 linux-kvm
+<<<<<<< HEAD
 linux-kvm-headers-5.4.0-1046
 linux-kvm-tools-5.4.0-1046
+=======
+linux-kvm-headers-5.4.0-1047
+linux-kvm-tools-5.4.0-1047
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-libc-dev
 linux-lowlatency
 linux-lowlatency-hwe-18.04
 linux-lowlatency-hwe-18.04-edge
+<<<<<<< HEAD
 linux-modules-5.4.0-1046-kvm
 linux-modules-5.4.0-1052-gcp
 linux-modules-5.4.0-1054-oracle
@@ -453,6 +524,32 @@ linux-modules-nvidia-390-5.4.0-1056-aws
 linux-modules-nvidia-390-5.4.0-1058-azure
 linux-modules-nvidia-390-5.4.0-84-generic
 linux-modules-nvidia-390-5.4.0-84-lowlatency
+=======
+linux-modules-5.4.0-1047-kvm
+linux-modules-5.4.0-1053-gcp
+linux-modules-5.4.0-1055-oracle
+linux-modules-5.4.0-1057-aws
+linux-modules-5.4.0-1059-azure
+linux-modules-5.4.0-40-generic
+linux-modules-5.4.0-88-generic
+linux-modules-5.4.0-88-lowlatency
+linux-modules-5.6.0-1056-oem
+linux-modules-extra-5.4.0-1053-gcp
+linux-modules-extra-5.4.0-1055-oracle
+linux-modules-extra-5.4.0-1057-aws
+linux-modules-extra-5.4.0-1059-azure
+linux-modules-extra-5.4.0-40-generic
+linux-modules-extra-5.4.0-88-generic
+linux-modules-extra-aws-lts-20.04
+linux-modules-extra-azure-lts-20.04
+linux-modules-extra-gcp-lts-20.04
+linux-modules-nvidia-390-5.4.0-1053-gcp
+linux-modules-nvidia-390-5.4.0-1055-oracle
+linux-modules-nvidia-390-5.4.0-1057-aws
+linux-modules-nvidia-390-5.4.0-1059-azure
+linux-modules-nvidia-390-5.4.0-88-generic
+linux-modules-nvidia-390-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-modules-nvidia-390-aws-lts-20.04
 linux-modules-nvidia-390-azure-lts-20.04
 linux-modules-nvidia-390-gcp-lts-20.04
@@ -463,8 +560,13 @@ linux-modules-nvidia-390-oem-osp1
 linux-modules-nvidia-390-oracle-lts-20.04
 linux-modules-nvidia-418-oem
 linux-modules-nvidia-418-oem-osp1
+<<<<<<< HEAD
 linux-modules-nvidia-418-server-5.4.0-84-generic
 linux-modules-nvidia-418-server-5.4.0-84-lowlatency
+=======
+linux-modules-nvidia-418-server-5.4.0-88-generic
+linux-modules-nvidia-418-server-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-modules-nvidia-418-server-generic
 linux-modules-nvidia-418-server-lowlatency
 linux-modules-nvidia-435-aws-lts-20.04
@@ -490,8 +592,13 @@ linux-modules-nvidia-450-generic
 linux-modules-nvidia-450-lowlatency
 linux-modules-nvidia-450-oem-20.04
 linux-modules-nvidia-450-oracle-lts-20.04
+<<<<<<< HEAD
 linux-modules-nvidia-450-server-5.4.0-84-generic
 linux-modules-nvidia-450-server-5.4.0-84-lowlatency
+=======
+linux-modules-nvidia-450-server-5.4.0-88-generic
+linux-modules-nvidia-450-server-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-modules-nvidia-450-server-generic
 linux-modules-nvidia-450-server-lowlatency
 linux-modules-nvidia-455-aws-lts-20.04
@@ -501,12 +608,21 @@ linux-modules-nvidia-455-generic
 linux-modules-nvidia-455-lowlatency
 linux-modules-nvidia-455-oem-20.04
 linux-modules-nvidia-455-oracle-lts-20.04
+<<<<<<< HEAD
 linux-modules-nvidia-460-5.4.0-1052-gcp
 linux-modules-nvidia-460-5.4.0-1054-oracle
 linux-modules-nvidia-460-5.4.0-1056-aws
 linux-modules-nvidia-460-5.4.0-1058-azure
 linux-modules-nvidia-460-5.4.0-84-generic
 linux-modules-nvidia-460-5.4.0-84-lowlatency
+=======
+linux-modules-nvidia-460-5.4.0-1053-gcp
+linux-modules-nvidia-460-5.4.0-1055-oracle
+linux-modules-nvidia-460-5.4.0-1057-aws
+linux-modules-nvidia-460-5.4.0-1059-azure
+linux-modules-nvidia-460-5.4.0-88-generic
+linux-modules-nvidia-460-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-modules-nvidia-460-5.6.0-1056-oem
 linux-modules-nvidia-460-aws-lts-20.04
 linux-modules-nvidia-460-azure-lts-20.04
@@ -515,8 +631,13 @@ linux-modules-nvidia-460-generic
 linux-modules-nvidia-460-lowlatency
 linux-modules-nvidia-460-oem-20.04
 linux-modules-nvidia-460-oracle-lts-20.04
+<<<<<<< HEAD
 linux-modules-nvidia-460-server-5.4.0-84-generic
 linux-modules-nvidia-460-server-5.4.0-84-lowlatency
+=======
+linux-modules-nvidia-460-server-5.4.0-88-generic
+linux-modules-nvidia-460-server-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-modules-nvidia-460-server-generic
 linux-modules-nvidia-460-server-lowlatency
 linux-modules-nvidia-465-aws-lts-20.04
@@ -525,18 +646,28 @@ linux-modules-nvidia-465-gcp-lts-20.04
 linux-modules-nvidia-465-generic
 linux-modules-nvidia-465-lowlatency
 linux-modules-nvidia-465-oracle-lts-20.04
+<<<<<<< HEAD
 linux-modules-nvidia-470-5.4.0-1052-gcp
 linux-modules-nvidia-470-5.4.0-1054-oracle
 linux-modules-nvidia-470-5.4.0-1056-aws
 linux-modules-nvidia-470-5.4.0-1058-azure
 linux-modules-nvidia-470-5.4.0-84-generic
 linux-modules-nvidia-470-5.4.0-84-lowlatency
+=======
+linux-modules-nvidia-470-5.4.0-1053-gcp
+linux-modules-nvidia-470-5.4.0-1055-oracle
+linux-modules-nvidia-470-5.4.0-1057-aws
+linux-modules-nvidia-470-5.4.0-1059-azure
+linux-modules-nvidia-470-5.4.0-88-generic
+linux-modules-nvidia-470-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-modules-nvidia-470-aws-lts-20.04
 linux-modules-nvidia-470-azure-lts-20.04
 linux-modules-nvidia-470-gcp-lts-20.04
 linux-modules-nvidia-470-generic
 linux-modules-nvidia-470-lowlatency
 linux-modules-nvidia-470-oracle-lts-20.04
+<<<<<<< HEAD
 linux-modules-nvidia-470-server-5.4.0-84-generic
 linux-modules-nvidia-470-server-5.4.0-84-lowlatency
 linux-modules-nvidia-470-server-generic
@@ -569,6 +700,40 @@ linux-objects-nvidia-470-5.4.0-84-generic
 linux-objects-nvidia-470-5.4.0-84-lowlatency
 linux-objects-nvidia-470-server-5.4.0-84-generic
 linux-objects-nvidia-470-server-5.4.0-84-lowlatency
+=======
+linux-modules-nvidia-470-server-5.4.0-88-generic
+linux-modules-nvidia-470-server-5.4.0-88-lowlatency
+linux-modules-nvidia-470-server-generic
+linux-modules-nvidia-470-server-lowlatency
+linux-objects-nvidia-390-5.4.0-1053-gcp
+linux-objects-nvidia-390-5.4.0-1055-oracle
+linux-objects-nvidia-390-5.4.0-1057-aws
+linux-objects-nvidia-390-5.4.0-1059-azure
+linux-objects-nvidia-390-5.4.0-88-generic
+linux-objects-nvidia-390-5.4.0-88-lowlatency
+linux-objects-nvidia-418-server-5.4.0-88-generic
+linux-objects-nvidia-418-server-5.4.0-88-lowlatency
+linux-objects-nvidia-450-5.6.0-1056-oem
+linux-objects-nvidia-450-server-5.4.0-88-generic
+linux-objects-nvidia-450-server-5.4.0-88-lowlatency
+linux-objects-nvidia-460-5.4.0-1053-gcp
+linux-objects-nvidia-460-5.4.0-1055-oracle
+linux-objects-nvidia-460-5.4.0-1057-aws
+linux-objects-nvidia-460-5.4.0-1059-azure
+linux-objects-nvidia-460-5.4.0-88-generic
+linux-objects-nvidia-460-5.4.0-88-lowlatency
+linux-objects-nvidia-460-5.6.0-1056-oem
+linux-objects-nvidia-460-server-5.4.0-88-generic
+linux-objects-nvidia-460-server-5.4.0-88-lowlatency
+linux-objects-nvidia-470-5.4.0-1053-gcp
+linux-objects-nvidia-470-5.4.0-1055-oracle
+linux-objects-nvidia-470-5.4.0-1057-aws
+linux-objects-nvidia-470-5.4.0-1059-azure
+linux-objects-nvidia-470-5.4.0-88-generic
+linux-objects-nvidia-470-5.4.0-88-lowlatency
+linux-objects-nvidia-470-server-5.4.0-88-generic
+linux-objects-nvidia-470-server-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-oem
 linux-oem-20.04
 linux-oem-5.6-headers-5.6.0-1056
@@ -577,6 +742,7 @@ linux-oem-5.6-tools-host
 linux-oem-osp1
 linux-oem-osp1-tools-host
 linux-oem-tools-host
+<<<<<<< HEAD
 linux-oracle-headers-5.4.0-1054
 linux-oracle-lts-20.04
 linux-oracle-tools-5.4.0-1054
@@ -592,6 +758,23 @@ linux-tools-5.4.0-40-generic
 linux-tools-5.4.0-84
 linux-tools-5.4.0-84-generic
 linux-tools-5.4.0-84-lowlatency
+=======
+linux-oracle-headers-5.4.0-1055
+linux-oracle-lts-20.04
+linux-oracle-tools-5.4.0-1055
+linux-riscv-headers-5.4.0-40
+linux-source
+linux-source-5.4.0
+linux-tools-5.4.0-1047-kvm
+linux-tools-5.4.0-1053-gcp
+linux-tools-5.4.0-1055-oracle
+linux-tools-5.4.0-1057-aws
+linux-tools-5.4.0-1059-azure
+linux-tools-5.4.0-40-generic
+linux-tools-5.4.0-88
+linux-tools-5.4.0-88-generic
+linux-tools-5.4.0-88-lowlatency
+>>>>>>> 42e1bf8b21a6f53ccf6da48bf95f1e4b8c386728
 linux-tools-5.6.0-1056-oem
 linux-tools-aws-lts-20.04
 linux-tools-azure-lts-20.04
