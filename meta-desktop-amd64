@@ -180,6 +180,7 @@ procps
 psmisc
 python3
 python3-lliurex-store
+python3-sip
 qttranslations5-l10n
 rar
 rfkill
@@ -211,6 +212,7 @@ ubuntu-standard
 udev
 unrar
 unzip
+usb-creator-kde
 usbutils
 vim
 vim-tiny
