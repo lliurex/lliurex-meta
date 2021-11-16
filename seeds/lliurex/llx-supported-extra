@@ -16,6 +16,11 @@
  * mokutil
  * boot-repair
  * grub-pc
+ * syslinux-efi
+ * pxelinux
+ * syslinux-common
+ * ipxe
+ * grub-ipxe
 
 = LTSP = 
 
@@ -130,9 +135,8 @@ tuxboot
  * mpv
  * rtmpdump
  * mixxx
- * xserver-xorg-hwe-18.04
- * linux-signed-generic-hwe-18.04
- * linux-signed-generic-hwe-18.04-edge
+ * linux-signed-generic-hwe-20.04
+ * linux-signed-generic-hwe-20.04-edge
  * pinentry-qt
  * kdelibs5-dev
  * libxmlrpc-c++8-dev

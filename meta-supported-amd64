@@ -210,6 +210,7 @@ grub-efi-amd64-signed
 grub-efi-ia32
 grub-ieee1275-bin
 grub-installer
+grub-ipxe
 grub-legacy-ec2
 grub-pc
 grub-xen
@@ -239,6 +240,7 @@ ipmitool
 iproute2
 iptables
 iputils-ping
+ipxe
 ipython3
 irda-utils
 irssi
@@ -905,6 +907,8 @@ swift-proxy
 synfigstudio
 sysfsutils
 syslinux-common
+syslinux-common
+syslinux-efi
 tdsodbc
 telegram-desktop
 terminator
@@ -952,7 +956,6 @@ wmctrl
 xe-guest-utilities
 xfsdump
 xfsprogs-udeb
-xserver-xorg-hwe-18.04
 youtube-dl
 zero-dev
 zero-lliurex-dni
