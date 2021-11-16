@@ -77,6 +77,8 @@ tuxboot
 
 == Apps == 
 
+ * sonic-pi
+ * sonic-pi-server
  * freecad
  * bluegriffon
  * bluefish

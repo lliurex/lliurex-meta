@@ -1,3 +1,9 @@
+lliurex-meta (19.07.82) bionic; urgency=medium
+
+  * sonic-pi to supported 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 16 Nov 2021 15:08:06 +0100
+
 lliurex-meta (19.07.81) bionic; urgency=medium
 
   * Added zero-lliurex-lmms
