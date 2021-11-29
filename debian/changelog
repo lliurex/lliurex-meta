@@ -1,3 +1,9 @@
+lliurex-meta (19.07.83) bionic; urgency=medium
+
+  * Add kscreen-system-settings by default
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 29 Nov 2021 14:16:12 +0100
+
 lliurex-meta (19.07.82) bionic; urgency=medium
 
   * sonic-pi to supported 
