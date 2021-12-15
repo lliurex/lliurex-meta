@@ -21,7 +21,7 @@
  * syslinux-common
  * ipxe
  * grub-ipxe
-
+ * nbd-server
 = LTSP = 
 
  * pxelinux
