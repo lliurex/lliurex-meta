@@ -141,7 +141,7 @@ libreoffice-gtk3
  * (zero-lliurex-anydesk)
  * (zero-lliurex-openboard) [amd64]
  * (zero-lliurex-onedrive)
-
+ * (lliurex-deskreen)
 == Fonts ==
 
  * fonts-dejavu-core
