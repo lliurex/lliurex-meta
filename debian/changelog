@@ -1,3 +1,9 @@
+lliurex-meta (19.07.84) bionic; urgency=medium
+
+  * zero-lliurex-onedrive
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 20 Dec 2021 12:28:29 +0100
+
 lliurex-meta (19.07.83) bionic; urgency=medium
 
   * Add kscreen-system-settings by default
