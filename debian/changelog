@@ -1,3 +1,10 @@
+lliurex-meta (21.12.21) focal; urgency=medium
+
+  * Add zero-fp packages to all flavours
+  * Remove statistics
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 13 Jan 2022 10:48:37 +0100
+
 lliurex-meta (21.12.20) focal; urgency=medium
 
   * Add temporally lliurex-deskreen
