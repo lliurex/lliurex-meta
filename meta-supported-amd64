@@ -94,6 +94,7 @@ console-setup-linux-charmaps-udeb
 console-setup-linux-fonts-udeb
 console-setup-pc-ekbd
 containerd
+containerd.io
 cpio
 cron
 cu
@@ -130,6 +131,8 @@ disable-epoptes-client
 disk-detect
 dmidecode
 dmraid-udeb
+docker-ce
+docker-ce-cli
 dosfstools
 dovecot-core
 download-installer
@@ -691,6 +694,7 @@ mtp-tools
 mtx
 mutt
 nano-udeb
+nbd-client
 nbd-server
 ndctl
 net-retriever

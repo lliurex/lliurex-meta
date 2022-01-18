@@ -22,11 +22,13 @@
  * ipxe
  * grub-ipxe
  * nbd-server
+
 = LTSP = 
 
  * pxelinux
  * lmd-client
  * jwm
+ * nbd-client
 
 = JAVA = 
 
@@ -161,3 +163,9 @@ tuxboot
 
  * hplip-gui
  * python3-notify2
+
+== DOCKER == THIS WILL PROBABLY NOT WORK. INCLUDED MANUALLY 
+
+ * docker-ce
+ * docker-ce-cli
+ * containerd.io

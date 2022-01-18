@@ -1,3 +1,9 @@
+lliurex-meta (21.12.22) focal; urgency=medium
+
+  * nbd-client to supported
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 18 Jan 2022 11:06:14 +0100
+
 lliurex-meta (21.12.21) focal; urgency=medium
 
   * Add zero-fp packages to all flavours
