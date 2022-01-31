@@ -118,6 +118,7 @@ lliurex-journald-settings
 lliurex-mime-settings
 lliurex-on-fire
 lliurex-perfilreset
+lliurex-polkit-settings
 lliurex-ssh-login
 lliurex-statistics
 lliurex-store
