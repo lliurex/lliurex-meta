@@ -1,3 +1,9 @@
+lliurex-meta (19.07.85) bionic; urgency=medium
+
+  * Replace xournal by xournalpp
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 31 Jan 2022 17:45:51 +0100
+
 lliurex-meta (19.07.84) bionic; urgency=medium
 
   * zero-lliurex-onedrive
