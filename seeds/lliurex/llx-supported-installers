@@ -50,3 +50,14 @@ This seed is needed to add depends into pool from zero-installers
 = Webex =
 
  * libgl1-mesa-glx
+
+
+= CDC =
+
+ * cdc 
+ * cdc-dev
+ * cdc-mapper
+ * cdc-mapper-config-client
+ * cdc-mapper-config-localhost
+ * libnss-lliurex
+
