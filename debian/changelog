@@ -1,3 +1,9 @@
+lliurex-meta (21.22.02.17) focal; urgency=medium
+
+  * Add cdc packages
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 17 Feb 2022 13:32:58 +0100
+
 lliurex-meta (21.22.02.10.1) focal; urgency=medium
 
   * Dummy upgrade
