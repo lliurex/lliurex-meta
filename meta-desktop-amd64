@@ -133,10 +133,12 @@ lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-extra-configs
 lliurex-grub-custom
+lliurex-guard-standalone
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-profile-d
+lliurex-screen-mirroring
 lliurex-shutdowner
 lliurex-up
 llx-guest

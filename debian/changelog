@@ -1,3 +1,9 @@
+lliurex-meta (19.07.86) bionic; urgency=medium
+
+  * Screen mirroring
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 09 Mar 2022 09:45:23 +0100
+
 lliurex-meta (19.07.85) bionic; urgency=medium
 
   * Replace xournal by xournalpp

@@ -1,7 +1,7 @@
 Task-Recursive: True
 
 lliurex-guard-data
-lliurex-guard-standalone
+ * lliurex-guard-standalone
  * lliurex-shutdowner
  * n4d-shutdowner-server
  * zero-lliurex-pmb
