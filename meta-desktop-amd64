@@ -131,6 +131,7 @@ lliurex-desktop-defaults
 lliurex-grub-custom
 lliurex-guard-data
 lliurex-guard-standalone
+lliurex-guard-standalone-zerofiles
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
