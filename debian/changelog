@@ -1,3 +1,9 @@
+lliurex-meta (19.07.87) bionic; urgency=medium
+
+  * simplescreenrecorder
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 10 Mar 2022 09:26:17 +0100
+
 lliurex-meta (19.07.86) bionic; urgency=medium
 
   * Screen mirroring
