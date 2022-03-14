@@ -133,6 +133,7 @@ lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-extra-configs
 lliurex-grub-custom
+lliurex-guard-data
 lliurex-guard-standalone
 lliurex-guard-standalone-zerofiles
 lliurex-keyring
