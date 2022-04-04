@@ -1,3 +1,9 @@
+lliurex-meta (21.22.04.04) focal; urgency=medium
+
+  * add lliurex-access-control by default 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 04 Apr 2022 12:27:31 +0200
+
 lliurex-meta (21.22.03.10) focal; urgency=medium
 
   * lliurex-guard-standalone
