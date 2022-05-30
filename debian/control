@@ -105,3 +105,11 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Live
  List of all packages for lliurex
 
+Package: lliurex-meta-desktop-touch
+Architecture: any-amd64
+Lliurex-Flavours: desktop, edu, touch
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Desktop Touch
+ List of all packages for lliurex
+

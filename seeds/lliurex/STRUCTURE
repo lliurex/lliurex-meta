@@ -38,3 +38,4 @@ meta-server-lite: neon-desktop llx-desktop-common llx-class-server llx-server-li
 meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom llx-class-client llx-client-lite
 meta-desktop-lite: neon-desktop llx-desktop-common llx-desktop-lite
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
+meta-desktop-touch: neon-desktop llx-desktop-common  
