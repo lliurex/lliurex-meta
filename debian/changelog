@@ -1,3 +1,9 @@
+lliurex-meta (21.22.05.30) lliurex22; urgency=medium
+
+  * Add touch flavour 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 30 May 2022 13:26:05 +0200
+
 lliurex-meta (21.22.04.04) focal; urgency=medium
 
   * add lliurex-access-control by default 
