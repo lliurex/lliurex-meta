@@ -1,3 +1,9 @@
+lliurex-meta (19.07.91) bionic; urgency=medium
+
+  * Add cdc support 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 01 Jun 2022 18:10:03 +0200
+
 lliurex-meta (19.07.90) bionic; urgency=medium
 
   * forcing simplescreenrecorder
