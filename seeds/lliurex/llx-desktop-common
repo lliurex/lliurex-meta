@@ -154,6 +154,7 @@ libreoffice-gtk3
  * bell-scheduler-zerocenter-files
  * (zero-lliurex-openboard) [amd64]
  * (zero-lliurex-onedrive)
+ * (zero-lliurex-cdc)
 
 == Fonts ==
 
