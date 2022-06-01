@@ -1,11 +1,16 @@
 apparmor
 bash-completion
 build-essential
+cdc
+cdc-mapper
+cdc-mapper-config-client
+cdc-mapper-config-localhost
 command-not-found
 friendly-recovery
 gummi
 iputils-tracepath
 irqbalance
+libnss-lliurex
 manpages
 mlocate
 mtr-tiny
