@@ -148,6 +148,8 @@ libreoffice-gtk3
  * (zero-fp-administrativo)
  * (zero-fp-informatica)
  * (zero-fp-electronica)
+ * (zero-lliurex-musica)
+ * (zero-lliurex-photo)
  * (zero-lliurex-webex)
 
 == Fonts ==
