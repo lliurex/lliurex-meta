@@ -151,6 +151,10 @@ libreoffice-gtk3
  * (zero-lliurex-musica)
  * (zero-lliurex-photo)
  * (zero-lliurex-webex)
+ * (zero-installer-util-classroom)
+ * (zero-installer-util-media)
+ * (zero-installer-educational)
+ * (zero-installer-playful)
 
 == Fonts ==
 
