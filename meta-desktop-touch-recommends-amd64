@@ -233,6 +233,10 @@ xinput-calibrator
 zero-fp-administrativo
 zero-fp-electronica
 zero-fp-informatica
+zero-installer-educational
+zero-installer-playful
+zero-installer-util-classroom
+zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-anydesk
 zero-lliurex-autofirma
@@ -249,10 +253,12 @@ zero-lliurex-krita
 zero-lliurex-lmms
 zero-lliurex-lumi
 zero-lliurex-midicss
+zero-lliurex-musica
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-onedrive
 zero-lliurex-openboard
+zero-lliurex-photo
 zero-lliurex-skype
 zero-lliurex-smart
 zero-lliurex-spotify
