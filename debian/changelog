@@ -1,3 +1,9 @@
+lliurex-meta (21.22.06.10) lliurex22; urgency=medium
+
+  * Add minimal-touch flavour
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 10 Jun 2022 13:54:29 +0200
+
 lliurex-meta (21.22.05.30ubuntu1) lliurex22; urgency=medium
 
   * Add zomandos to remove music flavour
