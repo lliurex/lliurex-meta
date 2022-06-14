@@ -1,3 +1,10 @@
+lliurex-meta (21.22.06.14) lliurex22; urgency=medium
+
+  * lliurex-auto-upgrade
+  * zero-lliurex-cdc
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 14 Jun 2022 10:36:07 +0200
+
 lliurex-meta (21.22.06.10) lliurex22; urgency=medium
 
   * Add minimal-touch flavour

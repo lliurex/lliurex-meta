@@ -132,6 +132,7 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 lliurex-apt-divert
+lliurex-auto-upgrade
 lliurex-base-files
 lliurex-classroom-env-configuration
 lliurex-client-env-configuration

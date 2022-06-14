@@ -124,6 +124,7 @@ libu2f-udev
 libwmf-bin
 linux-headers-generic
 lliurex-apt-divert
+lliurex-auto-upgrade
 lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults

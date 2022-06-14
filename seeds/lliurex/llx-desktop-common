@@ -111,6 +111,7 @@ libreoffice-gtk3
  * llx-guest
  * lliurex-screen-mirroring
  * (lliurex-access-control)
+ * lliurex-auto-upgrade
 
 === Zero Center ===
 
@@ -155,6 +156,7 @@ libreoffice-gtk3
  * (zero-installer-util-media)
  * (zero-installer-educational)
  * (zero-installer-playful)
+ * (zero-lliurex-cdc)
 
 == Fonts ==
 
