@@ -1,3 +1,9 @@
+lliurex-meta (21.22.06.15) lliurex22; urgency=medium
+
+  * zero-lliurex-virtualizer
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 15 Jun 2022 19:53:12 +0200
+
 lliurex-meta (21.22.06.14) lliurex22; urgency=medium
 
   * lliurex-auto-upgrade
