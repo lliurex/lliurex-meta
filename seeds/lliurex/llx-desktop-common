@@ -155,6 +155,7 @@ libreoffice-gtk3
  * (zero-installer-util-classroom)
  * (zero-installer-util-media)
  * (zero-installer-educational)
+ * (zero-installer-kids)
  * (zero-installer-playful)
  * (zero-lliurex-cdc)
  * (zero-lliurex-virtualizer)
