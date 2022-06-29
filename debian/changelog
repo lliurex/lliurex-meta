@@ -1,3 +1,9 @@
+lliurex-meta (21.22.06.29) lliurex22; urgency=medium
+
+  * Adding zero-lliurex-kids
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 29 Jun 2022 08:33:02 +0200
+
 lliurex-meta (21.22.06.15) lliurex22; urgency=medium
 
   * zero-lliurex-virtualizer
