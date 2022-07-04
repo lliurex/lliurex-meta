@@ -107,3 +107,7 @@ TODO
  * (lliurex-nextcloud-installer)
  * (zero-lliurex-jitsi)
  * (zero-lliurex-openmeetings)
+
+=== CDC ===
+
+ * (cdc-mapper-config-localhost-server)

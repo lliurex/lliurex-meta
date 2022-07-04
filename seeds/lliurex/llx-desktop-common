@@ -113,6 +113,16 @@ libreoffice-gtk3
  * (lliurex-access-control)
  * lliurex-auto-upgrade
 
+=== CDC ===
+
+ * (zero-lliurex-cdc)
+ * (cdc)
+ * (cdc-mapper)
+ * (libnss-lliurex)
+ * (cdc-mapper-config-localhost)
+
+
+
 === Zero Center ===
 
  * zero-lliurex-dvdcss # 20M
@@ -156,7 +166,6 @@ libreoffice-gtk3
  * (zero-installer-util-media)
  * (zero-installer-educational)
  * (zero-installer-playful)
- * (zero-lliurex-cdc)
  * (zero-lliurex-virtualizer)
 
 == Fonts ==
