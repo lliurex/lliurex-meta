@@ -12,6 +12,10 @@ bluedevil
 bluetooth
 bluez
 bluez-cups
+cdc
+cdc-mapper
+cdc-mapper-config-localhost
+cdc-mapper-config-localhost-server
 cdrdao
 childsplay
 clusterssh
@@ -113,6 +117,7 @@ language-pack-ca
 language-pack-gnome-ca
 laptop-detect
 libappimage0
+libnss-lliurex
 libnss-mdns
 libnss-mdns
 libnss-myhostname
