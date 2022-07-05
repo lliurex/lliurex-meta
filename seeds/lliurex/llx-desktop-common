@@ -205,6 +205,8 @@ lliurex-artwork-backgrounds-contest
  * Official-Langs: en es
  * language-pack-gnome-${Official-Langs}-base
 
+ * lliurex-fix-translations-kde
+
  * language-pack-gnome-en
  * language-pack-gnome-es
  * (language-pack-gnome-ca) 

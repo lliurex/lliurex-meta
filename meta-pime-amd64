@@ -128,6 +128,7 @@ lliurex-auto-upgrade
 lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults
+lliurex-fix-translations-kde
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
