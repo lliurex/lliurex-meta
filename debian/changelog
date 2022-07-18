@@ -1,3 +1,9 @@
+lliurex-meta (21.22.07.18) lliurex22; urgency=medium
+
+  * adding  gtk2-engines-murrine
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 18 Jul 2022 08:45:46 +0200
+
 lliurex-meta (21.22.07.05) lliurex22; urgency=medium
 
   * adding lliurex-fix-translations-kde 

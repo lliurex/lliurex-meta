@@ -173,3 +173,7 @@ tuxboot
 == OEM
 
  * linux-oem-20.04b
+
+== PROMETHEAN DEPS
+
+ * gtk2-engines-murrine
