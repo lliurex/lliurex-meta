@@ -1,3 +1,10 @@
+lliurex-meta (21.22.09.21) lliurex22; urgency=medium
+
+  * Adding promethean-fixboot
+  * lliurex-conky to desktops
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 21 Sep 2022 12:15:35 +0200
+
 lliurex-meta (21.22.07.18) lliurex22; urgency=medium
 
   * adding  gtk2-engines-murrine

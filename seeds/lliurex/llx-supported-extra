@@ -177,3 +177,4 @@ tuxboot
 == PROMETHEAN DEPS
 
  * gtk2-engines-murrine
+ * promethean-compat-libs
