@@ -155,6 +155,9 @@ libreoffice-gtk3
  * (zero-lliurex-openboard) [amd64]
  * (zero-lliurex-onedrive)
  * (zero-lliurex-cdc)
+ * (cdc)
+ * (cdc-mapper)
+ * (cdc-mapper-config-localhost)
 
 == Fonts ==
 
