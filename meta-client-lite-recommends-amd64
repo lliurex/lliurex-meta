@@ -13,6 +13,9 @@ bluedevil
 bluetooth
 bluez
 bluez-cups
+cdc
+cdc-mapper
+cdc-mapper-config-localhost
 cdrdao
 command-not-found
 cryptsetup

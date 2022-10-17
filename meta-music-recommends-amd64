@@ -13,6 +13,9 @@ bluetooth
 bluez
 bluez-cups
 brasero
+cdc
+cdc-mapper
+cdc-mapper-config-localhost
 cdrdao
 cdrdao
 command-not-found

@@ -16,6 +16,8 @@ busybox-static
 bzip2
 ca-certificates
 ca-certificates
+cdc-for-clients
+cdc-mapper-config-client
 cifs-utils
 classroom-mountmode-override
 client-mount

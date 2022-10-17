@@ -1,6 +1,8 @@
 acl
 acpid
 ca-certificates
+cdc-for-clients
+cdc-mapper-config-client
 cifs-utils
 classroom-mountmode-override
 client-mount
