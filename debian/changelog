@@ -1,3 +1,9 @@
+lliurex-meta (21.22.10.24) lliurex22; urgency=medium
+
+  * Add zero-lliurex-technology for everybody
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 24 Oct 2022 09:39:28 +0200
+
 lliurex-meta (21.22.09.21) lliurex22; urgency=medium
 
   * Adding promethean-fixboot
