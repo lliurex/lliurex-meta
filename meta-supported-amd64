@@ -587,9 +587,11 @@ linux-modules-nvidia-515-server-lowlatency
 linux-modules-nvidia-520-5.4.0-1086-oracle
 linux-modules-nvidia-520-5.4.0-1088-aws
 linux-modules-nvidia-520-5.4.0-1092-gcp
+linux-modules-nvidia-520-5.4.0-1094-azure
 linux-modules-nvidia-520-5.4.0-131-generic
 linux-modules-nvidia-520-5.4.0-131-lowlatency
 linux-modules-nvidia-520-aws-lts-20.04
+linux-modules-nvidia-520-azure-lts-20.04
 linux-modules-nvidia-520-gcp-lts-20.04
 linux-modules-nvidia-520-generic
 linux-modules-nvidia-520-lowlatency
@@ -633,6 +635,7 @@ linux-objects-nvidia-515-server-5.4.0-131-lowlatency
 linux-objects-nvidia-520-5.4.0-1086-oracle
 linux-objects-nvidia-520-5.4.0-1088-aws
 linux-objects-nvidia-520-5.4.0-1092-gcp
+linux-objects-nvidia-520-5.4.0-1094-azure
 linux-objects-nvidia-520-5.4.0-131-generic
 linux-objects-nvidia-520-5.4.0-131-lowlatency
 linux-oem
