@@ -1,3 +1,9 @@
+lliurex-meta (21.22.10.28) lliurex22; urgency=medium
+
+  * Add zero-lliurex-accessibility 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 28 Oct 2022 09:32:29 +0200
+
 lliurex-meta (21.22.10.24) lliurex22; urgency=medium
 
   * Add zero-lliurex-technology for everybody
