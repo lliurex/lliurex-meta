@@ -171,6 +171,7 @@ libreoffice-gtk3
  * (zero-lliurex-virtualizer)
  * (zero-lliurex-technology)
  * (zero-lliurex-accessibility)
+ * (zero-lliurex-touch)
 
 == Fonts ==
 
