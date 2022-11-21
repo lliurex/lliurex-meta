@@ -303,6 +303,9 @@ zero-center
 zero-fp-administrativo
 zero-fp-electronica
 zero-fp-informatica
+zero-installer-educational
+zero-installer-kids
+zero-installer-playful
 zero-lliurex-3d-print
 zero-lliurex-adobereader
 zero-lliurex-cmaptools
@@ -319,7 +322,6 @@ zero-lliurex-lumi
 zero-lliurex-mixxx
 zero-lliurex-palemoon
 zero-lliurex-promethean
-zero-lliurex-recursos
 zero-lliurex-smart
 zero-lliurex-teams
 zero-server-wizard

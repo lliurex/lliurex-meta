@@ -1,3 +1,9 @@
+lliurex-meta (19.07.93) bionic; urgency=medium
+
+  * new zero resources
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 21 Nov 2022 10:27:52 +0100
+
 lliurex-meta (19.07.92) bionic; urgency=medium
 
   * Cdc for all flavours

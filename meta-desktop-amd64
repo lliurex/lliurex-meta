@@ -240,6 +240,9 @@ zero-center
 zero-fp-administrativo
 zero-fp-electronica
 zero-fp-informatica
+zero-installer-educational
+zero-installer-kids
+zero-installer-playful
 zero-lliurex-3d-print
 zero-lliurex-adobereader
 zero-lliurex-blockly-arduino-plugin
@@ -257,6 +260,5 @@ zero-lliurex-mixxx
 zero-lliurex-palemoon
 zero-lliurex-pmb
 zero-lliurex-promethean
-zero-lliurex-recursos
 zero-lliurex-teams
 zip
