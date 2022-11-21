@@ -333,6 +333,7 @@ zero-installer-util-classroom
 zero-installer-util-media
 zero-jclic-reports
 zero-lliurex-3d-print
+zero-lliurex-accessibility
 zero-lliurex-anydesk
 zero-lliurex-arasuite
 zero-lliurex-autofirma
@@ -372,6 +373,8 @@ zero-lliurex-smart
 zero-lliurex-spotify
 zero-lliurex-stellarium
 zero-lliurex-teams
+zero-lliurex-technology
+zero-lliurex-touch
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64
