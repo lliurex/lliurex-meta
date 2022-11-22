@@ -1,3 +1,9 @@
+lliurex-meta (21.22.11.22.1) lliurex22; urgency=medium
+
+  * Dummy upgrade
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 22 Nov 2022 14:16:01 +0100
+
 lliurex-meta (21.22.11.22) lliurex22; urgency=medium
 
   * Kdeconnect is optional 
