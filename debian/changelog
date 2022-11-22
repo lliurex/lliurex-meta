@@ -4,6 +4,12 @@ lliurex-meta (21.22.11.22) lliurex22; urgency=medium
 
  -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 22 Nov 2022 14:05:18 +0100
 
+lliurex-meta (21.22.11.21) lliurex22; urgency=medium
+
+  * strach-desktop
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 21 Nov 2022 10:21:20 +0100
+
 lliurex-meta (21.22.11.03) lliurex22; urgency=medium
 
   * Add zero-lliurex-touch for everybody
