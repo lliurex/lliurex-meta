@@ -131,7 +131,7 @@ Task-Test-new-install: skip show
 
 == kde-extras ==
 
- * kdeconnect
+ * (kdeconnect)
  * yakuake
  * kpmcore
  * partitionmanager
