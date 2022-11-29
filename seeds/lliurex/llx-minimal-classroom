@@ -6,7 +6,7 @@
 
  * lliurex-preseed-nslcd
  * lliurex-preseed-libnss-ldapd
- * llx-pam-configs
+ * llx-pam-configs-ldap
  * lliurex-sudoers
  * n4d-pamnss
  * n4d-hostname
