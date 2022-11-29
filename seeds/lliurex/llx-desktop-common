@@ -14,6 +14,7 @@
  * policykit-1
  * (kdesdk-thumbnailers)
  * debconf-kde-helper
+ * llx-pam-configs
 
 == Filesystem == 
 
