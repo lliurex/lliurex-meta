@@ -169,6 +169,7 @@ lliurex-up
 lliurex-www
 llum
 llx-guest
+llx-pam-configs
 llx-pam-configs-ldap
 lmd-lliurex-data
 lmd-server

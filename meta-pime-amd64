@@ -137,6 +137,7 @@ lliurex-screen-mirroring
 lliurex-ssh-login
 lliurex-up
 llx-guest
+llx-pam-configs
 locales
 logrotate
 lsb-release

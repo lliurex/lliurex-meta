@@ -143,6 +143,7 @@ lliurex-shutdowner
 lliurex-touch-defaults
 lliurex-up
 llx-guest
+llx-pam-configs
 locales
 logrotate
 lsb-release

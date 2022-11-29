@@ -142,6 +142,7 @@ lliurex-screen-mirroring
 lliurex-shutdowner
 lliurex-up
 llx-guest
+llx-pam-configs
 locales
 logrotate
 lsb-release

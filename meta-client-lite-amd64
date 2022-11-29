@@ -159,6 +159,7 @@ lliurex-sudoers
 lliurex-up
 llum
 llx-guest
+llx-pam-configs
 llx-pam-configs-ldap
 locales
 logrotate
