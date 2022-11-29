@@ -1,3 +1,9 @@
+lliurex-meta (21.22.11.29) lliurex22; urgency=medium
+
+  * Split llx-pam-configs
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 29 Nov 2022 11:21:32 +0100
+
 lliurex-meta (21.22.11.24) lliurex22; urgency=medium
 
   * Add hodor to desktop flavour 
