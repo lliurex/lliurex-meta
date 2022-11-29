@@ -1,3 +1,9 @@
+lliurex-meta (21.22.11.29.1) lliurex22; urgency=medium
+
+  * add llx-pam-configs for all flavours
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 29 Nov 2022 15:13:36 +0100
+
 lliurex-meta (21.22.11.29) lliurex22; urgency=medium
 
   * Split llx-pam-configs
