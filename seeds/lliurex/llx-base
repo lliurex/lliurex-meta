@@ -6,7 +6,7 @@
  * (dmraid)
  * (exfat-fuse)
  * (exfat-utils)
-
+ * (lliurex-initramfs-options)
 == Basic services ==
 
  * lliurex-apt-divert

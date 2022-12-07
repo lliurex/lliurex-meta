@@ -149,6 +149,7 @@ lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
 lliurex-hotpotatoes-data
+lliurex-initramfs-options
 lliurex-java-panel
 lliurex-jclic-shared
 lliurex-journald-settings

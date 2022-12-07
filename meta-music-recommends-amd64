@@ -140,6 +140,7 @@ lliurex-firefox-settings
 lliurex-gdrive-core
 lliurex-gdrive-gui
 lliurex-gdrive-indicator
+lliurex-initramfs-options
 lliurex-java-panel
 lliurex-journald-settings
 lliurex-mime-settings
