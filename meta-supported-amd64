@@ -331,17 +331,6 @@ lintian
 linux-aws-headers-5.4.0-1092
 linux-aws-lts-20.04
 linux-aws-tools-5.4.0-1092
-<<<<<<< HEAD
-linux-azure-cloud-tools-5.4.0-1094
-linux-azure-headers-5.4.0-1094
-linux-azure-lts-20.04
-linux-azure-tools-5.4.0-1094
-linux-buildinfo-5.4.0-1082-kvm
-linux-buildinfo-5.4.0-1090-oracle
-linux-buildinfo-5.4.0-1092-aws
-linux-buildinfo-5.4.0-1094-azure
-linux-buildinfo-5.4.0-1096-gcp
-=======
 linux-azure-cloud-tools-5.4.0-1098
 linux-azure-headers-5.4.0-1098
 linux-azure-lts-20.04
@@ -351,16 +340,11 @@ linux-buildinfo-5.4.0-1090-oracle
 linux-buildinfo-5.4.0-1092-aws
 linux-buildinfo-5.4.0-1096-gcp
 linux-buildinfo-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-buildinfo-5.4.0-135-generic
 linux-buildinfo-5.4.0-135-lowlatency
 linux-buildinfo-5.4.0-40-generic
 linux-buildinfo-5.6.0-1056-oem
-<<<<<<< HEAD
-linux-cloud-tools-5.4.0-1094-azure
-=======
 linux-cloud-tools-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-cloud-tools-5.4.0-135
 linux-cloud-tools-5.4.0-135-generic
 linux-cloud-tools-5.4.0-135-lowlatency
@@ -388,13 +372,8 @@ linux-generic-hwe-20.04
 linux-headers-5.4.0-1082-kvm
 linux-headers-5.4.0-1090-oracle
 linux-headers-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-headers-5.4.0-1094-azure
-linux-headers-5.4.0-1096-gcp
-=======
 linux-headers-5.4.0-1096-gcp
 linux-headers-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-headers-5.4.0-135
 linux-headers-5.4.0-135-generic
 linux-headers-5.4.0-135-lowlatency
@@ -420,11 +399,7 @@ linux-headers-virtual-hwe-18.04
 linux-headers-virtual-hwe-18.04-edge
 linux-headers-virtual-hwe-20.04
 linux-image-5.4.0-1090-oracle
-<<<<<<< HEAD
-linux-image-5.4.0-1094-azure
-=======
 linux-image-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-image-5.4.0-135-generic
 linux-image-5.4.0-135-lowlatency
 linux-image-5.4.0-40-generic
@@ -451,13 +426,8 @@ linux-image-oracle-lts-20.04
 linux-image-unsigned-5.4.0-1082-kvm
 linux-image-unsigned-5.4.0-1090-oracle
 linux-image-unsigned-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-image-unsigned-5.4.0-1094-azure
-linux-image-unsigned-5.4.0-1096-gcp
-=======
 linux-image-unsigned-5.4.0-1096-gcp
 linux-image-unsigned-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-image-unsigned-5.4.0-135-generic
 linux-image-unsigned-5.4.0-135-lowlatency
 linux-image-unsigned-5.6.0-1056-oem
@@ -475,26 +445,16 @@ linux-lowlatency-hwe-18.04-edge
 linux-modules-5.4.0-1082-kvm
 linux-modules-5.4.0-1090-oracle
 linux-modules-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-5.4.0-1094-azure
-linux-modules-5.4.0-1096-gcp
-=======
 linux-modules-5.4.0-1096-gcp
 linux-modules-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-5.4.0-135-generic
 linux-modules-5.4.0-135-lowlatency
 linux-modules-5.4.0-40-generic
 linux-modules-5.6.0-1056-oem
 linux-modules-extra-5.4.0-1090-oracle
 linux-modules-extra-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-extra-5.4.0-1094-azure
-linux-modules-extra-5.4.0-1096-gcp
-=======
 linux-modules-extra-5.4.0-1096-gcp
 linux-modules-extra-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-extra-5.4.0-135-generic
 linux-modules-extra-5.4.0-40-generic
 linux-modules-extra-aws-lts-20.04
@@ -502,13 +462,8 @@ linux-modules-extra-azure-lts-20.04
 linux-modules-extra-gcp-lts-20.04
 linux-modules-nvidia-390-5.4.0-1090-oracle
 linux-modules-nvidia-390-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-nvidia-390-5.4.0-1094-azure
-linux-modules-nvidia-390-5.4.0-1096-gcp
-=======
 linux-modules-nvidia-390-5.4.0-1096-gcp
 linux-modules-nvidia-390-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-nvidia-390-5.4.0-135-generic
 linux-modules-nvidia-390-5.4.0-135-lowlatency
 linux-modules-nvidia-390-aws-lts-20.04
@@ -577,13 +532,8 @@ linux-modules-nvidia-465-lowlatency
 linux-modules-nvidia-465-oracle-lts-20.04
 linux-modules-nvidia-470-5.4.0-1090-oracle
 linux-modules-nvidia-470-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-nvidia-470-5.4.0-1094-azure
-linux-modules-nvidia-470-5.4.0-1096-gcp
-=======
 linux-modules-nvidia-470-5.4.0-1096-gcp
 linux-modules-nvidia-470-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-nvidia-470-5.4.0-135-generic
 linux-modules-nvidia-470-5.4.0-135-lowlatency
 linux-modules-nvidia-470-aws-lts-20.04
@@ -604,13 +554,8 @@ linux-modules-nvidia-495-lowlatency
 linux-modules-nvidia-495-oracle-lts-20.04
 linux-modules-nvidia-510-5.4.0-1090-oracle
 linux-modules-nvidia-510-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-nvidia-510-5.4.0-1094-azure
-linux-modules-nvidia-510-5.4.0-1096-gcp
-=======
 linux-modules-nvidia-510-5.4.0-1096-gcp
 linux-modules-nvidia-510-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-nvidia-510-5.4.0-135-generic
 linux-modules-nvidia-510-5.4.0-135-lowlatency
 linux-modules-nvidia-510-aws-lts-20.04
@@ -623,13 +568,8 @@ linux-modules-nvidia-510-server-generic
 linux-modules-nvidia-510-server-lowlatency
 linux-modules-nvidia-515-5.4.0-1090-oracle
 linux-modules-nvidia-515-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-nvidia-515-5.4.0-1094-azure
-linux-modules-nvidia-515-5.4.0-1096-gcp
-=======
 linux-modules-nvidia-515-5.4.0-1096-gcp
 linux-modules-nvidia-515-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-nvidia-515-5.4.0-135-generic
 linux-modules-nvidia-515-5.4.0-135-lowlatency
 linux-modules-nvidia-515-aws-lts-20.04
@@ -650,13 +590,8 @@ linux-modules-nvidia-520-lowlatency
 linux-modules-nvidia-520-oracle-lts-20.04
 linux-modules-nvidia-525-5.4.0-1090-oracle
 linux-modules-nvidia-525-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-modules-nvidia-525-5.4.0-1094-azure
-linux-modules-nvidia-525-5.4.0-1096-gcp
-=======
 linux-modules-nvidia-525-5.4.0-1096-gcp
 linux-modules-nvidia-525-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-modules-nvidia-525-5.4.0-135-generic
 linux-modules-nvidia-525-5.4.0-135-lowlatency
 linux-modules-nvidia-525-aws-lts-20.04
@@ -667,13 +602,8 @@ linux-modules-nvidia-525-lowlatency
 linux-modules-nvidia-525-oracle-lts-20.04
 linux-objects-nvidia-390-5.4.0-1090-oracle
 linux-objects-nvidia-390-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-objects-nvidia-390-5.4.0-1094-azure
-linux-objects-nvidia-390-5.4.0-1096-gcp
-=======
 linux-objects-nvidia-390-5.4.0-1096-gcp
 linux-objects-nvidia-390-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-objects-nvidia-390-5.4.0-135-generic
 linux-objects-nvidia-390-5.4.0-135-lowlatency
 linux-objects-nvidia-418-server-5.4.0-135-generic
@@ -684,50 +614,30 @@ linux-objects-nvidia-450-server-5.4.0-135-lowlatency
 linux-objects-nvidia-460-5.6.0-1056-oem
 linux-objects-nvidia-470-5.4.0-1090-oracle
 linux-objects-nvidia-470-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-objects-nvidia-470-5.4.0-1094-azure
-linux-objects-nvidia-470-5.4.0-1096-gcp
-=======
 linux-objects-nvidia-470-5.4.0-1096-gcp
 linux-objects-nvidia-470-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-objects-nvidia-470-5.4.0-135-generic
 linux-objects-nvidia-470-5.4.0-135-lowlatency
 linux-objects-nvidia-470-server-5.4.0-135-generic
 linux-objects-nvidia-470-server-5.4.0-135-lowlatency
 linux-objects-nvidia-510-5.4.0-1090-oracle
 linux-objects-nvidia-510-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-objects-nvidia-510-5.4.0-1094-azure
-linux-objects-nvidia-510-5.4.0-1096-gcp
-=======
 linux-objects-nvidia-510-5.4.0-1096-gcp
 linux-objects-nvidia-510-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-objects-nvidia-510-5.4.0-135-generic
 linux-objects-nvidia-510-5.4.0-135-lowlatency
 linux-objects-nvidia-515-5.4.0-1090-oracle
 linux-objects-nvidia-515-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-objects-nvidia-515-5.4.0-1094-azure
-linux-objects-nvidia-515-5.4.0-1096-gcp
-=======
 linux-objects-nvidia-515-5.4.0-1096-gcp
 linux-objects-nvidia-515-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-objects-nvidia-515-5.4.0-135-generic
 linux-objects-nvidia-515-5.4.0-135-lowlatency
 linux-objects-nvidia-515-server-5.4.0-135-generic
 linux-objects-nvidia-515-server-5.4.0-135-lowlatency
 linux-objects-nvidia-525-5.4.0-1090-oracle
 linux-objects-nvidia-525-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-objects-nvidia-525-5.4.0-1094-azure
-linux-objects-nvidia-525-5.4.0-1096-gcp
-=======
 linux-objects-nvidia-525-5.4.0-1096-gcp
 linux-objects-nvidia-525-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-objects-nvidia-525-5.4.0-135-generic
 linux-objects-nvidia-525-5.4.0-135-lowlatency
 linux-oem
@@ -748,13 +658,8 @@ linux-source-5.4.0
 linux-tools-5.4.0-1082-kvm
 linux-tools-5.4.0-1090-oracle
 linux-tools-5.4.0-1092-aws
-<<<<<<< HEAD
-linux-tools-5.4.0-1094-azure
-linux-tools-5.4.0-1096-gcp
-=======
 linux-tools-5.4.0-1096-gcp
 linux-tools-5.4.0-1098-azure
->>>>>>> 6411ab7928a91d7e4853e4d53784bbfd9d000e89
 linux-tools-5.4.0-135
 linux-tools-5.4.0-135-generic
 linux-tools-5.4.0-135-lowlatency
