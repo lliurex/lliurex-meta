@@ -1,3 +1,10 @@
+lliurex-meta (21.22.12.15) lliurex22; urgency=medium
+
+  * n4d-escoles-conectades
+  * bell-zero-center-files to desktop
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 15 Dec 2022 14:24:38 +0100
+
 lliurex-meta (21.22.12.07) lliurex22; urgency=medium
 
   * Add options for initramfs
