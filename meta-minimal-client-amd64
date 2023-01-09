@@ -44,7 +44,7 @@ lliurex-sudoers
 llum
 llx-ltsp-xrandr
 llx-ltsp-xrandr-thinclient
-llx-pam-configs
+llx-pam-configs-ldap
 n4d
 n4d-cdlocker-client
 n4d-client-exe-consumer

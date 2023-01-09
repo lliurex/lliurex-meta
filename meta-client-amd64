@@ -171,6 +171,7 @@ llx-guest
 llx-ltsp-xrandr
 llx-ltsp-xrandr-thinclient
 llx-pam-configs
+llx-pam-configs-ldap
 locales
 logrotate
 lsb-release

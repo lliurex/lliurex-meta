@@ -68,6 +68,7 @@ gimp-help-es
 gpart
 gwenview
 hdparm
+hodor
 imagination
 info
 init
@@ -141,6 +142,7 @@ lliurex-screen-mirroring
 lliurex-ssh-login
 lliurex-up
 llx-guest
+llx-pam-configs
 locales
 logrotate
 lsb-release

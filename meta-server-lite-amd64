@@ -169,6 +169,7 @@ llum
 llx-guest
 llx-ltsp-xrandr-thinclient
 llx-pam-configs
+llx-pam-configs-ldap
 lmd-lliurex-data
 lmd-server
 locales
