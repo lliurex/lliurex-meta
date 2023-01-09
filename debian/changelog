@@ -1,3 +1,11 @@
+lliurex-meta (19.07.94) bionic; urgency=medium
+
+  * Add hodor to all flavours
+  * Add llx-pam-configs to all flavours
+  * llx-pam-configs-ldap is needed in classroom model
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 09 Jan 2023 17:40:04 +0100
+
 lliurex-meta (19.07.93) bionic; urgency=medium
 
   * new zero resources
