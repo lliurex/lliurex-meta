@@ -1,3 +1,9 @@
+lliurex-meta (21.23.1.12) lliurex22; urgency=medium
+
+  * Regenerate metapackage  
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 12 Jan 2023 12:25:29 +0100
+
 lliurex-meta (21.22.12.16) lliurex22; urgency=medium
 
   * Dummy upgrade 
