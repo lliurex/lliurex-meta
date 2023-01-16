@@ -90,6 +90,7 @@ kimageformat-plugins
 kio-fuse
 konsole
 kscreen
+kscreen-system-settings
 ksshaskpass
 kwin-addons
 kwrite

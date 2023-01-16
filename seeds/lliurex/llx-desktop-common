@@ -114,6 +114,7 @@ libreoffice-gtk3
  * lliurex-screen-mirroring
  * (lliurex-access-control)
  * lliurex-auto-upgrade
+ * (kscreen-system-settings)
 
 === CDC ===
 

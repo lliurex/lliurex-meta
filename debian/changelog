@@ -1,3 +1,9 @@
+lliurex-meta (21.23.1.16) lliurex22; urgency=medium
+
+  * kscreen-system-settings
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 16 Jan 2023 13:53:47 +0100
+
 lliurex-meta (21.23.1.12) lliurex22; urgency=medium
 
   * Regenerate metapackage  
