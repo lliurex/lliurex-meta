@@ -1,3 +1,10 @@
+lliurex-meta (21.23.2.16) lliurex22; urgency=medium
+
+  * lliurex-server-defaults
+  * sddm-dbus
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 16 Feb 2023 13:56:44 +0100
+
 lliurex-meta (21.23.1.16) lliurex22; urgency=medium
 
   * kscreen-system-settings
