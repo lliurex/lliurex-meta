@@ -134,6 +134,8 @@ lliurex-preseed-common
 lliurex-profile-d
 lliurex-screen-mirroring
 lliurex-up
+lliurex-wifi-gva-control
+llx-alumnat-wifi
 llx-guest
 llx-pam-configs
 locales

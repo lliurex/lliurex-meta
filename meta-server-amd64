@@ -167,8 +167,10 @@ lliurex-screen-mirroring
 lliurex-server-defaults
 lliurex-sudoers
 lliurex-up
+lliurex-wifi-gva-control
 lliurex-www
 llum
+llx-alumnat-wifi
 llx-guest
 llx-pam-configs
 llx-pam-configs-ldap

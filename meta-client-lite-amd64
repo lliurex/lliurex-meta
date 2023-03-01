@@ -157,7 +157,9 @@ lliurex-remote-installer-client
 lliurex-screen-mirroring
 lliurex-sudoers
 lliurex-up
+lliurex-wifi-gva-control
 llum
+llx-alumnat-wifi
 llx-guest
 llx-pam-configs
 llx-pam-configs-ldap
