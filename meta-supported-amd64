@@ -287,6 +287,7 @@ libdbd-freetds
 libdbd-mysql
 libdbd-pgsql
 libdbd-sqlite3
+libfdk-aac1
 libfile-rsyncp-perl
 libfribidi0-udeb
 libgconf-2-4

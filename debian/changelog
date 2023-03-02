@@ -1,3 +1,9 @@
+lliurex-meta (21.23.3.2) lliurex22; urgency=medium
+
+  * libfdk-aac1 to supported
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 02 Mar 2023 11:57:14 +0100
+
 lliurex-meta (21.23.3.1) lliurex22; urgency=medium
 
   * lliurex-wifi-gva-control to desktop

@@ -122,6 +122,7 @@ tuxboot
 
 == Libs ==
 
+ * libfdk-aac1
  * udisks2-btrfs
  * libpulse-dev
  * libxcb-xinerama0
