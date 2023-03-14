@@ -27,6 +27,7 @@ llx-server-lite: llx-lite-common
 llx-client-lite: llx-lite-common
 llx-desktop-lite: llx-lite-common
 llx-touch:
+llx-desktop-classroom:
 meta-live: neon-live
 meta-desktop: neon-desktop llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
 meta-minimal-client: llx-base llx-minimal-classroom llx-class-client
@@ -40,4 +41,5 @@ meta-client-lite: neon-desktop llx-desktop-common llx-minimal-classroom llx-clas
 meta-desktop-lite: neon-desktop llx-desktop-common llx-desktop-lite
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
 meta-desktop-touch: neon-desktop llx-touch llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
-meta-minimal-touch: llx-touch 
+meta-minimal-touch: llx-touch
+meta-desktop-classroom: llx-base llx-desktop-classroom
