@@ -1,3 +1,9 @@
+lliurex-meta (21.23.3.14) lliurex22; urgency=medium
+
+  * Add meta desktop classroom
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 14 Mar 2023 13:46:11 +0100
+
 lliurex-meta (21.23.3.2) lliurex22; urgency=medium
 
   * libfdk-aac1 to supported
