@@ -121,3 +121,11 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex minimal touch
  List of all packages for lliurex
 
+Package: lliurex-meta-desktop-classroom
+Architecture: any-amd64
+Lliurex-Flavours: edu, desktop
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex desktop classroom
+ List of all packages for lliurex
+
