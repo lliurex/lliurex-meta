@@ -196,6 +196,7 @@ libreoffice-gtk3
 == Theme ==
  * lliurex-menus 
  * lliurex-desktop-defaults
+ * lliurex-kde-hotkeys
  * (adwaita-icon-theme)
 
 TODO: 
