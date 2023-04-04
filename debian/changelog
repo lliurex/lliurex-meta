@@ -1,3 +1,9 @@
+lliurex-meta (21.23.4.4) lliurex22; urgency=medium
+
+  * Add geogebra 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 04 Apr 2023 14:47:42 +0200
+
 lliurex-meta (21.23.3.23) lliurex22; urgency=medium
 
   * lliurex-kde-hotkeys 
