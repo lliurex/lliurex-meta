@@ -61,3 +61,6 @@ This seed is needed to add depends into pool from zero-installers
  * cdc-mapper-config-localhost
  * libnss-lliurex
 
+= Geogebra =
+
+ * libcanberra-gtk-module
