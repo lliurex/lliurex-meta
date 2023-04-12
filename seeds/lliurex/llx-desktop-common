@@ -36,7 +36,6 @@
  * kamoso
  * imagination
  * kdenlive
- * sound-juicer
  * gimp 
  * telegram-installer
  * mypaint
@@ -149,6 +148,7 @@ libreoffice-gtk3
  * (zero-lliurex-dni)
  * (zero-lliurex-krita)
  * (zero-lliurex-smart)
+ * (zero-lliurex-mixxx)
  * (zero-lliurex-inventory)
  * (zero-lliurex-fritzing)
  * (llx-edition-studio)
