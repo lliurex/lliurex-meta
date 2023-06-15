@@ -292,9 +292,11 @@ zero-installer-util-classroom
 zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-accessibility
+zero-lliurex-anaconda
 zero-lliurex-anydesk
 zero-lliurex-autofirma
 zero-lliurex-blockly-arduino
+zero-lliurex-calibre
 zero-lliurex-cdc
 zero-lliurex-chrome
 zero-lliurex-chromecast
@@ -303,6 +305,7 @@ zero-lliurex-dropbox-installer
 zero-lliurex-flash
 zero-lliurex-freecad
 zero-lliurex-fritzing
+zero-lliurex-ganttproject
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
@@ -332,3 +335,4 @@ zero-lliurex-touch
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64
+zero-robolliurex

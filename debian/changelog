@@ -1,3 +1,9 @@
+lliurex-meta (21.23.6.15) lliurex22; urgency=medium
+
+  * zero lliurex (anaconda,ganttproject,calibre,robolliurex) to desktop
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 15 Jun 2023 14:25:27 +0200
+
 lliurex-meta (21.23.6.8) lliurex22; urgency=medium
 
   * adding zero-lliurex-oliplus tp desktop 

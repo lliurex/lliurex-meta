@@ -178,6 +178,10 @@ libreoffice-gtk3
  * (zero-lliurex-accessibility)
  * (zero-lliurex-touch)
  * (zero-lliurex-oliplus)
+ * (zero-lliurex-anaconda)
+ * (zero-lliurex-calibre)
+ * (zero-lliurex-ganttproject)
+ * (zero-robolliurex)
 
 == Fonts ==
 
