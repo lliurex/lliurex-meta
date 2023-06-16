@@ -14,6 +14,7 @@ disable-apparmor
 dr-valentin
 dr-valentin-client-common
 epoptes-client
+flatlock
 foomatic-db-compressed-ppds
 home-eraser-client
 home-linker

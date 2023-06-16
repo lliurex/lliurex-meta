@@ -1,3 +1,9 @@
+lliurex-meta (21.23.6.16) lliurex22; urgency=medium
+
+  * Add flatlock 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 16 Jun 2023 09:57:23 +0200
+
 lliurex-meta (21.23.6.15) lliurex22; urgency=medium
 
   * zero lliurex (anaconda,ganttproject,calibre,robolliurex) to desktop
