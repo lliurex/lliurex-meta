@@ -35,7 +35,9 @@ dr-valentin
 e2fsprogs
 ed
 eject
+enmarcado-kde-servicemenu
 epi-gtk
+ffconversor-kde-servicemenu
 file
 filezilla
 firefox
@@ -58,6 +60,7 @@ fonts-tomsontalks
 fonts-unfonts-core
 foomatic-db-compressed-ppds
 foomatic-db-compressed-ppds
+fotoalbum-kde-servicemenu
 ftp
 gdebi
 genisoimage
@@ -86,6 +89,7 @@ kbd
 kcalc
 kcharselect
 kde-cli-tools
+kde-service-menu-reimage
 kde-spectacle
 kdenlive
 kget
@@ -155,6 +159,7 @@ lsof
 ltrace
 lvm2
 man-db
+marcapaginas-kde-servicemenu
 mawk
 mime-support
 mount
@@ -199,6 +204,8 @@ screen
 sddm
 sddm-theme-breeze
 sensible-utils
+simplayer-flash-activities
+simplayer-phet-activities
 skanlite
 smbclient
 software-properties-common

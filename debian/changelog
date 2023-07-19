@@ -1,3 +1,9 @@
+lliurex-meta (21.23.7.19) lliurex22; urgency=medium
+
+  * simplayer, activities and service menus to desktop only
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 19 Jul 2023 13:29:51 +0200
+
 lliurex-meta (21.23.6.16) lliurex22; urgency=medium
 
   * Add flatlock 
