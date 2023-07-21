@@ -1,3 +1,9 @@
+lliurex-meta (21.23.7.21) lliurex22; urgency=medium
+
+  * zero chromium and clickcontrol to desktop 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 21 Jul 2023 09:44:49 +0200
+
 lliurex-meta (21.23.7.19) lliurex22; urgency=medium
 
   * simplayer, activities and service menus to desktop only
