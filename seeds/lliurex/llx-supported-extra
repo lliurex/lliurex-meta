@@ -183,3 +183,7 @@ tuxboot
 
  * gtk2-engines-murrine
  * promethean-compat-libs
+
+ * gvfs-fuse
+ * wmctrl
+

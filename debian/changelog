@@ -1,3 +1,9 @@
+lliurex-meta (21.23.7.26) lliurex22; urgency=medium
+
+  * gvfs-fuse wmctrl to supported 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 26 Jul 2023 14:11:10 +0200
+
 lliurex-meta (21.23.7.21) lliurex22; urgency=medium
 
   * zero chromium and clickcontrol to desktop 
