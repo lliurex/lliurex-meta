@@ -2,5 +2,5 @@ include platform.jammy
 neon-desktop: desktop-common
 neon-all: neon-desktop
 neon-live: neon-desktop live-common
-neon-ship-live: boot live
+neon-ship-live: boot neon-live
 neon-desktop-ko: neon-desktop
