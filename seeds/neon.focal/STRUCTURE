@@ -1,6 +1,0 @@
-include platform.focal
-neon-desktop: desktop-common
-neon-all: neon-desktop
-neon-live: live-common
-neon-ship-live: boot neon-live
-neon-desktop-ko: neon-desktop

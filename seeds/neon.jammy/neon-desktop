@@ -7,6 +7,8 @@ Task-Seeds: desktop-common
 
 = Hardware and Architecture Support =
 
+ * (linux-generic-hwe-22.04)
+
 == Architecture-independent ==
 
  * pm-utils
@@ -54,7 +56,6 @@ Fonts:
  * kio
  * kio-extras
  * kmenuedit
- * ksysguard
  * kwin
  * kwrited
  * oxygen-sounds
@@ -90,6 +91,8 @@ Fonts:
  * (plasma-firewall)
  * (plasma-systemmonitor)
  * (qml-module-org-kde-breeze)
+ * (plasma-welcome)
+ * (flatpak-kcm)
 
 = Applications
 
@@ -107,6 +110,12 @@ Fonts:
  * (kdialog)
  * (kdegraphics-thumbnailers)
  * (kio-fuse)
+ * (kde-inotify-survey)
+ * (kio-admin)
+ * (kio-gdrive)
+ * (ffmpegthumbs)
+ * (xwaylandvideobridge)
+ * (kdeconnect)
 
 = Other =
 
@@ -130,6 +139,7 @@ Fonts:
  * sddm-theme-breeze
  * neon-settings-2
  * neon-keyring
+ * power-profiles-daemon 
  * software-properties-common
  * fonts-noto-hinted # Plasma's default font, we want this!
  * fonts-hack-ttf
@@ -143,6 +153,7 @@ Fonts:
  * (libappimage0) # from ubuntu needed by some appimages
  * (kde-nomodeset) # GUI to deal with the (Safe Graphics) boot mode on ISO + install
  * (neon-configure-inotify) # configures inotify limits on linux<5.11
+ * (neon-essentials-desktop) # marks certain packages as essential so apt is less inclined to remove them
 
 == Blacklist ==
 

@@ -131,7 +131,7 @@ Task-Test-new-install: skip show
 
 == kde-extras ==
 
- * (kdeconnect)
+ * kdeconnect
  * yakuake
  * kpmcore
  * partitionmanager
@@ -142,7 +142,6 @@ Task-Test-new-install: skip show
  * skanlite
  * kio-gdrive
  * kdevelop-php
- * kdevelop-python
  * smb4k
  * tellico
  * colord-kde

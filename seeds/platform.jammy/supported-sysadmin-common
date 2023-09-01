@@ -27,4 +27,3 @@
  * policyrcd-script-zg2 # helps with chroot administration
  * pastebinit
  * mlocate
- * rsyslog-gnutls   # LP: #388605 - encrypt data sent by rsyslog for compliance

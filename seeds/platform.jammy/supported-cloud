@@ -5,19 +5,29 @@
  * hibagent
  * %linux-aws
  * %linux-restricted-modules-aws
+ * %linux-restricted-signatures-aws
  * %linux-meta-aws
  * %linux-azure
  * %linux-signed-azure
  * %linux-restricted-modules-azure
+ * %linux-restricted-signatures-azure
  * %linux-meta-azure
  * %linux-kvm
  * %linux-meta-kvm
  * %linux-gcp
  * %linux-restricted-modules-gcp
+ * %linux-restricted-signatures-gcp
  * %linux-meta-gcp
+ * %linux-gke
+ * %linux-meta-gke
+ * %linux-signed-gke
+ * %linux-ibm
+ * %linux-meta-ibm
+ * %linux-signed-ibm
  * %linux-oracle
  * %linux-signed-oracle
  * %linux-restricted-modules-oracle
+ * %linux-restricted-signatures-oracle
  * %linux-meta-oracle
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * ec2-hibinit-agent # EC2
@@ -25,8 +35,6 @@
  * gce-compute-image-packages # Google Compute Engine
  * google-osconfig-agent # Google Compute Engine
  * walinuxagent
- * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680
- * rax-nova-agent
  * socat # LP: #1756870
  * pv  # LP: #1746891
  * lxd-installer # installed by livecd-rootfs in minimized cloud images
@@ -47,3 +55,9 @@
  * sysconfig-hardware [s390x]
 
  * grub-legacy-ec2
+
+ * u-boot-menu
+ * u-boot-qemu
+ * u-boot-sifive
+ * u-boot-rpi
+ * opensbi

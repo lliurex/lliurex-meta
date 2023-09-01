@@ -65,3 +65,4 @@ Calamares needs full filesystem support for the partitioner.
 These packages make up the Ubiquity live installer.
 
  * calamares
+ * calamares-settings
