@@ -104,7 +104,7 @@ libreoffice-gtk3
  * (lliurex-gdrive-core)
  * (lliurex-gdrive-gui)
  * (lliurex-gdrive-indicator)
- * (lliurex-firefox-settings)
+== * (lliurex-firefox-settings)
  * (lliurex-on-fire)
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
