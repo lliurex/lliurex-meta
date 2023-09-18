@@ -14,7 +14,9 @@ iotop
 iperf
 libnss-mdns
 libnss-myhostname
+lliurex-conky
 lliurex-shutdowner
+lliurex-ssh-login
 lshw
 printer-driver-foo2zjs
 printer-driver-gutenprint

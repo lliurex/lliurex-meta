@@ -12,6 +12,8 @@ btrfs-progs
 busybox-static
 ca-certificates
 calamares
+calamares-lliurex-modules
+calamares-lliurex-settings
 calamares-settings
 console-setup
 cpio

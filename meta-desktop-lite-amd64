@@ -29,6 +29,7 @@ distro-release-notifier
 dmidecode
 docker-neon
 dosfstools
+dr-valentin
 e2fsprogs
 ed
 eject
@@ -36,6 +37,7 @@ epi-gtk
 file
 filezilla
 firefox
+flatlock
 fonts-breip
 fonts-cantarell
 fonts-dejavu-core
@@ -62,6 +64,7 @@ gimp-help-es
 gpart
 gwenview
 hdparm
+hodor
 imagination
 info
 init
@@ -114,12 +117,20 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
+lliurex-apt-divert
+lliurex-auto-upgrade
+lliurex-base-files
+lliurex-common-utils
 lliurex-desktop-defaults
+lliurex-keyring
 lliurex-menus
+lliurex-preseed-common
 lliurex-shutdowner
 lliurex-up
 lliurex-wifi-gva-control
 llx-alumnat-wifi
+llx-guest
+llx-pam-configs
 locales
 logrotate
 lsb-release
@@ -132,6 +143,7 @@ media-types
 mount
 mypaint
 n4d
+n4d-lliurex-base
 n4d-shutdowner-server
 neon-hardware-integration
 neon-keyring
@@ -207,4 +219,8 @@ xorg
 xz-utils
 zenity
 zero-center
+zero-lliurex-adobereader
+zero-lliurex-blockly-arduino-plugin
+zero-lliurex-dvdcss
+zero-lliurex-gearth
 zip
