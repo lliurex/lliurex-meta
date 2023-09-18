@@ -1,3 +1,9 @@
+lliurex-meta (23.1.9.18.2) jammy; urgency=medium
+
+  * Remove temporally lliurex-firefox-settings
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 18 Sep 2023 12:38:07 +0200
+
 lliurex-meta (23.1.9.18.1) jammy; urgency=medium
 
   * Remove calamares-settings
