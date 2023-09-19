@@ -5,7 +5,7 @@
  * smbclient            # to access files on other SAMBA and Windows servers
  * (dmraid)
  * (exfat-fuse)
- * (exfat-utils)
+ * (exfatprogs)
  * (lliurex-initramfs-options)
 == Basic services ==
 
