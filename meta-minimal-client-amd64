@@ -22,6 +22,7 @@ lliurex-guard
 lliurex-keyring
 lliurex-preseed-common
 lliurex-preseed-nslcd
+lliurex-profile-d-class
 n4d
 n4d-hostname
 n4d-lliurex-base

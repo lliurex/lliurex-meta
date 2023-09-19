@@ -22,7 +22,6 @@ cups-bsd
 cups-client
 cups-filters
 curl
-curl
 desktop-file-utils
 dmraid
 dolphin
@@ -31,6 +30,7 @@ dpkgunlocker-gui
 drkonqi-pk-debug-installer
 ethtool
 exfat-fuse
+exfatprogs
 extundelete
 ffmpeg
 ffmpegthumbs
@@ -88,7 +88,6 @@ kde-inotify-survey
 kde-nomodeset
 kde-spectacle
 kdeconnect
-kdeconnect
 kdegraphics-thumbnailers
 kdesdk-thumbnailers
 kdialog
@@ -108,7 +107,7 @@ language-pack-ca
 language-pack-gnome-ca
 laptop-detect
 libappimage0
-libnss-mdns
+libnss-lliurex
 libnss-mdns
 libnss-myhostname
 libreoffice
@@ -190,18 +189,14 @@ print-manager
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
-printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
 printer-driver-hpijs
 printer-driver-m2300w
 printer-driver-min12xxw
-printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
-printer-driver-pxljr
 printer-driver-sag-gdi
-printer-driver-splix
 printer-driver-splix
 pstoedit
 pulseaudio
@@ -215,6 +210,7 @@ remmina
 repoman
 ri-li
 rsyslog
+scratch-desktop
 shutter
 simplescreenrecorder
 snapd

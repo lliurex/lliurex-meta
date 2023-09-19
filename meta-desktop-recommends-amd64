@@ -23,7 +23,6 @@ cups-bsd
 cups-client
 cups-filters
 curl
-curl
 desktop-file-utils
 dia
 dmraid
@@ -33,6 +32,7 @@ dpkgunlocker-gui
 drkonqi-pk-debug-installer
 ethtool
 exfat-fuse
+exfatprogs
 extundelete
 ffmpeg
 ffmpegthumbs
@@ -53,7 +53,6 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 fonts-ubuntu
 frameworkintegration
-freeplane
 freeplane
 friendly-recovery
 fwupd
@@ -88,7 +87,6 @@ iptables
 iputils-tracepath
 irqbalance
 kazam
-kazam
 kde-config-gtk-style
 kde-config-gtk-style-preview
 kde-config-plymouth
@@ -96,7 +94,6 @@ kde-config-sddm
 kde-inotify-survey
 kde-nomodeset
 kde-spectacle
-kdeconnect
 kdeconnect
 kdegraphics-thumbnailers
 kdesdk-thumbnailers
@@ -118,7 +115,7 @@ language-pack-ca
 language-pack-gnome-ca
 laptop-detect
 libappimage0
-libnss-mdns
+libnss-lliurex
 libnss-mdns
 libnss-myhostname
 librecad
@@ -153,7 +150,6 @@ memtest86+
 milou
 mobile-broadband-provider-info
 mtr-tiny
-musescore3
 musescore3
 myspell-es
 mythes-ca
@@ -204,18 +200,14 @@ print-manager
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
-printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
 printer-driver-hpijs
 printer-driver-m2300w
 printer-driver-min12xxw
-printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
-printer-driver-pxljr
 printer-driver-sag-gdi
-printer-driver-splix
 printer-driver-splix
 pstoedit
 pulseaudio
@@ -224,18 +216,16 @@ qml-module-org-kde-breeze
 qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qstopmotion
-qstopmotion
 qt5-image-formats-plugins
 remmina
 repoman
 ri-li
 rsyslog
+scratch-desktop
 scribus
-shutter
 shutter
 simplescreenrecorder
 snapd
-solfege
 solfege
 swapspace
 synaptic

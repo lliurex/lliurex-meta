@@ -14,7 +14,6 @@ bind9-dnsutils
 breeze
 busybox-static
 ca-certificates
-ca-certificates
 console-setup
 cpio
 cron
@@ -37,6 +36,7 @@ epi-gtk
 file
 filezilla
 firefox
+first-aid-kit
 flatlock
 fonts-breip
 fonts-cantarell
@@ -53,7 +53,6 @@ fonts-rufscript
 fonts-symbola
 fonts-tomsontalks
 fonts-unfonts-core
-foomatic-db-compressed-ppds
 foomatic-db-compressed-ppds
 ftp
 gdebi
@@ -125,6 +124,7 @@ lliurex-desktop-defaults
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
+lliurex-profile-d
 lliurex-up
 lliurex-wifi-gva-control
 llx-alumnat-wifi
@@ -153,7 +153,6 @@ netplan.io
 nfs-common
 nftables
 okular
-openprinting-ppds
 openprinting-ppds
 oxygen-sounds
 p7zip-full
@@ -209,10 +208,7 @@ vlc
 wget
 whiptail
 wireless-tools
-wireless-tools
 wpasupplicant
-wpasupplicant
-xdg-user-dirs
 xdg-user-dirs
 xkb-data
 xorg

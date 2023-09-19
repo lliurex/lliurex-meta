@@ -18,14 +18,12 @@ cdc
 cdc-mapper
 cdc-mapper-config-localhost
 cdrdao
-cdrdao
 command-not-found
 cryptsetup
 cups
 cups-bsd
 cups-client
 cups-filters
-curl
 curl
 darktable
 desktop-file-utils
@@ -39,6 +37,7 @@ dvgrab
 entangle
 ethtool
 exfat-fuse
+exfatprogs
 extundelete
 ffmpeg
 ffmpeg2theora
@@ -68,7 +67,6 @@ fwupd-signed
 gettext
 gimp-data-extras
 gimp-gap
-gimp-plugin-registry
 gimp-plugin-registry
 gparted
 gpick
@@ -101,7 +99,6 @@ kde-inotify-survey
 kde-nomodeset
 kde-spectacle
 kdeconnect
-kdeconnect
 kdegraphics-thumbnailers
 kdesdk-thumbnailers
 kdialog
@@ -120,7 +117,7 @@ language-pack-ca
 language-pack-gnome-ca
 laptop-detect
 libappimage0
-libnss-mdns
+libnss-lliurex
 libnss-mdns
 libnss-myhostname
 libreoffice
@@ -203,18 +200,14 @@ print-manager
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
-printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
 printer-driver-hpijs
 printer-driver-m2300w
 printer-driver-min12xxw
-printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
-printer-driver-pxljr
 printer-driver-sag-gdi
-printer-driver-splix
 printer-driver-splix
 pstoedit
 pulseaudio
