@@ -11,6 +11,7 @@ aodh-listener
 aodh-notifier
 apport-retrace
 apt
+apt
 apt-listchanges
 apt-utils
 aptitude
@@ -24,6 +25,7 @@ autofs
 automake
 autopkgtest
 autotools-dev
+avahi-utils
 avahi-utils
 awstats
 backuppc
@@ -58,6 +60,7 @@ checksecurity
 chromium-browser
 chromium-browser-l10n
 chrony
+chrony
 cifs-utils
 cinder-api
 cinder-backup
@@ -90,6 +93,8 @@ designate-worker
 designate-zone-manager
 device-tree-compiler
 devscripts
+devscripts
+dh-autoreconf
 dh-autoreconf
 dh-di
 dh-exec
@@ -128,6 +133,7 @@ flameshot
 flex
 freecad
 freeipmi-tools
+freeipmi-tools
 freeradius
 frr
 ftp
@@ -139,6 +145,7 @@ gdb
 gdb-doc
 germinate
 gfortran-multilib
+git
 git
 git-buildpackage
 git-svn
@@ -152,8 +159,14 @@ gpgv
 gpsd
 graphicsmagick
 grub-efi
+grub-efi
+grub-efi-amd64
+grub-efi-amd64
 grub-efi-amd64
 grub-efi-amd64-bin
+grub-efi-amd64-signed
+grub-efi-amd64-signed
+grub-efi-amd64-signed
 grub-efi-amd64-signed
 grub-efi-ia32
 grub-ieee1275-bin
@@ -189,7 +202,9 @@ ipython3
 irssi
 isc-dhcp-client
 isc-dhcp-server
+isc-dhcp-server
 jmtpfs
+john
 john
 joyent-mdata-client
 jwm
@@ -213,6 +228,7 @@ libapache2-mod-auth-pgsql
 libapache2-mod-auth-plain
 libapache2-mod-perl2
 libapache2-mod-php
+libatm1
 libatm1
 libatomic-ops-dev
 libc6-dev
@@ -255,6 +271,7 @@ libstdc++-11-pic
 libtemplate-perl
 libtool
 libva-wayland2
+libvirt-clients
 libvirt-clients
 libvirt-daemon-system
 libxcb-xinerama0
@@ -1023,6 +1040,7 @@ mysql-server
 n4d-escoles-conectades
 nbd-client
 nbd-server
+nbd-server
 ndctl
 netbase
 netcat-openbsd
@@ -1070,6 +1088,8 @@ openscad
 openstack-dashboard
 openvpn
 openvswitch-switch
+openvswitch-switch
+openvswitch-switch-dpdk
 openvswitch-switch-dpdk
 ovn-central
 ovn-host
@@ -1123,6 +1143,7 @@ procmail
 procps
 psmisc
 pv
+pxelinux
 pxelinux
 python-bsddb3-doc
 python-dev-is-python3
@@ -1188,6 +1209,7 @@ quota
 rabbitmq-server
 radosgw
 radvd
+radvd
 realmd
 reiser4progs
 rrdtool
@@ -1206,15 +1228,19 @@ sensible-utils
 setserial
 shim
 shim-signed
+shim-signed
+shim-signed
 siege
 slapd
 smartmontools
+snmp
 snmp
 snmpd
 socat
 spamassassin
 sqlite3
 squashfs-tools
+squid
 squid
 sssd
 sssd-dbus
@@ -1234,6 +1260,7 @@ swift-object-expirer
 swift-proxy
 synfigstudio
 sysfsutils
+syslinux-common
 syslinux-common
 syslinux-efi
 sysstat

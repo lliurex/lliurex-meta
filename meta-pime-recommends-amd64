@@ -22,6 +22,7 @@ cups-bsd
 cups-client
 cups-filters
 curl
+curl
 desktop-file-utils
 dmraid
 dolphin
@@ -36,6 +37,7 @@ ffmpeg
 ffmpegthumbs
 firefox
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 flatpak-kcm
 fonts-indic
@@ -84,6 +86,7 @@ kde-inotify-survey
 kde-nomodeset
 kde-spectacle
 kdeconnect
+kdeconnect
 kdegraphics-thumbnailers
 kdesdk-thumbnailers
 kdialog
@@ -103,6 +106,7 @@ language-pack-gnome-ca
 laptop-detect
 libappimage0
 libnss-lliurex
+libnss-mdns
 libnss-mdns
 libnss-myhostname
 libreoffice
@@ -180,14 +184,18 @@ print-manager
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
+printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
 printer-driver-hpijs
 printer-driver-m2300w
 printer-driver-min12xxw
+printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
+printer-driver-pxljr
 printer-driver-sag-gdi
+printer-driver-splix
 printer-driver-splix
 pstoedit
 pulseaudio
