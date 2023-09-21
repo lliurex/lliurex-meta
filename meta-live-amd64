@@ -63,6 +63,7 @@ less
 libpam-systemd
 libsasl2-modules
 libu2f-udev
+lliurex-live-fixes
 lliurex-sddm-live-theme
 locales
 logrotate

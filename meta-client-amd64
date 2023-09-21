@@ -116,6 +116,7 @@ less
 libdrm2
 libpam-systemd
 libreoffice-base
+libreoffice-calc
 libreoffice-l10n-ca
 libreoffice-l10n-es
 libreoffice-ogltrans
@@ -131,6 +132,7 @@ lliurex-base-files
 lliurex-classroom-defaults
 lliurex-common-utils
 lliurex-desktop-defaults
+lliurex-grub-custom
 lliurex-guard
 lliurex-keyring
 lliurex-menus

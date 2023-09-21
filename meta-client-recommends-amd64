@@ -142,6 +142,7 @@ lliurex-conky
 lliurex-conky
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-firefox-settings
 lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-mime-settings
@@ -298,6 +299,7 @@ zero-lliurex-cdc
 zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-chromium
+zero-lliurex-clickcontrolds
 zero-lliurex-freecad
 zero-lliurex-fritzing
 zero-lliurex-ganttproject
@@ -313,6 +315,7 @@ zero-lliurex-mixxx
 zero-lliurex-musica
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
+zero-lliurex-oliplus
 zero-lliurex-onedrive
 zero-lliurex-openboard
 zero-lliurex-photo

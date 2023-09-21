@@ -113,6 +113,7 @@ less
 libdrm2
 libpam-systemd
 libreoffice-base
+libreoffice-calc
 libreoffice-l10n-ca
 libreoffice-l10n-es
 libreoffice-ogltrans
@@ -127,6 +128,7 @@ lliurex-auto-upgrade
 lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults
+lliurex-grub-custom
 lliurex-guard-data
 lliurex-guard-standalone
 lliurex-guard-standalone-zerofiles

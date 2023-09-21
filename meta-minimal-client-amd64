@@ -18,6 +18,7 @@ lliurex-apt-divert
 lliurex-base-files
 lliurex-classroom-defaults
 lliurex-common-utils
+lliurex-grub-custom
 lliurex-guard
 lliurex-keyring
 lliurex-preseed-common
