@@ -1,3 +1,9 @@
+lliurex-meta (23.1.9.24) jammy; urgency=medium
+
+  * Remove package to test build iso
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Sun, 24 Sep 2023 15:28:07 +0200
+
 lliurex-meta (23.1.9.21) jammy; urgency=medium
 
   * Regenerate meta
