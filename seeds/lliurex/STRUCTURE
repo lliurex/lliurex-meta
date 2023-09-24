@@ -29,7 +29,7 @@ llx-desktop-lite: llx-lite-common
 llx-touch:
 llx-desktop-classroom:
 meta-live: neon-live
-meta-desktop: neon-desktop llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
+meta-desktop: neon-desktop llx-desktop-common llx-edu-apps-eso-secundaria
 meta-minimal-client: llx-base llx-minimal-classroom llx-class-client
 meta-client: neon-desktop llx-class-client llx-class-edu-common llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps
 meta-server: neon-desktop llx-class-server llx-class-edu-server llx-class-edu-common llx-desktop-common llx-edu-apps-eso-secundaria llx-edu-apps-infantil-primaria llx-extra-apps

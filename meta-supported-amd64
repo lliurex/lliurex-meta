@@ -998,6 +998,7 @@ linux-virtual-hwe-20.04-edge
 live-build
 livecd-rootfs
 lliurex-abies2pmb
+lliurex-artwork-fonts
 lliurex-on-chrome
 lliurex-version-timestamp
 locales
@@ -1060,6 +1061,7 @@ nginx
 nginx-core
 nicstat
 noteshrink
+noteshrink-gui
 nova-api
 nova-common
 nova-compute
