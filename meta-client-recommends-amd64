@@ -4,7 +4,6 @@ apparmor
 ark
 avahi-autoipd
 avahi-daemon
-avogadro
 axel
 bash-completion
 bell-scheduler-zerocenter-files

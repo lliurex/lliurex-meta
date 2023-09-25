@@ -11,6 +11,7 @@ audacity
 baloo-kf5
 bc
 bind9-dnsutils
+blender
 breeze
 busybox-static
 ca-certificates
@@ -77,6 +78,8 @@ inputattach
 iproute2
 iputils-ping
 isc-dhcp-client
+jclic
+jclic
 k3b
 kamoso
 kbd
@@ -101,6 +104,7 @@ kwin-wayland
 kwin-x11
 kwrite
 kwrited
+laby
 language-pack-es
 language-pack-es-base
 language-pack-gnome-en
@@ -193,8 +197,6 @@ screen
 sddm
 sddm-theme-breeze
 sensible-utils
-simplayer-flash-activities
-simplayer-phet-activities
 skanlite
 smbclient
 software-properties-common
@@ -204,6 +206,7 @@ sudo
 systemsettings
 time
 transmission-qt
+tuxmath
 tzdata
 ubuntu-advantage-tools
 ubuntu-drivers-common
@@ -234,6 +237,10 @@ zenity
 zero-center
 zero-lliurex-adobereader
 zero-lliurex-blockly-arduino-plugin
+zero-lliurex-cmaptools
 zero-lliurex-dvdcss
+zero-lliurex-fonts
 zero-lliurex-gearth
+zero-lliurex-hotpotatoes
+zero-lliurex-jclic-biblio
 zip
