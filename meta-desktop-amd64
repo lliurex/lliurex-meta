@@ -79,6 +79,7 @@ iproute2
 iputils-ping
 isc-dhcp-client
 jclic
+jclic
 k3b
 kamoso
 kbd
@@ -103,6 +104,7 @@ kwin-wayland
 kwin-x11
 kwrite
 kwrited
+laby
 language-pack-es
 language-pack-es-base
 language-pack-gnome-en
@@ -195,6 +197,8 @@ screen
 sddm
 sddm-theme-breeze
 sensible-utils
+simplayer-flash-activities
+simplayer-phet-activities
 skanlite
 smbclient
 software-properties-common
