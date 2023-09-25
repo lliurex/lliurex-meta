@@ -103,6 +103,7 @@ rfkill
 rsync
 sddm-theme-breeze
 sensible-utils
+shim-signed
 software-properties-common
 spice-vdagent
 strace
