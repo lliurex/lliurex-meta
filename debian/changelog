@@ -1,3 +1,9 @@
+lliurex-meta (23.1.9.27) jammy; urgency=medium
+
+  * Remove kdeconnect
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 27 Sep 2023 08:53:13 +0200
+
 lliurex-meta (23.1.9.25ubuntu3) jammy; urgency=medium
 
   * Regenerate meta
