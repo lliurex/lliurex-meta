@@ -1,3 +1,9 @@
+lliurex-meta (21.23.10.5) lliurex22; urgency=medium
+
+  * Added zero-lliurex-keepass to desktops 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 05 Oct 2023 10:39:14 +0200
+
 lliurex-meta (21.23.7.26) lliurex22; urgency=medium
 
   * gvfs-fuse wmctrl to supported 
