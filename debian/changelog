@@ -1,3 +1,9 @@
+lliurex-meta (21.24.1.17) focal; urgency=medium
+
+  * Add zero-lliurex-docker to avoid miss install fp-administrativo
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 17 Jan 2024 09:18:25 +0100
+
 lliurex-meta (21.23.12.13) focal; urgency=medium
 
   * dummy upgrade 
