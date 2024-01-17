@@ -275,6 +275,7 @@ xaos
 xdg-utils
 xinput-calibrator
 xournalpp
+xwaylandvideobridge
 zero-fp-administrativo
 zero-fp-electronica
 zero-fp-informatica
@@ -295,6 +296,8 @@ zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-chromium
 zero-lliurex-clickcontrolds
+zero-lliurex-docker
+zero-lliurex-dropbox-installer
 zero-lliurex-freecad
 zero-lliurex-fritzing
 zero-lliurex-ganttproject

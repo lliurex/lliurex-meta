@@ -16,6 +16,9 @@ iperf
 libnss-mdns
 libnss-myhostname
 lliurex-conky
+lliurex-easy-sites
+lliurex-easysites-zerocenter-files
+lliurex-remote-installer-gui
 lliurex-shutdowner
 lliurex-ssh-login
 lshw

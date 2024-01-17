@@ -15,6 +15,7 @@ openssh-client
 plymouth
 plymouth-theme-ubuntu-text
 pyromaths
+pyromaths-qt
 rsyslog
 tcpdump
 telnet

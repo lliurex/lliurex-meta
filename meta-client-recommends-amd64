@@ -140,12 +140,15 @@ lliurex-conky
 lliurex-conky
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
+lliurex-easy-sites
+lliurex-easysites-zerocenter-files
 lliurex-firefox-settings
 lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-mime-settings
 lliurex-on-fire
 lliurex-perfilreset
+lliurex-remote-installer-gui
 lliurex-shutdowner
 lliurex-ssh-login
 lliurex-tuxpaint-stamps
@@ -278,6 +281,7 @@ xaos
 xdg-utils
 xinput-calibrator
 xournalpp
+xwaylandvideobridge
 zero-fp-administrativo
 zero-fp-electronica
 zero-fp-informatica
@@ -298,6 +302,8 @@ zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-chromium
 zero-lliurex-clickcontrolds
+zero-lliurex-docker
+zero-lliurex-dropbox-installer
 zero-lliurex-freecad
 zero-lliurex-fritzing
 zero-lliurex-ganttproject
