@@ -186,6 +186,7 @@ libreoffice-gtk3
  * (zero-lliurex-chromium)
  * (zero-lliurex-keepass)
  * (zero-lliurex-thonny)
+ * (zero-lliurex-docker)
 
 == Fonts ==
 
