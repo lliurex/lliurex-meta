@@ -1,3 +1,10 @@
+lliurex-meta (23.2.1.17) jammy; urgency=medium
+
+  * Add zero-lliurex-docker.
+  * Recalculate meta
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 17 Jan 2024 09:03:37 +0100
+
 lliurex-meta (23.1.9.27.2) jammy; urgency=medium
 
   * Regenerate meta
