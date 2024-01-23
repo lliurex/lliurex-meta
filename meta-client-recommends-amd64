@@ -192,6 +192,7 @@ network-manager-pptp
 npm
 ntfs-3g
 okular
+okular-extra-backends
 onboard
 openssh-client
 packagekit

@@ -166,6 +166,7 @@ neon-ubuntu-advantage-tools
 network-manager-pptp
 ntfs-3g
 okular
+okular-extra-backends
 onboard
 openssh-client
 packagekit
