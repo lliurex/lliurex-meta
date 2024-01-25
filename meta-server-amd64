@@ -1,6 +1,8 @@
 acl
 acpid
 adduser
+admin-center-lliurex-mirror
+admin-center-ltsp
 alsa-base
 alsa-utils
 anacron
@@ -147,6 +149,7 @@ lliurex-homework-harvester
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
+lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
 lliurex-profile-d
 lliurex-profile-d-class
@@ -161,6 +164,8 @@ llx-alumnat-wifi
 llx-guest
 llx-pam-configs
 llx-pam-configs-ldap
+lmd-lliurex-data
+lmd-server
 locales
 logrotate
 lsb-release
@@ -177,13 +182,20 @@ n4d-apache
 n4d-autofs
 n4d-classroom-mountmode
 n4d-dnsmasq
+n4d-epoptes-server
 n4d-homeworkharvester-client
 n4d-homeworkharvester-server
 n4d-hostname
+n4d-ldap
 n4d-lliurex-base
 n4d-lliurex-guard
+n4d-lliurex-mirror
+n4d-netfolders
 n4d-network
+n4d-nfs
 n4d-pamnss
+n4d-samba
+n4d-server-plugins
 n4d-shutdowner-server
 neon-hardware-integration
 neon-keyring
@@ -275,4 +287,5 @@ zero-lliurex-jclic-biblio
 zero-lliurex-mixxx
 zero-lliurex-promethean
 zero-lliurex-technology
+zero-server-wizard
 zip

@@ -119,6 +119,7 @@ libreoffice-sdbc-firebird
 libreoffice-style-elementary
 linux-generic-hwe-22.04
 lliurex-access-control
+lliurex-cdlocker
 lliurex-certificates
 lliurex-conky
 lliurex-conky
@@ -128,11 +129,19 @@ lliurex-easy-sites
 lliurex-easysites-zerocenter-files
 lliurex-firefox-settings
 lliurex-java-panel
+lliurex-libreoffice-aula-settings
 lliurex-mime-settings
+lliurex-moving-core
+lliurex-moving-editor
+lliurex-ntpdate
 lliurex-on-fire
 lliurex-perfilreset
+lliurex-polkit-settings
+lliurex-quota-gui
 lliurex-remote-installer-gui
+lliurex-rsyslog-filters
 lliurex-shutdowner
+lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lliurex-unattended-upgrades
 llx-edition-studio

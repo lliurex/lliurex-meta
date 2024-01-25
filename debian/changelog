@@ -1,3 +1,9 @@
+lliurex-meta (23.2.1.25) jammy; urgency=medium
+
+  * Regenerating meta to get server packages 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 25 Jan 2024 08:18:02 +0100
+
 lliurex-meta (23.2.1.17) jammy; urgency=medium
 
   * Add zero-lliurex-docker.

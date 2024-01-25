@@ -146,6 +146,7 @@ lliurex-homework-harvester
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
+lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
 lliurex-profile-d
 lliurex-profile-d-class

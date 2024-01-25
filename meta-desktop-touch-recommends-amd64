@@ -84,6 +84,8 @@ hyphen-es
 ibus-m17n
 iftop
 inkscape
+intef-exe
+intef-exe
 iotop
 iperf
 iptables
@@ -144,6 +146,7 @@ lliurex-java-panel
 lliurex-mime-settings
 lliurex-on-fire
 lliurex-perfilreset
+lliurex-polkit-settings
 lliurex-ssh-login
 lliurex-tuxpaint-stamps
 lliurex-unattended-upgrades

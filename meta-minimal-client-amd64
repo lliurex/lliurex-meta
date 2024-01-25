@@ -36,6 +36,7 @@ lliurex-guard
 lliurex-homework-harvester
 lliurex-keyring
 lliurex-preseed-common
+lliurex-preseed-libnss-ldapd
 lliurex-preseed-nslcd
 lliurex-profile-d-class
 lliurex-quota
