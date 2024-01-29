@@ -175,6 +175,7 @@ llx-network-config
 lmd-manager-cli
 lshw
 ltsp
+ltsp-binaries
 manpages
 marble
 memtest86+
