@@ -7,6 +7,7 @@
  * (exfat-fuse)
  * (exfatprogs)
  * (lliurex-initramfs-options)
+ * (ncdu)
 == Basic services ==
 
  * lliurex-apt-divert
