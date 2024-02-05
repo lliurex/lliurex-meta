@@ -170,6 +170,7 @@ n4d-cups
 n4d-easysites
 n4d-mysql
 nano
+ncdu
 neon-apport
 neon-configure-inotify
 neon-essentials-desktop
@@ -178,6 +179,7 @@ network-manager-pptp
 ntfs-3g
 okular
 onboard
+open-sysclone-system
 openssh-client
 packagekit
 pavucontrol-qt

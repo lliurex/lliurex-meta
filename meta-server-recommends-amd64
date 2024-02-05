@@ -193,6 +193,7 @@ n4d-cups
 n4d-easysites
 n4d-mysql
 nano
+ncdu
 neon-apport
 neon-configure-inotify
 neon-essentials-desktop
@@ -202,6 +203,7 @@ npm
 ntfs-3g
 okular
 onboard
+open-sysclone-system
 openssh-client
 packagekit
 pavucontrol-qt
@@ -209,6 +211,7 @@ pavucontrol-qt-l10n
 pcmciautils
 pcsc-tools
 pcscd
+pdfarranger
 phonon4qt5-backend-vlc
 plasma-browser-integration
 plasma-calendar-addons

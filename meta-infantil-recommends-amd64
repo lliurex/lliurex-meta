@@ -152,6 +152,7 @@ mythes-ca
 mythes-en-us
 mythes-es
 nano
+ncdu
 neon-apport
 neon-configure-inotify
 neon-essentials-desktop
@@ -167,6 +168,7 @@ pavucontrol-qt-l10n
 pcmciautils
 pcsc-tools
 pcscd
+pdfarranger
 phonon4qt5-backend-vlc
 plasma-browser-integration
 plasma-calendar-addons

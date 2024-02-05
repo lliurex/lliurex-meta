@@ -1015,6 +1015,7 @@ lliurex-artwork-fonts
 lliurex-news-setup
 lliurex-on-chrome
 lliurex-version-timestamp
+lmd-client
 locales
 logcheck
 logcheck-database
