@@ -193,6 +193,7 @@ n4d-cups
 n4d-easysites
 n4d-mysql
 nano
+ncdu
 neon-apport
 neon-configure-inotify
 neon-essentials-desktop
@@ -202,6 +203,10 @@ npm
 ntfs-3g
 okular
 onboard
+open-sysclone-gui
+open-sysclone-rescue
+open-sysclone-server
+open-sysclone-system
 openssh-client
 packagekit
 pavucontrol-qt
@@ -276,6 +281,7 @@ stacer
 swapspace
 synaptic
 systemd-unlinkedserver
+taskscheduler
 tcpdump
 telnet
 testdisk
@@ -340,6 +346,7 @@ zero-lliurex-gearth
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-keepass
 zero-lliurex-krita
 zero-lliurex-llixhoot
 zero-lliurex-lmms
@@ -362,6 +369,7 @@ zero-lliurex-spotify
 zero-lliurex-stellarium
 zero-lliurex-teams
 zero-lliurex-technology
+zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64

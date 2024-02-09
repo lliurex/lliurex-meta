@@ -163,6 +163,7 @@ mythes-en-us
 mythes-es
 nano
 nautilus-image-converter
+ncdu
 neon-apport
 neon-configure-inotify
 neon-essentials-desktop
@@ -241,6 +242,7 @@ sonic-visualiser
 subtitleeditor
 swapspace
 synaptic
+taskscheduler
 tcpdump
 telnet
 testdisk
@@ -304,6 +306,7 @@ zero-lliurex-ganttproject
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-keepass
 zero-lliurex-krita
 zero-lliurex-lmms
 zero-lliurex-lumi
@@ -320,6 +323,7 @@ zero-lliurex-skype
 zero-lliurex-spotify
 zero-lliurex-teams
 zero-lliurex-technology
+zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64

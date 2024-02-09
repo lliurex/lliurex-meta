@@ -1,3 +1,11 @@
+lliurex-meta (23.2.2.9) jammy; urgency=medium
+
+  * keepass
+  * thonny
+  * taskscheduler 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 09 Feb 2024 11:05:50 +0100
+
 lliurex-meta (23.2.1.29) jammy; urgency=medium
 
   * Regenerating meta to get admin-center and ltsp packages

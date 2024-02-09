@@ -152,6 +152,7 @@ mythes-ca
 mythes-en-us
 mythes-es
 nano
+ncdu
 neon-apport
 neon-configure-inotify
 neon-essentials-desktop
@@ -226,6 +227,7 @@ snapd
 solfege
 swapspace
 synaptic
+taskscheduler
 tcpdump
 telnet
 testdisk
@@ -286,6 +288,7 @@ zero-lliurex-gearth
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-keepass
 zero-lliurex-krita
 zero-lliurex-lmms
 zero-lliurex-lumi
@@ -305,6 +308,7 @@ zero-lliurex-spotify
 zero-lliurex-stellarium
 zero-lliurex-teams
 zero-lliurex-technology
+zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64

@@ -30,6 +30,7 @@ lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
 lshw
+ncdu
 printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
