@@ -1,3 +1,10 @@
+lliurex-meta (23.2.2.26) jammy; urgency=medium
+
+  * lliurex-flavors
+  * virtualbox / dkms to supported 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 26 Feb 2024 12:21:16 +0100
+
 lliurex-meta (23.2.2.9) jammy; urgency=medium
 
   * keepass

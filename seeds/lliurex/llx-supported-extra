@@ -186,4 +186,6 @@ tuxboot
 
  * gvfs-fuse
  * wmctrl
+ * wine32
+ * virtualbox
 
