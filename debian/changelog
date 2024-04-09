@@ -1,3 +1,9 @@
+lliurex-meta (23.2.4.9) jammy; urgency=medium
+
+  * zero-lliurex-ai2offline 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 09 Apr 2024 09:25:22 +0200
+
 lliurex-meta (23.2.2.26) jammy; urgency=medium
 
   * lliurex-flavors
