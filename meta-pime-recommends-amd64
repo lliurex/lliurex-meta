@@ -158,6 +158,7 @@ pavucontrol-qt-l10n
 pcmciautils
 pcsc-tools
 pcscd
+pdfarranger
 phonon4qt5-backend-vlc
 plasma-browser-integration
 plasma-calendar-addons
@@ -269,8 +270,10 @@ zero-lliurex-ganttproject
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-kdeconnect-disabler
 zero-lliurex-keepass
 zero-lliurex-krita
+zero-lliurex-learningml
 zero-lliurex-lmms
 zero-lliurex-lumi
 zero-lliurex-midicss

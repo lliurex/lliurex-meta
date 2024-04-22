@@ -190,6 +190,8 @@ libreoffice-gtk3
  * (zero-lliurex-keepass)
  * (zero-lliurex-thonny)
  * (zero-lliurex-ai2offline)
+ * (zero-lliurex-learningml)
+ * (zero-lliurex-kdeconnect-disabler)
 
 == Fonts ==
 
