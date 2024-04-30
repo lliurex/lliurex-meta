@@ -1,9 +1,31 @@
-lliurex-meta (23.2.2.5) jammy; urgency=medium
+lliurex-meta (23.2.4.22) jammy; urgency=medium
 
-  * Add ncdu
-  * change pdfshuffle by pdfarranger
+  * pdfarranger
+  * intef-exe-appimage instead of intef-exe (needs python2)
+  * zero-lliurex-kdeconnect-disabler 
 
- -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 05 Feb 2024 10:46:16 +0100
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 22 Apr 2024 08:56:17 +0200
+
+lliurex-meta (23.2.4.9) jammy; urgency=medium
+
+  * zero-lliurex-ai2offline 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 09 Apr 2024 09:25:22 +0200
+
+lliurex-meta (23.2.2.26) jammy; urgency=medium
+
+  * lliurex-flavors
+  * virtualbox / dkms to supported 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 26 Feb 2024 12:21:16 +0100
+
+lliurex-meta (23.2.2.9) jammy; urgency=medium
+
+  * keepass
+  * thonny
+  * taskscheduler 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 09 Feb 2024 11:05:50 +0100
 
 lliurex-meta (23.2.1.29) jammy; urgency=medium
 

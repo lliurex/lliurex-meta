@@ -158,6 +158,7 @@ pavucontrol-qt-l10n
 pcmciautils
 pcsc-tools
 pcscd
+pdfarranger
 phonon4qt5-backend-vlc
 plasma-browser-integration
 plasma-calendar-addons
@@ -212,6 +213,7 @@ simplescreenrecorder
 snapd
 swapspace
 synaptic
+taskscheduler
 tcpdump
 telnet
 testdisk
@@ -251,6 +253,7 @@ zero-installer-util-classroom
 zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-accessibility
+zero-lliurex-ai2offline
 zero-lliurex-anaconda
 zero-lliurex-anydesk
 zero-lliurex-autofirma
@@ -267,7 +270,10 @@ zero-lliurex-ganttproject
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-kdeconnect-disabler
+zero-lliurex-keepass
 zero-lliurex-krita
+zero-lliurex-learningml
 zero-lliurex-lmms
 zero-lliurex-lumi
 zero-lliurex-midicss
@@ -283,6 +289,7 @@ zero-lliurex-skype
 zero-lliurex-spotify
 zero-lliurex-teams
 zero-lliurex-technology
+zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64

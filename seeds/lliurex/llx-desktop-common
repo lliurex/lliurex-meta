@@ -117,6 +117,7 @@ libreoffice-gtk3
  * (lliurex-access-control)
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
+ * (taskscheduler)
 
 === CDC ===
 
@@ -186,6 +187,11 @@ libreoffice-gtk3
  * (zero-robolliurex)
  * (zero-lliurex-chromium)
  * (zero-lliurex-docker)
+ * (zero-lliurex-keepass)
+ * (zero-lliurex-thonny)
+ * (zero-lliurex-ai2offline)
+ * (zero-lliurex-learningml)
+ * (zero-lliurex-kdeconnect-disabler)
 
 == Fonts ==
 

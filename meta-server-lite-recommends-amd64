@@ -165,6 +165,7 @@ myspell-es
 mythes-ca
 mythes-en-us
 mythes-es
+n4d-cdlocker-server
 n4d-client-exe-manager
 n4d-cups
 n4d-easysites
@@ -179,6 +180,9 @@ network-manager-pptp
 ntfs-3g
 okular
 onboard
+open-sysclone-gui
+open-sysclone-rescue
+open-sysclone-server
 open-sysclone-system
 openssh-client
 packagekit
@@ -243,6 +247,7 @@ stacer
 swapspace
 synaptic
 systemd-unlinkedserver
+taskscheduler
 tcpdump
 telnet
 testdisk
@@ -282,6 +287,7 @@ zero-installer-util-classroom
 zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-accessibility
+zero-lliurex-ai2offline
 zero-lliurex-anaconda
 zero-lliurex-anydesk
 zero-lliurex-autofirma
@@ -300,10 +306,14 @@ zero-lliurex-ganttproject
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-kdeconnect-disabler
+zero-lliurex-keepass
 zero-lliurex-krita
+zero-lliurex-learningml
 zero-lliurex-lmms
 zero-lliurex-lumi
 zero-lliurex-midicss
+zero-lliurex-mirror-redirect
 zero-lliurex-mixxx
 zero-lliurex-moodle
 zero-lliurex-musica
@@ -318,6 +328,7 @@ zero-lliurex-skype
 zero-lliurex-spotify
 zero-lliurex-teams
 zero-lliurex-technology
+zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64

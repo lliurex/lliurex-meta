@@ -76,7 +76,7 @@ hyphen-en-us
 hyphen-es
 ibus-m17n
 iftop
-intef-exe
+intef-exe-appimage
 iotop
 iperf
 iptables
@@ -228,6 +228,7 @@ snapd
 solfege
 swapspace
 synaptic
+taskscheduler
 tcpdump
 telnet
 testdisk
@@ -269,6 +270,7 @@ zero-installer-util-classroom
 zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-accessibility
+zero-lliurex-ai2offline
 zero-lliurex-anaconda
 zero-lliurex-anydesk
 zero-lliurex-arasuite
@@ -288,7 +290,10 @@ zero-lliurex-gearth
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-kdeconnect-disabler
+zero-lliurex-keepass
 zero-lliurex-krita
+zero-lliurex-learningml
 zero-lliurex-lmms
 zero-lliurex-lumi
 zero-lliurex-midicss
@@ -307,6 +312,7 @@ zero-lliurex-spotify
 zero-lliurex-stellarium
 zero-lliurex-teams
 zero-lliurex-technology
+zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64
