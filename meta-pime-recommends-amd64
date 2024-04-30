@@ -252,6 +252,7 @@ zero-installer-util-classroom
 zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-accessibility
+zero-lliurex-ai2offline
 zero-lliurex-anaconda
 zero-lliurex-anydesk
 zero-lliurex-autofirma
@@ -270,8 +271,10 @@ zero-lliurex-ganttproject
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
+zero-lliurex-kdeconnect-disabler
 zero-lliurex-keepass
 zero-lliurex-krita
+zero-lliurex-learningml
 zero-lliurex-lmms
 zero-lliurex-lumi
 zero-lliurex-midicss
