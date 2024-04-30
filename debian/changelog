@@ -1,3 +1,11 @@
+lliurex-meta (21.24.04.30) focal; urgency=medium
+
+  * kdeconnect-disabler
+  * ai2offline
+  * learningml 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 30 Apr 2024 11:58:29 +0200
+
 lliurex-meta (21.24.01.23) focal; urgency=medium
 
   * okular plugins 
