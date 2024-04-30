@@ -14,7 +14,7 @@
  * automake
  * autotools-dev
  * libtool
- * pkg-config
+ * pkgconf
  * exuberant-ctags   # ColinWatson
  * linux32		# without it, biarch buildds can go wonky
  * autopkgtest
@@ -23,7 +23,7 @@
  * libc6-prof [amd64 i386 powerpc sparc]
  * libc6.1-prof [ia64]
  * gfortran-multilib
- * libstdc++-11-pic
+ * libstdc++-13-pic
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
  * make-doc
  * cmake
@@ -52,6 +52,7 @@
  * dh-exec
  * dh-di
  * dh-golang
+ * dh-cargo
 
 == Seed Management ==
 

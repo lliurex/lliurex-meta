@@ -16,7 +16,6 @@ Task-Test-new-install: install skip
  * file
  * hdparm            # speed up CD-ROM and disk access, used by installer
  * info
- * (irqbalance)      # optimize IRQ:CPU affinities on multicore systems
  * libpam-systemd    # proper logind sessions, LP: #1561658
  * logrotate
  * man-db            # ColinWatson
@@ -64,6 +63,10 @@ These are used for debugging problems or examining the system.
  * ppc64-diag [powerpc ppc64el]	# LP: #1417608
  * lshw
  * lsof
+ * (sysstat)
+ * (numactl)
+ * (ethtool)
+ * (trace-cmd) # LP: #2051850
 
 = Helpful Tools =
  
@@ -85,3 +88,22 @@ These are used for debugging problems or examining the system.
 
  * ubuntu-standard # metapackage for everything here
  * (apt) # James Westby, enables access to private PPAs among other things
+
+== Blacklist ==
+
+inetutils-telnet was introduced through MIR (LP: #2008789), but only the
+-telnet package got reviewed and the other binaries from src:inetutils should
+stay out of main. Related to:
+https://git.launchpad.net/~ubuntu-core-dev/ubuntu-seeds/+git/platform/commit/?h=lunar&id=349619d
+
+ * !inetutils-ftp
+ * !inetutils-ftpd
+ * !inetutils-inetd
+ * !inetutils-ping
+ * !inetutils-syslogd
+ * !inetutils-talk
+ * !inetutils-talkd
+ * !inetutils-telnetd
+ * !inetutils-tools
+ * !inetutils-traceroute
+ * !telnetd
