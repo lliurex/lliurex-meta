@@ -5,27 +5,52 @@ packages.
 
 == Hardware & Network Access ==
 
- * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * sl-modem-daemon	# needed for some Winmodems (see OutoftheboxWinmodem)
+ * intel-microcode      # needed to update Intel cpu microcode LP #1386257
+ * amd64-microcode      # needed to update AMD cpu microcode LP #1386257 
 
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
- * mouseemu	# needed on Macs with single-button mice
- * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
- * elfspe2 [powerpc] # SPE access for Cell systems
  * b43-fwcutter
  * bcmwl-kernel-source #since we no longer have LRM
 
+This must be kept in sync with live
+ * /^linux-modules-nvidia-.+-generic-hwe-22.04$/
+ * /^nvidia-driver-[0-9]+$/  # Needed for networkless installation of graphics drivers
+ * nvidia-prime
+ * /^linux-modules-iwlwifi-generic-hwe-22.04$/
+ * /^linux-modules-ipu6-generic-hwe-22.04$/
+ * /^linux-modules-ivsc-generic-hwe-22.04$/
+
+ == Neon Hardware Additions ==
+ * mouseemu	# needed on Macs with single-button mice
+ * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
+ * elfspe2 [powerpc] # SPE access for Cell systems
+ 
 == Installer ==
 
  * grub # needed for dmraid et al
  * grub-efi [amd64]
  * grub-efi-amd64-signed [amd64]
- * shim-signed [amd64]
- * ubiquity-slideshow-kubuntu
+ * shim-signed
+ * grub-efi-arm64-signed [arm64]
+ * grub-efi-arm64 [arm64]
+ * ubiquity-slideshow-neon
  * oem-config-kde
- * lupin-support [amd64 i386] # installer-for-windows
- * uboot-mkimage [armel] # needed on dove for uboot
+ * u-boot-tools [arm64]
+
+== OEM support ==
+
+These packages are dynamically installed by the Ubuntu installer when we're
+installing on compatible hardware. They will pull in additional hardware
+support packages. They default to oem linux flavour, seed it too.
+
+ * /^oem-.+-meta$/
+ * linux-oem-22.04
+ * /^linux-modules-nvidia-.+-oem-22.04$/
+ * /^linux-modules-iwlwifi-oem-22.04$/
+ * /^linux-modules-ipu6-oem-22.04$/
+ * /^linux-modules-ivsc-oem-22.04$/
 
 == Blacklist ==
 

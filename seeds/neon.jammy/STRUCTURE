@@ -1,4 +1,4 @@
-include platform.jammy
+include platform.neon
 neon-desktop: desktop-common
 neon-all: neon-desktop
 neon-live: neon-desktop live-common

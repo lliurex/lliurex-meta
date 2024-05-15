@@ -26,10 +26,15 @@ Basic network services and Windows integration.
 
 = GUI infrastructure =
 
+A11y components:
+
+* orca
+* brltty-speechd
+
 Input methods:
 
-#remove these for now but investiagte best way to support CJK in Plasma
-# * (im-config)
+* fcitx5-frontend*
+* fcitx5-modules
 # * (ibus-qt4)  # ibus support
 
 Fonts:
@@ -42,35 +47,46 @@ Fonts:
 
  * (pulseaudio)
  * (phonon4qt5-backend-vlc)
+ * (phonon4qt6-backend-vlc)
  * (frameworkintegration)
+ * (kf6-frameworkintegration)
  * (kimageformat-plugins)
+ * (kf6-kimageformat-plugins)
  * (qt5-image-formats-plugins)
+ * (qt6-image-formats-plugins)
 
 == Plasma ==
 
- * baloo-kf5
  * breeze
+ * breeze5
+ * kde-style-breeze5
  * kde-cli-tools
- * khotkeys
+ * kf6-baloo
+ * kf6-kio
  * kinfocenter
+ * kinit
  * kio
  * kio-extras
+ * kio-extras5
  * kmenuedit
+ * plasma-systemmonitor
  * kwin
  * kwrited
  * oxygen-sounds
+ * ocean-sound-theme
  * plasma-desktop
+ * plasma-integration
+ * plasma-integration5
  * powerdevil
  * systemsettings
- * (plasma-widgets-addons)
  * (plasma-calendar-addons)
  * (kde-config-gtk-style) #GTK setup
  * (kde-config-gtk-style-preview) # brings in the gtk libraries
  * (plasma-discover)
- * (plasma-discover-updater)
  * (polkit-kde-agent-1) # needed by discover but is an option compared to gtk polkit for gnome users
  * (ksshaskpass)
  * (bluedevil)
+ * (kdeplasma-addons)
  * (kwin-addons)
  * (plasma-dataengines-addons)
  * (plasma-runners-addons)
@@ -90,16 +106,18 @@ Fonts:
  * (plasma-disks)
  * (plasma-firewall)
  * (plasma-systemmonitor)
- * (qml-module-org-kde-breeze)
+ * (qml6-module-org-kde-breeze)
+ * (qml6-module-org-kde-qqc2breezestyle)
  * (plasma-welcome)
  * (flatpak-kcm)
+ * kaccounts-providers
 
 = Applications
 
  * (dolphin)
  * (dolphin-plugins)
  * (konsole)
- * (kwrite)
+ * (kate)
  * (vlc)
  * (ark)
  * (print-manager)
@@ -113,8 +131,11 @@ Fonts:
  * (kde-inotify-survey)
  * (kio-admin)
  * (kio-gdrive)
+ * (kio-gdrive-5)
  * (ffmpegthumbs)
  * (xwaylandvideobridge)
+ * (kdeconnect)
+ * (kwalletmanager)
 
 = Other =
 
@@ -123,6 +144,7 @@ Fonts:
  # properly, as such it shouldn't be removed as it can cause weird behavior.
  # With RTL not actually being applied.
  * qttranslations5-l10n
+ * qt6-translations
  * lvm2
 
 == supporting bits ==
@@ -138,8 +160,9 @@ Fonts:
  * sddm-theme-breeze
  * neon-settings-2
  * neon-keyring
- * power-profiles-daemon 
- * software-properties-common
+ * (power-profiles-daemon)
+ * switcheroo-control
+ * (software-properties-common)
  * fonts-noto-hinted # Plasma's default font, we want this!
  * fonts-hack-ttf
  * (desktop-file-utils) # used by appimage https://github.com/blue-systems/pangea-tooling/issues/4
@@ -151,8 +174,12 @@ Fonts:
  * (appimagelauncher)
  * (libappimage0) # from ubuntu needed by some appimages
  * (kde-nomodeset) # GUI to deal with the (Safe Graphics) boot mode on ISO + install
- * (neon-configure-inotify) # configures inotify limits on linux<5.11
  * (neon-essentials-desktop) # marks certain packages as essential so apt is less inclined to remove them
+ * (neon-boot-space) # tool to ensure there's enough space in /boot to apply kernel updates
+ * (libmaliit-plugins2)     #
+ * (maliit-keyboard)        # ensure onscreen keyboard works out of the box
+ * (qt6-virtualkeyboard)    #
+ * (xdg-desktop-portal-gtk) # wanted in /usr/share/xdg-desktop-portal/kde-portals.conf
 
 == Blacklist ==
 
@@ -165,8 +192,12 @@ libavcodec cannot be shipped on CDs (c.f. Ubuntu technical board resolution 2007
 
 Disable oops handling by default. As of kcrash 5.29 oops are automatically forwarded to handlers, which by default would be apport, which we do not want. coredumpd might be handy, but is not used right now https://phabricator.kde.org/T3891
 
-We will thus mangle the output by sedding out the following: kerneloops-daemon, whoopsie, apport, systemd-coredump.
+We will thus mangle the output by sedding out the following: kerneloops-daemon, whoopsie, apport.
 This happens in our ./update script!
+
+As of 2019-05-13 unstable ships with coredumpd to ensure we can easily track down crashers that are much more likely to happen on git master.
+
+ * (systemd-coredump)
 
 == Ubuntu Masking ==
 

@@ -126,17 +126,17 @@ Task-Test-new-install: skip show
  * zeronconf-ioslave
  * kde-dev-scripts
  * kbackup
- * kopete
  * neochat
+ * skladnik
 
 == kde-extras ==
 
+ * kdeconnect
  * yakuake
  * kpmcore
  * partitionmanager
  * konversation
  * kdevelop
- * muon
  * skrooge
  * skanlite
  * kio-gdrive
@@ -155,13 +155,17 @@ Task-Test-new-install: skip show
  * muon
  * skanlite
  * skrooge
+ * zanshin
+ * ruqola
+ * elisa
  * gammaray
  * heaptrack
+ * isoimagewriter
  * kio-stash
- * kjots
  * kronometer
  * labplot
  * massif-visualizer
+ * spacebar
  * kgraphviewer
  * ktexteditorpreviewplugin
  * kmarkdownwebview
@@ -180,13 +184,7 @@ Task-Test-new-install: skip show
  * kde-dev-scripts
  * kup-backup
 
-== Calligra ==
-
- * calligra
- * kexi
- * krita
-
 == Plasma ==
 
- * khotkeys
  * plasma-vault
+ * plasma-pass
