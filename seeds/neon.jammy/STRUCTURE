@@ -1,4 +1,4 @@
-include platform.neon
+include platform.noble
 neon-desktop: desktop-common
 neon-all: neon-desktop
 neon-live: neon-desktop live-common
