@@ -1,0 +1,42 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Kubuntu live CD
+Task-Extended-Description: This task provides the extra packages installed on the Kubuntu live CD. It is neither useful nor recommended to install this task in other environments.
+Task-Relevance: 2
+Task-Key: calamares-settings-kubuntu
+Task-Test-new-install: skip show
+Task-Seeds: live-common
+
+ * Languages: en
+ * language-pack-${Languages}
+
+# subset of English language support which we want by default:
+ * hunspell-en-us [!powerpc]
+ * openoffice.org-hyphenation [!powerpc]
+ * wamerican
+ * wbritish
+
+== Input methods ==
+ * fcitx5
+ * fcitx5-frontend-all
+ * fcitx5-table
+ * fcitx5-pinyin
+ * fcitx5-module-cloudpinyin
+ * fcitx5-material-color
+ * fcitx5-chinese-addons
+ * kde-config-fcitx5
+
+== Calamares components ==
+
+ * calamares
+ * calamares-settings-kubuntu
+ * kubuntu-installer-prompt
+
+== Secureboot setup ==
+
+ * shim-signed [amd64]
+
+== Misc ==
+
+ * grub-pc [amd64]
+ * !grub-efi-amd64

@@ -1,0 +1,3033 @@
+Most of what was formerly in the supported seed is now in the dvd seed. This
+seed now includes some things that are too big for a DVD, and of course also
+inherits from everything else.
+
+= Rescued from Extra =
+
+ * Extra-Include: *-dbg *-debug *-dev *-doc *-docs *-gcj
+
+... and some miscellaneous exclusions for things we don't want to drag in
+automatically (note that Extra-Exclude *only* prevents packages from being
+included due to matching Extra-Include patterns, and has no other effect):
+
+ * Extra-Exclude: libstdc++6-doc libstdc++6-dev libstdc++6-dbg lib*stdc++6-4.1*
+ * Extra-Exclude: libgnat*-dev libgnat*-dbg gnat*-doc
+ * Extra-Exclude: gpc*-doc
+ * Extra-Exclude: lib*mudflap*
+ * Extra-Exclude: lib*go0-dbg
+ * Extra-Exclude: gfortran-4.1-doc lib*gfortran1-dbg
+ * Extra-Exclude: lib*objc1-dbg
+ * Extra-Exclude: libavformat-dev libpostproc-dev
+ * Extra-Exclude: libgdchart-gd2-xpm-dev
+ * Extra-Exclude: libgdome2-ocaml-dev
+ * Extra-Exclude: libmpich-mpd1.0-dev libmpich-shmem1.0-dev
+ * Extra-Exclude: libnetpbm9-dev
+ * Extra-Exclude: libavahi-compat-howl-dev
+ * Extra-Exclude: libboost-*-dev libboost*-all-dev
+ * Extra-Exclude: libcdio-*-dev libiso9660-dev
+ * Extra-Exclude: libxaw6*		# built from the same source as libxaw7*
+ * Extra-Exclude: nvidia-glx-legacy-dev # nvidia-glx-legacy is unsupportable
+ * Extra-Exclude: ubuntu-mobile-dev
+ * Extra-Exclude: evolution-data-server-dbg evolution-data-server-dev
+ * Extra-Exclude: libsoup2.4-dev libgdata1.2-dev libgdata-google1.2-dev libexchange-storage1.2-dev libegroupwise1.2-dev libedataserverui1.2-dev libedataserver1.2-dev libedata-cal1.2-dev libedata-book1.2-dev libecal1.2-dev evolution-data-server-dbg evolution-data-server-dev evolution-data-server libpanel-applet2-dev libpanel-applet2-doc
+ * Extra-Exclude: gnome-panel-dbg gstreamer0.10-plugins-base-dbg
+ * Extra-Exclude: libnautilus-extension-dev libnautilus-extension1 nautilus libexempi-dev libexempi3
+ * Extra-Exclude: mono-dbg libmono0-dbg mono-jit-dbg libmono-dev mono-2.0-devel libmono2.0-cil
+ * Extra-Exclude: python-qt4-gl python-qt4-gl-dbg # We don't want python-qt4-gl in main
+ * Extra-Exclude: g77-doc # pulls in gcc-3.4
+ * Extra-Exclude: libkiten-dev
+ * Extra-Exclude: sendmail-doc
+ * Extra-Exclude: mono-dbg # only useful with mono-debugger, currently in universe
+ * Extra-Exclude: python-renderpm-dbg
+ * Extra-Exclude: python-reportlab-accel-dbg # packages aren't in main, -dbg shouldn't cause them to be
+ * Extra-Exclude: libnewlib-dev # not used in main, we only want newlib-spu for powerpc
+ * Extra-Exclude: libgnumail-java-doc # depends on classpath
+ * Extra-Exclude: javacc-doc # depends on classpath
+ * Extra-Exclude: libvirtodbc-dev libvirtodbc0 virtuoso-opensource virtuoso-opensource-6.0 virtuoso-opensource-6.0-bin virtuoso-opensource-6.0-common virtuoso-vad-conductor virtuoso-vad-doc virtuoso-vsp-startpage # not MIR approved
+ * Extra-Exclude: libgl1-mesa-dri-experimental-dbg # LP: #638097
+ * Extra-Exclude: kdesvn kdesvn-dbg kdesvn-kio-plugins libsvnqt-dev libsvnqt6
+ * Extra-Exclude: python-vigra-doc # libvigraimpex is in main, but nothing uses python-vigra
+ * Extra-Exclude: packagekit-dbg
+ * Extra-Exclude: *unity*
+ * Extra-Exclude: *compiz*
+ * Extra-Exclude: *metacity*
+
+Transitional packages:
+
+ * Extra-Exclude: xserver-xorg-video-amd-dbg
+
+Exclude some KDE-specific pieces corresponding to packages we don't want to support in Kubuntu:
+
+ * Extra-Exclude: libdcop3-java-dev
+ * Extra-Exclude: libindex0-dev
+ * Extra-Exclude: kdeutils-dev #in universe because of klaptopdaemon
+ * Extra-Exclude: kmplayer-doc
+ * Extra-Exclude: libkiten4 libkiten-dev
+ * Extra-Exclude: liblinphone-dev
+
+Kubuntu:
+# src: akonadi
+ * akonadi-backend-mysql
+ * akonadi-backend-postgresql
+ * akonadi-backend-sqlite
+ * akonadi-server
+ * libkpim5akonadi-data
+ * libkf5akonadi-dev
+ * libkf5akonadi-dev-bin
+ * libkpim5akonadiagentbase5
+ * libkf5akonadicore-bin
+ * libkpim5akonadicore5
+ * libkpim5akonadiprivate5
+ * libkf5akonadiserver-dev
+ * libkpim5akonadiwidgets5
+ * libkpim5akonadixml5
+# src: akonadi-calendar
+ * libkpim5akonadicalendar-data
+ * libkf5akonadicalendar-dev
+ * libkpim5akonadicalendar5
+ * libkf5akonadicalendar-bin
+# src: akonadi-calendar-tools
+ * konsolekalendar
+# src: akonadi-contacts
+ * libkpim5akonadicontact-data
+ * libkf5akonadicontact-dev
+ * libkpim5akonadicontact-plugins
+ * libkpim5akonadicontact5
+ * libkf5contacteditor-data
+ * libkf5contacteditor-dev
+ * libkpim5contacteditor5
+# src: akonadi-import-wizard
+ * akonadi-import-wizard
+ * libkpimimportwizard-dev
+ * libkpim5importwizard5
+# src: akonadi-mime
+ * libkpim5akonadimime-bin
+ * libkpim5akonadimime-data
+ * libkf5akonadimime-dev
+ * libkpim5akonadimime5
+# src: akonadi-notes
+ * libkpim5akonadinotes-data
+ * libkf5akonadinotes-dev
+ * libkpim5akonadinotes5
+# src: akonadi-search
+ * libkf5akonadisearch-bin
+ * libkpim5akonadisearch-data
+ * libkf5akonadisearch-dev
+ * libkf5akonadisearch-plugins
+ * libkpim5akonadisearchcore5
+ * libkpim5akonadisearchdebug5
+ * libkpim5akonadisearchpim5
+ * libkpim5akonadisearchxapian5
+# src: akonadiconsole
+ * akonadiconsole
+# src: akregator
+ * akregator
+# src: analitza
+ * analitza-common
+ * libanalitza-dev
+ * libanalitza8
+ * libanalitzagui8
+ * libanalitzaplot8
+ * libanalitzawidgets8
+ * qml-module-org-kde-analitza
+# src: angelfish
+ * angelfish
+# src: ark
+ * ark
+# src: artikulate
+ * artikulate
+# src: audiocd-kio
+ * kio-audiocd
+ * kio-audiocd-dev
+# src: baloo-widgets5
+ * libkf5baloowidgets-bin
+ * libkf5baloowidgets-data
+ * libkf5baloowidgets-dev
+ * libkf5baloowidgets5
+# src: blinken
+ * blinken
+# src: bomber
+ * bomber
+# src: bovo
+ * bovo
+# src: cantor
+ * cantor
+ * libcantorlibs28
+ * libcantor-dev
+ * cantor-backend-kalgebra
+ * cantor-backend-lua
+ * cantor-backend-maxima
+ * cantor-backend-octave
+ * cantor-backend-python3
+ * cantor-backend-qalculate
+ * cantor-backend-r
+ * cantor-backend-sage
+ * cantor-backend-scilab
+# src: cervisia
+ * cervisia
+ * cvsservice
+# src: colord-kde
+ * colord-kde
+# src: dolphin
+ * dolphin
+ * dolphin-dev
+ * libdolphinvcs-dev
+ * libdolphinvcs5
+# src: dolphin-plugins
+ * dolphin-plugins
+# src: dragon
+ * dragonplayer
+# src: elisa-player
+ * elisa
+# src: falkon
+ * falkon
+# src: ffmpegthumbs
+ * ffmpegthumbs
+# src: filelight
+ * filelight
+# src: ghostwriter
+ * ghostwriter
+# src: granatier
+ * granatier
+# src: grantlee-editor
+ * kdepim-themeeditors
+# src: gwenview
+ * gwenview
+# src: itinerary
+ * itinerary
+ * itinerary
+# src: juk
+ * juk
+# src: k3b
+ * k3b
+ * k3b-data
+ * k3b-extrathemes
+ * k3b-i18n
+ * libk3b-dev
+ * libk3b8
+ * libk3b-data
+ * libk3b-extracodecs
+# src: kaccounts-integration
+ * kaccounts-integration
+ * libkaccounts-dev
+ * libkaccounts2
+ * qml-module-org-kde-kaccounts
+# src: kaccounts-providers
+ * kaccounts-providers
+# src: kaddressbook
+ * kaddressbook
+# src: kajongg
+ * kajongg
+# src: kalarm
+ * kalarm
+# src: kalgebra
+ * kalgebra
+ * kalgebra-common
+ * kalgebramobile
+# src: kalzium
+ * kalzium
+ * kalzium-data
+# src: kamera
+ * kamera
+# src: kamoso
+ * kamoso
+# src: kanagram
+ * kanagram
+# src: kapman
+ * kapman
+# src: kapptemplate
+ * kapptemplate
+# src: kate
+ * kate
+ * kate5-data
+ * kwrite
+# src: katomic
+ * katomic
+# src: kbackup
+ * kbackup
+# src: kblackbox
+ * kblackbox
+# src: kblocks
+ * kblocks
+# src: kbounce
+ * kbounce
+# src: kbreakout
+ * kbreakout
+# src: kbruch
+ * kbruch
+# src: kcachegrind
+ * kcachegrind
+ * kcachegrind-converters
+# src: kcalc
+ * kcalc
+# src: kcalutils
+ * libkf5calendarutils-bin
+ * libkpim5calendarutils-data
+ * libkf5calendarutils-dev
+ * libkpim5calendarutils5
+# src: kcharselect
+ * kcharselect
+# src: kcolorchooser
+ * kcolorchooser
+# src: kcron
+ * kde-config-cron
+# src: kde-dev-scripts
+ * kdesdk-scripts
+# src: kde-dev-utils
+ * kpartloader
+ * kuiviewer
+# src: kde-spectacle
+ * kde-spectacle
+# src: kdebugsettings
+ * kdebugsettings
+# src: kdeconnect
+ * kdeconnect
+ * nautilus-kdeconnect
+# src: kdeedu-data
+ * kdeedu-data
+ * kdeedu-kvtml-data
+# src: kdegraphics-mobipocket
+ * kdegraphics-mobipocket
+ * libqmobipocket-dev
+ * libqmobipocket2
+# src: kdegraphics-thumbnailers
+ * kdegraphics-thumbnailers
+# src: kdenetwork-filesharing
+ * kdenetwork-filesharing
+# src: kdenlive
+ * kdenlive
+ * kdenlive-data
+# src: kdepim-addons
+ * kdepim-addons
+# src: kdepim-runtime
+ * kdepim-runtime
+# src: kdesdk-kioslaves
+ * kio-perldoc
+# src: kdesdk-thumbnailers
+ * kdesdk-thumbnailers
+# src: kdevelop
+ * kdevelop512-libs
+ * kdevelop
+ * kdevelop-data
+ * kdevelop-dev
+ * kdevelop-l10n
+ * plasma-kdevelop
+# src: kdevelop-php
+ * kdevelop-php
+ * kdevelop-php-l10n
+# src: kdevelop-python
+ * kdevelop-python
+ * kdevelop-python-data
+ * kdevelop-python-l10n
+# src: kdf
+ * kdf
+# src: kdialog
+ * kdialog
+# src: kdiamond
+ * kdiamond
+# src: keditbookmarks
+ * keditbookmarks
+# src: kf5-messagelib
+ * kf5-messagelib-data
+ * libkf5messagecomposer-dev
+ * libkpim5messagecomposer5
+ * libkf5messagecore-dev
+ * libkpim5messagecore5
+ * libkf5messagelist-dev
+ * libkpim5messagelist5
+ * libkf5messageviewer-dev
+ * libkf5messageviewer-plugins
+ * libkpim5messageviewer5
+ * libkf5mimetreeparser-dev
+ * libkpim5mimetreeparser5
+ * libkf5templateparser-dev
+ * libkpim5templateparser5
+ * libkf5webengineviewer-dev
+ * libkpim5webengineviewer5
+# src: kfind
+ * kfind
+# src: kfourinline
+ * kfourinline
+# src: kgeography
+ * kgeography
+ * kgeography-data
+# src: kget
+ * kget
+# src: kgoldrunner
+ * kgoldrunner
+# src: kgpg
+ * kgpg
+# src: khangman
+ * khangman
+# src: khelpcenter
+ * khelpcenter
+# src: kidentitymanagement
+ * libkpim5identitymanagement-data
+ * libkf5identitymanagement-dev
+ * libkpim5identitymanagement5
+ * libkpim5identitymanagementwidgets5
+# src: kig
+ * kig
+# src: kigo
+ * kigo
+# src: killbots
+ * killbots
+# src: kimagemapeditor
+ * kimagemapeditor
+# src: kimap
+ * libkpim5imap-data
+ * libkf5imap-dev
+ * libkpim5imap5
+# src: kio-admin
+ * kio-admin
+# src: kio-extras
+ * kio-extras
+ * kio-extras-data
+# src: kio-gdrive
+ * kio-gdrive
+# src: kipi-plugins
+ * kipi-plugins
+ * kipi-plugins-common
+# src: kirigami-gallery
+ * kirigami-gallery
+# src: kiriki
+ * kiriki
+# src: kiten
+ * kiten
+# src: kitinerary
+ * libkpimitinerary-data
+ * libkpimitinerary-dev
+ * libkpim5itinerary5
+# src: kjumpingcube
+ * kjumpingcube
+# src: kldap
+ * kio-ldap
+ * libkpim5ldap-data
+ * libkf5ldap-dev
+ * libkpim5ldap5
+# src: kleopatra
+ * kleopatra
+# src: klettres
+ * klettres
+ * klettres-data
+# src: klickety
+ * klickety
+# src: klines
+ * klines
+# src: kmag
+ * kmag
+# src: kmahjongg
+ * kmahjongg
+# src: kmail
+ * kmail
+ * ktnef
+# src: kmail-account-wizard
+ * accountwizard
+# src: kmailtransport
+ * kmailtransport-akonadi
+ * libkpim5mailtransport-data
+ * libkf5mailtransport-dev
+ * libkpim5mailtransport5
+# src: kmbox
+ * libkf5mbox-dev
+ * libkpim5mbox5
+ * libkpim5mbox-data
+# src: kmime
+ * libkpim5mime-data
+ * libkf5mime-dev
+ * libkpim5mime5
+# src: kmines
+ * kmines
+# src: kmix
+ * kmix
+# src: kmousetool
+ * kmousetool
+# src: kmouth
+ * kmouth
+# src: kmplot
+ * kmplot
+# src: knavalbattle
+ * knavalbattle
+# src: knetwalk
+ * knetwalk
+# src: knights
+ * knights
+# src: knotes
+ * knotes
+# src: kolf
+ * kolf
+# src: kollision
+ * kollision
+# src: kolourpaint
+ * kolourpaint
+# src: kompare
+ * kompare
+ * kpart5-kompare
+ * libkompareinterface-dev
+ * libkompareinterface5
+# src: kongress
+ * kongress
+# src: konqueror
+ * konq-plugins
+ * konqueror
+ * libkf5konq-dev
+ * libkf5konq6
+# src: konquest
+ * konquest
+# src: konsole
+ * konsole
+ * konsole-kpart
+# src: kontact
+ * kontact
+# src: kontactinterface
+ * libkpim5kontactinterface-data
+ * libkf5kontactinterface-dev
+ * libkpim5kontactinterface5
+# src: kontrast
+ * kontrast
+# src: konversation
+ * konversation
+ * konversation-data
+# src: kopeninghours
+ * libkopeninghours1
+ * libkopeninghours-dev
+ * qml-module-org-kde-kopeninghours
+ * python3-kopeninghours
+# src: kopete
+ * kopete
+ * kopete-data
+ * libkopete-dev
+ * libkopete1
+# src: korganizer
+ * korganizer
+# src: kosmindoormap
+ * kosmindoormap-dev
+ * libkosmindoormap1
+ * libkosm1
+ * qml-module-org-kde-kosmindoormap
+ * kosmindoormap-dev
+ * libkosmindoormap1
+ * libkosm1
+ * qml-module-org-kde-kosmindoormap
+# src: kpat
+ * kpat
+# src: kpimtextedit
+ * libkpim5textedit-data
+ * libkf5pimtextedit-dev
+ * libkpim5textedit5
+# src: kpkpass
+ * libkpimpkpass-dev
+ * libkpim5pkpass5
+ * libkpim5pkpass-data
+# src: kpmcore
+ * libkpmcore12
+ * libkpmcore-dev
+# src: kpublictransport
+ * libkpublictransport1
+ * libkpublictransportonboard1
+ * libkpublictransport-dev
+ * qml-module-org-kde-kpublictransport
+ * kpublictransport-data
+# src: kqtquickcharts
+ * qml-module-org-kde-charts
+# src: krdc
+ * krdc
+# src: kreversi
+ * kreversi
+# src: krfb
+ * krfb
+# src: kross-interpreters
+ * krossruby
+# src: kruler
+ * kruler
+# src: ksanecore
+ * libksanecore-dev
+ * libksanecore1
+# src: kshisen
+ * kshisen
+# src: ksirk
+ * ksirk
+# src: ksmtp
+ * libkpimsmtp-dev
+ * libkpim5smtp5
+ * libkpim5smtp-data
+# src: ksnakeduel
+ * ksnakeduel
+# src: kspaceduel
+ * kspaceduel
+# src: ksquares
+ * ksquares
+# src: ksudoku
+ * ksudoku
+# src: ksystemlog
+ * ksystemlog
+# src: kteatime
+ * kteatime
+# src: ktimer
+ * ktimer
+# src: ktnef
+ * kmail
+ * ktnef
+ * libkpim5tnef-data
+ * libkf5tnef-dev
+ * libkpim5tnef5
+# src: ktorrent
+ * ktorrent
+ * ktorrent-data
+# src: ktouch
+ * ktouch
+ * ktouch-data
+# src: ktrip
+ * ktrip
+# src: ktuberling
+ * ktuberling
+ * ktuberling-data
+# src: kturtle
+ * kturtle
+# src: kubrick
+ * kubrick
+# src: kwalletmanager
+ * kwalletmanager
+# src: kwave
+ * kwave
+# src: kwordquiz
+ * kwordquiz
+# src: libkcddb
+ * kde-config-cddb
+ * libkf5cddb-dev
+ * libkf5cddb5
+# src: libkcompactdisc
+ * libkf5compactdisc-dev
+ * libkf5compactdisc5
+# src: libkdegames
+ * kdegames-card-data-kf5
+ * libkf5kdegames-data
+ * libkf5kdegames-dev
+ * libkf5kdegames7
+ * libkf5kdegamesprivate7
+ * qml-module-org-kde-games-core
+# src: libkeduvocdocument
+ * libkeduvocdocument-data
+ * libkeduvocdocument-dev
+ * libkeduvocdocument5abi1
+# src: libkf5calendarsupport
+ * libkpim5calendarsupport-data
+ * libkf5calendarsupport-dev
+ * libkpim5calendarsupport5
+# src: libkf5eventviews
+ * libkpim5eventviews-data
+ * libkf5eventviews-dev
+ * libkpim5eventviews5
+# src: libkf5grantleetheme
+ * libkpim5grantleetheme-data
+ * libkf5grantleetheme-dev
+ * libkf5grantleetheme-plugins
+ * libkpim5grantleetheme5
+# src: libkf5gravatar
+ * libkpim5gravatar-data
+ * libkf5gravatar-dev
+ * libkpim5gravatar5
+# src: libkf5incidenceeditor
+ * libkf5incidenceeditor-bin
+ * libkpim5incidenceeditor-data
+ * libkf5incidenceeditor-dev
+ * libkpim5incidenceeditor5
+# src: libkf5kdcraw
+ * libkf5kdcraw-dev
+ * libkf5kdcraw5
+# src: libkf5kexiv2
+ * libkf5kexiv2-15.0.0
+ * libkf5kexiv2-dev
+# src: libkf5kipi
+ * libkf5kipi-data
+ * libkf5kipi-dev
+ * libkf5kipi32.0.0
+# src: libkf5kmahjongg
+ * kdegames-mahjongg-data-kf5
+ * libkf5kmahjongglib-dev
+ * libkf5kmahjongglib5
+# src: libkf5ksieve
+ * kio-sieve
+ * libkpim5kmanagesieve5
+ * libkpim5ksieve-data
+ * libkf5ksieve-dev
+ * libkpim5ksieve5
+ * libkpim5ksieveui5
+# src: libkf5libkdepim
+ * libkpim5libkdepim-data
+ * libkf5libkdepim-dev
+ * libkpim5libkdepim5
+# src: libkf5libkleo
+ * libkpim5libkleo-data
+ * libkf5libkleo-dev
+ * libkpim5libkleo5
+# src: libkf5mailcommon
+ * libkf5mailcommon-dev
+ * libkf5mailcommon-plugins
+ * libkpim5mailcommon5
+# src: libkf5mailimporter
+ * libkpim5mailimporter-data
+ * libkf5mailimporter-dev
+ * libkpim5mailimporter5
+ * libkpim5mailimporterakonadi5
+# src: libkf5pimcommon
+ * libkf5pimcommon-data
+ * libkf5pimcommon-dev
+ * libkpim5pimcommon5
+ * libkpim5pimcommonakonadi5
+# src: libkf5sane
+ * libkf5sane-data
+ * libkf5sane-dev
+ * libkf5sane5
+# src: libkgapi
+ * libkf5gapi-data
+ * libkpim5gapi-data
+ * libkpimgapi-dev
+ * libkpim5gapiblogger5
+ * libkpim5gapicalendar5
+ * libkpim5gapipeople5
+ * libkpim5gapicore5
+ * libkpim5gapidrive5
+ * libkpim5gapilatitude5
+ * libkpim5gapimaps5
+ * libkpim5gapitasks5
+ * libsasl2-modules-kdexoauth2
+# src: libkomparediff2
+ * libkomparediff2-5
+ * libkomparediff2-dev
+# src: libktorrent
+ * libkf5torrent6abi1
+ * libktorrent-dev
+ * libktorrent-l10n
+# src: lokalize
+ * lokalize
+# src: lskat
+ * lskat
+ * lskat-data
+# src: marble
+ * libastro-dev
+ * libastro1
+ * libmarble-dev
+ * libmarblewidget-qt5-28
+ * marble
+ * marble-data
+ * marble-maps
+ * marble-plugins
+ * marble-qt
+ * marble-qt-data
+ * plasma-marble
+# src: markdownpart
+ * markdownpart
+# src: mbox-importer
+ * mbox-importer
+# src: merkuro
+ * kalendar
+ * merkuro
+# src: minuet
+ * minuet
+ * minuet-data
+# src: neochat
+ * neochat
+# src: okular
+ * libokular5core11
+ * okular
+ * okular-dev
+ * okular-extra-backends
+ * qml-module-org-kde-okular
+ * okular-mobile
+# src: palapeli
+ * palapeli
+ * palapeli-data
+# src: parley
+ * parley
+ * parley-data
+# src: partitionmanager
+ * partitionmanager
+# src: picmi
+ * picmi
+# src: pim-data-exporter
+ * pim-data-exporter
+# src: pim-sieve-editor
+ * pim-sieve-editor
+# src: poxml
+ * poxml
+# src: print-manager
+ * print-manager
+# src: qmlkonsole
+ * qmlkonsole
+# src: rocs
+ * rocs
+# src: signon-kwallet-extension
+ * signon-kwallet-extension
+# src: skanlite
+ * skanlite
+# src: skanpage
+ * skanpage
+# src: step
+ * step
+# src: svgpart
+ * svgpart
+# src: sweeper
+ * sweeper
+# src: tokodon
+ * tokodon
+# src: umbrello
+ * umbrello
+ * umbrello-data
+# src: yakuake
+ * yakuake
+# src: zanshin
+ * zanshin
+# src: zeroconf-ioslave
+ * kde-zeroconf
+# src: attica-kf5
+ * libkf5attica-dev
+ * libkf5attica-doc
+ * libkf5attica5
+# src: baloo-kf5
+ * baloo-kf5
+ * baloo-kf5-dev
+ * libkf5baloo-doc
+ * libkf5baloo5
+ * libkf5balooengine5
+# src: bluez-qt
+ * libkf5bluezqt-data
+ * libkf5bluezqt-dev
+ * libkf5bluezqt-doc
+ * libkf5bluezqt6
+ * qml-module-org-kde-bluezqt
+# src: breeze-icons
+ * breeze-icon-theme
+ * breeze-icon-theme-rcc
+# src: extra-cmake-modules
+ * extra-cmake-modules
+ * extra-cmake-modules-doc
+# src: frameworkintegration
+ * frameworkintegration
+ * libkf5style-dev
+ * libkf5style5
+# src: kactivities-kf5
+ * kactivities-bin
+ * libkf5activities-dev
+ * libkf5activities-doc
+ * libkf5activities5
+ * qml-module-org-kde-activities
+# src: kactivities-stats
+ * libkf5activitiesstats-dev
+ * libkf5activitiesstats-doc
+ * libkf5activitiesstats1
+# src: kapidox
+ * kapidox
+# src: karchive
+ * libkf5archive-data
+ * libkf5archive-dev
+ * libkf5archive-doc
+ * libkf5archive5
+# src: kauth
+ * libkf5auth-data
+ * libkf5auth-dev
+ * libkf5auth-dev-bin
+ * libkf5auth-doc
+ * libkf5auth5
+ * libkf5authcore5
+# src: kbookmarks
+ * libkf5bookmarks-data
+ * libkf5bookmarks-dev
+ * libkf5bookmarks-doc
+ * libkf5bookmarks5
+# src: kcalcore
+ * libkf5calendarcore-dev
+ * libkf5calendarcore-doc
+ * libkf5calendarcore5abi2
+# src: kcmutils
+ * libkf5kcmutils-data
+ * libkf5kcmutils-dev
+ * libkf5kcmutils-doc
+ * libkf5kcmutils5
+ * libkf5kcmutilscore5
+ * qml-module-org-kde-kcmutils
+# src: kcodecs
+ * libkf5codecs-data
+ * libkf5codecs-dev
+ * libkf5codecs-doc
+ * libkf5codecs5
+# src: kcompletion
+ * libkf5completion-data
+ * libkf5completion-dev
+ * libkf5completion-doc
+ * libkf5completion5
+# src: kconfig
+ * libkf5config-bin
+ * libkf5config-data
+ * libkf5config-dev
+ * libkf5config-dev-bin
+ * libkf5config-doc
+ * libkf5configcore5
+ * libkf5configgui5
+ * libkf5configqml5
+# src: kconfigwidgets
+ * libkf5configwidgets-data
+ * libkf5configwidgets-dev
+ * libkf5configwidgets-doc
+ * libkf5configwidgets5
+# src: kcontacts
+ * libkf5contacts-data
+ * libkf5contacts-dev
+ * libkf5contacts-doc
+ * libkf5contacts5
+# src: kcoreaddons
+ * libkf5coreaddons-data
+ * libkf5coreaddons-dev
+ * libkf5coreaddons-dev-bin
+ * libkf5coreaddons-doc
+ * libkf5coreaddons5
+# src: kcrash
+ * libkf5crash-dev
+ * libkf5crash-doc
+ * libkf5crash5
+# src: kdav
+ * libkf5dav-data
+ * libkf5dav-dev
+ * libkf5dav-doc
+ * libkf5dav5
+# src: kdbusaddons
+ * libkf5dbusaddons-bin
+ * libkf5dbusaddons-data
+ * libkf5dbusaddons-dev
+ * libkf5dbusaddons-doc
+ * libkf5dbusaddons5
+# src: kdeclarative
+ * kpackagelauncherqml
+ * libkf5calendarevents5
+ * libkf5declarative-data
+ * libkf5declarative-dev
+ * libkf5declarative-doc
+ * libkf5declarative5
+ * libkf5quickaddons5
+ * qml-module-org-kde-draganddrop
+ * qml-module-org-kde-graphicaleffects
+ * qml-module-org-kde-kcm
+ * qml-module-org-kde-kconfig
+ * qml-module-org-kde-kcoreaddons
+ * qml-module-org-kde-kio
+ * qml-module-org-kde-kquickcontrols
+ * qml-module-org-kde-kquickcontrolsaddons
+ * qml-module-org-kde-kwindowsystem
+# src: kded
+ * kded5
+ * kded5-dev
+# src: kdelibs4support
+ * libkf5kdelibs4support-data
+ * libkf5kdelibs4support-dev
+ * libkf5kdelibs4support5
+ * libkf5kdelibs4support5-bin
+# src: kdesignerplugin
+ * kdesignerplugin-data
+ * kgendesignerplugin
+ * kgendesignerplugin-bin
+# src: kdesu
+ * libkf5su-bin
+ * libkf5su-data
+ * libkf5su-dev
+ * libkf5su-doc
+ * libkf5su5
+# src: kdewebkit
+ * libkf5webkit-dev
+ * libkf5webkit5
+# src: kdnssd-kf5
+ * libkf5dnssd-data
+ * libkf5dnssd-dev
+ * libkf5dnssd-doc
+ * libkf5dnssd5
+# src: kdoctools
+ * kdoctools5
+ * libkf5doctools-dev
+ * libkf5doctools5
+# src: kemoticons
+ * libkf5emoticons-bin
+ * libkf5emoticons-data
+ * libkf5emoticons-dev
+ * libkf5emoticons-doc
+ * libkf5emoticons5
+# src: kfilemetadata-kf5
+ * libkf5filemetadata-bin
+ * libkf5filemetadata-data
+ * libkf5filemetadata-dev
+ * libkf5filemetadata-doc
+ * libkf5filemetadata3
+# src: kglobalaccel
+ * libkf5globalaccel-bin
+ * libkf5globalaccel-data
+ * libkf5globalaccel-dev
+ * libkf5globalaccel-doc
+ * libkf5globalaccel5
+ * libkf5globalaccelprivate5
+# src: kguiaddons
+ * libkf5guiaddons-dev
+ * libkf5guiaddons-doc
+ * libkf5guiaddons-bin
+ * libkf5guiaddons5
+ * libkf5guiaddons-data
+# src: kholidays
+ * libkf5holidays-data
+ * libkf5holidays-dev
+ * libkf5holidays-doc
+ * libkf5holidays5
+ * qml-module-org-kde-kholidays
+# src: khtml
+ * libkf5khtml-bin
+ * libkf5khtml-data
+ * libkf5khtml-dev
+ * libkf5khtml5
+# src: ki18n
+ * libkf5i18n-data
+ * libkf5i18n-dev
+ * libkf5i18n-doc
+ * libkf5i18n5
+ * libkf5i18nlocaledata5
+ * qml-module-org-kde-i18n-localedata
+# src: kiconthemes
+ * libkf5iconthemes-bin
+ * libkf5iconthemes-data
+ * libkf5iconthemes-dev
+ * libkf5iconthemes-doc
+ * libkf5iconthemes5
+# src: kidletime
+ * libkf5idletime-dev
+ * libkf5idletime-doc
+ * libkf5idletime5
+# src: kimageformats
+ * kimageformat-plugins
+# src: kinit
+ * kinit
+ * kinit-dev
+# src: kio
+ * kio
+ * libkf5kio-dev
+ * libkf5kio-doc
+ * libkf5kiocore5
+ * libkf5kiofilewidgets5
+ * libkf5kiogui5
+ * libkf5kiontlm5
+ * libkf5kiowidgets5
+# src: kirigami2
+ * kirigami2-dev
+ * libkf5kirigami2-5
+ * libkf5kirigami2-doc
+ * qml-module-org-kde-kirigami2
+# src: kitemmodels
+ * libkf5itemmodels-dev
+ * libkf5itemmodels-doc
+ * libkf5itemmodels5
+ * qml-module-org-kde-kitemmodels
+# src: kitemviews
+ * libkf5itemviews-data
+ * libkf5itemviews-dev
+ * libkf5itemviews-doc
+ * libkf5itemviews5
+# src: kjobwidgets
+ * libkf5jobwidgets-data
+ * libkf5jobwidgets-dev
+ * libkf5jobwidgets-doc
+ * libkf5jobwidgets5
+# src: kjs
+ * libkf5js5
+ * libkf5jsapi5
+ * libkf5kjs-dev
+# src: kjsembed
+ * libkf5jsembed-data
+ * libkf5jsembed-dev
+ * libkf5jsembed5
+# src: kmediaplayer
+ * libkf5mediaplayer-data
+ * libkf5mediaplayer-dev
+ * libkf5mediaplayer5
+# src: knewstuff
+ * knewstuff-dialog
+ * libkf5newstuff-data
+ * libkf5newstuff-dev
+ * libkf5newstuff-doc
+ * libkf5newstuff5
+ * libkf5newstuffcore5
+ * libkf5newstuffwidgets5
+ * qml-module-org-kde-newstuff
+# src: knotifications
+ * libkf5notifications-data
+ * libkf5notifications-dev
+ * libkf5notifications-doc
+ * libkf5notifications5
+ * qml-module-org-kde-notifications
+# src: knotifyconfig
+ * libkf5notifyconfig-data
+ * libkf5notifyconfig-dev
+ * libkf5notifyconfig-doc
+ * libkf5notifyconfig5
+# src: kpackage
+ * kpackagetool5
+ * libkf5package-data
+ * libkf5package-dev
+ * libkf5package-doc
+ * libkf5package5
+# src: kparts
+ * libkf5parts-data
+ * libkf5parts-dev
+ * libkf5parts-doc
+ * libkf5parts-plugins
+ * libkf5parts5
+# src: kpeople
+ * libkf5people-data
+ * libkf5people-dev
+ * libkf5people-doc
+ * libkf5people5
+ * libkf5peoplebackend5
+ * libkf5peoplewidgets5
+ * qml-module-org-kde-people
+# src: kplotting
+ * libkf5plotting-dev
+ * libkf5plotting-doc
+ * libkf5plotting5
+# src: kpty
+ * libkf5pty-data
+ * libkf5pty-dev
+ * libkf5pty-doc
+ * libkf5pty5
+# src: kquickcharts
+ * kquickcharts-dev
+ * qml-module-org-kde-quickcharts
+# src: kross
+ * kross
+ * kross-dev
+ * libkf5krosscore5
+ * libkf5krossui5
+# src: krunner
+ * libkf5runner-dev
+ * libkf5runner-doc
+ * libkf5runner5
+ * qml-module-org-kde-runnermodel
+# src: kservice
+ * libkf5service-bin
+ * libkf5service-data
+ * libkf5service-dev
+ * libkf5service-doc
+ * libkf5service5
+# src: ksyntax-highlighting
+ * libkf5syntaxhighlighting-data
+ * libkf5syntaxhighlighting-dev
+ * libkf5syntaxhighlighting-doc
+ * libkf5syntaxhighlighting-tools
+ * libkf5syntaxhighlighting5
+ * qml-module-org-kde-syntaxhighlighting
+# src: ktexteditor
+ * ktexteditor-data
+ * ktexteditor-katepart
+ * libkf5texteditor-bin
+ * libkf5texteditor-dev
+ * libkf5texteditor-doc
+ * libkf5texteditor5
+# src: ktextwidgets
+ * libkf5textwidgets-data
+ * libkf5textwidgets-dev
+ * libkf5textwidgets-doc
+ * libkf5textwidgets5
+# src: kunitconversion
+ * libkf5unitconversion-data
+ * libkf5unitconversion-dev
+ * libkf5unitconversion-doc
+ * libkf5unitconversion5
+# src: kwallet-kf5
+ * libkf5wallet-bin
+ * libkf5wallet-data
+ * libkf5wallet-dev
+ * libkf5wallet-doc
+ * libkf5wallet5
+ * libkwalletbackend5-5
+# src: kwayland
+ * kwayland-data
+ * libkf5wayland-dev
+ * libkf5wayland-doc
+ * libkf5waylandclient5
+ * libkf5waylandserver5
+# src: kwidgetsaddons
+ * libkf5widgetsaddons-data
+ * libkf5widgetsaddons-dev
+ * libkf5widgetsaddons-doc
+ * libkf5widgetsaddons5
+# src: kwindowsystem
+ * libkf5windowsystem-data
+ * libkf5windowsystem-dev
+ * libkf5windowsystem-doc
+ * libkf5windowsystem5
+# src: kxmlgui
+ * libkf5xmlgui-bin
+ * libkf5xmlgui-data
+ * libkf5xmlgui-dev
+ * libkf5xmlgui-doc
+ * libkf5xmlgui5
+# src: kxmlrpcclient
+ * libkf5xmlrpcclient-data
+ * libkf5xmlrpcclient-dev
+ * libkf5xmlrpcclient-doc
+ * libkf5xmlrpcclient5
+# src: modemmanager-qt
+ * libkf5modemmanagerqt-doc
+ * libkf5modemmanagerqt6
+ * modemmanager-qt-dev
+# src: networkmanager-qt
+ * libkf5networkmanagerqt-dev
+ * libkf5networkmanagerqt-doc
+ * libkf5networkmanagerqt6
+# src: oxygen-icons5
+ * oxygen-icon-theme
+# src: plasma-framework
+ * libkf5plasma-dev
+ * libkf5plasma-doc
+ * libkf5plasma5
+ * libkf5plasmaquick5
+ * plasma-framework
+# src: prison-kf5
+ * libkf5prison-dev
+ * libkf5prison-doc
+ * libkf5prison5
+ * qml-module-org-kde-prison
+# src: purpose
+ * libkf5purpose-bin
+ * libkf5purpose-dev
+ * libkf5purpose5
+ * qml-module-org-kde-purpose
+# src: qqc2-desktop-style
+ * libkf5qqc2desktopstyle-dev
+ * qml-module-org-kde-qqc2desktopstyle
+# src: solid
+ * libkf5solid-bin
+ * libkf5solid-dev
+ * libkf5solid-doc
+ * libkf5solid5
+ * libkf5solid5-data
+ * qml-module-org-kde-solid
+# src: sonnet
+ * libkf5sonnet-dev
+ * libkf5sonnet-dev-bin
+ * libkf5sonnet-doc
+ * libkf5sonnet5-data
+ * libkf5sonnetcore5
+ * libkf5sonnetui5
+ * sonnet-plugins
+ * qml-module-org-kde-sonnet
+# src: syndication
+ * libkf5syndication-dev
+ * libkf5syndication-doc
+ * libkf5syndication5abi1
+# src: threadweaver
+ * libkf5threadweaver-dev
+ * libkf5threadweaver-doc
+ * libkf5threadweaver5
+# src: bluedevil
+ * bluedevil
+# src: breeze
+ * breeze
+ * breeze-cursor-theme
+ * breeze-dev
+ * kde-style-breeze
+ * kwin-style-breeze
+# src: breeze-grub
+ * grub-theme-breeze
+# src: breeze-gtk
+ * breeze-gtk-theme
+ * gtk3-engines-breeze
+# src: breeze-plymouth
+ * plymouth-theme-breeze
+# src: drkonqi
+ * drkonqi
+# src: flatpak-kcm
+ * kde-config-flatpak
+# src: kactivitymanagerd
+ * kactivitymanagerd
+# src: kde-cli-tools
+ * kde-cli-tools
+ * kde-cli-tools-data
+# src: kde-gtk-config
+ * kde-config-gtk-style
+ * kde-config-gtk-style-preview
+# src: kdecoration
+ * libkdecorations2-5v5
+ * libkdecorations2-dev
+ * libkdecorations2private10
+# src: kdeplasma-addons
+ * kdeplasma-addons-data
+ * kwin-addons
+ * plasma-calendar-addons
+ * plasma-dataengines-addons
+ * plasma-runners-addons
+ * plasma-wallpapers-addons
+ * plasma-widgets-addons
+# src: kgamma5
+ * kgamma5
+# src: khotkeys
+ * khotkeys
+ * khotkeys-data
+ * khotkeys-dev
+# src: kinfocenter
+ * kinfocenter
+# src: kmenuedit
+ * kmenuedit
+# src: kpipewire
+ * libkpipewire-dev
+ * libkpipewire5
+ * libkpipewiredmabuf5
+ * libkpipewirerecord5
+ * qml-module-org-kde-pipewire
+# src: kscreen
+ * kscreen
+# src: kscreenlocker
+ * kde-config-screenlocker
+ * kscreenlocker-dev
+ * libkscreenlocker5
+# src: ksshaskpass
+ * ksshaskpass
+# src: ksystemstats
+ * ksystemstats
+# src: kwallet-pam
+ * libpam-kwallet-common
+ * libpam-kwallet5
+# src: kwayland-integration
+ * kwayland-integration
+# src: kwin
+ * kwin-common
+ * kwin-data
+ * kwin-dev
+ * kwin-wayland
+ * kwin-wayland-backend-drm
+ * kwin-wayland-backend-fbdev
+ * kwin-wayland-backend-virtual
+ * kwin-wayland-backend-wayland
+ * kwin-wayland-backend-x11
+ * kwin-x11
+ * libkwineffects14
+ * libkwinglutils14
+# src: kwrited
+ * kwrited
+# src: layer-shell-qt
+ * layer-shell-qt
+ * liblayershellqtinterface-dev
+ * liblayershellqtinterface5
+# src: libkscreen
+ * libkf5screen-bin
+ * libkf5screen-data
+ * libkf5screen-dev
+ * libkf5screen8
+ * libkf5screendpms8
+# src: libksysguard
+ * libkf5sysguard-bin
+ * libkf5sysguard-data
+ * libkf5sysguard-dev
+ * libksgrd9
+ * libksignalplotter9
+ * liblsofui9
+ * libprocesscore9
+ * libprocessui9
+ * libksysguardformatter1
+ * libksysguardsensors1
+ * libksysguardsensorfaces1
+ * libksysguardsystemstats1
+ * qml-module-org-kde-ksysguard
+# src: milou
+ * milou
+# src: oxygen
+ * kde-style-oxygen-qt5
+ * kwin-decoration-oxygen
+ * liboxygenstyle5-5
+ * liboxygenstyleconfig5-5
+ * plasma-theme-oxygen
+# src: oxygen-sounds
+ * oxygen-sounds
+# src: plasma-bigscreen
+ * plasma-bigscreen
+# src: plasma-browser-integration
+ * plasma-browser-integration
+# src: plasma-desktop
+ * plasma-desktop
+ * plasma-desktop-data
+ * plasma-desktop-dev
+# src: plasma-discover
+ * plasma-discover
+ * plasma-discover-notifier
+ * plasma-discover-backend-flatpak
+ * plasma-discover-backend-fwupd
+ * plasma-discover-backend-snap
+ * plasma-discover-common
+ * kde-config-updates
+# src: plasma-disks
+ * plasma-disks
+# src: plasma-firewall
+ * plasma-firewall
+# src: plasma-integration
+ * plasma-integration
+# src: plasma-mobile
+ * plasma-mobile
+ * plasma-mobile-tweaks
+# src: plasma-nano
+ * plasma-nano
+# src: plasma-nm
+ * plasma-nm
+# src: plasma-pa
+ * plasma-pa
+# src: plasma-remotecontrollers
+ * plasma-remotecontrollers
+# src: plasma-sdk
+ * plasma-sdk
+# src: plasma-systemmonitor
+ * plasma-systemmonitor
+# src: plasma-thunderbolt
+ * plasma-thunderbolt
+# src: plasma-vault
+ * plasma-vault
+# src: plasma-welcome
+ * plasma-welcome
+# src: plasma-workspace
+ * libcolorcorrect5
+ * libkfontinst5
+ * libkfontinstui5
+ * libkworkspace5-5
+ * libnotificationmanager1
+ * libplasma-geolocation-interface5
+ * libtaskmanager6
+ * libweather-ion7
+ * plasma-workspace
+ * plasma-workspace-data
+ * plasma-workspace-dev
+ * plasma-workspace-wayland
+ * sddm-theme-breeze
+# src: plasma-workspace-wallpapers
+ * plasma-workspace-wallpapers
+# src: plymouth-kcm
+ * kde-config-plymouth
+# src: polkit-kde-agent-1
+ * polkit-kde-agent-1
+# src: powerdevil
+ * libpowerdevilcore2
+ * libpowerdevilui5
+ * powerdevil
+ * powerdevil-data
+ * powerdevil-dev
+# src: qqc2-breeze-style
+ * libqqc2breezestyle-dev
+ * qml-module-org-kde-qqc2breezestyle
+# src: sddm-kcm
+ * kde-config-sddm
+# src: systemsettings
+ * systemsettings
+# src: xdg-desktop-portal-kde
+ * xdg-desktop-portal-kde
+# src:attica-kf5
+ * libkf5attica-dev
+ * libkf5attica-doc
+ * libkf5attica5
+# src:baloo-kf5
+ * baloo-kf5
+ * baloo-kf5-dev
+ * libkf5baloo-doc
+ * libkf5baloo5
+ * libkf5balooengine5
+# src:bluez-qt
+ * libkf5bluezqt-data
+ * libkf5bluezqt-dev
+ * libkf5bluezqt-doc
+ * libkf5bluezqt6
+ * qml-module-org-kde-bluezqt
+# src:breeze-icons
+ * breeze-icon-theme
+ * breeze-icon-theme-rcc
+# src:extra-cmake-modules
+ * extra-cmake-modules
+ * extra-cmake-modules-doc
+# src:frameworkintegration
+ * frameworkintegration
+ * libkf5style-dev
+ * libkf5style5
+# src:kactivities-kf5
+ * kactivities-bin
+ * libkf5activities-dev
+ * libkf5activities-doc
+ * libkf5activities5
+ * qml-module-org-kde-activities
+# src:kactivities-stats
+ * libkf5activitiesstats-dev
+ * libkf5activitiesstats-doc
+ * libkf5activitiesstats1
+# src:kapidox
+ * kapidox
+# src:karchive
+ * libkf5archive-data
+ * libkf5archive-dev
+ * libkf5archive-doc
+ * libkf5archive5
+# src:kauth
+ * libkf5auth-data
+ * libkf5auth-dev
+ * libkf5auth-dev-bin
+ * libkf5auth-doc
+ * libkf5auth5
+ * libkf5authcore5
+# src:kbookmarks
+ * libkf5bookmarks-data
+ * libkf5bookmarks-dev
+ * libkf5bookmarks-doc
+ * libkf5bookmarks5
+# src:kcalcore
+ * libkf5calendarcore-dev
+ * libkf5calendarcore-doc
+ * libkf5calendarcore5abi2
+# src:kcmutils
+ * libkf5kcmutils-data
+ * libkf5kcmutils-dev
+ * libkf5kcmutils-doc
+ * libkf5kcmutils5
+ * libkf5kcmutilscore5
+ * qml-module-org-kde-kcmutils
+# src:kcodecs
+ * libkf5codecs-data
+ * libkf5codecs-dev
+ * libkf5codecs-doc
+ * libkf5codecs5
+# src:kcompletion
+ * libkf5completion-data
+ * libkf5completion-dev
+ * libkf5completion-doc
+ * libkf5completion5
+# src:kconfig
+ * libkf5config-bin
+ * libkf5config-data
+ * libkf5config-dev
+ * libkf5config-dev-bin
+ * libkf5config-doc
+ * libkf5configcore5
+ * libkf5configgui5
+ * libkf5configqml5
+# src:kconfigwidgets
+ * libkf5configwidgets-data
+ * libkf5configwidgets-dev
+ * libkf5configwidgets-doc
+ * libkf5configwidgets5
+# src:kcontacts
+ * libkf5contacts-data
+ * libkf5contacts-dev
+ * libkf5contacts-doc
+ * libkf5contacts5
+# src:kcoreaddons
+ * libkf5coreaddons-data
+ * libkf5coreaddons-dev
+ * libkf5coreaddons-dev-bin
+ * libkf5coreaddons-doc
+ * libkf5coreaddons5
+# src:kcrash
+ * libkf5crash-dev
+ * libkf5crash-doc
+ * libkf5crash5
+# src:kdav
+ * libkf5dav-data
+ * libkf5dav-dev
+ * libkf5dav-doc
+ * libkf5dav5
+# src:kdbusaddons
+ * libkf5dbusaddons-bin
+ * libkf5dbusaddons-data
+ * libkf5dbusaddons-dev
+ * libkf5dbusaddons-doc
+ * libkf5dbusaddons5
+# src:kdeclarative
+ * kpackagelauncherqml
+ * libkf5calendarevents5
+ * libkf5declarative-data
+ * libkf5declarative-dev
+ * libkf5declarative-doc
+ * libkf5declarative5
+ * libkf5quickaddons5
+ * qml-module-org-kde-draganddrop
+ * qml-module-org-kde-graphicaleffects
+ * qml-module-org-kde-kcm
+ * qml-module-org-kde-kconfig
+ * qml-module-org-kde-kcoreaddons
+ * qml-module-org-kde-kio
+ * qml-module-org-kde-kquickcontrols
+ * qml-module-org-kde-kquickcontrolsaddons
+ * qml-module-org-kde-kwindowsystem
+# src:kded
+ * kded5
+ * kded5-dev
+# src:kdelibs4support
+ * libkf5kdelibs4support-data
+ * libkf5kdelibs4support-dev
+ * libkf5kdelibs4support5
+ * libkf5kdelibs4support5-bin
+# src:kdesignerplugin
+ * kdesignerplugin-data
+ * kgendesignerplugin
+ * kgendesignerplugin-bin
+# src:kdesu
+ * libkf5su-bin
+ * libkf5su-data
+ * libkf5su-dev
+ * libkf5su-doc
+ * libkf5su5
+# src:kdewebkit
+ * libkf5webkit-dev
+ * libkf5webkit5
+# src:kdnssd-kf5
+ * libkf5dnssd-data
+ * libkf5dnssd-dev
+ * libkf5dnssd-doc
+ * libkf5dnssd5
+# src:kdoctools
+ * kdoctools5
+ * libkf5doctools-dev
+ * libkf5doctools5
+# src:kemoticons
+ * libkf5emoticons-bin
+ * libkf5emoticons-data
+ * libkf5emoticons-dev
+ * libkf5emoticons-doc
+ * libkf5emoticons5
+# src:kfilemetadata-kf5
+ * libkf5filemetadata-bin
+ * libkf5filemetadata-data
+ * libkf5filemetadata-dev
+ * libkf5filemetadata-doc
+ * libkf5filemetadata3
+# src:kglobalaccel
+ * libkf5globalaccel-bin
+ * libkf5globalaccel-data
+ * libkf5globalaccel-dev
+ * libkf5globalaccel-doc
+ * libkf5globalaccel5
+ * libkf5globalaccelprivate5
+# src:kguiaddons
+ * libkf5guiaddons-dev
+ * libkf5guiaddons-doc
+ * libkf5guiaddons-bin
+ * libkf5guiaddons5
+ * libkf5guiaddons-data
+# src:kholidays
+ * libkf5holidays-data
+ * libkf5holidays-dev
+ * libkf5holidays-doc
+ * libkf5holidays5
+ * qml-module-org-kde-kholidays
+# src:khtml
+ * libkf5khtml-bin
+ * libkf5khtml-data
+ * libkf5khtml-dev
+ * libkf5khtml5
+# src:ki18n
+ * libkf5i18n-data
+ * libkf5i18n-dev
+ * libkf5i18n-doc
+ * libkf5i18n5
+ * libkf5i18nlocaledata5
+ * qml-module-org-kde-i18n-localedata
+# src:kiconthemes
+ * libkf5iconthemes-bin
+ * libkf5iconthemes-data
+ * libkf5iconthemes-dev
+ * libkf5iconthemes-doc
+ * libkf5iconthemes5
+# src:kidletime
+ * libkf5idletime-dev
+ * libkf5idletime-doc
+ * libkf5idletime5
+# src:kimageformats
+ * kimageformat-plugins
+# src:kinit
+ * kinit
+ * kinit-dev
+# src:kio
+ * kio
+ * libkf5kio-dev
+ * libkf5kio-doc
+ * libkf5kiocore5
+ * libkf5kiofilewidgets5
+ * libkf5kiogui5
+ * libkf5kiontlm5
+ * libkf5kiowidgets5
+# src:kirigami2
+ * kirigami2-dev
+ * libkf5kirigami2-5
+ * libkf5kirigami2-doc
+ * qml-module-org-kde-kirigami2
+# src:kitemmodels
+ * libkf5itemmodels-dev
+ * libkf5itemmodels-doc
+ * libkf5itemmodels5
+ * qml-module-org-kde-kitemmodels
+# src:kitemviews
+ * libkf5itemviews-data
+ * libkf5itemviews-dev
+ * libkf5itemviews-doc
+ * libkf5itemviews5
+# src:kjobwidgets
+ * libkf5jobwidgets-data
+ * libkf5jobwidgets-dev
+ * libkf5jobwidgets-doc
+ * libkf5jobwidgets5
+# src:kjs
+ * libkf5js5
+ * libkf5jsapi5
+ * libkf5kjs-dev
+# src:kjsembed
+ * libkf5jsembed-data
+ * libkf5jsembed-dev
+ * libkf5jsembed5
+# src:kmediaplayer
+ * libkf5mediaplayer-data
+ * libkf5mediaplayer-dev
+ * libkf5mediaplayer5
+# src:knewstuff
+ * knewstuff-dialog
+ * libkf5newstuff-data
+ * libkf5newstuff-dev
+ * libkf5newstuff-doc
+ * libkf5newstuff5
+ * libkf5newstuffcore5
+ * libkf5newstuffwidgets5
+ * qml-module-org-kde-newstuff
+# src:knotifications
+ * libkf5notifications-data
+ * libkf5notifications-dev
+ * libkf5notifications-doc
+ * libkf5notifications5
+ * qml-module-org-kde-notifications
+# src:knotifyconfig
+ * libkf5notifyconfig-data
+ * libkf5notifyconfig-dev
+ * libkf5notifyconfig-doc
+ * libkf5notifyconfig5
+# src:kpackage
+ * kpackagetool5
+ * libkf5package-data
+ * libkf5package-dev
+ * libkf5package-doc
+ * libkf5package5
+# src:kparts
+ * libkf5parts-data
+ * libkf5parts-dev
+ * libkf5parts-doc
+ * libkf5parts-plugins
+ * libkf5parts5
+# src:kpeople
+ * libkf5people-data
+ * libkf5people-dev
+ * libkf5people-doc
+ * libkf5people5
+ * libkf5peoplebackend5
+ * libkf5peoplewidgets5
+ * qml-module-org-kde-people
+# src:kplotting
+ * libkf5plotting-dev
+ * libkf5plotting-doc
+ * libkf5plotting5
+# src:kpty
+ * libkf5pty-data
+ * libkf5pty-dev
+ * libkf5pty-doc
+ * libkf5pty5
+# src:kquickcharts
+ * kquickcharts-dev
+ * qml-module-org-kde-quickcharts
+# src:kross
+ * kross
+ * kross-dev
+ * libkf5krosscore5
+ * libkf5krossui5
+# src:krunner
+ * libkf5runner-dev
+ * libkf5runner-doc
+ * libkf5runner5
+ * qml-module-org-kde-runnermodel
+# src:kservice
+ * libkf5service-bin
+ * libkf5service-data
+ * libkf5service-dev
+ * libkf5service-doc
+ * libkf5service5
+# src:ksyntax-highlighting
+ * libkf5syntaxhighlighting-data
+ * libkf5syntaxhighlighting-dev
+ * libkf5syntaxhighlighting-doc
+ * libkf5syntaxhighlighting-tools
+ * libkf5syntaxhighlighting5
+ * qml-module-org-kde-syntaxhighlighting
+# src:ktexteditor
+ * ktexteditor-data
+ * ktexteditor-katepart
+ * libkf5texteditor-bin
+ * libkf5texteditor-dev
+ * libkf5texteditor-doc
+ * libkf5texteditor5
+# src:ktextwidgets
+ * libkf5textwidgets-data
+ * libkf5textwidgets-dev
+ * libkf5textwidgets-doc
+ * libkf5textwidgets5
+# src:kunitconversion
+ * libkf5unitconversion-data
+ * libkf5unitconversion-dev
+ * libkf5unitconversion-doc
+ * libkf5unitconversion5
+# src:kwallet-kf5
+ * libkf5wallet-bin
+ * libkf5wallet-data
+ * libkf5wallet-dev
+ * libkf5wallet-doc
+ * libkf5wallet5
+ * libkwalletbackend5-5
+# src:kwayland
+ * kwayland-data
+ * libkf5wayland-dev
+ * libkf5wayland-doc
+ * libkf5waylandclient5
+ * libkf5waylandserver5
+# src:kwidgetsaddons
+ * libkf5widgetsaddons-data
+ * libkf5widgetsaddons-dev
+ * libkf5widgetsaddons-doc
+ * libkf5widgetsaddons5
+# src:kwindowsystem
+ * libkf5windowsystem-data
+ * libkf5windowsystem-dev
+ * libkf5windowsystem-doc
+ * libkf5windowsystem5
+# src:kxmlgui
+ * libkf5xmlgui-bin
+ * libkf5xmlgui-data
+ * libkf5xmlgui-dev
+ * libkf5xmlgui-doc
+ * libkf5xmlgui5
+# src:kxmlrpcclient
+ * libkf5xmlrpcclient-data
+ * libkf5xmlrpcclient-dev
+ * libkf5xmlrpcclient-doc
+ * libkf5xmlrpcclient5
+# src:modemmanager-qt
+ * libkf5modemmanagerqt-doc
+ * libkf5modemmanagerqt6
+ * modemmanager-qt-dev
+# src:networkmanager-qt
+ * libkf5networkmanagerqt-dev
+ * libkf5networkmanagerqt-doc
+ * libkf5networkmanagerqt6
+# src:oxygen-icons5
+ * oxygen-icon-theme
+# src:plasma-framework
+ * libkf5plasma-dev
+ * libkf5plasma-doc
+ * libkf5plasma5
+ * libkf5plasmaquick5
+ * plasma-framework
+# src:prison-kf5
+ * libkf5prison-dev
+ * libkf5prison-doc
+ * libkf5prison5
+ * qml-module-org-kde-prison
+# src:purpose
+ * libkf5purpose-bin
+ * libkf5purpose-dev
+ * libkf5purpose5
+ * qml-module-org-kde-purpose
+# src:qqc2-desktop-style
+ * libkf5qqc2desktopstyle-dev
+ * qml-module-org-kde-qqc2desktopstyle
+# src:solid
+ * libkf5solid-bin
+ * libkf5solid-dev
+ * libkf5solid-doc
+ * libkf5solid5
+ * libkf5solid5-data
+ * qml-module-org-kde-solid
+# src:sonnet
+ * libkf5sonnet-dev
+ * libkf5sonnet-dev-bin
+ * libkf5sonnet-doc
+ * libkf5sonnet5-data
+ * libkf5sonnetcore5
+ * libkf5sonnetui5
+ * sonnet-plugins
+ * qml-module-org-kde-sonnet
+# src:syndication
+ * libkf5syndication-dev
+ * libkf5syndication-doc
+ * libkf5syndication5abi1
+# src:threadweaver
+ * libkf5threadweaver-dev
+ * libkf5threadweaver-doc
+ * libkf5threadweaver5
+# src:attica-kf5
+ * libkf5attica-dev
+ * libkf5attica-doc
+ * libkf5attica5
+# src:baloo-kf5
+ * baloo-kf5
+ * baloo-kf5-dev
+ * libkf5baloo-doc
+ * libkf5baloo5
+ * libkf5balooengine5
+# src:bluez-qt
+ * libkf5bluezqt-data
+ * libkf5bluezqt-dev
+ * libkf5bluezqt-doc
+ * libkf5bluezqt6
+ * qml-module-org-kde-bluezqt
+# src:breeze-icons
+ * breeze-icon-theme
+ * breeze-icon-theme-rcc
+# src:extra-cmake-modules
+ * extra-cmake-modules
+ * extra-cmake-modules-doc
+# src:frameworkintegration
+ * frameworkintegration
+ * libkf5style-dev
+ * libkf5style5
+# src:kactivities-kf5
+ * kactivities-bin
+ * libkf5activities-dev
+ * libkf5activities-doc
+ * libkf5activities5
+ * qml-module-org-kde-activities
+# src:kactivities-stats
+ * libkf5activitiesstats-dev
+ * libkf5activitiesstats-doc
+ * libkf5activitiesstats1
+# src:kapidox
+ * kapidox
+# src:karchive
+ * libkf5archive-data
+ * libkf5archive-dev
+ * libkf5archive-doc
+ * libkf5archive5
+# src:kauth
+ * libkf5auth-data
+ * libkf5auth-dev
+ * libkf5auth-dev-bin
+ * libkf5auth-doc
+ * libkf5auth5
+ * libkf5authcore5
+# src:kbookmarks
+ * libkf5bookmarks-data
+ * libkf5bookmarks-dev
+ * libkf5bookmarks-doc
+ * libkf5bookmarks5
+# src:kcalcore
+ * libkf5calendarcore-dev
+ * libkf5calendarcore-doc
+ * libkf5calendarcore5abi2
+# src:kcmutils
+ * libkf5kcmutils-data
+ * libkf5kcmutils-dev
+ * libkf5kcmutils-doc
+ * libkf5kcmutils5
+ * libkf5kcmutilscore5
+ * qml-module-org-kde-kcmutils
+# src:kcodecs
+ * libkf5codecs-data
+ * libkf5codecs-dev
+ * libkf5codecs-doc
+ * libkf5codecs5
+# src:kcompletion
+ * libkf5completion-data
+ * libkf5completion-dev
+ * libkf5completion-doc
+ * libkf5completion5
+# src:kconfig
+ * libkf5config-bin
+ * libkf5config-data
+ * libkf5config-dev
+ * libkf5config-dev-bin
+ * libkf5config-doc
+ * libkf5configcore5
+ * libkf5configgui5
+ * libkf5configqml5
+# src:kconfigwidgets
+ * libkf5configwidgets-data
+ * libkf5configwidgets-dev
+ * libkf5configwidgets-doc
+ * libkf5configwidgets5
+# src:kcontacts
+ * libkf5contacts-data
+ * libkf5contacts-dev
+ * libkf5contacts-doc
+ * libkf5contacts5
+# src:kcoreaddons
+ * libkf5coreaddons-data
+ * libkf5coreaddons-dev
+ * libkf5coreaddons-dev-bin
+ * libkf5coreaddons-doc
+ * libkf5coreaddons5
+# src:kcrash
+ * libkf5crash-dev
+ * libkf5crash-doc
+ * libkf5crash5
+# src:kdav
+ * libkf5dav-data
+ * libkf5dav-dev
+ * libkf5dav-doc
+ * libkf5dav5
+# src:kdbusaddons
+ * libkf5dbusaddons-bin
+ * libkf5dbusaddons-data
+ * libkf5dbusaddons-dev
+ * libkf5dbusaddons-doc
+ * libkf5dbusaddons5
+# src:kdeclarative
+ * kpackagelauncherqml
+ * libkf5calendarevents5
+ * libkf5declarative-data
+ * libkf5declarative-dev
+ * libkf5declarative-doc
+ * libkf5declarative5
+ * libkf5quickaddons5
+ * qml-module-org-kde-draganddrop
+ * qml-module-org-kde-graphicaleffects
+ * qml-module-org-kde-kcm
+ * qml-module-org-kde-kconfig
+ * qml-module-org-kde-kcoreaddons
+ * qml-module-org-kde-kio
+ * qml-module-org-kde-kquickcontrols
+ * qml-module-org-kde-kquickcontrolsaddons
+ * qml-module-org-kde-kwindowsystem
+# src:kded
+ * kded5
+ * kded5-dev
+# src:kdelibs4support
+ * libkf5kdelibs4support-data
+ * libkf5kdelibs4support-dev
+ * libkf5kdelibs4support5
+ * libkf5kdelibs4support5-bin
+# src:kdesignerplugin
+ * kdesignerplugin-data
+ * kgendesignerplugin
+ * kgendesignerplugin-bin
+# src:kdesu
+ * libkf5su-bin
+ * libkf5su-data
+ * libkf5su-dev
+ * libkf5su-doc
+ * libkf5su5
+# src:kdewebkit
+ * libkf5webkit-dev
+ * libkf5webkit5
+# src:kdnssd-kf5
+ * libkf5dnssd-data
+ * libkf5dnssd-dev
+ * libkf5dnssd-doc
+ * libkf5dnssd5
+# src:kdoctools
+ * kdoctools5
+ * libkf5doctools-dev
+ * libkf5doctools5
+# src:kemoticons
+ * libkf5emoticons-bin
+ * libkf5emoticons-data
+ * libkf5emoticons-dev
+ * libkf5emoticons-doc
+ * libkf5emoticons5
+# src:kfilemetadata-kf5
+ * libkf5filemetadata-bin
+ * libkf5filemetadata-data
+ * libkf5filemetadata-dev
+ * libkf5filemetadata-doc
+ * libkf5filemetadata3
+# src:kglobalaccel
+ * libkf5globalaccel-bin
+ * libkf5globalaccel-data
+ * libkf5globalaccel-dev
+ * libkf5globalaccel-doc
+ * libkf5globalaccel5
+ * libkf5globalaccelprivate5
+# src:kguiaddons
+ * libkf5guiaddons-dev
+ * libkf5guiaddons-doc
+ * libkf5guiaddons-bin
+ * libkf5guiaddons5
+ * libkf5guiaddons-data
+# src:kholidays
+ * libkf5holidays-data
+ * libkf5holidays-dev
+ * libkf5holidays-doc
+ * libkf5holidays5
+ * qml-module-org-kde-kholidays
+# src:khtml
+ * libkf5khtml-bin
+ * libkf5khtml-data
+ * libkf5khtml-dev
+ * libkf5khtml5
+# src:ki18n
+ * libkf5i18n-data
+ * libkf5i18n-dev
+ * libkf5i18n-doc
+ * libkf5i18n5
+ * libkf5i18nlocaledata5
+ * qml-module-org-kde-i18n-localedata
+# src:kiconthemes
+ * libkf5iconthemes-bin
+ * libkf5iconthemes-data
+ * libkf5iconthemes-dev
+ * libkf5iconthemes-doc
+ * libkf5iconthemes5
+# src:kidletime
+ * libkf5idletime-dev
+ * libkf5idletime-doc
+ * libkf5idletime5
+# src:kimageformats
+ * kimageformat-plugins
+# src:kinit
+ * kinit
+ * kinit-dev
+# src:kio
+ * kio
+ * libkf5kio-dev
+ * libkf5kio-doc
+ * libkf5kiocore5
+ * libkf5kiofilewidgets5
+ * libkf5kiogui5
+ * libkf5kiontlm5
+ * libkf5kiowidgets5
+# src:kirigami2
+ * kirigami2-dev
+ * libkf5kirigami2-5
+ * libkf5kirigami2-doc
+ * qml-module-org-kde-kirigami2
+# src:kitemmodels
+ * libkf5itemmodels-dev
+ * libkf5itemmodels-doc
+ * libkf5itemmodels5
+ * qml-module-org-kde-kitemmodels
+# src:kitemviews
+ * libkf5itemviews-data
+ * libkf5itemviews-dev
+ * libkf5itemviews-doc
+ * libkf5itemviews5
+# src:kjobwidgets
+ * libkf5jobwidgets-data
+ * libkf5jobwidgets-dev
+ * libkf5jobwidgets-doc
+ * libkf5jobwidgets5
+# src:kjs
+ * libkf5js5
+ * libkf5jsapi5
+ * libkf5kjs-dev
+# src:kjsembed
+ * libkf5jsembed-data
+ * libkf5jsembed-dev
+ * libkf5jsembed5
+# src:kmediaplayer
+ * libkf5mediaplayer-data
+ * libkf5mediaplayer-dev
+ * libkf5mediaplayer5
+# src:knewstuff
+ * knewstuff-dialog
+ * libkf5newstuff-data
+ * libkf5newstuff-dev
+ * libkf5newstuff-doc
+ * libkf5newstuff5
+ * libkf5newstuffcore5
+ * libkf5newstuffwidgets5
+ * qml-module-org-kde-newstuff
+# src:knotifications
+ * libkf5notifications-data
+ * libkf5notifications-dev
+ * libkf5notifications-doc
+ * libkf5notifications5
+ * qml-module-org-kde-notifications
+# src:knotifyconfig
+ * libkf5notifyconfig-data
+ * libkf5notifyconfig-dev
+ * libkf5notifyconfig-doc
+ * libkf5notifyconfig5
+# src:kpackage
+ * kpackagetool5
+ * libkf5package-data
+ * libkf5package-dev
+ * libkf5package-doc
+ * libkf5package5
+# src:kparts
+ * libkf5parts-data
+ * libkf5parts-dev
+ * libkf5parts-doc
+ * libkf5parts-plugins
+ * libkf5parts5
+# src:kpeople
+ * libkf5people-data
+ * libkf5people-dev
+ * libkf5people-doc
+ * libkf5people5
+ * libkf5peoplebackend5
+ * libkf5peoplewidgets5
+ * qml-module-org-kde-people
+# src:kplotting
+ * libkf5plotting-dev
+ * libkf5plotting-doc
+ * libkf5plotting5
+# src:kpty
+ * libkf5pty-data
+ * libkf5pty-dev
+ * libkf5pty-doc
+ * libkf5pty5
+# src:kquickcharts
+ * kquickcharts-dev
+ * qml-module-org-kde-quickcharts
+# src:kross
+ * kross
+ * kross-dev
+ * libkf5krosscore5
+ * libkf5krossui5
+# src:krunner
+ * libkf5runner-dev
+ * libkf5runner-doc
+ * libkf5runner5
+ * qml-module-org-kde-runnermodel
+# src:kservice
+ * libkf5service-bin
+ * libkf5service-data
+ * libkf5service-dev
+ * libkf5service-doc
+ * libkf5service5
+# src:ksyntax-highlighting
+ * libkf5syntaxhighlighting-data
+ * libkf5syntaxhighlighting-dev
+ * libkf5syntaxhighlighting-doc
+ * libkf5syntaxhighlighting-tools
+ * libkf5syntaxhighlighting5
+ * qml-module-org-kde-syntaxhighlighting
+# src:ktexteditor
+ * ktexteditor-data
+ * ktexteditor-katepart
+ * libkf5texteditor-bin
+ * libkf5texteditor-dev
+ * libkf5texteditor-doc
+ * libkf5texteditor5
+# src:ktextwidgets
+ * libkf5textwidgets-data
+ * libkf5textwidgets-dev
+ * libkf5textwidgets-doc
+ * libkf5textwidgets5
+# src:kunitconversion
+ * libkf5unitconversion-data
+ * libkf5unitconversion-dev
+ * libkf5unitconversion-doc
+ * libkf5unitconversion5
+# src:kwallet-kf5
+ * libkf5wallet-bin
+ * libkf5wallet-data
+ * libkf5wallet-dev
+ * libkf5wallet-doc
+ * libkf5wallet5
+ * libkwalletbackend5-5
+# src:kwayland
+ * kwayland-data
+ * libkf5wayland-dev
+ * libkf5wayland-doc
+ * libkf5waylandclient5
+ * libkf5waylandserver5
+# src:kwidgetsaddons
+ * libkf5widgetsaddons-data
+ * libkf5widgetsaddons-dev
+ * libkf5widgetsaddons-doc
+ * libkf5widgetsaddons5
+# src:kwindowsystem
+ * libkf5windowsystem-data
+ * libkf5windowsystem-dev
+ * libkf5windowsystem-doc
+ * libkf5windowsystem5
+# src:kxmlgui
+ * libkf5xmlgui-bin
+ * libkf5xmlgui-data
+ * libkf5xmlgui-dev
+ * libkf5xmlgui-doc
+ * libkf5xmlgui5
+# src:kxmlrpcclient
+ * libkf5xmlrpcclient-data
+ * libkf5xmlrpcclient-dev
+ * libkf5xmlrpcclient-doc
+ * libkf5xmlrpcclient5
+# src:modemmanager-qt
+ * libkf5modemmanagerqt-doc
+ * libkf5modemmanagerqt6
+ * modemmanager-qt-dev
+# src:networkmanager-qt
+ * libkf5networkmanagerqt-dev
+ * libkf5networkmanagerqt-doc
+ * libkf5networkmanagerqt6
+# src:oxygen-icons5
+ * oxygen-icon-theme
+# src:plasma-framework
+ * libkf5plasma-dev
+ * libkf5plasma-doc
+ * libkf5plasma5
+ * libkf5plasmaquick5
+ * plasma-framework
+# src:prison-kf5
+ * libkf5prison-dev
+ * libkf5prison-doc
+ * libkf5prison5
+ * qml-module-org-kde-prison
+# src:purpose
+ * libkf5purpose-bin
+ * libkf5purpose-dev
+ * libkf5purpose5
+ * qml-module-org-kde-purpose
+# src:qqc2-desktop-style
+ * libkf5qqc2desktopstyle-dev
+ * qml-module-org-kde-qqc2desktopstyle
+# src:solid
+ * libkf5solid-bin
+ * libkf5solid-dev
+ * libkf5solid-doc
+ * libkf5solid5
+ * libkf5solid5-data
+ * qml-module-org-kde-solid
+# src:sonnet
+ * libkf5sonnet-dev
+ * libkf5sonnet-dev-bin
+ * libkf5sonnet-doc
+ * libkf5sonnet5-data
+ * libkf5sonnetcore5
+ * libkf5sonnetui5
+ * sonnet-plugins
+ * qml-module-org-kde-sonnet
+# src:syndication
+ * libkf5syndication-dev
+ * libkf5syndication-doc
+ * libkf5syndication5abi1
+# src:threadweaver
+ * libkf5threadweaver-dev
+ * libkf5threadweaver-doc
+ * libkf5threadweaver5
+# src:attica-kf5
+ * libkf5attica-dev
+ * libkf5attica-doc
+ * libkf5attica5
+# src:baloo-kf5
+ * baloo-kf5
+ * baloo-kf5-dev
+ * libkf5baloo-doc
+ * libkf5baloo5
+ * libkf5balooengine5
+# src:bluez-qt
+ * libkf5bluezqt-data
+ * libkf5bluezqt-dev
+ * libkf5bluezqt-doc
+ * libkf5bluezqt6
+ * qml-module-org-kde-bluezqt
+# src:breeze-icons
+ * breeze-icon-theme
+ * breeze-icon-theme-rcc
+# src:extra-cmake-modules
+ * extra-cmake-modules
+ * extra-cmake-modules-doc
+# src:frameworkintegration
+ * frameworkintegration
+ * libkf5style-dev
+ * libkf5style5
+# src:kactivities-kf5
+ * kactivities-bin
+ * libkf5activities-dev
+ * libkf5activities-doc
+ * libkf5activities5
+ * qml-module-org-kde-activities
+# src:kactivities-stats
+ * libkf5activitiesstats-dev
+ * libkf5activitiesstats-doc
+ * libkf5activitiesstats1
+# src:kapidox
+ * kapidox
+# src:karchive
+ * libkf5archive-data
+ * libkf5archive-dev
+ * libkf5archive-doc
+ * libkf5archive5
+# src:kauth
+ * libkf5auth-data
+ * libkf5auth-dev
+ * libkf5auth-dev-bin
+ * libkf5auth-doc
+ * libkf5auth5
+ * libkf5authcore5
+# src:kbookmarks
+ * libkf5bookmarks-data
+ * libkf5bookmarks-dev
+ * libkf5bookmarks-doc
+ * libkf5bookmarks5
+# src:kcalcore
+ * libkf5calendarcore-dev
+ * libkf5calendarcore-doc
+ * libkf5calendarcore5abi2
+# src:kcmutils
+ * libkf5kcmutils-data
+ * libkf5kcmutils-dev
+ * libkf5kcmutils-doc
+ * libkf5kcmutils5
+ * libkf5kcmutilscore5
+ * qml-module-org-kde-kcmutils
+# src:kcodecs
+ * libkf5codecs-data
+ * libkf5codecs-dev
+ * libkf5codecs-doc
+ * libkf5codecs5
+# src:kcompletion
+ * libkf5completion-data
+ * libkf5completion-dev
+ * libkf5completion-doc
+ * libkf5completion5
+# src:kconfig
+ * libkf5config-bin
+ * libkf5config-data
+ * libkf5config-dev
+ * libkf5config-dev-bin
+ * libkf5config-doc
+ * libkf5configcore5
+ * libkf5configgui5
+ * libkf5configqml5
+# src:kconfigwidgets
+ * libkf5configwidgets-data
+ * libkf5configwidgets-dev
+ * libkf5configwidgets-doc
+ * libkf5configwidgets5
+# src:kcontacts
+ * libkf5contacts-data
+ * libkf5contacts-dev
+ * libkf5contacts-doc
+ * libkf5contacts5
+# src:kcoreaddons
+ * libkf5coreaddons-data
+ * libkf5coreaddons-dev
+ * libkf5coreaddons-dev-bin
+ * libkf5coreaddons-doc
+ * libkf5coreaddons5
+# src:kcrash
+ * libkf5crash-dev
+ * libkf5crash-doc
+ * libkf5crash5
+# src:kdav
+ * libkf5dav-data
+ * libkf5dav-dev
+ * libkf5dav-doc
+ * libkf5dav5
+# src:kdbusaddons
+ * libkf5dbusaddons-bin
+ * libkf5dbusaddons-data
+ * libkf5dbusaddons-dev
+ * libkf5dbusaddons-doc
+ * libkf5dbusaddons5
+# src:kdeclarative
+ * kpackagelauncherqml
+ * libkf5calendarevents5
+ * libkf5declarative-data
+ * libkf5declarative-dev
+ * libkf5declarative-doc
+ * libkf5declarative5
+ * libkf5quickaddons5
+ * qml-module-org-kde-draganddrop
+ * qml-module-org-kde-graphicaleffects
+ * qml-module-org-kde-kcm
+ * qml-module-org-kde-kconfig
+ * qml-module-org-kde-kcoreaddons
+ * qml-module-org-kde-kio
+ * qml-module-org-kde-kquickcontrols
+ * qml-module-org-kde-kquickcontrolsaddons
+ * qml-module-org-kde-kwindowsystem
+# src:kded
+ * kded5
+ * kded5-dev
+# src:kdelibs4support
+ * libkf5kdelibs4support-data
+ * libkf5kdelibs4support-dev
+ * libkf5kdelibs4support5
+ * libkf5kdelibs4support5-bin
+# src:kdesignerplugin
+ * kdesignerplugin-data
+ * kgendesignerplugin
+ * kgendesignerplugin-bin
+# src:kdesu
+ * libkf5su-bin
+ * libkf5su-data
+ * libkf5su-dev
+ * libkf5su-doc
+ * libkf5su5
+# src:kdewebkit
+ * libkf5webkit-dev
+ * libkf5webkit5
+# src:kdnssd-kf5
+ * libkf5dnssd-data
+ * libkf5dnssd-dev
+ * libkf5dnssd-doc
+ * libkf5dnssd5
+# src:kdoctools
+ * kdoctools5
+ * libkf5doctools-dev
+ * libkf5doctools5
+# src:kemoticons
+ * libkf5emoticons-bin
+ * libkf5emoticons-data
+ * libkf5emoticons-dev
+ * libkf5emoticons-doc
+ * libkf5emoticons5
+# src:kfilemetadata-kf5
+ * libkf5filemetadata-bin
+ * libkf5filemetadata-data
+ * libkf5filemetadata-dev
+ * libkf5filemetadata-doc
+ * libkf5filemetadata3
+# src:kglobalaccel
+ * libkf5globalaccel-bin
+ * libkf5globalaccel-data
+ * libkf5globalaccel-dev
+ * libkf5globalaccel-doc
+ * libkf5globalaccel5
+ * libkf5globalaccelprivate5
+# src:kguiaddons
+ * libkf5guiaddons-dev
+ * libkf5guiaddons-doc
+ * libkf5guiaddons-bin
+ * libkf5guiaddons5
+ * libkf5guiaddons-data
+# src:kholidays
+ * libkf5holidays-data
+ * libkf5holidays-dev
+ * libkf5holidays-doc
+ * libkf5holidays5
+ * qml-module-org-kde-kholidays
+# src:khtml
+ * libkf5khtml-bin
+ * libkf5khtml-data
+ * libkf5khtml-dev
+ * libkf5khtml5
+# src:ki18n
+ * libkf5i18n-data
+ * libkf5i18n-dev
+ * libkf5i18n-doc
+ * libkf5i18n5
+ * libkf5i18nlocaledata5
+ * qml-module-org-kde-i18n-localedata
+# src:kiconthemes
+ * libkf5iconthemes-bin
+ * libkf5iconthemes-data
+ * libkf5iconthemes-dev
+ * libkf5iconthemes-doc
+ * libkf5iconthemes5
+# src:kidletime
+ * libkf5idletime-dev
+ * libkf5idletime-doc
+ * libkf5idletime5
+# src:kimageformats
+ * kimageformat-plugins
+# src:kinit
+ * kinit
+ * kinit-dev
+# src:kio
+ * kio
+ * libkf5kio-dev
+ * libkf5kio-doc
+ * libkf5kiocore5
+ * libkf5kiofilewidgets5
+ * libkf5kiogui5
+ * libkf5kiontlm5
+ * libkf5kiowidgets5
+# src:kirigami2
+ * kirigami2-dev
+ * libkf5kirigami2-5
+ * libkf5kirigami2-doc
+ * qml-module-org-kde-kirigami2
+# src:kitemmodels
+ * libkf5itemmodels-dev
+ * libkf5itemmodels-doc
+ * libkf5itemmodels5
+ * qml-module-org-kde-kitemmodels
+# src:kitemviews
+ * libkf5itemviews-data
+ * libkf5itemviews-dev
+ * libkf5itemviews-doc
+ * libkf5itemviews5
+# src:kjobwidgets
+ * libkf5jobwidgets-data
+ * libkf5jobwidgets-dev
+ * libkf5jobwidgets-doc
+ * libkf5jobwidgets5
+# src:kjs
+ * libkf5js5
+ * libkf5jsapi5
+ * libkf5kjs-dev
+# src:kjsembed
+ * libkf5jsembed-data
+ * libkf5jsembed-dev
+ * libkf5jsembed5
+# src:kmediaplayer
+ * libkf5mediaplayer-data
+ * libkf5mediaplayer-dev
+ * libkf5mediaplayer5
+# src:knewstuff
+ * knewstuff-dialog
+ * libkf5newstuff-data
+ * libkf5newstuff-dev
+ * libkf5newstuff-doc
+ * libkf5newstuff5
+ * libkf5newstuffcore5
+ * libkf5newstuffwidgets5
+ * qml-module-org-kde-newstuff
+# src:knotifications
+ * libkf5notifications-data
+ * libkf5notifications-dev
+ * libkf5notifications-doc
+ * libkf5notifications5
+ * qml-module-org-kde-notifications
+# src:knotifyconfig
+ * libkf5notifyconfig-data
+ * libkf5notifyconfig-dev
+ * libkf5notifyconfig-doc
+ * libkf5notifyconfig5
+# src:kpackage
+ * kpackagetool5
+ * libkf5package-data
+ * libkf5package-dev
+ * libkf5package-doc
+ * libkf5package5
+# src:kparts
+ * libkf5parts-data
+ * libkf5parts-dev
+ * libkf5parts-doc
+ * libkf5parts-plugins
+ * libkf5parts5
+# src:kpeople
+ * libkf5people-data
+ * libkf5people-dev
+ * libkf5people-doc
+ * libkf5people5
+ * libkf5peoplebackend5
+ * libkf5peoplewidgets5
+ * qml-module-org-kde-people
+# src:kplotting
+ * libkf5plotting-dev
+ * libkf5plotting-doc
+ * libkf5plotting5
+# src:kpty
+ * libkf5pty-data
+ * libkf5pty-dev
+ * libkf5pty-doc
+ * libkf5pty5
+# src:kquickcharts
+ * kquickcharts-dev
+ * qml-module-org-kde-quickcharts
+# src:kross
+ * kross
+ * kross-dev
+ * libkf5krosscore5
+ * libkf5krossui5
+# src:krunner
+ * libkf5runner-dev
+ * libkf5runner-doc
+ * libkf5runner5
+ * qml-module-org-kde-runnermodel
+# src:kservice
+ * libkf5service-bin
+ * libkf5service-data
+ * libkf5service-dev
+ * libkf5service-doc
+ * libkf5service5
+# src:ksyntax-highlighting
+ * libkf5syntaxhighlighting-data
+ * libkf5syntaxhighlighting-dev
+ * libkf5syntaxhighlighting-doc
+ * libkf5syntaxhighlighting-tools
+ * libkf5syntaxhighlighting5
+ * qml-module-org-kde-syntaxhighlighting
+# src:ktexteditor
+ * ktexteditor-data
+ * ktexteditor-katepart
+ * libkf5texteditor-bin
+ * libkf5texteditor-dev
+ * libkf5texteditor-doc
+ * libkf5texteditor5
+# src:ktextwidgets
+ * libkf5textwidgets-data
+ * libkf5textwidgets-dev
+ * libkf5textwidgets-doc
+ * libkf5textwidgets5
+# src:kunitconversion
+ * libkf5unitconversion-data
+ * libkf5unitconversion-dev
+ * libkf5unitconversion-doc
+ * libkf5unitconversion5
+# src:kwallet-kf5
+ * libkf5wallet-bin
+ * libkf5wallet-data
+ * libkf5wallet-dev
+ * libkf5wallet-doc
+ * libkf5wallet5
+ * libkwalletbackend5-5
+# src:kwayland
+ * kwayland-data
+ * libkf5wayland-dev
+ * libkf5wayland-doc
+ * libkf5waylandclient5
+ * libkf5waylandserver5
+# src:kwidgetsaddons
+ * libkf5widgetsaddons-data
+ * libkf5widgetsaddons-dev
+ * libkf5widgetsaddons-doc
+ * libkf5widgetsaddons5
+# src:kwindowsystem
+ * libkf5windowsystem-data
+ * libkf5windowsystem-dev
+ * libkf5windowsystem-doc
+ * libkf5windowsystem5
+# src:kxmlgui
+ * libkf5xmlgui-bin
+ * libkf5xmlgui-data
+ * libkf5xmlgui-dev
+ * libkf5xmlgui-doc
+ * libkf5xmlgui5
+# src:kxmlrpcclient
+ * libkf5xmlrpcclient-data
+ * libkf5xmlrpcclient-dev
+ * libkf5xmlrpcclient-doc
+ * libkf5xmlrpcclient5
+# src:modemmanager-qt
+ * libkf5modemmanagerqt-doc
+ * libkf5modemmanagerqt6
+ * modemmanager-qt-dev
+# src:networkmanager-qt
+ * libkf5networkmanagerqt-dev
+ * libkf5networkmanagerqt-doc
+ * libkf5networkmanagerqt6
+# src:oxygen-icons5
+ * oxygen-icon-theme
+# src:plasma-framework
+ * libkf5plasma-dev
+ * libkf5plasma-doc
+ * libkf5plasma5
+ * libkf5plasmaquick5
+ * plasma-framework
+# src:prison-kf5
+ * libkf5prison-dev
+ * libkf5prison-doc
+ * libkf5prison5
+ * qml-module-org-kde-prison
+# src:purpose
+ * libkf5purpose-bin
+ * libkf5purpose-dev
+ * libkf5purpose5
+ * qml-module-org-kde-purpose
+# src:qqc2-desktop-style
+ * libkf5qqc2desktopstyle-dev
+ * qml-module-org-kde-qqc2desktopstyle
+# src:solid
+ * libkf5solid-bin
+ * libkf5solid-dev
+ * libkf5solid-doc
+ * libkf5solid5
+ * libkf5solid5-data
+ * qml-module-org-kde-solid
+# src:sonnet
+ * libkf5sonnet-dev
+ * libkf5sonnet-dev-bin
+ * libkf5sonnet-doc
+ * libkf5sonnet5-data
+ * libkf5sonnetcore5
+ * libkf5sonnetui5
+ * sonnet-plugins
+ * qml-module-org-kde-sonnet
+# src:syndication
+ * libkf5syndication-dev
+ * libkf5syndication-doc
+ * libkf5syndication5abi1
+# src:threadweaver
+ * libkf5threadweaver-dev
+ * libkf5threadweaver-doc
+ * libkf5threadweaver5
+ # src: alkimia
+ * alkimia-bin
+ * alkimia-data
+ * libalkimia5-8
+ * libalkimia5-dev
+ * plasma-widget-foreigncurrencies
+ * qml-module-org-kde-alkimia
+ # src: calligra
+ * calligra
+ * karbon
+ * calligrasheets
+ * calligrasheets-data
+ * calligrawords
+ * calligrawords-data
+ * calligrastage
+ * calligrastage-data
+ * calligra-libs
+ * calligra-data
+ * okular-backend-odp
+ * okular-backend-odt
+ * calligra-gemini
+ * calligra-gemini-data
+ # src: calligraplan
+ * calligraplan
+ # src: clazy
+ * clazy
+ * clazy-tests
+ # src: digikam
+ * digikam-private-libs
+ * digikam
+ * showfoto
+ * digikam-data
+ # src: futuresql
+ * libfuturesql-dev
+ * libfuturesql5-0
+ # src: gcompris-qt
+ * gcompris-qt
+ * gcompris-qt-data
+ # src: haruna
+ * haruna
+ # src: heaptrack
+ * heaptrack
+ * heaptrack-gui
+ * libheaptrack
+ # src: kbibtex
+ * kbibtex
+ * kbibtex-data
+ # src: kdevelop-pg-qt
+ * kdevelop-pg-qt
+ # src: kdiagram
+ * libkchart-dev
+ * libkchart2
+ * libkchart2-l10n
+ * libkgantt-dev
+ * libkgantt2
+ * libkgantt2-l10n
+ # src: kdiff3
+ * kdiff3
+ * kdiff3-doc
+ # src: keurocalc
+ * keurocalc
+ * keurocalc-data
+ # src: kexi
+ * kexi
+ * kexi-data
+ * kexi-mysql-driver
+ * kexi-postgresql-driver
+ * kexi-web-form-widget
+ # src: kgeotag
+ * kgeotag
+ # src: kid3
+ * kid3-core
+ * kid3
+ * kid3-qt
+ * kid3-cli
+ # src: kio-fuse
+ * kio-fuse
+ # src: kirigami-addons
+ * kirigami-addons-data
+ * kirigami-addons-dev
+ * qml-module-org-kde-kirigami-addons-components
+ * qml-module-org-kde-kirigami-addons-datetime
+ * qml-module-org-kde-kirigami-addons-delegates
+ * qml-module-org-kde-kirigami-addons-formcard
+ * qml-module-org-kde-kirigami-addons-labs-components
+ * qml-module-org-kde-kirigami-addons-labs-mobileform
+ * qml-module-org-kde-kirigami-addons-settings
+ * qml-module-org-kde-kirigami-addons-sounds
+ * qml-module-org-kde-kirigami-addons-treeview
+ # src: kjots
+ * kjots
+ # src: kmymoney
+ * kmymoney
+ * kmymoney-common
+ # src: kpeoplevcard
+ * kpeople-vcard
+ # src: kphotoalbum
+ * kphotoalbum
+ # src: kproperty
+ * libkpropertycore3-4
+ * libkpropertywidgets3-4
+ * libkproperty-data
+ * libkproperty3-dev
+ # src: kquickimageeditor
+ * kquickimageeditor-dev
+ * qml-module-org-kde-kquickimageeditor
+ # src: krename
+ * krename
+ # src: kreport
+ * libkreport3-4
+ * libkreport-data
+ * libkreport3-dev
+ * libkreport3-plugin-barcode
+ * libkreport3-plugin-maps
+ * libkreport3-plugin-web
+ # src: krita
+ * krita
+ * krita-data
+ * krita-l10n
+ # src: kronometer
+ * kronometer
+ # src: krusader
+ * krusader
+ # src: kseexpr
+ * libkseexpr-data
+ * libkseexpr4
+ * libkseexprui4
+ * libkseexpr-dev
+ # src: kstars
+ * kstars
+ * kstars-data
+ # src: ktextaddons
+ * libkf5textaddons-data
+ * libkf5textaddons-dev
+ * libkf5textaddonswidgets1
+ * libkf5textautocorrectioncore1
+ * libkf5textautocorrectionwidgets1
+ * libkf5textcustomeditor1
+ * libkf5textedittexttospeech1
+ * libkf5textemoticonscore1
+ * libkf5textemoticonswidgets1
+ * libkf5textgrammarcheck1
+ * libkf5texttranslator-plugins
+ * libkf5texttranslator1
+ * libkf5textutils1
+ # src: kuserfeedback
+ * libkuserfeedback-l10n
+ * kuserfeedback-bin
+ * kuserfeedback-dev
+ * kuserfeedback-doc
+ * libkuserfeedbackcore1
+ * libkuserfeedbackwidgets1
+ * qml-module-org-kde-userfeedback
+ * qt6-kuserfeedback-dev
+ * libkuserfeedbackcoreqt6-1
+ * libkuserfeedbackwidgetsqt6-1
+ * qml6-module-org-kde-userfeedback
+ # src: kxstitch
+ * kxstitch
+ * kxstitch-common
+ # src: labplot
+ * labplot
+ * labplot-data
+ # src: latte-dock
+ * latte-dock
+ # src: debconf-kde
+ * debconf-kde-data
+ * debconf-kde-helper
+ * libdebconf-kde-dev
+ * libdebconf-kde1
+ # src: libmediawiki
+ * libkf5mediawiki-dev
+ * libkf5mediawiki5
+ # src: libqaccessibilityclient
+ * libqaccessibilityclient-qt5-dev
+ * libqaccessibilityclient-qt5-0
+ # src: libqapt
+ * libqapt3
+ * libqapt-dev
+ * libqapt3-runtime
+ * qapt-utils
+ * qapt-batch
+ * qapt-deb-installer
+ * plasma-runner-installer
+ * kde-thumbnailer-deb
+ * gstreamer-qapt
+ * libqapt3
+ * libqapt-dev
+ * libqapt3-runtime
+ * qapt-utils
+ * qapt-batch
+ * qapt-deb-installer
+ * plasma-runner-installer
+ * kde-thumbnailer-deb
+ * gstreamer-qapt
+ # src: massif-visualizer
+ * massif-visualizer
+ # src: okteta
+ * libkasten4controllers0
+ * libkasten4core0
+ * libkasten4gui0
+ * libkasten4okteta2controllers0
+ * libkasten4okteta2core0
+ * libkasten4okteta2gui0
+ * libokteta3core0
+ * libokteta3gui0
+ * libokteta-l10n
+ * okteta
+ * okteta-dev
+ # src: oxygen-icons5
+ * oxygen-icon-theme
+ # src: peruse
+ * peruse
+ * peruse-common
+ # src: phonon
+ * libphonon-l10n
+ * libphonon4qt5-4
+ * libphonon4qt5-data
+ * libphonon4qt5-dev
+ * libphonon4qt5experimental-dev
+ * libphonon4qt5experimental4
+ * phonon4qt5
+ * phonon4qt5-backend-null
+ * phonon4qt5settings
+ * libphonon4qt6-4
+ * libphonon4qt6-dev
+ * libphonon4qt6experimental-dev
+ * libphonon4qt6experimental4
+ * phonon4qt6
+ * phonon4qt6-backend-null
+ # src: plasma-dialer
+ * plasma-dialer
+ # src: plasma-mobile
+ * plasma-mobile
+ * plasma-mobile-tweaks
+ # src: plasma-pass
+ * plasma-pass
+ # src: plasma-phonebook
+ * plasma-phonebook
+ # src: plasma-settings
+ * plasma-settings
+ # src: plasma-wayland-protocols
+ * plasma-wayland-protocols
+ # src: polkit-qt-1
+ * libpolkit-qt5-1-dev
+ * libpolkit-qt5-1-1
+ # src: pulseaudio-qt
+ * libkf5pulseaudioqt-dev
+ * libkf5pulseaudioqt3
+ * libkf5pulseaudioqt-doc
+ * libkf5pulseaudioqt2-doc
+ # src: qca2
+ * libqca-qt5-2
+ * libqca-qt5-2-plugins
+ * qca-qt5-2-utils
+ * libqca-qt5-2-dev
+ * libqca-qt6-2
+ * libqca-qt6-plugins
+ * qca-qt6-utils
+ * libqca-qt6-dev
+ * libqca2-doc
+ # src: rkward
+ * rkward
+ * rkward-data
+ # src: rsibreak
+ * rsibreak
+ # src: skrooge
+ * skrooge
+ * skrooge-common
+ # src: spacebar
+ * spacebar
+ # src: subtitlecomposer
+ * subtitlecomposer
+ # src: telepathy-logger-qt
+ * libtelepathy-logger-qt5
+ * libtelepathy-logger-qt-dev
+ # src: wacomtablet
+ * kde-config-tablet
+ # src: calindori
+ * calindori
+ # src: kalk
+ * kalk
+ # src: kasts
+ * kasts
+ # src: kclock
+ * kclock
+ # src: koko
+ * koko
+ * libkokocommon0.0.1
+ * koko-data

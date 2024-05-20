@@ -1,0 +1,392 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Kubuntu Desktop
+Task-Extended-Description: This task provides Kubuntu (Ubuntu KDE Plasma Desktop environment).
+Task-Seeds: desktop-common
+Task-Key: kubuntu-desktop
+Task-Name: kubuntu-desktop
+Task-Metapackage: kubuntu-desktop
+
+== Metapackage ==
+
+ * kubuntu-desktop                  # metapackage for everything here
+
+= Hardware and Architecture Support =
+
+ * inputattach                      # needed for serial mice
+ * pcmciautils                      # PCMCIA support for >= 2.6.13-rc1 kernels
+
+== Architecture-independent ==
+
+Bluetooth:
+
+ * bluedevil # Provides bluedevil-sendfile and bluedevil-wizard
+
+== Networking ==
+
+ * avahi-daemon
+ * ca-certificates                  # common SSL certificates
+ * libnss-mdns                      # IPv4 link-local DNS support
+ * mobile-broadband-provider-info   # LP: #975139
+ * modemmanager # Add support for mobile modem LP: #967132
+ * rfkill # No longer using the copy from wireless-tools (LP: #715309)
+ * usb-modeswitch                   # LP: #979304
+ * wireless-tools
+ * wpasupplicant                    # ScottJamesRemnant
+ * wvdial
+
+Basic network services, VPN.
+
+ * (network-manager)
+ * (network-manager-openconnect)
+ * (network-manager-pptp)
+ * (plasma-nm)
+
+= GUI infrastructure =
+
+ * libnotify-bin                  # various scripts need notify-send (such as .bashrc's "alert")
+ * !notification-daemon           # plasma-desktop provides this feature instead
+
+= Display/Login manager =
+
+ * libsasl2-modules # allows integration with MTA and login system
+ * sddm
+ * (kde-config-sddm)
+ * (sddm-theme-breeze)
+
+= Kubuntu core packages =
+
+ * kubuntu-settings-desktop
+ * plymouth-theme-breeze
+ * plymouth-theme-kubuntu-logo
+ * plymouth-theme-kubuntu-text
+ * (grub-theme-breeze)
+ * (kubuntu-wallpapers)
+ * (kubuntu-web-shortcuts)
+ * (plasma-distro-release-notifier)
+
+= Fonts =
+
+ * fonts-dejavu-core
+ * (fonts-noto-cjk)  # Extra font to display asian characters LP: #1437875 and LP: #1581160
+ * (fonts-noto-color-emoji)
+ * (fonts-noto-core)
+ * (fonts-ibm-plex)
+
+= KDE Plasma Core packages = # Follows upstream packaging guidelines
+
+ * breeze
+ * kactivitymanagerd
+ * kde-cli-tools
+ * kde-config-screenlocker
+ * kde-style-oxygen-qt5
+ * kgamma5
+ * khotkeys
+ * kinfocenter
+ * kmenuedit
+ * kscreen
+ * ksystemstats
+ * kwin-x11
+ * kwrited
+ * libkdecorations2-5v5
+ * libkf5screen-bin
+ * libkf5screen-data
+ * libkf5screen8
+ * libkf5screendpms8
+ * libkf5sysguard-bin
+ * libkf5sysguard-data
+ * libkpipewire5
+ * libkpipewiredmabuf5
+ * libkpipewirerecord5
+ * libkscreenlocker5
+ * libksgrd9
+ * libksignalplotter9
+ * libksysguardformatter1
+ * libksysguardsensorfaces1
+ * libksysguardsensors1
+ * libksysguardsystemstats1
+ * liblsofui9
+ * liboxygenstyle5-5
+ * liboxygenstyleconfig5-5
+ * libpam-kwallet5
+ * libpolkit-qt5-1-1
+ * libprocesscore9
+ * libprocessui9
+ * libqt5svg5   # Force SVG support for Qt
+ * milou
+ * oxygen-sounds
+ * plasma-desktop
+ * plasma-integration
+ * plasma-pa
+ * plasma-systemmonitor
+ * plasma-welcome
+ * plasma-workspace
+ * polkit-kde-agent-1
+ * powerdevil
+ * qml-module-org-kde-ksysguard
+ * qml-module-org-kde-qqc2breezestyle
+ * qml-module-org-kde-qqc2desktopstyle
+ * qttranslations5-l10n # Needed for proper translations support
+ * systemsettings
+ * xdg-desktop-portal-kde
+ * (breeze-gtk-theme)
+ * (drkonqi)
+ * (kde-config-gtk-style) #GTK setup
+ * (kde-config-gtk-style-preview) # brings in the gtk libraries
+ * (kde-config-plymouth)
+ * (kde-config-updates)
+ * (ksshaskpass)
+ * (kwayland-integration)
+ * (kwin-addons)
+ * (kwin-common)
+ * (kwin-data)
+ * (kwin-decoration-oxygen)
+ * (kwin-wayland)
+ * (layer-shell-qt)
+ * (libcolorcorrect5)
+ * (libkdecorations2private10)
+ * (libkfontinst5)
+ * (libkfontinstui5)
+ * (libkworkspace5-5)
+ * (liblayershellqtinterface5)
+ * (libnotificationmanager1)
+ * (libplasma-geolocation-interface5)
+ * (libtaskmanager6)
+ * (libweather-ion7)
+ * (plasma-browser-integration)
+ * (plasma-calendar-addons)
+ * (plasma-dataengines-addons)
+ * (plasma-desktop-data)
+ * (plasma-discover)
+ * (plasma-discover-backend-snap)
+ * (plasma-discover-notifier)
+ * (plasma-disks)
+ * (plasma-firewall)
+ * (plasma-theme-oxygen)
+ * (plasma-thunderbolt)
+ * (plasma-vault)
+ * (plasma-wallpapers-addons)
+ * (plasma-widgets-addons)
+ * (plasma-workspace-data)
+ * (plasma-workspace-wallpapers)
+ * (qml-module-org-kde-pipewire)
+
+== Packages the Plasma wants to have installed ==
+
+ * (baloo-kf5)
+ * (dolphin-plugins)
+ * (ffmpegthumbs)
+ * (kdeconnect)
+ * (kdegraphics-thumbnailers)
+ * (kdenetwork-filesharing)
+ * (kio-admin)
+ * (kio-extras)
+ * (kio-fuse)
+ * (kio-gdrive) # Not working for me, will try once with new packageset
+ * (libayatana-appindicator3-1)
+ * (libkf5baloowidgets-bin)
+ * (libkf5baloowidgets-data)
+ * (phonon4qt5-backend-vlc)
+ * (phonon4qt5settings)
+# * (kde-notify-survey) # Not in archive yet (24.04) In debian NEW
+# * (xwaylandvideobridge) # Not packaged yet, here for future note.
+
+== 3rd Party packages Plasma wants ==
+
+ * iio-sensor-proxy
+ * switcheroo-control
+ * xdg-desktop-portal-gtk
+ * xsettingsd
+ * (orca)
+ * (power-profiles-daemon)
+# * (maliit-keyboard) # Disabled because it breaks plasma LP: 2039721
+# * systemd-coredumpd # This conflicts with apport-coredump, not sure how to solve this?
+
+== Make sure these do not get installed as they take over Plasma bits ==
+
+ * !dunst # Conflicts notifications
+ * !mako-notifier # Conflicts notifications
+ * !qt5ct # Conflicts plasma-integration
+ * !xdg-desktop-portal-gnome # Conflicts xdg-desktop-portal-kde
+ * !xserver-xorg-input-wacom # breaks touch events on X11, not needed anyway because Libinput can handle tablets
+
+Ubuntu has added a suggested package which installs a config file for network manager.
+This config file enables a feature which checks the connection is actually connected
+to the internet. It does this by connecting to a website on the internet every five
+minutes.  Due to privacy concerns, Kubuntu is NOT installing this package by default,
+leaving it to the user to decide if he/she wants this feature.
+
+ * !network-manager-config-connectivity
+ * !network-manager-config-connectivity-ubuntu
+ * !network-manager-config-connectivity-debian
+
+== Default KDE Applications ==
+
+ * (konsole) # Terminal
+ * (dolphin) # File manager
+ * (khelpcenter) # Documentation
+ * (kcharselect) # Character selector
+ * (ark) # file archiver
+ * (gwenview) # image viewer
+ * (kate) # text editor
+ * (kcalc) # calculator
+ * (kde-spectacle) # screenshots
+ * (kdialog) # dialog
+ * (kwalletmanager) # password manager
+ * (okular) # pdf viewer
+ * (print-manager) # KDE printer manager
+ * (skanlite) # KDE scanner manager
+ * (elisa) # Music player with plasma integration
+ * (haruna) # Qt5 video player
+ * (skanpage) # Multi page snanning
+ * (okular-extra-backends)
+ * (kio-audiocd) # cd helper for kio
+ * (konversation) # irc cient
+ * (krdc) # remote desktop client
+ * (ksystemlog) # Systemlog viewer
+# * (kjournald) # Not packaged yet, for future note.
+ * (partitionmanager) # kde disk partition manager
+ * (neochat) # kde matrix client
+
+== Games ==
+
+ * (kpat)
+ * (kmahjongg)
+ * (kmines)
+ * (ksudoku)
+
+== Misc useful ==
+
+ * xdg-user-dirs
+ * ubuntu-release-upgrader-qt
+ * software-properties-qt
+ * kio
+ * frameworkintegration
+ * appstream
+ * (apport-kde)
+ * (aptitude)
+ * (dbus-x11)
+ * (desktop-file-utils) #appimage integration + other uses
+ * (gnupg-agent) # for gpg support
+ * (kimageformat-plugins)
+ * (libglib2.0-bin)     # mostly used as xdg-open backend
+ * (libqca-qt5-2-plugins)
+ * (pastebinit)
+ * (pinentry-qt) # for pin entry
+ * (plocate)
+ * (ppa-purge)
+ * (qapt-deb-installer) # standalone deb installer
+ * (qml-module-qtgraphicaleffects)
+ * (qml-module-qtquick-xmllistmodel)
+ * (qt5-image-formats-plugins)
+ * (util-linux-extra)
+ * (vim)
+ * (xdg-utils)         # useful utilities
+ * (firefox)           # Provides x-www-browser
+
+== Online accounts ==
+
+ * (kaccounts-integration)
+ * (kaccounts-providers)
+ * (libsignon-qt5-1)
+ * (signon-kwallet-extension)
+ * (signon-plugin-oauth2)
+ * (signon-ui-service)
+ * (signon-ui-x11)
+
+== Hardware config ==
+
+ * (cryptsetup) #needed for encrypted devices, also in d-i-requirements seed but might be needed for 3rd party drives
+ * (go-mtpfs) # Allow access to Media Transfer Protocol (MTP) devices via Dolphin
+ * (im-config)
+ * (kde-config-tablet)
+ * (kde-config-whoopsie)
+ * (udisks2)
+ * (upower)
+ * (usb-creator-kde) [amd64]
+
+== KDE PIM ==
+
+# Disabled until we have the resources to support it.
+# * (akregator)
+# * (kaddressbook)
+# * (kdepim-runtime)
+# * (kleopatra)  # Also does general gpg key management stuff [needs dirmngr MIR]
+# * (kmail)
+# * (knotes)
+# * (kontact)
+# * (korganizer)
+
+= Other Desktop GUI Apps =
+
+ * !libreoffice-core-nogui
+ * (libreoffice-calc) [amd64] #powerpc oversized, armel broken
+ * (libreoffice-impress) [amd64] # powerpc oversized, armel broken
+ * (libreoffice-kf5) [amd64]
+ * (libreoffice-plasma) [amd64]
+ * (libreoffice-style-breeze) [amd64]
+ * (libreoffice-writer) [amd64] #powerpc oversized, armel broken
+
+== Snaps ==
+
+ * snap:firefox # Because it is a cool and secure browser.
+ * snap:gnome-42-2204 # needed for firefox
+ * snap:gtk-common-themes # needed for firefox
+ * snap:firmware-updater [amd64]
+ * snap:thunderbird
+
+
+# Add more type of archive support
+ * (unzip)                          # also used for .zip support in ark
+ * (xz-utils)
+ * (zip)
+
+== Printing ==
+
+ * (cups)                             # our preferred printer management infrastructure
+ * (cups-bsd)                         # gives us lpc, lpq, lpr, lprm
+ * (cups-client)                      # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * (cups-filters)
+ * (foomatic-db-compressed-ppds)      # the foomatic printer driver database
+ * (ghostscript)
+ * (hplip)     			            # support for HP all-in-one printers
+ * (openprinting-ppds)                # Most common drivers we want in desktop; less common are in o-p-extra
+ * (printer-driver-brlaser)           # support for some Brother laser printers
+ * (printer-driver-c2esp)             # support for Kodak injket printers
+ * (printer-driver-foo2zjs)	        # support for printing to ZjStream-based printers
+ * (printer-driver-gutenprint)        # Previously cups-driver-gutenprint
+ * (printer-driver-min12xxw)	        # support for KonicaMinolta PagePro 1200W, 1300W printers
+ * (printer-driver-pnm2ppa)           # several ppds require this
+ * (printer-driver-ptouch)            # support for Brother P-touch printers
+ * (printer-driver-pxljr)	            # support for HP Color lasers
+ * (printer-driver-sag-gdi)           # support for Rico Aficio SPxxxx printers
+ * (printer-driver-splix)	            # support for Samsung lasers
+
+== Sound ==
+
+ * gstreamer1.0-pipewire
+ * pipewire
+ * pipewire-pulse
+ * (wireplumber)
+ * (libspa-0.2-bluetooth) # PipeWire Bluetooth
+
+== Terminal tools (from desktop-common) ==
+
+ * (bc)
+ * (genisoimage)
+
+== Low level system plumbery ==
+
+ * anacron  # generally appropriate for desktops
+ * fwupd
+ * fwupd-signed
+ * kerneloops                # watch for and allow reporting of kernel problems
+ * laptop-detect
+ * libpam-systemd                   # logind, cross desktop compatibility
+ * memtest86+ [amd64]
+ * policykit-desktop-privileges     # passwordless disk/CPU speed/time operations for admins
+ * python3-launchpadlib             # for apport
+ * ubuntu-drivers-common            # Make it harder to remove detection support, LP#704597
+ * whoopsie                         # LP: 1001630
+ * xkb-data
+ * (x11-utils)
