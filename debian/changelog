@@ -1,3 +1,9 @@
+lliurex-meta (21.24.05.21) focal; urgency=medium
+
+  * zero-lliurex-antimicrox to desktop
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 21 May 2024 15:19:44 +0200
+
 lliurex-meta (21.24.04.30) focal; urgency=medium
 
   * kdeconnect-disabler
