@@ -20,6 +20,7 @@ bind9-dnsutils
 breeze
 busybox-static
 ca-certificates
+ca-certificates
 cifs-utils
 classroom-mountmode
 console-setup
@@ -63,6 +64,7 @@ fonts-rufscript
 fonts-symbola
 fonts-tomsontalks
 fonts-unfonts-core
+foomatic-db-compressed-ppds
 foomatic-db-compressed-ppds
 ftp
 gdebi
@@ -207,6 +209,7 @@ nftables
 ntp
 okular
 openprinting-ppds
+openprinting-ppds
 openssh-server
 oxygen-sounds
 p7zip-full
@@ -261,7 +264,10 @@ vlc
 wget
 whiptail
 wireless-tools
+wireless-tools
 wpasupplicant
+wpasupplicant
+xdg-user-dirs
 xdg-user-dirs
 xkb-data
 xorg
