@@ -1,5 +1,5 @@
 feature follow-recommends
-include kubuntu.noble
+include neon.jammy
 llx-print-server:
 llx-base: llx-print-server
 llx-minimal-desktop:

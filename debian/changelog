@@ -1,3 +1,9 @@
+lliurex-meta (25.1.6.3) noble; urgency=medium
+
+  * Version with neon seeds
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 03 Jun 2024 11:47:54 +0200
+
 lliurex-meta (25.1.5.20) noble; urgency=medium
 
   * Replace neon by kubuntu
