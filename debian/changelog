@@ -1,3 +1,9 @@
+lliurex-meta (23.2.6.24) jammy; urgency=medium
+
+  * meta refresh (servicemenu-reimage) 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 24 Jun 2024 09:18:33 +0200
+
 lliurex-meta (23.2.5.21) jammy; urgency=medium
 
   * zero-lliurex-antimicrox 
