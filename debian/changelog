@@ -1,3 +1,9 @@
+lliurex-meta (25.1.6.24) noble; urgency=medium
+
+  * Recalculate with neon repositories
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 24 Jun 2024 11:58:01 +0200
+
 lliurex-meta (25.1.6.13) noble; urgency=medium
 
   * Try other version of neon

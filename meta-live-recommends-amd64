@@ -40,6 +40,7 @@ kde-config-gtk-style
 kde-config-gtk-style-preview
 kde-config-plymouth
 kde-config-sddm
+kde-inotify-survey
 kde-nomodeset
 kde-spectacle
 kdeconnect
@@ -53,6 +54,7 @@ kimageformat-plugins
 kio-admin
 kio-fuse
 kio-gdrive
+kio-gdrive-5
 konsole
 kscreen
 ksshaskpass
