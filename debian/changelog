@@ -1,3 +1,10 @@
+lliurex-meta (21.24.06.28) focal; urgency=medium
+
+  * lliurex-up-indicator recommends to desktop instead of lliurex-up
+    recommending it itself. 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 28 Jun 2024 14:46:04 +0200
+
 lliurex-meta (21.24.05.21) focal; urgency=medium
 
   * zero-lliurex-antimicrox to desktop
