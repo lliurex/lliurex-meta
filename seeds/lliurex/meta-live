@@ -4,3 +4,7 @@ Task-Recursive: True
  * calamares-lliurex-modules
  * lliurex-sddm-live-theme
  * shim-signed
+ * live-boot
+ * live-config
+ * live-config-systemd
+ * systemd-sysv
