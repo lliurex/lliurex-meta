@@ -93,7 +93,7 @@ libreoffice-gtk3
  * (repoman) 
  * (lliurex-perfilreset)
  * lliurex-up
- * (lliurex-up-indicator)
+ * (lliurex-up-indicator-plasmoid)
  * (lliurex-disable-discover-indicator)
  * (repoman)
  * (dpkgunlocker-gui)

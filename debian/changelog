@@ -1,3 +1,9 @@
+lliurex-meta (21.24.07.1) focal; urgency=medium
+
+  * renaming lliurex-up-indicator to lliurex-up-indicator-plasmoid 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 01 Jul 2024 10:18:01 +0200
+
 lliurex-meta (21.24.06.28) focal; urgency=medium
 
   * lliurex-up-indicator recommends to desktop instead of lliurex-up
