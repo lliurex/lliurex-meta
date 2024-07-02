@@ -1,3 +1,9 @@
+lliurex-meta (25.1.7.2) noble; urgency=medium
+
+  * Add live dependencies and remove from live-build settings
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 02 Jul 2024 10:20:16 +0200
+
 lliurex-meta (25.1.6.24) noble; urgency=medium
 
   * Recalculate with neon repositories

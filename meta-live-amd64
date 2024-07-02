@@ -12,6 +12,7 @@ btrfs-progs
 busybox-static
 ca-certificates
 calamares
+calamares-lliurex-modules
 calamares-settings
 console-setup
 cpio
@@ -55,6 +56,7 @@ kinfocenter
 kinit
 kio
 kio-extras
+kio-extras5
 kmenuedit
 kmod
 kwin-wayland
@@ -66,6 +68,9 @@ less
 libpam-systemd
 libsasl2-modules
 libu2f-udev
+live-boot
+live-config
+live-config-systemd
 lliurex-live-fixes
 locales
 logrotate
@@ -114,6 +119,7 @@ spice-vdagent
 strace
 sudo
 switcheroo-control
+systemd-sysv
 systemsettings
 time
 tzdata
