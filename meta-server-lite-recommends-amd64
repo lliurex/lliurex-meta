@@ -24,7 +24,6 @@ cups-bsd
 cups-client
 cups-filters
 curl
-curl
 desktop-file-utils
 dmraid
 dolphin
@@ -108,7 +107,6 @@ laptop-detect
 libappimage0
 libnss-lliurex
 libnss-mdns
-libnss-mdns
 libnss-myhostname
 libreoffice
 libreoffice-help-ca
@@ -124,7 +122,6 @@ lliurex-access-control
 lliurex-backup
 lliurex-cdlocker
 lliurex-certificates
-lliurex-conky
 lliurex-conky
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
@@ -219,18 +216,14 @@ print-manager
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
-printer-driver-foo2zjs
 printer-driver-gutenprint
 printer-driver-hpcups
 printer-driver-hpijs
 printer-driver-m2300w
 printer-driver-min12xxw
-printer-driver-min12xxw
 printer-driver-ptouch
 printer-driver-pxljr
-printer-driver-pxljr
 printer-driver-sag-gdi
-printer-driver-splix
 printer-driver-splix
 pstoedit
 pulseaudio
