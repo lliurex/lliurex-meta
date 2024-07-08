@@ -17,6 +17,7 @@ curl
 desktop-file-utils
 dolphin
 dolphin-plugins
+drkonqi-pk-debug-installer
 ethtool
 ffmpegthumbs
 firefox
