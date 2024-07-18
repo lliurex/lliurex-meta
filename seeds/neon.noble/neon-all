@@ -152,7 +152,6 @@ Task-Test-new-install: skip show
  * kio-gdrive
  * kronometer
  * labplot
- * muon
  * skanlite
  * skrooge
  * zanshin
@@ -167,8 +166,6 @@ Task-Test-new-install: skip show
  * massif-visualizer
  * spacebar
  * kgraphviewer
- * ktexteditorpreviewplugin
- * kmarkdownwebview
  * kmymoney
  * kstars
  * juk

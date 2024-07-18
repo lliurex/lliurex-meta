@@ -15,12 +15,12 @@ packages.
  * bcmwl-kernel-source #since we no longer have LRM
 
 This must be kept in sync with live
- * /^linux-modules-nvidia-.+-generic-hwe-22.04$/
+ * /^linux-modules-nvidia-.+-generic-hwe-24.04$/
  * /^nvidia-driver-[0-9]+$/  # Needed for networkless installation of graphics drivers
  * nvidia-prime
- * /^linux-modules-iwlwifi-generic-hwe-22.04$/
- * /^linux-modules-ipu6-generic-hwe-22.04$/
- * /^linux-modules-ivsc-generic-hwe-22.04$/
+ * /^linux-modules-iwlwifi-generic-hwe-24.04$/
+ * /^linux-modules-ipu6-generic-hwe-24.04$/
+ * /^linux-modules-ivsc-generic-hwe-24.04$/
 
  == Neon Hardware Additions ==
  * mouseemu	# needed on Macs with single-button mice
@@ -46,11 +46,11 @@ installing on compatible hardware. They will pull in additional hardware
 support packages. They default to oem linux flavour, seed it too.
 
  * /^oem-.+-meta$/
- * linux-oem-22.04
- * /^linux-modules-nvidia-.+-oem-22.04$/
- * /^linux-modules-iwlwifi-oem-22.04$/
- * /^linux-modules-ipu6-oem-22.04$/
- * /^linux-modules-ivsc-oem-22.04$/
+ * linux-oem-24.04
+ * /^linux-modules-nvidia-.+-oem-24.04$/
+ * /^linux-modules-iwlwifi-oem-24.04$/
+ * /^linux-modules-ipu6-oem-24.04$/
+ * /^linux-modules-ivsc-oem-24.04$/
 
 == Blacklist ==
 
