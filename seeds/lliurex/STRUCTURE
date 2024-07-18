@@ -1,5 +1,5 @@
 feature follow-recommends
-include neon.jammy
+include neon.noble
 llx-print-server:
 llx-base: llx-print-server
 llx-minimal-desktop:
