@@ -1,5 +1,0 @@
-include platform.noble
-neon-desktop: desktop-common
-neon-live: neon-desktop live-common
-neon-ship-live: boot neon-live
-neon-full: neon-desktop
