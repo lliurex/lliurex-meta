@@ -92,6 +92,7 @@ kmenuedit
 kmod
 konsole
 krdc
+krdp
 krename
 krfb
 kwin-wayland
@@ -119,6 +120,9 @@ libreoffice-wiki-publisher
 libsasl2-modules
 libu2f-udev
 libwmf-bin
+lliurex-classroom-defaults
+lliurex-desktop-defaults
+lliurex-server-defaults
 locales
 logrotate
 lsb-release
