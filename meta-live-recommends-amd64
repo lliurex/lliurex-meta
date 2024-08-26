@@ -64,6 +64,8 @@ kwin-addons
 laptop-detect
 libmaliit-plugins2
 libnss-mdns
+libspa-0.2-bluetooth
+linux-generic-hwe-24.04
 maliit-keyboard
 manpages
 memtest86+

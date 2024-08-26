@@ -123,6 +123,7 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 lliurex-classroom-defaults
+lliurex-desktop-defaults
 locales
 logrotate
 lsb-release

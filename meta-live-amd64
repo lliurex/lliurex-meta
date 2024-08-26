@@ -8,6 +8,7 @@ bc
 bind9-dnsutils
 breeze
 breeze5
+brltty-speechd
 btrfs-progs
 busybox-static
 ca-certificates
@@ -29,8 +30,6 @@ dosfstools
 e2fsprogs
 ed
 eject
-exfat-fuse
-f2fs-tools
 file
 fontconfig
 fonts-dejavu-core
@@ -74,6 +73,7 @@ live-boot
 live-config
 live-config-systemd
 lliurex-live-fixes
+lliurex-sddm-live-theme
 locales
 logrotate
 lsb-release
@@ -94,6 +94,7 @@ netplan.io
 nftables
 ocean-sound-theme
 openprinting-ppds
+orca
 oxygen-sounds
 parted
 passwd

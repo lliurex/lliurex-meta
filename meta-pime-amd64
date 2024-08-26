@@ -119,6 +119,7 @@ libsasl2-modules
 libu2f-udev
 libwmf-bin
 linux-headers-generic
+lliurex-desktop-defaults
 locales
 logrotate
 lsb-release
