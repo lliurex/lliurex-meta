@@ -7,20 +7,30 @@ Task-Key: neon-live
 Task-Test-new-install: skip show
 Task-Seeds: live-common
 
-## copy&paste of platform.wily live-common
+## copy&paste of platform.noble live-common
 Calamares needs full filesystem support for the partitioner.
 
  * xfsprogs
  * jfsutils
+ * hfsplus [powerpc]  # ColinWatson
  * reiserfsprogs
  * btrfs-progs
  * ntfs-3g
- * exfat-fuse
- * f2fs-tools
+ * lvm2
+ * dmraid
+
+# workaround for a broken aufs/overlayfs (e. g. LP #587888); also needs
+# cdimage change to use union=unionfs-fuse kernel parameter
+# * unionfs-fuse
+
+# * (bootchart) [!armel] # scheduled for removal before maverick beta
+
+ * mokutil [amd64] # Needed for EFI install with third-party drivers
 
 == Germinate workarounds ==
 
  * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
+
 ## end of live-common
 
  * Languages: en
@@ -70,3 +80,8 @@ SDDM needs to be explicitly selected
 
  * sddm
  * plasma-workspace
+
+a11y
+
+ * orca
+ * brltty-speechd
