@@ -1,3 +1,9 @@
+lliurex-meta (25.1.8.30) noble; urgency=medium
+
+  * Remove lliurex-desktop-defaults
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 30 Aug 2024 15:04:11 +0200
+
 lliurex-meta (25.1.8.26.1) noble; urgency=medium
 
   * dummy upgrade
