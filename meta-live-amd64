@@ -73,7 +73,6 @@ live-boot
 live-config
 live-config-systemd
 lliurex-live-fixes
-lliurex-sddm-live-theme
 locales
 logrotate
 lsb-release
