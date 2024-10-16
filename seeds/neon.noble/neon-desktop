@@ -160,7 +160,8 @@ Fonts:
  * (qml-module-qtgraphicaleffects)
  * xdg-user-dirs
  * sddm-theme-breeze
- * neon-settings-2
+# Disabled temporally
+# * neon-settings-2
  * neon-keyring
  * (power-profiles-daemon)
  * switcheroo-control
