@@ -193,6 +193,12 @@ libreoffice-gtk3
  * (zero-lliurex-learningml)
  * (zero-lliurex-kdeconnect-disabler)
  * (zero-lliurex-antimicrox)
+ * (zero-lliurex-nerd-dictation)
+ * (zero-lliurex-greenfoot)
+ * (zero-lliurex-leocad)
+ * (zero-lliurex-dbeaver)
+ * (zero-lliurex-zotero)
+ * (zero-lliurex-aws-cli)
 
 == Fonts ==
 

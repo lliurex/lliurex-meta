@@ -335,6 +335,7 @@ zero-lliurex-antimicrox
 zero-lliurex-anydesk
 zero-lliurex-arasuite
 zero-lliurex-autofirma
+zero-lliurex-aws-cli
 zero-lliurex-blockly-arduino
 zero-lliurex-calibre
 zero-lliurex-cdc
@@ -342,12 +343,14 @@ zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-chromium
 zero-lliurex-clickcontrolds
+zero-lliurex-dbeaver
 zero-lliurex-docker
 zero-lliurex-dropbox-installer
 zero-lliurex-freecad
 zero-lliurex-fritzing
 zero-lliurex-ganttproject
 zero-lliurex-gearth
+zero-lliurex-greenfoot
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
@@ -355,6 +358,7 @@ zero-lliurex-kdeconnect-disabler
 zero-lliurex-keepass
 zero-lliurex-krita
 zero-lliurex-learningml
+zero-lliurex-leocad
 zero-lliurex-llixhoot
 zero-lliurex-lmms
 zero-lliurex-lumi
@@ -363,6 +367,7 @@ zero-lliurex-mirror-redirect
 zero-lliurex-mixxx
 zero-lliurex-moodle
 zero-lliurex-musica
+zero-lliurex-nerd-dictation
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-oliplus
@@ -381,3 +386,4 @@ zero-lliurex-thonny
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64
+zero-lliurex-zotero
