@@ -199,6 +199,16 @@ libreoffice-gtk3
  * (zero-lliurex-dbeaver)
  * (zero-lliurex-zotero)
  * (zero-lliurex-aws-cli)
+ * (zero-lliurex-spring-boot)
+ * (zero-lliurex-anything-llm)
+ * (zero-lliurex-symphony)
+ * (zero-lliurex-gns3)
+ * (zero-lliurex-geany)
+ * (zero-lliurex-alpaca)
+ * (zero-lliurex-geogebra)
+ * (zero-lliurex-cobang)
+ * (zero-lliurex-mariadb-client)
+ * (zero-lliurex-gtts)
 
 == Fonts ==
 

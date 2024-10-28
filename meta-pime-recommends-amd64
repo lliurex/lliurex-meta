@@ -254,9 +254,11 @@ zero-installer-util-media
 zero-lliurex-3d-print
 zero-lliurex-accessibility
 zero-lliurex-ai2offline
+zero-lliurex-alpaca
 zero-lliurex-anaconda
 zero-lliurex-antimicrox
 zero-lliurex-anydesk
+zero-lliurex-anything-llm
 zero-lliurex-autofirma
 zero-lliurex-aws-cli
 zero-lliurex-calibre
@@ -265,12 +267,17 @@ zero-lliurex-chrome
 zero-lliurex-chromecast
 zero-lliurex-chromium
 zero-lliurex-clickcontrolds
+zero-lliurex-cobang
 zero-lliurex-dbeaver
 zero-lliurex-docker
 zero-lliurex-dropbox-installer
 zero-lliurex-fritzing
 zero-lliurex-ganttproject
+zero-lliurex-geany
+zero-lliurex-geogebra
+zero-lliurex-gns3
 zero-lliurex-greenfoot
+zero-lliurex-gtts
 zero-lliurex-inventory
 zero-lliurex-itaca
 zero-lliurex-jellyfin
@@ -281,6 +288,7 @@ zero-lliurex-learningml
 zero-lliurex-leocad
 zero-lliurex-lmms
 zero-lliurex-lumi
+zero-lliurex-mariadb-client
 zero-lliurex-midicss
 zero-lliurex-mixxx
 zero-lliurex-musica
@@ -293,6 +301,7 @@ zero-lliurex-openboard
 zero-lliurex-photo
 zero-lliurex-skype
 zero-lliurex-spotify
+zero-lliurex-spring-boot
 zero-lliurex-teams
 zero-lliurex-technology
 zero-lliurex-thonny

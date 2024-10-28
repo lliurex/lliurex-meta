@@ -294,7 +294,7 @@ linux-azure-lts-22.04
 linux-azure-tools-5.15.0-1074
 linux-buildinfo-5.15.0-1064-ibm
 linux-buildinfo-5.15.0-1066-intel-iotg
-linux-buildinfo-5.15.0-1067-gke
+linux-buildinfo-5.15.0-1068-gke
 linux-buildinfo-5.15.0-1068-kvm
 linux-buildinfo-5.15.0-1069-oracle
 linux-buildinfo-5.15.0-1070-gcp
@@ -329,11 +329,11 @@ linux-generic-hwe-20.04
 linux-generic-hwe-20.04-edge
 linux-gke
 linux-gke-5.15
-linux-gke-headers-5.15.0-1067
-linux-gke-tools-5.15.0-1067
+linux-gke-headers-5.15.0-1068
+linux-gke-tools-5.15.0-1068
 linux-headers-5.15.0-1064-ibm
 linux-headers-5.15.0-1066-intel-iotg
-linux-headers-5.15.0-1067-gke
+linux-headers-5.15.0-1068-gke
 linux-headers-5.15.0-1068-kvm
 linux-headers-5.15.0-1069-oracle
 linux-headers-5.15.0-1070-gcp
@@ -372,7 +372,7 @@ linux-ibm-tools-5.15.0-1064
 linux-ibm-tools-common
 linux-image-5.15.0-1064-ibm
 linux-image-5.15.0-1066-intel-iotg
-linux-image-5.15.0-1067-gke
+linux-image-5.15.0-1068-gke
 linux-image-5.15.0-1069-oracle
 linux-image-5.15.0-1074-azure
 linux-image-5.15.0-124-generic
@@ -401,7 +401,7 @@ linux-image-oem-22.04a
 linux-image-oracle-lts-22.04
 linux-image-unsigned-5.15.0-1064-ibm
 linux-image-unsigned-5.15.0-1066-intel-iotg
-linux-image-unsigned-5.15.0-1067-gke
+linux-image-unsigned-5.15.0-1068-gke
 linux-image-unsigned-5.15.0-1068-kvm
 linux-image-unsigned-5.15.0-1069-oracle
 linux-image-unsigned-5.15.0-1070-gcp
@@ -435,7 +435,7 @@ linux-lowlatency-tools-common
 linux-lowlatency-tools-host
 linux-modules-5.15.0-1064-ibm
 linux-modules-5.15.0-1066-intel-iotg
-linux-modules-5.15.0-1067-gke
+linux-modules-5.15.0-1068-gke
 linux-modules-5.15.0-1068-kvm
 linux-modules-5.15.0-1069-oracle
 linux-modules-5.15.0-1070-gcp
@@ -446,7 +446,7 @@ linux-modules-5.15.0-124-lowlatency
 linux-modules-5.17.0-1035-oem
 linux-modules-extra-5.15.0-1064-ibm
 linux-modules-extra-5.15.0-1066-intel-iotg
-linux-modules-extra-5.15.0-1067-gke
+linux-modules-extra-5.15.0-1068-gke
 linux-modules-extra-5.15.0-1069-oracle
 linux-modules-extra-5.15.0-1070-gcp
 linux-modules-extra-5.15.0-1071-aws
@@ -997,7 +997,7 @@ linux-source-5.15.0
 linux-starfive-5.17-headers-5.17.0-1012
 linux-tools-5.15.0-1064-ibm
 linux-tools-5.15.0-1066-intel-iotg
-linux-tools-5.15.0-1067-gke
+linux-tools-5.15.0-1068-gke
 linux-tools-5.15.0-1068-kvm
 linux-tools-5.15.0-1069-oracle
 linux-tools-5.15.0-1070-gcp
