@@ -15,6 +15,14 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Desktop
  List of all packages for lliurex
 
+Package: lliurex-meta-neon
+Architecture: any-amd64
+Lliurex-Flavours: desktop, edu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Desktop
+ List of all packages for lliurex
+
 Package: lliurex-meta-desktop-lite
 Architecture: any-amd64
 Lliurex-Flavours: desktop-lite
