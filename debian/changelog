@@ -1,3 +1,9 @@
+lliurex-meta (25.1.10.29) noble; urgency=medium
+
+  * Add neon seed
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 29 Oct 2024 13:40:27 +0100
+
 lliurex-meta (25.1.10.23) noble; urgency=medium
 
   * Update lliurex meta
