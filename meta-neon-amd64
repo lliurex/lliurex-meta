@@ -6,6 +6,7 @@ alsa-utils
 anacron
 apt
 apt-utils
+ark
 bc
 bind9-dnsutils
 blender
@@ -38,7 +39,9 @@ fonts-noto-hinted
 fonts-symbola
 foomatic-db-compressed-ppds
 ftp
+gdebi
 ghostscript
+gwenview
 hdparm
 info
 init
@@ -48,10 +51,14 @@ iputils-ping
 jclic
 kaccounts-providers
 kbd
+kcalc
+kcharselect
 kde-cli-tools
+kde-spectacle
 kde-style-breeze5
 kf6-baloo
 kf6-kio
+kget
 kinfocenter
 kinit
 kio
@@ -59,9 +66,13 @@ kio-extras
 kio-extras5
 kmenuedit
 kmod
+konsole
+krdc
 krdp
+krfb
 kwin-wayland
 kwin-x11
+kwrite
 kwrited
 laby
 language-pack-es
@@ -97,10 +108,12 @@ netplan.io
 nfs-common
 nftables
 ocean-sound-theme
+okular
 openprinting-ppds
 oxygen-sounds
 p7zip-full
 parted
+partitionmanager
 passwd
 pciutils
 plasma-desktop
@@ -120,6 +133,7 @@ rsync
 screen
 sddm-theme-breeze
 sensible-utils
+skanlite
 smbclient
 spice-vdagent
 strace
@@ -141,6 +155,7 @@ unzip
 usbutils
 vim
 vim-tiny
+vlc
 wget
 whiptail
 wireless-tools
