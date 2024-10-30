@@ -6,6 +6,7 @@ apt
 apt-utils
 bc
 bind9-dnsutils
+blender
 breeze
 breeze5
 busybox-static
@@ -38,6 +39,7 @@ init
 inputattach
 iproute2
 iputils-ping
+jclic
 kaccounts-providers
 kbd
 kde-cli-tools
@@ -55,6 +57,7 @@ krdp
 kwin-wayland
 kwin-x11
 kwrited
+laby
 language-selector-common
 less
 libpam-systemd
@@ -103,6 +106,7 @@ sudo
 switcheroo-control
 systemsettings
 time
+tuxmath
 tzdata
 ubuntu-drivers-common
 ubuntu-keyring
@@ -122,4 +126,7 @@ xdg-user-dirs
 xkb-data
 xorg
 xz-utils
+zero-lliurex-fonts
+zero-lliurex-hotpotatoes
+zero-lliurex-jclic-biblio
 zip
