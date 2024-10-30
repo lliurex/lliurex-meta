@@ -1,1 +1,55 @@
 Task-Recursive: True
+== Start session ==
+
+ * sddm
+
+== Environment == 
+
+ * (lliurex-mime-settings)
+ * (lliurex-polkit-settings)
+ * (ibus-m17n)
+ * libwmf-bin 
+ * (network-manager-pptp)
+ * (user-setup) # ????
+ * lliurex-profile-d
+ * policykit-1
+ * (kdesdk-thumbnailers)
+ * debconf-kde-helper
+ * llx-pam-configs
+
+== Filesystem == 
+
+ * xdg-user-dirs 
+
+== Hardware ==
+
+ * (pcscd) 
+ * (pcsc-tools) 
+ * (bluetooth) 
+
+== Cli tools ==
+ * gpart
+
+== Base apps ==
+
+ * audacity
+ * k3b
+ * kamoso
+ * imagination
+ * kdenlive
+ * gimp 
+ * telegram-installer
+ * mypaint
+ * inkscape
+ * digikam
+ * filezilla
+ * transmission-qt
+ * firefox
+ * (libreoffice)
+ * (thunderbird)
+ * (synaptic)
+ * (gparted)
+ * (mintstick)
+ * usb-creator-kde
+ * python3-sip
+

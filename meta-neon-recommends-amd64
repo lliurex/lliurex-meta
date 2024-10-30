@@ -6,6 +6,7 @@ avogadro
 axel
 bash-completion
 bluedevil
+bluetooth
 bluez
 bluez-cups
 cdrdao
@@ -45,6 +46,7 @@ gdis
 gettext
 gimp
 gnuplot
+gparted
 gperiodic
 gpm
 grub-theme-breeze
@@ -52,6 +54,7 @@ gwenview
 hotpotatoes
 hplip
 htop
+ibus-m17n
 iftop
 inkscape
 iotop
@@ -70,6 +73,7 @@ kde-spectacle
 kdeconnect
 kdegraphics-thumbnailers
 kdeplasma-addons
+kdesdk-thumbnailers
 kdialog
 kerneloops
 kf6-frameworkintegration
@@ -91,9 +95,12 @@ libmaliit-plugins2
 libnss-mdns
 libnss-myhostname
 librecad
+libreoffice
 libspa-0.2-bluetooth
 linux-generic-hwe-24.04
 lliurex-hotpotatoes-data
+lliurex-mime-settings
+lliurex-polkit-settings
 lliurex-ssh-login
 lliurex-tuxpaint-stamps
 lshw
@@ -102,6 +109,7 @@ manpages
 marble
 memtest86+
 milou
+mintstick
 mobile-broadband-provider-info
 mtr-tiny
 musescore3
@@ -110,6 +118,7 @@ ncdu
 neon-apport
 neon-essentials-desktop
 neon-ubuntu-advantage-tools
+network-manager-pptp
 npm
 ntfs-3g
 numactl
@@ -117,6 +126,8 @@ okular
 openssh-client
 packagekit
 pcmciautils
+pcsc-tools
+pcscd
 pdfarranger
 phonon4qt5-backend-vlc
 phonon4qt6-backend-vlc
@@ -173,11 +184,13 @@ snapd
 software-properties-common
 solfege
 swapspace
+synaptic
 sysstat
 systemd-coredump
 tcpdump
 telnet
 testdisk
+thunderbird
 trace-cmd
 traceroute
 tree
@@ -188,6 +201,7 @@ udisks2
 ufw
 update-manager-core
 upower
+user-setup
 uuid-runtime
 vim
 vlc
