@@ -1,3 +1,9 @@
+lliurex-meta (25.1.10.31.1) noble; urgency=medium
+
+  * Testing neon seed
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 31 Oct 2024 13:11:13 +0100
+
 lliurex-meta (25.1.10.31) noble; urgency=medium
 
   * Testing neon seed

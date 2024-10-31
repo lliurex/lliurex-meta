@@ -94,13 +94,9 @@ libnss-myhostname
 librecad
 libspa-0.2-bluetooth
 linux-generic-hwe-24.04
-lliurex-access-control
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
-lliurex-firefox-settings
 lliurex-hotpotatoes-data
-lliurex-java-panel
-lliurex-on-fire
 lliurex-perfilreset
 lliurex-ssh-login
 lliurex-tuxpaint-stamps
@@ -174,7 +170,6 @@ qstopmotion
 qt5-image-formats-plugins
 qt6-image-formats-plugins
 qt6-virtualkeyboard
-repoman
 ri-li
 rsyslog
 scribus

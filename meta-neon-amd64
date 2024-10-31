@@ -31,7 +31,6 @@ dr-valentin
 e2fsprogs
 ed
 eject
-epi-gtk
 file
 fontconfig
 fonts-dejavu-core
@@ -92,7 +91,6 @@ lliurex-preseed-common
 lliurex-up
 lliurex-wifi-gva-control
 llx-alumnat-wifi
-llx-guest
 locales
 logrotate
 lsb-release
@@ -170,7 +168,6 @@ xdg-user-dirs
 xkb-data
 xorg
 xz-utils
-zero-center
 zero-lliurex-fonts
 zero-lliurex-hotpotatoes
 zero-lliurex-jclic-biblio

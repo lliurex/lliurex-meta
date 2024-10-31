@@ -1,34 +1,30 @@
 Task-Recursive: True
-
-== LliureX Apps == 
-
  * lliurex-wifi-gva-control
  * llx-alumnat-wifi
- * (repoman) 
+# * (repoman) 
  * (lliurex-perfilreset)
  * lliurex-up
  * (lliurex-disable-discover-indicator)
- * (repoman)
+# * (repoman)
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
  * (zero-lliurex-flash)
- * zero-center
- * python3-lliurex-store
- * (lliurex-store)
- * (lliurex-java-panel)
- * (lliurex-gdrive-core)
- * (lliurex-gdrive-gui)
- * (lliurex-gdrive-indicator)
- * (lliurex-firefox-settings)
- * (lliurex-on-fire)
- * (lliurex-certificates)
+# * zero-center
+# * python3-lliurex-store
+# * (lliurex-store)
+# * (lliurex-java-panel)
+# * (lliurex-gdrive-core)
+# * (lliurex-gdrive-gui)
+# * (lliurex-gdrive-indicator)
+# * (lliurex-firefox-settings)
+# * (lliurex-on-fire)
+# * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
- * (lliurex-desktop-layout-selector)
- * first-aid-kit
- * epi-gtk
- * llx-guest
+# * (lliurex-desktop-layout-selector)
+# * first-aid-kit
+# * epi-gtk
+# * llx-guest
  * lliurex-screen-mirroring
- * (lliurex-access-control)
+# * (lliurex-access-control)
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
-
