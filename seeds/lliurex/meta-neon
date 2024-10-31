@@ -32,11 +32,3 @@ Task-Recursive: True
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
 
-=== CDC ===
-
- * (zero-lliurex-cdc)
- * (cdc)
- * (cdc-mapper)
- * (libnss-lliurex)
- * (cdc-mapper-config-localhost)
-

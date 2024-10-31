@@ -8,9 +8,6 @@ bash-completion
 bluedevil
 bluez
 bluez-cups
-cdc
-cdc-mapper
-cdc-mapper-config-localhost
 cdrdao
 command-not-found
 cryptsetup
@@ -92,7 +89,6 @@ kwalletmanager
 kwin-addons
 laptop-detect
 libmaliit-plugins2
-libnss-lliurex
 libnss-mdns
 libnss-myhostname
 librecad
@@ -213,7 +209,6 @@ xinput-calibrator
 xournalpp
 xwaylandvideobridge
 zero-lliurex-arasuite
-zero-lliurex-cdc
 zero-lliurex-freecad
 zero-lliurex-gearth
 zero-lliurex-pyromaths
