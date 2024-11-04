@@ -346,6 +346,8 @@ linux-buildinfo-6.8.0-1016-gcp
 linux-buildinfo-6.8.0-1017-aws
 linux-buildinfo-6.8.0-1017-azure
 linux-buildinfo-6.8.0-1017-gcp
+linux-buildinfo-6.8.0-1017-nvidia
+linux-buildinfo-6.8.0-1017-nvidia-lowlatency
 linux-buildinfo-6.8.0-31-generic
 linux-buildinfo-6.8.0-31-lowlatency
 linux-buildinfo-6.8.0-35-generic
@@ -521,6 +523,8 @@ linux-headers-6.8.0-1016-gcp
 linux-headers-6.8.0-1017-aws
 linux-headers-6.8.0-1017-azure
 linux-headers-6.8.0-1017-gcp
+linux-headers-6.8.0-1017-nvidia
+linux-headers-6.8.0-1017-nvidia-lowlatency
 linux-headers-6.8.0-31
 linux-headers-6.8.0-31-generic
 linux-headers-6.8.0-31-lowlatency
@@ -681,6 +685,8 @@ linux-image-6.8.0-1017-aws
 linux-image-6.8.0-1017-azure
 linux-image-6.8.0-1017-azure-fde
 linux-image-6.8.0-1017-gcp
+linux-image-6.8.0-1017-nvidia
+linux-image-6.8.0-1017-nvidia-lowlatency
 linux-image-6.8.0-31-generic
 linux-image-6.8.0-31-lowlatency
 linux-image-6.8.0-35-generic
@@ -818,6 +824,8 @@ linux-image-unsigned-6.8.0-1016-gcp
 linux-image-unsigned-6.8.0-1017-aws
 linux-image-unsigned-6.8.0-1017-azure
 linux-image-unsigned-6.8.0-1017-gcp
+linux-image-unsigned-6.8.0-1017-nvidia
+linux-image-unsigned-6.8.0-1017-nvidia-lowlatency
 linux-image-unsigned-6.8.0-31-generic
 linux-image-unsigned-6.8.0-31-lowlatency
 linux-image-unsigned-6.8.0-35-generic
@@ -941,6 +949,8 @@ linux-modules-extra-6.8.0-1016-gcp
 linux-modules-extra-6.8.0-1017-aws
 linux-modules-extra-6.8.0-1017-azure
 linux-modules-extra-6.8.0-1017-gcp
+linux-modules-extra-6.8.0-1017-nvidia
+linux-modules-extra-6.8.0-1017-nvidia-lowlatency
 linux-modules-extra-6.8.0-31-generic
 linux-modules-extra-6.8.0-35-generic
 linux-modules-extra-6.8.0-36-generic
@@ -1054,6 +1064,8 @@ linux-modules-nvidia-470-6.8.0-1016-gcp
 linux-modules-nvidia-470-6.8.0-1017-aws
 linux-modules-nvidia-470-6.8.0-1017-azure
 linux-modules-nvidia-470-6.8.0-1017-gcp
+linux-modules-nvidia-470-6.8.0-1017-nvidia
+linux-modules-nvidia-470-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-470-6.8.0-31-generic
 linux-modules-nvidia-470-6.8.0-31-lowlatency
 linux-modules-nvidia-470-6.8.0-35-generic
@@ -1156,6 +1168,8 @@ linux-modules-nvidia-470-server-6.8.0-1016-gcp
 linux-modules-nvidia-470-server-6.8.0-1017-aws
 linux-modules-nvidia-470-server-6.8.0-1017-azure
 linux-modules-nvidia-470-server-6.8.0-1017-gcp
+linux-modules-nvidia-470-server-6.8.0-1017-nvidia
+linux-modules-nvidia-470-server-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-470-server-6.8.0-31-generic
 linux-modules-nvidia-470-server-6.8.0-31-lowlatency
 linux-modules-nvidia-470-server-6.8.0-35-generic
@@ -1330,6 +1344,8 @@ linux-modules-nvidia-535-6.8.0-1016-gcp
 linux-modules-nvidia-535-6.8.0-1017-aws
 linux-modules-nvidia-535-6.8.0-1017-azure
 linux-modules-nvidia-535-6.8.0-1017-gcp
+linux-modules-nvidia-535-6.8.0-1017-nvidia
+linux-modules-nvidia-535-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-535-6.8.0-31-generic
 linux-modules-nvidia-535-6.8.0-31-lowlatency
 linux-modules-nvidia-535-6.8.0-35-generic
@@ -1441,6 +1457,8 @@ linux-modules-nvidia-535-open-6.8.0-1016-gcp
 linux-modules-nvidia-535-open-6.8.0-1017-aws
 linux-modules-nvidia-535-open-6.8.0-1017-azure
 linux-modules-nvidia-535-open-6.8.0-1017-gcp
+linux-modules-nvidia-535-open-6.8.0-1017-nvidia
+linux-modules-nvidia-535-open-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-535-open-6.8.0-31-generic
 linux-modules-nvidia-535-open-6.8.0-31-lowlatency
 linux-modules-nvidia-535-open-6.8.0-35-generic
@@ -1544,6 +1562,8 @@ linux-modules-nvidia-535-server-6.8.0-1016-gcp
 linux-modules-nvidia-535-server-6.8.0-1017-aws
 linux-modules-nvidia-535-server-6.8.0-1017-azure
 linux-modules-nvidia-535-server-6.8.0-1017-gcp
+linux-modules-nvidia-535-server-6.8.0-1017-nvidia
+linux-modules-nvidia-535-server-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-535-server-6.8.0-31-generic
 linux-modules-nvidia-535-server-6.8.0-31-lowlatency
 linux-modules-nvidia-535-server-6.8.0-35-generic
@@ -1643,6 +1663,8 @@ linux-modules-nvidia-535-server-open-6.8.0-1016-gcp
 linux-modules-nvidia-535-server-open-6.8.0-1017-aws
 linux-modules-nvidia-535-server-open-6.8.0-1017-azure
 linux-modules-nvidia-535-server-open-6.8.0-1017-gcp
+linux-modules-nvidia-535-server-open-6.8.0-1017-nvidia
+linux-modules-nvidia-535-server-open-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-535-server-open-6.8.0-31-generic
 linux-modules-nvidia-535-server-open-6.8.0-31-lowlatency
 linux-modules-nvidia-535-server-open-6.8.0-35-generic
@@ -1788,6 +1810,8 @@ linux-modules-nvidia-550-6.8.0-1016-gcp
 linux-modules-nvidia-550-6.8.0-1017-aws
 linux-modules-nvidia-550-6.8.0-1017-azure
 linux-modules-nvidia-550-6.8.0-1017-gcp
+linux-modules-nvidia-550-6.8.0-1017-nvidia
+linux-modules-nvidia-550-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-550-6.8.0-31-generic
 linux-modules-nvidia-550-6.8.0-31-lowlatency
 linux-modules-nvidia-550-6.8.0-35-generic
@@ -1899,6 +1923,8 @@ linux-modules-nvidia-550-open-6.8.0-1016-gcp
 linux-modules-nvidia-550-open-6.8.0-1017-aws
 linux-modules-nvidia-550-open-6.8.0-1017-azure
 linux-modules-nvidia-550-open-6.8.0-1017-gcp
+linux-modules-nvidia-550-open-6.8.0-1017-nvidia
+linux-modules-nvidia-550-open-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-550-open-6.8.0-31-generic
 linux-modules-nvidia-550-open-6.8.0-31-lowlatency
 linux-modules-nvidia-550-open-6.8.0-35-generic
@@ -2002,6 +2028,8 @@ linux-modules-nvidia-550-server-6.8.0-1016-gcp
 linux-modules-nvidia-550-server-6.8.0-1017-aws
 linux-modules-nvidia-550-server-6.8.0-1017-azure
 linux-modules-nvidia-550-server-6.8.0-1017-gcp
+linux-modules-nvidia-550-server-6.8.0-1017-nvidia
+linux-modules-nvidia-550-server-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-550-server-6.8.0-31-generic
 linux-modules-nvidia-550-server-6.8.0-31-lowlatency
 linux-modules-nvidia-550-server-6.8.0-35-generic
@@ -2101,6 +2129,8 @@ linux-modules-nvidia-550-server-open-6.8.0-1016-gcp
 linux-modules-nvidia-550-server-open-6.8.0-1017-aws
 linux-modules-nvidia-550-server-open-6.8.0-1017-azure
 linux-modules-nvidia-550-server-open-6.8.0-1017-gcp
+linux-modules-nvidia-550-server-open-6.8.0-1017-nvidia
+linux-modules-nvidia-550-server-open-6.8.0-1017-nvidia-lowlatency
 linux-modules-nvidia-550-server-open-6.8.0-31-generic
 linux-modules-nvidia-550-server-open-6.8.0-31-lowlatency
 linux-modules-nvidia-550-server-open-6.8.0-35-generic
@@ -2304,6 +2334,8 @@ linux-tools-6.8.0-1016-gcp
 linux-tools-6.8.0-1017-aws
 linux-tools-6.8.0-1017-azure
 linux-tools-6.8.0-1017-gcp
+linux-tools-6.8.0-1017-nvidia
+linux-tools-6.8.0-1017-nvidia-lowlatency
 linux-tools-6.8.0-31
 linux-tools-6.8.0-31-generic
 linux-tools-6.8.0-31-lowlatency

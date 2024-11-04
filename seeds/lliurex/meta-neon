@@ -23,8 +23,8 @@ Task-Recursive: True
 # * (lliurex-desktop-layout-selector)
 # * first-aid-kit
 # * epi-gtk
-# * llx-guest
+ * llx-guest
  * lliurex-screen-mirroring
-# * (lliurex-access-control)
+ * (lliurex-access-control)
  * lliurex-auto-upgrade
  * (kscreen-system-settings)

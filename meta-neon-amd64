@@ -91,6 +91,7 @@ lliurex-preseed-common
 lliurex-up
 lliurex-wifi-gva-control
 llx-alumnat-wifi
+llx-guest
 locales
 logrotate
 lsb-release
