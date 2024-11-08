@@ -75,6 +75,10 @@ These packages make up the Ubiquity live installer.
 
  * calamares
  * calamares-settings
+ * util-linux-extra
+
+ # Makes Calamares launch without asking for a password
+ * polkitd-pkla
 
 SDDM needs to be explicitly selected
 

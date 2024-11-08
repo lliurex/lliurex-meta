@@ -15,7 +15,6 @@ Task-Seeds: desktop-common
 
 Bluetooth:
 
- * (pulseaudio-module-bluetooth) # Bluetooth audio devices by default
  * (libspa-0.2-bluetooth)        # Bluetooth audio devices by default in pipewire
 
 = Network Services =
@@ -29,8 +28,8 @@ Basic network services and Windows integration.
 
 A11y components:
 
-# * orca
-# * brltty-speechd
+ * orca
+ * brltty-speechd
 
 Input methods:
 
@@ -46,7 +45,8 @@ Fonts:
 
 == Phonon and Frameworks ==
 
- * (pulseaudio)
+ * pipewire
+ * wireplumber
  * (phonon4qt5-backend-vlc)
  * (phonon4qt6-backend-vlc)
  * (frameworkintegration)
@@ -160,8 +160,7 @@ Fonts:
  * (qml-module-qtgraphicaleffects)
  * xdg-user-dirs
  * sddm-theme-breeze
-# Disabled temporally
-# * neon-settings-2
+ * neon-settings-2
  * neon-keyring
  * (power-profiles-daemon)
  * switcheroo-control
@@ -183,6 +182,7 @@ Fonts:
  * (maliit-keyboard)        # ensure onscreen keyboard works out of the box
  * (qt6-virtualkeyboard)    #
  * (xdg-desktop-portal-gtk) # wanted in /usr/share/xdg-desktop-portal/kde-portals.conf
+ * (xsettingsd) # Also wanted by GTK apps on Plasma
 
 == Blacklist ==
 
