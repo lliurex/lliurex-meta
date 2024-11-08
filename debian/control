@@ -7,91 +7,121 @@ Standards-Version: 4.1.2
 Homepage: https://lliurex.net
 Vcs-Git: https://github.com/lliurex/lliurex-meta.git
 
-Package: lliurex-meta-desktop
+Package: lliurex-meta-gva-adi-ceip
+Architecture: any-amd64
+Lliurex-Flavours: adi, ceip, gva
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Adi ceip for gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-adi-fp
+Architecture: any-amd64
+Lliurex-Flavours: adi, gva, fp
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex adi fp for gva 
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-adi-ies
+Architecture: any-amd64
+Lliurex-Flavours: adi, gva, ies
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex adi ies for gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-agora
+Architecture: any-amd64
+Lliurex-Flavours: gva, agora
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Agora
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-colab
+Architecture: any-amd64
+Lliurex-Flavours: gva, colab 
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Colab
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-desktop-ceip
+Architecture: any-amd64
+Lliurex-Flavours: desktop, gva, ceip 
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Desktop ceip gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-desktop-fp
+Architecture: any-amd64
+Lliurex-Flavours: desktop, gva, fp
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Desktop fp gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-gva-desktop-ies
+Architecture: any-amd64
+Lliurex-Flavours: desktop, gva, ies
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Desktop ies gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-home-adi-ceip
+Architecture: any-amd64
+Lliurex-Flavours: adi, ceip
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex adi ceip for home
+ List of all packages for lliurex
+
+Package: lliurex-meta-home-adi-fp
+Architecture: any-amd64
+Lliurex-Flavours: adi, fp 
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex adi fp for home 
+ List of all packages for lliurex
+
+Package: lliurex-meta-home-adi-ies
+Architecture: any-amd64
+Lliurex-Flavours: adi, ies 
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex adi ies for home 
+ List of all packages for lliurex
+
+Package: lliurex-meta-home-desktop-ceip
 Architecture: any-amd64
 Lliurex-Flavours: desktop, edu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Desktop
+Description: MetaPackage of Lliurex Desktop ceip for home
  List of all packages for lliurex
 
-Package: lliurex-meta-neon
+Package: lliurex-meta-home-desktop-fp
 Architecture: any-amd64
-Lliurex-Flavours: desktop, edu
+Lliurex-Flavours: desktop, fp
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Desktop
+Description: MetaPackage of Lliurex Desktop fp for home
  List of all packages for lliurex
 
-Package: lliurex-meta-desktop-lite
+Package: lliurex-meta-home-desktop-ies
 Architecture: any-amd64
-Lliurex-Flavours: desktop-lite
+Lliurex-Flavours: desktop, ies
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Desktop Lite
+Description: MetaPackage of Lliurex Desktop ies for home
  List of all packages for lliurex
 
-Package: lliurex-meta-minimal-client
+Package: lliurex-meta-live
 Architecture: any-amd64
-Lliurex-Flavours: edu, minimal-client
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex minimal client
- List of all packages for lliurex
-
-Package: lliurex-meta-client
-Architecture: any-amd64
-Lliurex-Flavours: client, edu
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Client
- List of all packages for lliurex
-
-Package: lliurex-meta-client-lite
-Architecture: any-amd64
-Lliurex-Flavours: client-lite
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Client lite
- List of all packages for lliurex
-
-
-Package: lliurex-meta-server
-Architecture: any-amd64
-Lliurex-Flavours: server, edu
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Server
- List of all packages for lliurex
-
-Package: lliurex-meta-server-lite
-Architecture: any-amd64
-Lliurex-Flavours: server-lite
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Server lite
- List of all packages for lliurex
-
-
-Package: lliurex-meta-infantil
-Architecture: any-amd64
-Lliurex-Flavours: edu, infantil
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Infantil
- List of all packages for lliurex
-
-Package: lliurex-meta-pime
-Architecture: any-amd64
-Lliurex-Flavours: pime, edu
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Live
- List of all packages for lliurex
-
-Package: lliurex-meta-music
-Architecture: any-amd64
-Lliurex-Flavours: music, edu
+Lliurex-Flavours: live
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Live
@@ -99,41 +129,10 @@ Description: MetaPackage of Lliurex Live
 
 Package: lliurex-meta-supported
 Architecture: any-amd64
-Lliurex-Flavours: supported, edu
+Lliurex-Flavours: supported
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Live
+Description: MetaPackage of Lliurex supported
  List of all packages for lliurex
 
-Package: lliurex-meta-live
-Architecture: any-amd64
-Lliurex-Flavours: live, edu
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Live
- List of all packages for lliurex
-
-Package: lliurex-meta-desktop-touch
-Architecture: any-amd64
-Lliurex-Flavours: desktop, edu, touch
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Desktop Touch
- List of all packages for lliurex
-
-Package: lliurex-meta-minimal-touch
-Architecture: any-amd64
-Lliurex-Flavours: edu, touch
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex minimal touch
- List of all packages for lliurex
-
-Package: lliurex-meta-desktop-classroom
-Architecture: any-amd64
-Lliurex-Flavours: edu, desktop
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex desktop classroom
- List of all packages for lliurex
 

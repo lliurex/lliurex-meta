@@ -17,6 +17,9 @@ llx-adi-fp:
 llx-desktop-ceip:
 llx-desktop-ies:
 llx-desktop-fp:
+llx-supported-extra:
+llx-supported-installers:
+llx-live-supported:
 meta-gva-adi-ceip:
 meta-gva-adi-fp:
 meta-gva-adi-ies:
