@@ -31,43 +31,43 @@
 
 == Base apps ==
 
- * vlc
  * audacity
- * k3b # ???
- * kamoso # ???
- * python3-sip
- * firefox # ???
- * (libreoffice)
- * (thunderbird) # 
+ * k3b
+ * kamoso
+ * imagination
+ * kdenlive
+ * gimp 
+ * telegram-installer
+ * mypaint
+ * inkscape
  * digikam
- * chromium-browser
-# * imagination
-# * kdenlive
-# * gimp 
-# * telegram-installer
-# * mypaint
-# * inkscape
-# * filezilla
-# * transmission-qt
-# * (synaptic)
-# * (gparted)
-# * (mintstick)
-# * usb-creator-kde
+ * filezilla
+ * transmission-qt
+ * firefox
+ * (libreoffice)
+ * (thunderbird)
+ * (synaptic)
+ * (gparted)
+ * (mintstick)
+ * usb-creator-kde
+ * python3-sip
 
  TODO: Add Amarok/Clementine/Tomahowk
 
 == Others apps == 
 
-# * (pstoedit)
+ * (pstoedit)
  * zenity
  * scite
-# * (gimp-plugin-registry)
-# * (remmina)
-# * krename
-# * (onboard)
+ * (gimp-plugin-registry)
+ * (remmina)
+ * krename
+ * (icedtea-plugin)
+ * (onboard)
  * (pavucontrol-qt)
  * (pavucontrol-qt-l10n)
  * (libreoffice-style-elementary)
+ * libreoffice
  * libreoffice-base
  * libreoffice-calc
  * libreoffice-pdfimport 
@@ -75,19 +75,29 @@
  * libreoffice-ogltrans
  * libreoffice-report-builder
  * (libreoffice-sdbc-firebird)
-# * (simplescreenrecorder)
-# * (lliurex-conky)
+ * (simplescreenrecorder)
+ * (lliurex-conky)
+
+TODO
+(lliurex-ultimate-rescue)
+(usb-creator-gtk)
+(avidemux)
+libreoffice-kde
+libreoffice-gtk3
+
 
 == LliureX Apps == 
 
  * lliurex-wifi-gva-control
  * llx-alumnat-wifi
  * (repoman) 
-# * (lliurex-perfilreset)
+ * (lliurex-perfilreset)
  * lliurex-up
-# * (lliurex-disable-discover-indicator)
+ * (lliurex-disable-discover-indicator)
+ * (repoman)
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
+ * (zero-lliurex-flash)
  * zero-center
  * python3-lliurex-store
  * (lliurex-store)
@@ -104,17 +114,17 @@
  * epi-gtk
  * llx-guest
  * lliurex-screen-mirroring
-# * (lliurex-access-control)
+ * (lliurex-access-control)
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
 
 === CDC ===
 
-# * (zero-lliurex-cdc)
-# * (cdc)
-# * (cdc-mapper)
-# * (libnss-lliurex)
-# * (cdc-mapper-config-localhost)
+ * (zero-lliurex-cdc)
+ * (cdc)
+ * (cdc-mapper)
+ * (libnss-lliurex)
+ * (cdc-mapper-config-localhost)
 
 
 
@@ -198,6 +208,16 @@
  * lliurex-kde-hotkeys
  * (adwaita-icon-theme)
 
+TODO: 
+gtk2-engines 
+(humanity-icon-theme) 
+lliurex-artwork-icons 
+lliurex-artwork-backgrounds-desktop 
+lliurex-artwork-window-desktop
+lliurex-artwork-plymouth-desktop
+lliurex-artwork-plymouth-text
+lliurex-artwork-backgrounds-contest
+
 == Languages ==
 
  * language-pack-lliurex-valencian
@@ -259,4 +279,3 @@
  * (hunspell-es)
  * (hunspell-en-gb)
  * (hunspell-en-us)
-

@@ -1,0 +1,66 @@
+This seed is needed to add depends into pool from zero-installers
+
+= Java =
+
+ * oracle-java11-installer
+
+= OpenMeetings = 
+
+ * lliurex-openmeetings
+
+= Moodle =
+
+ * lliurex-moodle
+
+= Pyromaths = 
+
+ * (pyromaths)
+ * (pyromaths-qt)
+
+= LaTex =
+ * (gummi)
+ * (texlive-lang-spanish)
+
+= PMB = 
+ * lliurex-pmb
+
+= Slideshow =
+ * lliurex-news-setup
+ * lliurex-news-slideshow
+
+= AdobeAir =
+ * libnspr4
+
+ * lliurex-lab
+
+= Fonts =
+
+ * lliurex-artwork-fonts
+ * lliurex-artwork-fonts-classroom
+
+
+= Inventory =
+
+ * fusioninstall
+
+= Whiteboard =
+
+ * nwfermi-module
+
+= Webex =
+
+ * libgl1-mesa-glx
+
+
+= CDC =
+
+ * cdc 
+ * cdc-dev
+ * cdc-mapper
+ * cdc-mapper-config-client
+ * cdc-mapper-config-localhost
+ * libnss-lliurex
+
+= Geogebra =
+
+ * libcanberra-gtk-module
