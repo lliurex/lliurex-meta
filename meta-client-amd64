@@ -14,6 +14,7 @@ bind9-dnsutils
 blender
 breeze
 breeze5
+brltty-speechd
 busybox-static
 ca-certificates
 cdc-for-clients
@@ -160,6 +161,7 @@ n4d-hostname
 n4d-lliurex-base
 neon-hardware-integration
 neon-keyring
+neon-settings-2
 net-tools
 netbase
 netcat-openbsd
@@ -170,12 +172,14 @@ ocean-sound-theme
 okular
 openprinting-ppds
 openssh-server
+orca
 oxygen-sounds
 p7zip-full
 parted
 partitionmanager
 passwd
 pciutils
+pipewire
 plasma-desktop
 plasma-integration
 plasma-integration5
@@ -225,6 +229,7 @@ vlc
 wget
 whiptail
 wireless-tools
+wireplumber
 wpasupplicant
 xdg-user-dirs
 xkb-data

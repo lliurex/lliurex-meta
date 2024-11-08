@@ -12,6 +12,7 @@ bc
 bind9-dnsutils
 breeze
 breeze5
+brltty-speechd
 busybox-static
 ca-certificates
 cifs-utils
@@ -149,6 +150,7 @@ n4d
 n4d-lliurex-base
 neon-hardware-integration
 neon-keyring
+neon-settings-2
 net-tools
 netbase
 netcat-openbsd
@@ -160,12 +162,14 @@ ocrfeeder
 okular
 openprinting-ppds
 openssh-server
+orca
 oxygen-sounds
 p7zip-full
 parted
 partitionmanager
 passwd
 pciutils
+pipewire
 planner
 plasma-desktop
 plasma-integration
@@ -217,6 +221,7 @@ vlc
 wget
 whiptail
 wireless-tools
+wireplumber
 wpasupplicant
 xdg-user-dirs
 xkb-data

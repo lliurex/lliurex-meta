@@ -218,8 +218,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pstoedit
-pulseaudio
-pulseaudio-module-bluetooth
 qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qml6-module-org-kde-breeze
@@ -278,6 +276,7 @@ xdg-utils
 xinput-calibrator
 xournalpp
 xrdp
+xsettingsd
 xwaylandvideobridge
 zero-fp-administrativo
 zero-fp-electronica

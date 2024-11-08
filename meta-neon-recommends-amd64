@@ -161,8 +161,6 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
-pulseaudio
-pulseaudio-module-bluetooth
 qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qml6-module-org-kde-breeze
@@ -203,6 +201,7 @@ xdg-desktop-portal-gtk
 xdg-utils
 xinput-calibrator
 xournalpp
+xsettingsd
 xwaylandvideobridge
 zero-lliurex-arasuite
 zero-lliurex-freecad

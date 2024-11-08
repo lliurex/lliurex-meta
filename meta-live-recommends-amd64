@@ -115,8 +115,6 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
-pulseaudio
-pulseaudio-module-bluetooth
 qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qml6-module-org-kde-breeze
@@ -141,4 +139,5 @@ vim
 vlc
 xdg-desktop-portal-gtk
 xdg-utils
+xsettingsd
 xwaylandvideobridge

@@ -87,6 +87,7 @@ mokutil
 mount
 neon-hardware-integration
 neon-keyring
+neon-settings-2
 netbase
 netcat-openbsd
 netplan.io
@@ -98,11 +99,13 @@ oxygen-sounds
 parted
 passwd
 pciutils
+pipewire
 plasma-desktop
 plasma-integration
 plasma-integration5
 plasma-workspace
 pm-utils
+polkitd-pkla
 powerdevil
 printer-driver-pnm2ppa
 procps
@@ -134,11 +137,13 @@ ubuntu-standard
 udev
 unzip
 usbutils
+util-linux-extra
 vim-tiny
 wamerican
 wget
 whiptail
 wireless-tools
+wireplumber
 wpasupplicant
 xdg-user-dirs
 xfsprogs
