@@ -3,7 +3,8 @@ include neon.noble
 llx-print-server:
 llx-base: llx-print-server
 llx-minimal-kde-desktop:
-llx-desktop-common: llx-minimal-kde-desktop llx-base desktop-common
+llx-zero-center:
+llx-desktop-common: llx-minimal-kde-desktop llx-base desktop-common llx-zero-center
 llx-devel:
 llx-gva-common:
 llx-gva-desktop:
@@ -11,6 +12,7 @@ llx-gva-adi:
 llx-common-ceip:
 llx-common-ies:
 llx-common-fp:
+llx-common-adi:
 llx-adi-ceip:
 llx-adi-ies:
 llx-adi-fp:

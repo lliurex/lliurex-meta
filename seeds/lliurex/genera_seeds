@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+
+with open('STRUCTURE','r') as fd:
+	lines = fd.readlines()
+
+for x in lines:
+    if x.lower().startswith('include') or x.lower().startswith('feature'):
+        continue
+    seed = x.strip().split(':')[0]
+    with open(seed,'a+') as fd:
+        fd.close()

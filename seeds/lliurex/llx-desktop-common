@@ -1,6 +1,7 @@
 == Start session ==
 
  * sddm
+ * hodor
 
 == Environment == 
 
@@ -22,8 +23,8 @@
 
 == Hardware ==
 
- * (pcscd) 
- * (pcsc-tools) 
+# * (pcscd) 
+# * (pcsc-tools) 
  * (bluetooth) 
 
 == Cli tools ==
@@ -33,13 +34,13 @@
 
  * vlc
  * audacity
- * k3b # ???
- * kamoso # ???
+# * k3b # ???
+# * kamoso # ???
  * python3-sip
  * firefox # ???
  * (libreoffice)
- * (thunderbird) # 
- * digikam
+# * (thunderbird) # 
+# * digikam
  * chromium-browser
 # * imagination
 # * kdenlive
@@ -53,8 +54,6 @@
 # * (gparted)
 # * (mintstick)
 # * usb-creator-kde
-
- TODO: Add Amarok/Clementine/Tomahowk
 
 == Others apps == 
 
@@ -80,8 +79,6 @@
 
 == LliureX Apps == 
 
- * lliurex-wifi-gva-control
- * llx-alumnat-wifi
  * (repoman) 
 # * (lliurex-perfilreset)
  * lliurex-up
@@ -92,9 +89,6 @@
  * python3-lliurex-store
  * (lliurex-store)
  * (lliurex-java-panel)
- * (lliurex-gdrive-core)
- * (lliurex-gdrive-gui)
- * (lliurex-gdrive-indicator)
  * (lliurex-firefox-settings)
  * (lliurex-on-fire)
  * (lliurex-certificates)
@@ -104,78 +98,9 @@
  * epi-gtk
  * llx-guest
  * lliurex-screen-mirroring
-# * (lliurex-access-control)
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
 
-=== CDC ===
-
-# * (zero-lliurex-cdc)
-# * (cdc)
-# * (cdc-mapper)
-# * (libnss-lliurex)
-# * (cdc-mapper-config-localhost)
-
-
-
-=== Zero Center ===
-
- * zero-lliurex-dvdcss # 20M
- * zero-lliurex-sketchup [i386] # 350M (amd64 750M) arrastra el wine
- * zero-lliurex-gearth  # Comentar para hacer iso
- * zero-lliurex-adobereader # 2M
- * zero-lliurex-flavours # 2M
- * (bell-scheduler-zerocenter-files)
- * (zero-lliurex-skype)
- * (zero-lliurex-spotify)
- * (zero-lliurex-dropbox-installer)
- * (zero-lliurex-wine64)
- * (zero-lliurex-midicss)
- * (zero-lliurex-chromecast)
- * (zero-lliurex-chrome)
- * (zero-lliurex-ocrfeeder)
- * (zero-lliurex-obs-studio)
- * (zero-lliurex-autofirma)
- * (zero-lliurex-dni)
- * (zero-lliurex-krita)
- * (zero-lliurex-smart)
- * (zero-lliurex-mixxx)
- * (zero-lliurex-inventory)
- * (zero-lliurex-fritzing)
- * (llx-edition-studio)
- * (zero-lliurex-teams)
- * (zero-lliurex-3d-print)
- * (zero-lliurex-lumi)
- * (zero-lliurex-lmms) 
- * (zero-lliurex-jellyfin)
- * (zero-lliurex-itaca)
- * (zero-lliurex-anydesk)
- * (zero-lliurex-openboard) [amd64]
- * (zero-lliurex-onedrive)
- * (lliurex-deskreen)
- * (zero-fp-administrativo)
- * (zero-fp-informatica)
- * (zero-fp-electronica)
- * (zero-lliurex-musica)
- * (zero-lliurex-photo)
- * (zero-lliurex-webex)
- * (zero-installer-util-classroom)
- * (zero-installer-util-media)
- * (zero-installer-educational)
- * (zero-installer-kids)
- * (zero-installer-playful)
- * (zero-lliurex-virtualizer)
- * (zero-lliurex-technology)
- * (zero-lliurex-accessibility)
- * (zero-lliurex-touch)
- * (zero-lliurex-oliplus)
- * (zero-lliurex-clickcontrolds)
- * (zero-lliurex-anaconda)
- * (zero-lliurex-calibre)
- * (zero-lliurex-ganttproject)
- * (zero-robolliurex)
- * (zero-lliurex-chromium)
- * (zero-lliurex-docker)
 
 == Fonts ==
 
@@ -195,7 +120,6 @@
 == Theme ==
  * lliurex-menus 
  * lliurex-desktop-defaults
- * lliurex-kde-hotkeys
  * (adwaita-icon-theme)
 
 == Languages ==
@@ -226,15 +150,15 @@
  * (libreoffice-help-en-gb) 
  * (libreoffice-help-en-us) 
 
- * (thunderbird-locale-en-us) 
- * (thunderbird-locale-en-gb) 
- * (thunderbird-locale-en) 
- * (thunderbird-locale-ca) 
- * (thunderbird-locale-es-es)
- * (thunderbird-locale-ca-va)
+# * (thunderbird-locale-en-us) 
+# * (thunderbird-locale-en-gb) 
+# * (thunderbird-locale-en) 
+# * (thunderbird-locale-ca) 
+# * (thunderbird-locale-es-es)
+# * (thunderbird-locale-ca-va)
 
- * gimp-help-es 
- * gimp-help-en 
+# * gimp-help-es 
+# * gimp-help-en 
 
  * (poppler-data) 
 
