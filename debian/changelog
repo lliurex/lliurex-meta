@@ -1,3 +1,9 @@
+lliurex-meta (25.1.11.11.5) noble; urgency=medium
+
+  * Add Task-Recursive: True
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 11 Nov 2024 18:21:03 +0100
+
 lliurex-meta (25.1.11.11.3) noble; urgency=medium
 
   * Add new meta packages
