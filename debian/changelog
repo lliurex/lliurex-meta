@@ -1,3 +1,9 @@
+lliurex-meta (25.1.11.11.3) noble; urgency=medium
+
+  * Add new meta packages
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 11 Nov 2024 17:40:44 +0100
+
 lliurex-meta (25.1.11.11.1) noble; urgency=medium
 
   * Regenerate meta

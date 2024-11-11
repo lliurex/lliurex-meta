@@ -119,6 +119,23 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Desktop ies for home
  List of all packages for lliurex
 
+Package: lliurex-meta-home-desktop
+Architecture: any-amd64
+Lliurex-Flavours: desktop
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Desktop for home
+ List of all packages for lliurex
+
+Package: lliurex-meta-home-adi
+Architecture: any-amd64
+Lliurex-Flavours: adi
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex ADI for home
+ List of all packages for lliurex
+
+
 Package: lliurex-meta-live
 Architecture: any-amd64
 Lliurex-Flavours: live
