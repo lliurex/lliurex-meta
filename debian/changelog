@@ -1,3 +1,9 @@
+lliurex-meta (25.1.11.11.1) noble; urgency=medium
+
+  * Regenerate meta
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 11 Nov 2024 17:25:55 +0100
+
 lliurex-meta (25.1.11.11) noble; urgency=medium
 
   * First new meta version
