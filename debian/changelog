@@ -1,3 +1,10 @@
+lliurex-meta (23.24.11.15) jammy; urgency=medium
+
+  * llxamp 
+  * version numbers are completely broken. lets go with 23.YY.MM.DD now
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 15 Nov 2024 11:45:17 +0100
+
 lliurex-meta (23.17.10.29) jammy; urgency=medium
 
   * missing zero-lliurex-symfony 
