@@ -15,7 +15,7 @@ breeze5
 brltty-speechd
 busybox-static
 ca-certificates
-chromium-browser
+chromium
 console-setup
 cpio
 cron
