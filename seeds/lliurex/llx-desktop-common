@@ -210,6 +210,7 @@ libreoffice-gtk3
  * (zero-lliurex-mariadb-client)
  * (zero-lliurex-gtts)
  * (zero-lliurex-llxamp)
+ * (zero-lliurex-ollama)
 
 == Fonts ==
 
