@@ -22,6 +22,9 @@ llx-desktop-fp:
 llx-supported-extra:
 llx-supported-installers:
 llx-live-supported:
+meta-gva: llx-gva-common
+meta-adi: neon-desktop llx-desktop-common llx-common-adi 
+meta-desktop: neon-desktop llx-desktop-common  
 meta-gva-adi-ceip: llx-common-adi llx-common-ceip llx-adi-ceip llx-gva-common
 meta-gva-adi-fp: llx-common-adi llx-common-fp llx-adi-fp llx-gva-common
 meta-gva-adi-ies: llx-common-adi llx-common-ies llx-gva-common llx-adi-ies
@@ -30,13 +33,11 @@ meta-gva-colab:
 meta-gva-desktop-ceip: llx-common-ceip llx-desktop-ceip llx-gva-common
 meta-gva-desktop-fp: llx-common-fp llx-desktop-fp llx-gva-common
 meta-gva-desktop-ies: llx-common-ies llx-desktop-ies llx-gva-common
-meta-home-adi-ceip: llx-common-adi llx-common-ceip llx-adi-ceip
-meta-home-adi-fp: llx-common-adi llx-common-fp llx-adi-fp
-meta-home-adi-ies: llx-common-adi llx-common-ies llx-adi-ies
-meta-home-desktop-ceip: llx-common-ceip llx-desktop-ceip
-meta-home-desktop-fp: llx-common-fp llx-desktop-fp
-meta-home-desktop-ies: llx-common-ies llx-desktop-ies
-meta-home-desktop: neon-desktop llx-desktop-common  
-meta-home-adi: neon-desktop llx-desktop-common llx-common-adi 
+meta-adi-ceip: llx-common-adi llx-common-ceip llx-adi-ceip
+meta-adi-fp: llx-common-adi llx-common-fp llx-adi-fp
+meta-adi-ies: llx-common-adi llx-common-ies llx-adi-ies
+meta-desktop-ceip: llx-common-ceip llx-desktop-ceip
+meta-desktop-fp: llx-common-fp llx-desktop-fp
+meta-desktop-ies: llx-common-ies llx-desktop-ies
 meta-live: neon-live
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
