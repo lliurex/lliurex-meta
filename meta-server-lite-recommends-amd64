@@ -76,6 +76,7 @@ hyphen-en-us
 hyphen-es
 ibus-m17n
 iftop
+intef-exe-appimage
 iotop
 iperf
 iptables
@@ -343,6 +344,7 @@ zero-lliurex-openboard
 zero-lliurex-openmeetings
 zero-lliurex-photo
 zero-lliurex-skype
+zero-lliurex-speech-note
 zero-lliurex-spotify
 zero-lliurex-spring-boot
 zero-lliurex-symfony

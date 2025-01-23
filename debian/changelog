@@ -1,3 +1,10 @@
+lliurex-meta (23.25.01.23) jammy; urgency=medium
+
+  * intef-exe-appimage was missing. Back to desktop
+  * zero-lliurex-speech-note 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 23 Jan 2025 10:11:18 +0100
+
 lliurex-meta (23.24.12.18) jammy; urgency=medium
 
   * zero-lliurex-localwriterai 
