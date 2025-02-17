@@ -16,6 +16,7 @@
  * (kdesdk-thumbnailers)
  * debconf-kde-helper
  * llx-pam-configs
+ * lliurex-robotics
 
 == Filesystem == 
 
@@ -23,47 +24,45 @@
 
 == Hardware ==
 
-# * (pcscd) 
-# * (pcsc-tools) 
  * (bluetooth) 
 
 == Cli tools ==
  * gpart
+ * git
 
 == Base apps ==
 
  * vlc
  * audacity
-# * k3b # ???
-# * kamoso # ???
+ * kamoso
  * python3-sip
- * firefox # ???
+ * (firefox)
  * (libreoffice)
-# * (thunderbird) # 
-# * digikam
- * chromium
-# * imagination
-# * kdenlive
-# * gimp 
-# * telegram-installer
-# * mypaint
-# * inkscape
-# * filezilla
-# * transmission-qt
-# * (synaptic)
-# * (gparted)
-# * (mintstick)
-# * usb-creator-kde
+ * (chromium)
+ * gimp 
+ * mypaint
+ * inkscape
+ * usb-creator-kde
+ * (openshot-qt)
+ * (musescore3)
+ * (intef-exe-appimage)
+ * (pdfarranger)
+ * (kazam)
+ * (onboard)
+ * freeplane
+ * (minuet)
+## * (scratch-desktop) 
+## * (geogebra-classic)
+## * (zero-lliurex-openboard)
+## * (handbreak)
+## * (prusaslicer)
+## * (zero-lliurex-arasuite)
 
 == Others apps == 
 
-# * (pstoedit)
  * zenity
  * scite
-# * (gimp-plugin-registry)
-# * (remmina)
-# * krename
-# * (onboard)
+ * (gimp-plugin-registry)
  * (pavucontrol-qt)
  * (pavucontrol-qt-l10n)
  * (libreoffice-style-elementary)
@@ -74,15 +73,11 @@
  * libreoffice-ogltrans
  * libreoffice-report-builder
  * (libreoffice-sdbc-firebird)
-# * (simplescreenrecorder)
-# * (lliurex-conky)
 
 == LliureX Apps == 
 
  * (repoman) 
-# * (lliurex-perfilreset)
  * lliurex-up
-# * (lliurex-disable-discover-indicator)
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
  * zero-center
@@ -100,7 +95,14 @@
  * lliurex-screen-mirroring
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
-
+ * (kmixtest)
+ * (lliurex-access-control)
+ * (bell-scheduler)
+ * (lliurex-perfilreset)
+ * home-eraser-gui
+ * (lliurex-conky)
+ * (taskscheduler)
+ * runomatic
 
 == Fonts ==
 
@@ -112,8 +114,6 @@
  * fonts-opensymbol
  * fonts-unfonts-core
  * fonts-breip
- * fonts-ecolier-court
- * fonts-ecolier-lignes-court
  * fonts-rufscript
  * fonts-tomsontalks
 

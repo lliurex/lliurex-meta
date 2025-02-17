@@ -2,7 +2,7 @@
 
  * acl
  * nfs-common
- * smbclient            # to access files on other SAMBA and Windows servers
+ * smbclient
  * (dmraid)
  * (exfat-fuse)
  * (exfatprogs)
@@ -22,7 +22,6 @@
  * lliurex-base-files
  * (whois)
  * lliurex-keyring
- * (lliurex-statistics) # ?
  * (lliurex-journald-settings)
  * lliurex-common-utils 
  * lliurex-extra-configs 
@@ -73,4 +72,3 @@
  * (iftop)
  * (ethtool)
  * net-tools
- * flatlock # ?
