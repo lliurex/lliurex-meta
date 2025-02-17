@@ -13,6 +13,6 @@ meta-desktop-ceip lliurex-meta-home-desktop-ceip
 meta-desktop-fp lliurex-meta-home-desktop-fp
 meta-desktop-ies lliurex-meta-home-desktop-ies
 meta-desktop lliurex-meta-desktop
-meta-home-adi lliurex-meta-adi
+meta-adi lliurex-meta-adi
 meta-live lliurex-meta-live
 meta-supported lliurex-meta-supported
