@@ -7,14 +7,6 @@ Standards-Version: 4.1.2
 Homepage: https://lliurex.net
 Vcs-Git: https://github.com/lliurex/lliurex-meta.git
 
-Package: lliurex-meta-gva-adi-ceip
-Architecture: any-amd64
-Lliurex-Flavours: adi, ceip, gva
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
 Package: lliurex-meta-gva
 Architecture: any-amd64
 Lliurex-Flavours: adi, ceip, gva
