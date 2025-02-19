@@ -52,7 +52,7 @@
  * freeplane
  * (minuet)
 ## * (scratch-desktop) 
-## * (geogebra-classic)
+## * (geogebra)
 ## * (zero-lliurex-openboard)
 ## * (handbreak)
 ## * (prusaslicer)
@@ -100,9 +100,10 @@
  * (bell-scheduler)
  * (lliurex-perfilreset)
  * home-eraser-gui
- * (lliurex-conky)
+# * (lliurex-conky)
  * (taskscheduler)
  * runomatic
+ * store
 
 == Fonts ==
 
