@@ -1,3 +1,9 @@
+lliurex-meta (25.2.2.19) noble; urgency=medium
+
+  * Add store
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 19 Feb 2025 17:30:09 +0100
+
 lliurex-meta (25.2.2.17) noble; urgency=medium
 
   * New metapackages

@@ -100,7 +100,6 @@
  * (bell-scheduler)
  * (lliurex-perfilreset)
  * home-eraser-gui
-# * (lliurex-conky)
  * (taskscheduler)
  * runomatic
  * store
