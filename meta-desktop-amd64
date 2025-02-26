@@ -114,6 +114,7 @@ lliurex-auto-upgrade
 lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults
+lliurex-disable-discover-indicator
 lliurex-menus
 lliurex-preseed-common
 lliurex-profile-d
