@@ -214,6 +214,9 @@ libreoffice-gtk3
  * (zero-lliurex-ollama)
  * (zero-lliurex-localwriterai)
  * (zero-lliurex-speech-note)
+ * (zero-lliurex-pseint)
+ * (zero-lliurex-pygpt)
+ * (zero-lliurex-qgis)
 
 == Fonts ==
 

@@ -1,3 +1,9 @@
+lliurex-meta (23.25.03.4) jammy; urgency=medium
+
+  * Adding zero-lliurex-pseint, pygpt, qgis 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 04 Mar 2025 15:35:51 +0100
+
 lliurex-meta (23.25.01.23) jammy; urgency=medium
 
   * intef-exe-appimage was missing. Back to desktop
