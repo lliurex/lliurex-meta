@@ -217,6 +217,7 @@ libreoffice-gtk3
  * (zero-lliurex-pseint)
  * (zero-lliurex-pygpt)
  * (zero-lliurex-qgis)
+ * (zero-lliurex-gimagereader)
 
 == Fonts ==
 
