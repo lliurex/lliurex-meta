@@ -1,3 +1,9 @@
+lliurex-meta (23.25.03.17) jammy; urgency=medium
+
+  * zero-lliurex-audacity-ai to desktop 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 17 Mar 2025 08:29:56 +0100
+
 lliurex-meta (23.25.03.4.1) jammy; urgency=medium
 
   * gimagereader to desktop 
