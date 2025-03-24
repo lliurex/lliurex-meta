@@ -1,3 +1,9 @@
+lliurex-meta (23.25.03.24) jammy; urgency=medium
+
+  * +zero-lliurex-mkvtoolnix to desktop 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 24 Mar 2025 15:24:04 +0100
+
 lliurex-meta (23.25.03.17) jammy; urgency=medium
 
   * zero-lliurex-audacity-ai to desktop 
