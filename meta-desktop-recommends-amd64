@@ -189,6 +189,7 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
+prusa-slicer
 qml-module-qtgraphicaleffects
 qml-module-qtquick-xmllistmodel
 qml6-module-org-kde-breeze
@@ -210,6 +211,7 @@ testdisk
 trace-cmd
 traceroute
 tree
+tuxtype
 udisks2
 ufw
 update-manager-core
