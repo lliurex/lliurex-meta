@@ -1,3 +1,9 @@
+lliurex-meta (25.2.3.31) noble; urgency=medium
+
+  * Add educational metapackages
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 31 Mar 2025 16:05:31 +0200
+
 lliurex-meta (25.2.2.25) noble; urgency=medium
 
   * Disable discover notification 
