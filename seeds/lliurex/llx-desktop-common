@@ -56,10 +56,12 @@
 ## * (scratch-desktop) 
 ## * (geogebra)
 ## * (zero-lliurex-openboard)
-## * (handbreak)
-## * (prusaslicer)
 ## * (zero-lliurex-arasuite)
-
+## * (zero-lliurex-nerd-dictation)
+ * (handbreak)
+ * (prusa-slicer)
+ * (tuxtype)
+ * (minuet)
 == Others apps == 
 
  * zenity
@@ -105,6 +107,9 @@
  * (taskscheduler)
  * runomatic
  * store
+ * accesshelper
+ * simplayer
+ * simplayer-flash-activities
 
 == Fonts ==
 
