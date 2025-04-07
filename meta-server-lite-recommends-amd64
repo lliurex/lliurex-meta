@@ -150,6 +150,7 @@ lliurex-rsyslog-filters
 lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
+lliurex-store
 lliurex-unattended-upgrades
 llx-edition-studio
 llx-network-config
@@ -298,6 +299,7 @@ zero-lliurex-anything-llm
 zero-lliurex-audacity-ai
 zero-lliurex-autofirma
 zero-lliurex-aws-cli
+zero-lliurex-azure-cli
 zero-lliurex-blockly-arduino
 zero-lliurex-calibre
 zero-lliurex-cdc
@@ -357,6 +359,7 @@ zero-lliurex-symfony
 zero-lliurex-teams
 zero-lliurex-technology
 zero-lliurex-thonny
+zero-lliurex-upscayl
 zero-lliurex-virtualizer
 zero-lliurex-webex
 zero-lliurex-wine64

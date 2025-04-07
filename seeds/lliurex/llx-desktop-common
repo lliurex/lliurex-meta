@@ -220,6 +220,8 @@ libreoffice-gtk3
  * (zero-lliurex-gimagereader)
  * (zero-lliurex-audacity-ai)
  * (zero-lliurex-mkvtoolnix)
+ * (zero-lliurex-upscayl)
+ * (zero-lliurex-azure-cli)
 
 == Fonts ==
 

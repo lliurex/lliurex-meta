@@ -1,3 +1,9 @@
+lliurex-meta (23.25.04.07) jammy; urgency=medium
+
+  * zero-lliurex-upscayl and zero-lliurex-azure-cli to desktop 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 07 Apr 2025 10:45:25 +0200
+
 lliurex-meta (23.25.03.24) jammy; urgency=medium
 
   * +zero-lliurex-mkvtoolnix to desktop 
