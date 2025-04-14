@@ -34,13 +34,9 @@
 
  * openjdk-8-jre
  * openjdk-11-jre
- * openjdk-13-jre
- * openjdk-14-jre
- * openjdk-16-jre
 
 = Apps = 
 
- * llixhoot
  * ocrfeeder
  * tesseract-ocr
  * tesseract-ocr-spa
@@ -63,8 +59,6 @@
  * mkchromecast
  * kolourpaint
  * wmctrl
- * zero-lliurex-dni
- * pencil
  * obs-studio
  * gnome-orca
  * stellarium
@@ -80,8 +74,6 @@ tuxboot
 
 == Special services ==
 
- * squid-ssl
- * zero-lliurex-transparent-proxy
  * qemu-guest-agent
  * lliurex-analytics-server
 
@@ -92,17 +84,14 @@ tuxboot
 == Apps == 
 
  * freecad
- * bluegriffon
  * bluefish
  * byob-snap
  * ardublock
- * lliurex-abies2pmb
  * casimir-editor
  * class-jam
  * synfigstudio
  * thonny
  * robolliurex
- * telegram-desktop
  * ainur
  * chromium-browser
  * chromium-browser-l10n
@@ -138,13 +127,10 @@ tuxboot
  * libva-wayland2
  * python-zeroconf
  * python-pyqt5
- * youtube-dl
  * libguess1
  * mpv
  * rtmpdump
  * mixxx
- * linux-signed-generic-hwe-20.04
- * linux-signed-generic-hwe-20.04-edge
  * pinentry-qt
  * kdelibs5-dev
  * libxmlrpc-c++8-dev

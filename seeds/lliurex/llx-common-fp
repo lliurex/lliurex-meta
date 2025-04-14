@@ -1,9 +1,8 @@
-## * (zero-fp-administrativo)
-## * (zero-lliurex-fritzing)
-## * (zero-lliurex-blockly-arduino)
+ * (zero-fp-administrativo) # action : USER=root epic -u install zero-fp-administrativo.epi keme 
+ * (zero-lliurex-fritzing) # action : USER=root epic -u install fritzing.epi
+ # * (zero-lliurex-blockly-arduino) # action: USER=root -u epic install blockly-arduino-plugin.epi
  * (librecad)
  * (freecad)
- * (arduino-ide)
  * (inkscape)
  * (codium)
  * (avogadro)

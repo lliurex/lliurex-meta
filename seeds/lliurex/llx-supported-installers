@@ -4,14 +4,6 @@ This seed is needed to add depends into pool from zero-installers
 
  * oracle-java11-installer
 
-= OpenMeetings = 
-
- * lliurex-openmeetings
-
-= Moodle =
-
- * lliurex-moodle
-
 = Pyromaths = 
 
  * (pyromaths)
@@ -21,11 +13,7 @@ This seed is needed to add depends into pool from zero-installers
  * (gummi)
  * (texlive-lang-spanish)
 
-= PMB = 
- * lliurex-pmb
-
 = Slideshow =
- * lliurex-news-setup
  * lliurex-news-slideshow
 
 = AdobeAir =
@@ -55,7 +43,6 @@ This seed is needed to add depends into pool from zero-installers
 = CDC =
 
  * cdc 
- * cdc-dev
  * cdc-mapper
  * cdc-mapper-config-client
  * cdc-mapper-config-localhost

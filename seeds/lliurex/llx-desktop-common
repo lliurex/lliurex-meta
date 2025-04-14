@@ -53,15 +53,16 @@
  * freeplane
  * (minuet)
  * (krita)
-## * (scratch-desktop) 
-## * (geogebra)
-## * (zero-lliurex-openboard)
-## * (zero-lliurex-arasuite)
-## * (zero-lliurex-nerd-dictation)
+ * (scratch-desktop) 
+ * (geogebra)
+ * (zero-lliurex-openboard) # action : USER=root epic -u install openboard.epi 
+ * (zero-lliurex-arasuite) # action : USER=root epic -u install arasuite.epi  
+ * (zero-lliurex-nerd-dictation) # action : USER=root epic -u install nerd-dictation.epi
  * (handbreak)
  * (prusa-slicer)
  * (tuxtype)
  * (minuet)
+
 == Others apps == 
 
  * zenity
@@ -85,7 +86,6 @@
  * (dpkgunlocker-gui)
  * (lliurex-desktops-keeper)
  * zero-center
- * python3-lliurex-store
  * (lliurex-store)
  * (lliurex-java-panel)
  * (lliurex-firefox-settings)
@@ -106,8 +106,6 @@
  * home-eraser-gui
  * (taskscheduler)
  * runomatic
- * store
- * accesshelper
  * simplayer
  * simplayer-flash-activities
 
@@ -131,21 +129,18 @@
 
 == Languages ==
 
- * language-pack-lliurex-valencian
  * Official-Langs: en es
  * language-pack-gnome-${Official-Langs}-base
-
- * lliurex-fix-translations-kde
 
  * language-pack-gnome-en
  * language-pack-gnome-es
  * (language-pack-gnome-ca) 
  * (language-pack-ca) 
- * (lliurex-langpack-kde)
 
  * (firefox-locale-es) 
  * (firefox-locale-ca) 
  * (firefox-locale-ca-va)
+ * (firefox-l10n-ca-valencia)
 
  * libreoffice-l10n-es 
  * libreoffice-l10n-ca 

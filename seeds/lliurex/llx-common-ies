@@ -1,9 +1,9 @@
-## * (zero-lliurex-fritzing)
-## * (zero-lliurex-blockly-arduino)
+ * (zero-lliurex-fritzing) # action : USER=root epic -u install fritzing.epi
+ # * (zero-lliurex-blockly-arduino) # action : USER=root epic -u install blockly-arduino-plugin.epi
  * (blender)
  * (librecad)
  * (freecad)
- * (arduino-ide)
+ * (arduino)
  * (inkscape)
  * (codium)
  * (kalgebra)

@@ -3,12 +3,8 @@
  * zero-lliurex-dvdcss # 20M
  * zero-lliurex-sketchup [i386] # 350M (amd64 750M) arrastra el wine
  * zero-lliurex-gearth  # Comentar para hacer iso
- * zero-lliurex-adobereader # 2M
  * zero-lliurex-flavours # 2M
  * (bell-scheduler-zerocenter-files)
- * (zero-lliurex-skype)
- * (zero-lliurex-spotify)
- * (zero-lliurex-dropbox-installer)
  * (zero-lliurex-wine64)
  * (zero-lliurex-midicss)
  * (zero-lliurex-chromecast)
@@ -16,7 +12,6 @@
  * (zero-lliurex-ocrfeeder)
  * (zero-lliurex-obs-studio)
  * (zero-lliurex-autofirma)
- * (zero-lliurex-dni)
  * (zero-lliurex-krita)
  * (zero-lliurex-smart)
  * (zero-lliurex-mixxx)
@@ -38,7 +33,6 @@
  * (zero-fp-electronica)
  * (zero-lliurex-musica)
  * (zero-lliurex-photo)
- * (zero-lliurex-webex)
  * (zero-installer-util-classroom)
  * (zero-installer-util-media)
  * (zero-installer-educational)
@@ -66,7 +60,6 @@
  * zero-lliurex-fonts
  * zero-lliurex-hotpotatoes
  * zero-lliurex-jclic-biblio
- * zero-lliurex-cmaptools
  * (zero-lliurex-arasuite)
  * (zero-lliurex-gearth)
  * (zero-lliurex-s4a)
