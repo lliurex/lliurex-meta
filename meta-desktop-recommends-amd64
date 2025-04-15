@@ -33,6 +33,7 @@ extundelete
 ffmpeg
 ffmpegthumbs
 firefox
+firefox-l10n-ca-valencia
 firefox-locale-ca
 firefox-locale-es
 flatpak-kcm
@@ -45,6 +46,7 @@ frameworkintegration
 friendly-recovery
 fwupd
 fwupd-signed
+geogebra
 gettext
 gimp-plugin-registry
 gpm
@@ -120,6 +122,7 @@ lliurex-on-fire
 lliurex-perfilreset
 lliurex-polkit-settings
 lliurex-ssh-login
+lliurex-store
 lliurex-unattended-upgrades
 llx-edition-studio
 lshw
@@ -199,6 +202,7 @@ qt6-image-formats-plugins
 qt6-virtualkeyboard
 repoman
 rsyslog
+scratch-desktop
 snapd
 software-properties-common
 swapspace
@@ -238,6 +242,7 @@ zero-installer-playful
 zero-installer-util-classroom
 zero-installer-util-media
 zero-lliurex-3d-print
+zero-lliurex-accessibility
 zero-lliurex-anaconda
 zero-lliurex-anydesk
 zero-lliurex-arasuite
@@ -258,6 +263,7 @@ zero-lliurex-lumi
 zero-lliurex-midicss
 zero-lliurex-mixxx
 zero-lliurex-musica
+zero-lliurex-nerd-dictation
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
 zero-lliurex-onedrive
