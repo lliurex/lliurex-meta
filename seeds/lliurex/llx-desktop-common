@@ -4,7 +4,6 @@
  * hodor
 
 == Environment == 
-
  * (lliurex-mime-settings)
  * (lliurex-polkit-settings)
  * (ibus-m17n)
