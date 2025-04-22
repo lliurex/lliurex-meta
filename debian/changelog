@@ -1,3 +1,9 @@
+lliurex-meta (25.2.4.22) noble; urgency=medium
+
+  * Remove plasma-welcome
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 22 Apr 2025 09:59:36 +0200
+
 lliurex-meta (25.2.4.17.1) noble; urgency=medium
 
   * Regenerate meta
