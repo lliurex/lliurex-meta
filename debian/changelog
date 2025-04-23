@@ -1,3 +1,9 @@
+lliurex-meta (25.2.4.23) noble; urgency=medium
+
+  * Remove kernels 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 23 Apr 2025 16:45:16 +0200
+
 lliurex-meta (25.2.4.22) noble; urgency=medium
 
   * Remove plasma-welcome
