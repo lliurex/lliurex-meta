@@ -27,14 +27,14 @@
  * %linux-signed-intel-iotg
  * %linux-restricted-modules-intel-iotg
  * %linux-restricted-signatures-intel-iotg
- * /^linux-image-[0-9]+/
+ * /^linux-image-[0-9]+.*(?<!oem)(?<!ibm)(?<!azure)(?<!azure-fde)(?<!nvidia)(?<!gcp)(?<!gkeop)(?<!gke)(?<!oracle)(?<!aws)(?<!nvidia-lowlatency)(?<!gke)(?<!intel)$/
 # * /^linux-image-unsigned-[0-9]+/
- * /^linux-headers-[0-9]+/
+ * /^linux-headers-[0-9]+.*(?<!oem)(?<!ibm)(?<!azure)(?<!azure-fde)(?<!nvidia)(?<!gcp)(?<!gkeop)(?<!gke)(?<!oracle)(?<!aws)(?<!nvidia-lowlatency)(?<!gke)(?<!intel)$/
 # * /^linux-buildinfo-[0-9]+/
- * /^linux-tools-[0-9]+/
+ * /^linux-tools-[0-9]+.*(?<!oem)(?<!ibm)(?<!azure)(?<!azure-fde)(?<!nvidia)(?<!gcp)(?<!gkeop)(?<!gke)(?<!oracle)(?<!aws)(?<!nvidia-lowlatency)(?<!gke)(?<!intel)$/
 # * /^linux-cloud-tools-[0-9]+/
 # * /^linux-modules-nvidia-[0-9]+/
- * /^linux-modules-extra-[0-9]+/
+ * /^linux-modules-extra-[0-9]+.*(?<!oem)(?<!ibm)(?<!azure)(?<!azure-fde)(?<!nvidia)(?<!gcp)(?<!gkeop)(?<!gke)(?<!oracle)(?<!aws)(?<!nvidia-lowlatency)(?<!gke)(?<!intel)$/
 # * /^linux-source-[0-9]+/
  * kexec-tools
  * thermald
