@@ -1,3 +1,9 @@
+lliurex-meta (25.2.4.30) noble; urgency=medium
+
+  * Add chromium plugins
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 30 Apr 2025 18:46:10 +0200
+
 lliurex-meta (25.2.4.25) noble; urgency=medium
 
   * Regenerate meta
