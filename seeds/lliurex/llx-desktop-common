@@ -17,7 +17,7 @@
  * llx-pam-configs
  * lliurex-robotics
  * lliurex-disable-discover-indicator 
-
+ * (lliurex-hot-fixes)
 == Filesystem == 
 
  * xdg-user-dirs 
@@ -90,6 +90,7 @@
  * (lliurex-java-panel)
  * (lliurex-firefox-settings)
  * (lliurex-on-fire)
+ * (lliurex-on-chrome)
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
  * (lliurex-desktop-layout-selector)
