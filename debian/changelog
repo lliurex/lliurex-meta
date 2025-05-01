@@ -1,3 +1,9 @@
+lliurex-meta (25.2.5.1.2) noble; urgency=medium
+
+  * Add dconf 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 01 May 2025 10:13:00 +0200
+
 lliurex-meta (25.2.5.1) noble; urgency=medium
 
   *  Remove ibus
