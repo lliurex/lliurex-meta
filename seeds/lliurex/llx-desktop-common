@@ -6,7 +6,7 @@
 == Environment == 
  * (lliurex-mime-settings)
  * (lliurex-polkit-settings)
- * (ibus-m17n)
+# * (ibus-m17n)
  * libwmf-bin 
  * (network-manager-pptp)
  * (user-setup) # ????
