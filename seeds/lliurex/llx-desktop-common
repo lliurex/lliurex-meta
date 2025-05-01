@@ -7,6 +7,7 @@
  * (lliurex-mime-settings)
  * (lliurex-polkit-settings)
 # * (ibus-m17n)
+ * (dconf-cli)
  * libwmf-bin 
  * (network-manager-pptp)
  * (user-setup) # ????

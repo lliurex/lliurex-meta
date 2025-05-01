@@ -20,6 +20,7 @@ cups-bsd
 cups-client
 cups-filters
 curl
+dconf-cli
 desktop-file-utils
 dmraid
 dolphin
