@@ -116,6 +116,7 @@ lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults
 lliurex-disable-discover-indicator
+lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common

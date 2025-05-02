@@ -1,3 +1,9 @@
+lliurex-meta (25.2.5.2.1) noble; urgency=medium
+
+  * Add chromium translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 02 May 2025 09:48:03 +0200
+
 lliurex-meta (25.2.5.1.2) noble; urgency=medium
 
   * Add dconf 
