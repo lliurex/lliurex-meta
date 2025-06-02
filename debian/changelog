@@ -1,3 +1,9 @@
+lliurex-meta (23.25.06.02.01) jammy; urgency=medium
+
+  * Fix seeds
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 02 Jun 2025 18:42:09 +0200
+
 lliurex-meta (23.25.06.02) jammy; urgency=medium
 
   * Add gva, lab-pro and lab-alu metapackages

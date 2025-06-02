@@ -35,6 +35,7 @@ ed
 eject
 enmarcado-kde-servicemenu
 epi-gtk
+epoptes-client
 ffconversor-kde-servicemenu
 file
 filezilla
@@ -156,8 +157,10 @@ media-types
 mount
 mypaint
 n4d
+n4d-epoptes-desktop
 n4d-lliurex-base
 n4d-shutdowner-server
+natfree-lab-alu
 neon-hardware-integration
 neon-keyring
 neon-settings-2
