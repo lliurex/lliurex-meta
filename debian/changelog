@@ -1,3 +1,9 @@
+lliurex-meta (23.25.06.02) jammy; urgency=medium
+
+  * Add gva, lab-pro and lab-alu metapackages
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 02 Jun 2025 18:10:13 +0200
+
 lliurex-meta (23.25.04.08) jammy; urgency=medium
 
   * removing lliurex-store for now 
