@@ -1,3 +1,9 @@
+lliurex-meta (23.25.06.25) jammy; urgency=medium
+
+  * Add conflict on lliurex-meta-lab-alu
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 23 Jun 2025 15:10:30 +0200
+
 lliurex-meta (23.25.06.18) jammy; urgency=medium
 
   * Add anydesk, chromium and teams

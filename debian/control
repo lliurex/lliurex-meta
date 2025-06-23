@@ -150,6 +150,7 @@ Architecture: any-amd64
 Lliurex-Flavours: edu, desktop, lab, alu
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Conflicts: natfree-lab-pro
 Description: MetaPackage of Lliurex desktop on students computers on laboratory
  List of all packages for lliurex
 
