@@ -33,7 +33,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-gva-adi-ceip
 Architecture: any-amd64
-Lliurex-Flavours: adi, ceip, gva
+Lliurex-Flavours: gva-adi-ceip
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -41,7 +41,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-gva-adi-fp
 Architecture: any-amd64
-Lliurex-Flavours: adi, fp, gva
+Lliurex-Flavours: gva-adi-fp
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -49,7 +49,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-gva-adi-ies
 Architecture: any-amd64
-Lliurex-Flavours: adi, ies, gva
+Lliurex-Flavours: gva-adi-ies
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -57,7 +57,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-gva-agora
 Architecture: any-amd64
-Lliurex-Flavours: adi, agora, gva
+Lliurex-Flavours: gva-agora
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -65,7 +65,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-gva-colab
 Architecture: any-amd64
-Lliurex-Flavours: adi, colab, gva
+Lliurex-Flavours: gva-colab
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -73,7 +73,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-gva-desktop-ceip
 Architecture: any-amd64
-Lliurex-Flavours: desktop, ceip, gva
+Lliurex-Flavours: gva-desktop-ceip
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -97,7 +97,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-adi-ceip
 Architecture: any-amd64
-Lliurex-Flavours: adi, ceip
+Lliurex-Flavours: adi-ceip
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -105,7 +105,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-adi-fp
 Architecture: any-amd64
-Lliurex-Flavours: adi, fp 
+Lliurex-Flavours: adi-fp 
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -113,7 +113,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-adi-ies
 Architecture: any-amd64
-Lliurex-Flavours: adi, ies 
+Lliurex-Flavours: adi-ies 
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -121,7 +121,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-desktop-ceip
 Architecture: any-amd64
-Lliurex-Flavours: desktop, ceip
+Lliurex-Flavours: desktop-ceip
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -129,7 +129,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-desktop-fp
 Architecture: any-amd64
-Lliurex-Flavours: desktop, fp 
+Lliurex-Flavours: desktop-fp 
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
@@ -137,7 +137,7 @@ Description: MetaPackage of Lliurex Adi ceip for gva
 
 Package: lliurex-meta-desktop-ies
 Architecture: any-amd64
-Lliurex-Flavours: desktop,ies 
+Lliurex-Flavours: desktop-ies 
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex Adi ceip for gva
