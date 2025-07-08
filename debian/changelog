@@ -1,3 +1,9 @@
+lliurex-meta (23.25.07.08) jammy; urgency=medium
+
+  * zero-lliurex-photoglimmer and zero-lliurex-normcap 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 08 Jul 2025 13:08:49 +0200
+
 lliurex-meta (23.25.04.08) jammy; urgency=medium
 
   * removing lliurex-store for now 
