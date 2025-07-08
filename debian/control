@@ -129,3 +129,29 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex desktop classroom
  List of all packages for lliurex
 
+Package: lliurex-meta-gva
+Architecture: any-amd64
+Lliurex-Flavours: edu, desktop, gva
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage with gva configuration packages  
+ List of all packages for lliurex
+
+Package: lliurex-meta-lab-pro
+Architecture: any-amd64
+Lliurex-Flavours: edu, desktop, lab, pro
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex desktop on teachers computers on laboratory
+ List of all packages for lliurex
+
+Package: lliurex-meta-lab-alu
+Architecture: any-amd64
+Lliurex-Flavours: edu, desktop, lab, alu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Conflicts: natfree-lab-pro
+Description: MetaPackage of Lliurex desktop on students computers on laboratory
+ List of all packages for lliurex
+
+
