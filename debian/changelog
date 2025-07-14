@@ -1,3 +1,9 @@
+lliurex-meta (23.25.07.14) jammy; urgency=medium
+
+  * Add inventory to gva 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 14 Jul 2025 15:18:09 +0200
+
 lliurex-meta (23.25.07.08) jammy; urgency=medium
 
   * zero-lliurex-photoglimmer and zero-lliurex-normcap 
