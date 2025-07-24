@@ -1,3 +1,9 @@
+lliurex-meta (25.2.7.23) noble; urgency=medium
+
+  * regenerate meta
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 23 Jul 2025 11:20:01 +0200
+
 lliurex-meta (25.2.7.7) noble; urgency=medium
 
   * Rename tags on meta
