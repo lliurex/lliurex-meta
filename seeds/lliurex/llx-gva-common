@@ -1,15 +1,12 @@
 == Services ==
  * openssh-server
 
-=== CDC ===
+=== Federation ===
 
- * (zero-lliurex-cdc)
- * (cdc)
- * (cdc-mapper)
- * (libnss-lliurex)
- * (cdc-mapper-config-localhost)
+ * llxfederation
+ * lliurex-gva-gate
 
-== LliureX Apps == 
+=== LliureX Apps ===
 
  * lliurex-wifi-gva-control
  * llx-alumnat-wifi
