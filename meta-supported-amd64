@@ -69,6 +69,7 @@ cinder-scheduler
 cinder-volume
 clamav
 clamav-daemon
+class-jam
 cloud-guest-utils
 cloud-initramfs-rooturl
 cloud-utils
@@ -1442,6 +1443,7 @@ pptp-linux
 prips
 procmail
 procps
+promethean-compat-libs
 psmisc
 pv
 pxelinux

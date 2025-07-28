@@ -38,6 +38,7 @@ ffmpegthumbs
 firefox
 firefox-l10n-ca-valencia
 firefox-locale-ca
+firefox-locale-ca-va
 firefox-locale-es
 flatpak-kcm
 fonts-liberation
@@ -273,7 +274,6 @@ zero-lliurex-musica
 zero-lliurex-nerd-dictation
 zero-lliurex-obs-studio
 zero-lliurex-ocrfeeder
-zero-lliurex-onedrive
 zero-lliurex-openboard
 zero-lliurex-photo
 zero-lliurex-pyromaths
