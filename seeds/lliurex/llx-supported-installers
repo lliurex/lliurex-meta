@@ -13,9 +13,6 @@ This seed is needed to add depends into pool from zero-installers
  * (gummi)
  * (texlive-lang-spanish)
 
-= Slideshow =
- * lliurex-news-slideshow
-
 = AdobeAir =
  * libnspr4
 

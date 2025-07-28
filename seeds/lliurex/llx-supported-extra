@@ -26,7 +26,6 @@
 = LTSP = 
 
  * pxelinux
- * lmd-client
  * jwm
  * nbd-client
 
@@ -75,7 +74,6 @@ tuxboot
 == Special services ==
 
  * qemu-guest-agent
- * lliurex-analytics-server
 
 == Mysql ==
 
@@ -92,22 +90,16 @@ tuxboot
  * synfigstudio
  * thonny
  * robolliurex
- * ainur
  * chromium-browser
  * chromium-browser-l10n
  * pinentry-tty
  * scratch-desktop
-
-== LTSP ==
-
- * home-linker-ldm-client
 
 == Hardware ==
 
  * mtp-tools 
  * jmtpfs
  * lsb
- * lliurex-smart-ltsp-server
 
 == Libs ==
 
@@ -141,14 +133,6 @@ tuxboot
  * libxml-xpath-perl
  * python3-wxgtk4.0
  * libgconf-2-4
-
-== PIME ==
-
- * pbis-open-dev
-
-== DISABLING PACKAGES ==
-
- * disable-epoptes-client
 
 == HPLIP ==
 
