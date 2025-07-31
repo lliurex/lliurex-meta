@@ -6,7 +6,6 @@
  * (dmraid)
  * (exfat-fuse)
  * (exfatprogs)
- * (lliurex-initramfs-options)
  * (ncdu)
 
 == Basic services ==
@@ -14,7 +13,6 @@
  * lliurex-apt-divert
  * n4d
  * n4d-lliurex-base
- * n4d-remote-gui-plugin
  * lliurex-preseed-common
  * (lliurex-ssh-login)
  * dr-valentin
@@ -22,7 +20,6 @@
  * lliurex-base-files
  * (whois)
  * lliurex-keyring
- * (lliurex-journald-settings)
  * lliurex-common-utils 
  * lliurex-extra-configs 
  * (swapspace)

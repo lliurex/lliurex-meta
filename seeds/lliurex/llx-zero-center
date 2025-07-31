@@ -12,7 +12,6 @@
  * (zero-lliurex-obs-studio)
  * (zero-lliurex-autofirma)
  * (zero-lliurex-krita)
- * (zero-lliurex-smart)
  * (zero-lliurex-mixxx)
  * (zero-lliurex-inventory)
  * (zero-lliurex-fritzing)
@@ -52,7 +51,6 @@
  * zero-lliurex-technology
  * zero-lliurex-promethean
  * zero-lliurex-mixxx
- * zero-lliurex-smart
  * (admin-center-zerolink)
  * zero-lliurex-fritzing
  * zero-lliurex-fonts
