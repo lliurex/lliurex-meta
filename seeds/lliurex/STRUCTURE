@@ -27,8 +27,9 @@ llx-server-lite: llx-lite-common
 llx-client-lite: llx-lite-common
 llx-desktop-lite: llx-lite-common
 llx-touch:
-llx-lab-pro:
-llx-lab-alu:
+llx-lab-common:
+llx-lab-pro: llx-lab-common
+llx-lab-alu: llx-lab-common
 llx-gva:
 llx-desktop-classroom:
 meta-live: neon-live
