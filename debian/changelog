@@ -1,3 +1,9 @@
+lliurex-meta (23.25.09.03) jammy; urgency=medium
+
+  * Add lliurex-shutdowner to lab 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 03 Sep 2025 10:10:07 +0200
+
 lliurex-meta (23.25.07.21) jammy; urgency=medium
 
   * add n4d-iptablesmanager to lab-alu 
