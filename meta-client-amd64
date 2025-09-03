@@ -16,7 +16,6 @@ blender
 breeze
 busybox-static
 ca-certificates
-ca-certificates
 cdc-for-clients
 cdc-mapper-config-client
 cifs-utils
@@ -65,7 +64,6 @@ fonts-symbola
 fonts-tomsontalks
 fonts-unfonts-core
 foomatic-db-compressed-ppds
-foomatic-db-compressed-ppds
 ftp
 gdebi
 ghostscript-x
@@ -87,7 +85,6 @@ iproute2
 iputils-ping
 ipxe
 isc-dhcp-client
-jclic
 jclic
 k3b
 kamoso
@@ -197,7 +194,6 @@ nfs-common
 nftables
 okular
 openprinting-ppds
-openprinting-ppds
 openssh-server
 oxygen-sounds
 p7zip-full
@@ -253,10 +249,7 @@ vlc
 wget
 whiptail
 wireless-tools
-wireless-tools
 wpasupplicant
-wpasupplicant
-xdg-user-dirs
 xdg-user-dirs
 xkb-data
 xorg
