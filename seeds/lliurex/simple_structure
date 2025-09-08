@@ -1,0 +1,40 @@
+llx-print-server:
+llx-base: llx-print-server
+llx-minimal-kde-desktop:
+llx-zero-center:
+llx-desktop-common: llx-minimal-kde-desktop llx-base desktop-common llx-zero-center
+llx-gva-common:
+llx-gva-desktop:
+llx-gva-adi:
+llx-common-ceip:
+llx-common-ies:
+llx-common-fp:
+llx-common-adi:
+llx-adi-ceip:
+llx-adi-ies:
+llx-adi-fp:
+llx-desktop-ceip:
+llx-desktop-ies:
+llx-desktop-fp:
+llx-supported-extra:
+llx-supported-installers:
+llx-live-supported:
+meta-gva: llx-gva-common
+meta-adi: neon-desktop llx-desktop-common llx-common-adi 
+meta-desktop: neon-desktop llx-desktop-common  
+meta-gva-adi-ceip: llx-common-adi llx-common-ceip llx-adi-ceip llx-gva-common
+meta-gva-adi-fp: llx-common-adi llx-common-fp llx-adi-fp llx-gva-common
+meta-gva-adi-ies: llx-common-adi llx-common-ies llx-gva-common llx-adi-ies
+meta-gva-agora: 
+meta-gva-colab:
+meta-gva-desktop-ceip: llx-common-ceip llx-desktop-ceip llx-gva-common
+meta-gva-desktop-fp: llx-common-fp llx-desktop-fp llx-gva-common
+meta-gva-desktop-ies: llx-common-ies llx-desktop-ies llx-gva-common
+meta-adi-ceip: llx-common-adi llx-common-ceip llx-adi-ceip
+meta-adi-fp: llx-common-adi llx-common-fp llx-adi-fp
+meta-adi-ies: llx-common-adi llx-common-ies llx-adi-ies
+meta-desktop-ceip: llx-common-ceip llx-desktop-ceip
+meta-desktop-fp: llx-common-fp llx-desktop-fp
+meta-desktop-ies: llx-common-ies llx-desktop-ies
+meta-live: neon-live
+meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
