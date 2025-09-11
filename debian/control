@@ -60,6 +60,7 @@ Architecture: any-amd64
 Lliurex-Flavours: ies 
 Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
+Conflict: lliurex-meta-desktop-ies (< 25.2.9.11 )
 Description: MetaPackage of Lliurex ies
  List of all packages for lliurex
 
@@ -68,6 +69,7 @@ Architecture: any-amd64
 Lliurex-Flavours: ceip
 Depends: ${shlibs:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Conflict: lliurex-meta-desktop-ceip (< 25.2.9.11 )
 Description: MetaPackage of Lliurex ceip
  List of all packages for lliurex
 
@@ -76,6 +78,7 @@ Architecture: any-amd64
 Lliurex-Flavours: fp
 Depends: ${shlibs:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Conflict: lliurex-meta-desktop-fp (< 25.2.9.11 )
 Description: MetaPackage of Lliurex fp
  List of all packages for lliurex
 
@@ -99,7 +102,6 @@ Package: lliurex-meta-desktop-ceip
 Architecture: any-amd64
 Lliurex-Flavours: desktop-ceip
 Depends: ${shlibs:Depends}, lliurex-meta-ceip
-Conflict: lliurex-meta-desktop-ceip (< 25.2.9.11 )
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex
 
@@ -107,7 +109,6 @@ Package: lliurex-meta-desktop-ies
 Architecture: any-amd64
 Lliurex-Flavours: desktop-ies 
 Depends: ${shlibs:Depends}, lliurex-meta-ies 
-Conflict: lliurex-meta-desktop-ies (< 25.2.9.11 )
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex
 
@@ -115,7 +116,6 @@ Package: lliurex-meta-desktop-fp
 Architecture: any-amd64
 Lliurex-Flavours: desktop-fp 
 Depends: ${shlibs:Depends}, lliurex-meta-fp
-Conflict: lliurex-meta-desktop-fp (< 25.2.9.11 )
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex
 
