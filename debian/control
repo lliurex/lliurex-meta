@@ -12,15 +12,7 @@ Architecture: any-amd64
 Lliurex-Flavours: gva
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-adi
-Architecture: any-amd64
-Lliurex-Flavours: adi
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex for gva
  List of all packages for lliurex
 
 Package: lliurex-meta-desktop
@@ -28,119 +20,63 @@ Architecture: any-amd64
 Lliurex-Flavours: desktop
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex desktop
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-adi-ceip
+Package: lliurex-meta-adi
 Architecture: any-amd64
-Lliurex-Flavours: gva-adi-ceip
+Lliurex-Flavours: adi
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex Adi
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-adi-fp
+Package: lliurex-meta-lab-alu
 Architecture: any-amd64
-Lliurex-Flavours: gva-adi-fp
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Lliurex-Flavours: lab-alu 
+Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex to student laboratory machine
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-adi-ies
+Package: lliurex-meta-lab-adi
 Architecture: any-amd64
-Lliurex-Flavours: gva-adi-ies
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Lliurex-Flavours: lab-adi 
+Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex to adi laboratory machine
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-agora
+Package: lliurex-meta-wifi-alu
 Architecture: any-amd64
-Lliurex-Flavours: gva-agora
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Lliurex-Flavours: wifi-alu
+Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex ceip
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-colab
+Package: lliurex-meta-ies
 Architecture: any-amd64
-Lliurex-Flavours: gva-colab
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Lliurex-Flavours: ies 
+Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex ies
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-desktop-ceip
+Package: lliurex-meta-ceip
 Architecture: any-amd64
-Lliurex-Flavours: gva-desktop-ceip
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Lliurex-Flavours: ceip
+Depends: ${shlibs:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex ceip
  List of all packages for lliurex
 
-Package: lliurex-meta-gva-desktop-fp
+Package: lliurex-meta-fp
 Architecture: any-amd64
-Lliurex-Flavours: desktop, fp, gva
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Lliurex-Flavours: fp
+Depends: ${shlibs:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-gva-desktop-ies
-Architecture: any-amd64
-Lliurex-Flavours: desktop, ies, gva
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-adi-ceip
-Architecture: any-amd64
-Lliurex-Flavours: adi-ceip
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-adi-fp
-Architecture: any-amd64
-Lliurex-Flavours: adi-fp 
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-adi-ies
-Architecture: any-amd64
-Lliurex-Flavours: adi-ies 
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-desktop-ceip
-Architecture: any-amd64
-Lliurex-Flavours: desktop-ceip
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-desktop-fp
-Architecture: any-amd64
-Lliurex-Flavours: desktop-fp 
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
- List of all packages for lliurex
-
-Package: lliurex-meta-desktop-ies
-Architecture: any-amd64
-Lliurex-Flavours: desktop-ies 
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex fp
  List of all packages for lliurex
 
 Package: lliurex-meta-live
@@ -148,7 +84,7 @@ Architecture: any-amd64
 Lliurex-Flavours: live
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: MetaPackage of Lliurex Adi ceip for gva
+Description: MetaPackage of Lliurex live 
  List of all packages for lliurex
 
 Package: lliurex-meta-supported
@@ -156,6 +92,28 @@ Architecture: any-amd64
 Lliurex-Flavours: supported
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Description: MetaPackage of supported packages of Lliurex 
+ List of all packages for lliurex
+
+Package: lliurex-meta-desktop-ceip
+Architecture: any-amd64
+Lliurex-Flavours: desktop-ceip
+Depends: ${shlibs:Depends}, lliurex-meta-ceip
+Description: MetaPackage of Lliurex Adi ceip for gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-desktop-ies
+Architecture: any-amd64
+Lliurex-Flavours: desktop-ies 
+Depends: ${shlibs:Depends}, lliurex-meta-ies 
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex Adi ceip for gva
+ List of all packages for lliurex
+
+Package: lliurex-meta-desktop-fp
+Architecture: any-amd64
+Lliurex-Flavours: desktop-fp 
+Depends: ${shlibs:Depends}, lliurex-meta-fp
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex
 
