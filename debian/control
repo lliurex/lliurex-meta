@@ -61,6 +61,7 @@ Lliurex-Flavours: ies
 Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
 Conflict: lliurex-meta-desktop-ies (< 25.2.9.11 )
+Break: lliurex-meta-desktop-ies
 Description: MetaPackage of Lliurex ies
  List of all packages for lliurex
 
@@ -70,6 +71,7 @@ Lliurex-Flavours: ceip
 Depends: ${shlibs:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Conflict: lliurex-meta-desktop-ceip (< 25.2.9.11 )
+Break: lliurex-meta-desktop-ceip 
 Description: MetaPackage of Lliurex ceip
  List of all packages for lliurex
 
@@ -79,6 +81,7 @@ Lliurex-Flavours: fp
 Depends: ${shlibs:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Conflict: lliurex-meta-desktop-fp (< 25.2.9.11 )
+Break: lliurex-meta-desktop-fp
 Description: MetaPackage of Lliurex fp
  List of all packages for lliurex
 
