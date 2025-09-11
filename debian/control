@@ -100,21 +100,18 @@ Description: MetaPackage of supported packages of Lliurex
 
 Package: lliurex-meta-desktop-ceip
 Architecture: any-amd64
-Lliurex-Flavours: desktop-ceip
 Depends: ${shlibs:Depends}, lliurex-meta-ceip
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex
 
 Package: lliurex-meta-desktop-ies
 Architecture: any-amd64
-Lliurex-Flavours: desktop-ies 
 Depends: ${shlibs:Depends}, lliurex-meta-ies 
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex
 
 Package: lliurex-meta-desktop-fp
 Architecture: any-amd64
-Lliurex-Flavours: desktop-fp 
 Depends: ${shlibs:Depends}, lliurex-meta-fp
 Description: MetaPackage of Lliurex Adi ceip for gva
  List of all packages for lliurex

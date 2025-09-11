@@ -1,3 +1,9 @@
+lliurex-meta (25.2.9.12.1) noble; urgency=medium
+
+  * Remove tags for old meta
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 11 Sep 2025 12:51:58 +0200
+
 lliurex-meta (25.2.9.11) noble; urgency=medium
 
   * Remove olds metas
