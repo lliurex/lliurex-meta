@@ -4,8 +4,8 @@ meta-desktop lliurex-meta-desktop
 meta-ceip lliurex-meta-ceip
 meta-ies lliurex-meta-ies
 meta-fp lliurex-meta-fp
+meta-wifi-alu lliurex-meta-wifi-alu
 meta-lab-alu lliurex-meta-lab-alu
 meta-lab-adi lliurex-meta-lab-adi
-meta-wifi-alu lliurex-meta-wifi-alu
 meta-live lliurex-meta-live
 meta-supported lliurex-meta-supported
