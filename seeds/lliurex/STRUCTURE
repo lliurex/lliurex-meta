@@ -20,7 +20,7 @@ meta-ceip: llx-common-ceip
 meta-ies: llx-common-ies
 meta-fp: llx-common-fp
 meta-gva: llx-gva-common
-meta-lab-adi:
+meta-lab-pro:
 meta-lab-alu:
 meta-wifi-alu:
 meta-live: neon-live

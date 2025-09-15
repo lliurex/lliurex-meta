@@ -39,9 +39,9 @@ Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex to student laboratory machine
  List of all packages for lliurex
 
-Package: lliurex-meta-lab-adi
+Package: lliurex-meta-lab-pro
 Architecture: any-amd64
-Lliurex-Flavours: lab-adi 
+Lliurex-Flavours: lab-pro 
 Depends: ${shlibs:Depends}, ${germinate:Depends} 
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex to adi laboratory machine
