@@ -1,3 +1,9 @@
+lliurex-meta (25.2.9.15) noble; urgency=medium
+
+  * Replace meta-lab-adi by meta-lab-pro
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 15 Sep 2025 14:28:26 +0200
+
 lliurex-meta (25.2.9.12.1) noble; urgency=medium
 
   * Remove tags for old meta
