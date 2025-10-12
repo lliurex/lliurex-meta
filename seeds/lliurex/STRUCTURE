@@ -11,6 +11,9 @@ llx-common-ceip:
 llx-common-ies:
 llx-common-fp:
 llx-common-adi:
+llx-lab-alu:
+llx-lab-pro:
+llx-wifi-alu:
 llx-supported-extra:
 llx-supported-installers:
 llx-live-supported:
@@ -20,8 +23,8 @@ meta-ceip: llx-common-ceip
 meta-ies: llx-common-ies
 meta-fp: llx-common-fp
 meta-gva: llx-gva-common
-meta-lab-pro:
-meta-lab-alu:
-meta-wifi-alu:
+meta-lab-pro: llx-lab-pro
+meta-lab-alu: llx-lab-alu
+meta-wifi-alu: llx-wifi-alu
 meta-live: neon-live
 meta-supported: supported-common llx-supported-extra llx-supported-installers llx-devel llx-live-supported
