@@ -119,6 +119,7 @@ lliurex-disable-discover-indicator
 lliurex-grub-custom
 lliurex-keyring
 lliurex-menus
+lliurex-permission-control
 lliurex-preseed-common
 lliurex-profile-d
 lliurex-robotics
