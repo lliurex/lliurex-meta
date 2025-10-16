@@ -1,3 +1,10 @@
+lliurex-meta (25.2.10.16) noble; urgency=medium
+
+  * Add natfree to adi
+  * Add sync-on-server-ready to clients
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 16 Oct 2025 10:42:17 +0200
+
 lliurex-meta (25.2.10.13.1) noble; urgency=medium
 
   * Remove temporally shutdowner
