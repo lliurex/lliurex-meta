@@ -1,3 +1,10 @@
+lliurex-meta (25.2.10.16.1) noble; urgency=medium
+
+  * Add control-permissions for all flavours
+  * Add cart selector for Adi
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 16 Oct 2025 12:56:02 +0200
+
 lliurex-meta (25.2.10.16) noble; urgency=medium
 
   * Add natfree to adi
