@@ -19,6 +19,7 @@
  * lliurex-robotics
  * lliurex-disable-discover-indicator 
  * (lliurex-hot-fixes)
+
 == Filesystem == 
 
  * xdg-user-dirs 
@@ -111,6 +112,7 @@
 # * runomatic
  * simplayer
  * simplayer-flash-activities
+ * lliurex-permission-control
 
 == Fonts ==
 
