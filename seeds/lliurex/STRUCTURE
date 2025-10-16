@@ -18,7 +18,7 @@ llx-supported-extra:
 llx-supported-installers:
 llx-live-supported:
 meta-desktop: neon-desktop llx-desktop-common  
-meta-adi: neon-desktop llx-desktop-common llx-common-adi 
+meta-adi: llx-common-adi 
 meta-ceip: llx-common-ceip
 meta-ies: llx-common-ies
 meta-fp: llx-common-fp
