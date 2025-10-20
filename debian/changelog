@@ -1,3 +1,9 @@
+lliurex-meta (25.2.10.20) noble; urgency=medium
+
+  * Add n4d-clientvars
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 20 Oct 2025 19:35:31 +0200
+
 lliurex-meta (25.2.10.16.1) noble; urgency=medium
 
   * Add control-permissions for all flavours
