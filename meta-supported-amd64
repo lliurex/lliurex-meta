@@ -265,7 +265,7 @@ linux-azure-headers-6.8.0-1041
 linux-azure-lts-24.04
 linux-azure-tools-6.8.0-1041
 linux-bpf-dev
-linux-buildinfo-6.8.0-1037-gke
+linux-buildinfo-6.8.0-1038-gke
 linux-buildinfo-6.8.0-1038-oracle
 linux-buildinfo-6.8.0-1039-ibm
 linux-buildinfo-6.8.0-1041-aws
@@ -300,8 +300,8 @@ linux-generic
 linux-generic-6.8
 linux-gke
 linux-gke-6.8
-linux-gke-headers-6.8.0-1037
-linux-gke-tools-6.8.0-1037
+linux-gke-headers-6.8.0-1038
+linux-gke-tools-6.8.0-1038
 linux-headers-6.11.0-1009-lowlatency
 linux-headers-6.11.0-1011-lowlatency
 linux-headers-6.11.0-1012-lowlatency
@@ -323,7 +323,7 @@ linux-headers-6.14.0-28-generic
 linux-headers-6.14.0-29-generic
 linux-headers-6.14.0-32-generic
 linux-headers-6.14.0-33-generic
-linux-headers-6.8.0-1037-gke
+linux-headers-6.8.0-1038-gke
 linux-headers-6.8.0-1038-oracle
 linux-headers-6.8.0-1039-ibm
 linux-headers-6.8.0-1041-aws
@@ -484,7 +484,7 @@ linux-image-6.14.0-28-generic
 linux-image-6.14.0-29-generic
 linux-image-6.14.0-32-generic
 linux-image-6.14.0-33-generic
-linux-image-6.8.0-1037-gke
+linux-image-6.8.0-1038-gke
 linux-image-6.8.0-1038-oracle
 linux-image-6.8.0-1039-ibm
 linux-image-6.8.0-1041-azure
@@ -590,7 +590,7 @@ linux-image-uc-azure-6.8
 linux-image-uc-azure-lts-24.04
 linux-image-uc-generic
 linux-image-uc-generic-6.8
-linux-image-unsigned-6.8.0-1037-gke
+linux-image-unsigned-6.8.0-1038-gke
 linux-image-unsigned-6.8.0-1038-oracle
 linux-image-unsigned-6.8.0-1039-ibm
 linux-image-unsigned-6.8.0-1041-aws
@@ -611,7 +611,7 @@ linux-lowlatency-hwe-20.04
 linux-lowlatency-hwe-20.04-edge
 linux-lowlatency-lib-rust-6.8.0-86-lowlatency
 linux-lowlatency-tools-6.8.0-86
-linux-modules-6.8.0-1037-gke
+linux-modules-6.8.0-1038-gke
 linux-modules-6.8.0-1038-oracle
 linux-modules-6.8.0-1039-ibm
 linux-modules-6.8.0-1041-aws
@@ -634,7 +634,7 @@ linux-modules-extra-6.14.0-28-generic
 linux-modules-extra-6.14.0-29-generic
 linux-modules-extra-6.14.0-32-generic
 linux-modules-extra-6.14.0-33-generic
-linux-modules-extra-6.8.0-1037-gke
+linux-modules-extra-6.8.0-1038-gke
 linux-modules-extra-6.8.0-1038-oracle
 linux-modules-extra-6.8.0-1039-ibm
 linux-modules-extra-6.8.0-1041-aws
@@ -686,7 +686,7 @@ linux-modules-involflt-azure-lts-24.04
 linux-modules-ipu6-6.8.0-86-generic
 linux-modules-ipu6-generic
 linux-modules-ipu6-generic-6.8
-linux-modules-iwlwifi-6.8.0-1037-gke
+linux-modules-iwlwifi-6.8.0-1038-gke
 linux-modules-iwlwifi-6.8.0-1039-ibm
 linux-modules-iwlwifi-6.8.0-1041-azure
 linux-modules-iwlwifi-6.8.0-60-generic
@@ -1198,7 +1198,7 @@ linux-tools-6.14.0-28-generic
 linux-tools-6.14.0-29-generic
 linux-tools-6.14.0-32-generic
 linux-tools-6.14.0-33-generic
-linux-tools-6.8.0-1037-gke
+linux-tools-6.8.0-1038-gke
 linux-tools-6.8.0-1038-oracle
 linux-tools-6.8.0-1039-ibm
 linux-tools-6.8.0-1041-aws
