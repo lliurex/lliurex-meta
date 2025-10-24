@@ -1,3 +1,9 @@
+lliurex-meta (25.2.10.24) noble; urgency=medium
+
+  * Add cdc configuration
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 24 Oct 2025 10:44:19 +0200
+
 lliurex-meta (25.2.10.22) noble; urgency=medium
 
   * Add client register
