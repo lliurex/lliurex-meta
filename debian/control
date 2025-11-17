@@ -154,4 +154,19 @@ Conflicts: natfree-lab-pro
 Description: MetaPackage of Lliurex desktop on students computers on laboratory
  List of all packages for lliurex
 
+Package: lliurex-meta-wifi-alu
+Architecture: any-amd64
+Lliurex-Flavours: edu, desktop, wifi, alu
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex desktop on laptop trolley
+ List of all packages for lliurex
+
+Package: lliurex-meta-adi
+Architecture: any-amd64
+Lliurex-Flavours: edu, desktop, adi, pro
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: MetaPackage of Lliurex desktop for adi computer
+ List of all packages for lliurex
 
