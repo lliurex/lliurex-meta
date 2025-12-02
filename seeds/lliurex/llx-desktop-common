@@ -100,8 +100,7 @@ libreoffice-gtk3
  * (lliurex-desktops-keeper)
  * (zero-lliurex-flash)
  * zero-center
-python3-lliurex-store
-(lliurex-store)
+ * (lliurex-store)
  * (lliurex-java-panel)
  * (lliurex-gdrive-core)
  * (lliurex-gdrive-gui)
