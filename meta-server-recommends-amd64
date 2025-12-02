@@ -162,6 +162,7 @@ lliurex-rsyslog-filters
 lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
+lliurex-store
 lliurex-tuxpaint-stamps
 lliurex-unattended-upgrades
 llx-edition-studio

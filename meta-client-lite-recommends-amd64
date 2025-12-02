@@ -141,6 +141,7 @@ lliurex-rsyslog-filters
 lliurex-shutdowner
 lliurex-smartcard-udev-fixer
 lliurex-ssh-login
+lliurex-store
 lliurex-unattended-upgrades
 llx-edition-studio
 lshw
