@@ -1,3 +1,9 @@
+lliurex-meta (23.25.12.11.2) jammy-testing; urgency=medium
+
+  * Add all services to lab-alu and lab-pro
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 30 Jan 2026 15:38:48 +0100
+
 lliurex-meta (23.25.12.11.1) jammy; urgency=medium
 
   * Add epoptes to wifi and adi
