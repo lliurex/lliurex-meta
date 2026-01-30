@@ -134,10 +134,13 @@ lliurex-grub-custom
 lliurex-guard-data
 lliurex-guard-standalone
 lliurex-guard-standalone-zerofiles
+lliurex-homework-harvester
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-profile-d
+lliurex-remote-installer-gui
+lliurex-remote-installer-server
 lliurex-shutdowner
 lliurex-shutdowner-common
 lliurex-up
@@ -160,6 +163,8 @@ mypaint
 n4d
 n4d-epoptes-common
 n4d-epoptes-server
+n4d-homeworkharvester-client
+n4d-homeworkharvester-server
 n4d-lliurex-base
 n4d-shutdowner-server
 natfree-lab-pro

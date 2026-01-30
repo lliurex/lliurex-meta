@@ -134,10 +134,12 @@ lliurex-grub-custom
 lliurex-guard-data
 lliurex-guard-standalone
 lliurex-guard-standalone-zerofiles
+lliurex-homework-harvester
 lliurex-keyring
 lliurex-menus
 lliurex-preseed-common
 lliurex-profile-d
+lliurex-remote-installer-client
 lliurex-shutdowner
 lliurex-shutdowner-common
 lliurex-up
@@ -158,7 +160,9 @@ media-types
 mount
 mypaint
 n4d
+n4d-clientvars
 n4d-epoptes-desktop
+n4d-homeworkharvester-client
 n4d-iptablesmanager
 n4d-lliurex-base
 n4d-shutdowner-client
