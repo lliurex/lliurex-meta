@@ -1,4 +1,4 @@
-lliurex-meta (23.25.12.11.2) jammy-testing; urgency=medium
+lliurex-meta (23.25.12.11.2) jammy; urgency=medium
 
   * Add all services to lab-alu and lab-pro
 
