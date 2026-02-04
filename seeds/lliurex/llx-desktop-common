@@ -118,6 +118,7 @@ libreoffice-gtk3
  * lliurex-auto-upgrade
  * (kscreen-system-settings)
  * (taskscheduler)
+ * (lliurex-auto-upgrade-plasmoid)
 
 === CDC ===
 
