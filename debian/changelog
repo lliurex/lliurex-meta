@@ -1,3 +1,9 @@
+lliurex-meta (23.25.12.11.3) jammy; urgency=medium
+
+  * Add lliurex-auto-upgrade plasmoid on all flavours 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 04 Feb 2026 17:46:25 +0100
+
 lliurex-meta (23.25.12.11.2) jammy; urgency=medium
 
   * Add all services to lab-alu and lab-pro
