@@ -1,3 +1,9 @@
+lliurex-meta (23.26.2.27) jammy; urgency=medium
+
+  * Add lliurex cssh for natfree model
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 27 Feb 2026 09:39:39 +0100
+
 lliurex-meta (23.25.12.11.3) jammy; urgency=medium
 
   * Add lliurex-auto-upgrade plasmoid on all flavours 
