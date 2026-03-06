@@ -1,3 +1,9 @@
+lliurex-meta (23.26.2.28) jammy; urgency=medium
+
+  * Add news-feed-plasmoid for everybody
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 06 Mar 2026 14:48:12 +0100
+
 lliurex-meta (23.26.2.27) jammy; urgency=medium
 
   * Add lliurex cssh for natfree model
