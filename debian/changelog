@@ -1,3 +1,9 @@
+lliurex-meta (25.2.12.16) noble; urgency=medium
+
+  * Add lliurex-news-feed for everybody
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 06 Mar 2026 14:52:24 +0100
+
 lliurex-meta (25.2.12.15) noble; urgency=medium
 
   * Add natfree network
