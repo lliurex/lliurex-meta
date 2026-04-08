@@ -6,7 +6,7 @@ llx-minimal-kde-desktop:
 llx-zero-center:
 llx-desktop-common: llx-minimal-kde-desktop llx-base desktop-common llx-zero-center
 llx-devel:
-llx-gva-common:
+llx-gva:
 llx-common-ceip:
 llx-common-ies:
 llx-common-fp:
@@ -22,7 +22,7 @@ meta-adi: llx-common-adi
 meta-ceip: llx-common-ceip
 meta-ies: llx-common-ies
 meta-fp: llx-common-fp
-meta-gva: llx-gva-common
+meta-gva: llx-gva
 meta-lab-pro: llx-lab-pro
 meta-lab-alu: llx-lab-alu
 meta-wifi-alu: llx-wifi-alu

@@ -1,5 +1,10 @@
 == Services ==
  * openssh-server
+ * acipu
+ * register-service-client
+ * register-service-gvasrv1-fix
+ * lliurex-gva-presets
+ * (lliurex-inventory-agent)
 
 === Federation ===
 
@@ -11,3 +16,4 @@
  * llx-alumnat-wifi
  * (lliurex-access-control)
  * (cdc)
+ * (lliurex-ms-teams)
