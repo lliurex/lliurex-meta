@@ -24,7 +24,6 @@
  * (zero-lliurex-anydesk)
  * (zero-lliurex-openboard) [amd64]
 # * (zero-lliurex-onedrive)
- * (lliurex-deskreen)
  * (zero-fp-administrativo)
  * (zero-fp-informatica)
  * (zero-fp-electronica)
@@ -38,20 +37,17 @@
  * (zero-lliurex-virtualizer)
  * (zero-lliurex-technology)
  * (zero-lliurex-accessibility)
- * (zero-lliurex-touch)
  * (zero-lliurex-oliplus)
  * (zero-lliurex-clickcontrolds)
  * (zero-lliurex-anaconda)
  * (zero-lliurex-calibre)
  * (zero-lliurex-ganttproject)
- * (zero-robolliurex)
  * (zero-lliurex-chromium)
  * (zero-lliurex-docker)
  * bell-scheduler-zerocenter-files
  * zero-lliurex-technology
  * zero-lliurex-promethean
  * zero-lliurex-mixxx
- * (admin-center-zerolink)
  * zero-lliurex-fritzing
  * zero-lliurex-fonts
  * zero-lliurex-hotpotatoes

@@ -1,9 +1,5 @@
 This seed is needed to add depends into pool from zero-installers
 
-= Java =
-
- * oracle-java11-installer
-
 = Pyromaths = 
 
  * (pyromaths)
@@ -25,14 +21,6 @@ This seed is needed to add depends into pool from zero-installers
 = Inventory =
 
  * fusioninstall
-
-= Whiteboard =
-
- * nwfermi-module
-
-= Webex =
-
- * libgl1-mesa-glx
 
 
 = CDC =

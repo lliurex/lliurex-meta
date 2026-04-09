@@ -14,7 +14,6 @@
  * shim                   
  * shim-signed            
  * mokutil
- * boot-repair
  * grub-pc
  * syslinux-efi
  * pxelinux
@@ -47,8 +46,6 @@
  * s4a
  * klavaro
  * graphicsmagick
- * fam
- * gamin
  * flameshot
  * noteshrink
  * noteshrink-gui
@@ -59,7 +56,6 @@
  * kolourpaint
  * wmctrl
  * obs-studio
- * gnome-orca
  * stellarium
  * winetricks 
  * lliurex-on-chrome
@@ -75,20 +71,14 @@ tuxboot
 
  * qemu-guest-agent
 
-== Mysql ==
-
- * mysql-client-5.7
-
 == Apps == 
 
- * freecad
  * bluefish
  * byob-snap
  * ardublock
  * class-jam
  * synfigstudio
  * thonny
- * robolliurex
  * chromium-browser
  * chromium-browser-l10n
  * pinentry-tty
@@ -98,11 +88,9 @@ tuxboot
 
  * mtp-tools 
  * jmtpfs
- * lsb
 
 == Libs ==
 
- * libfdk-aac1
  * udisks2-btrfs
  * libpulse-dev
  * libxcb-xinerama0
@@ -113,17 +101,12 @@ tuxboot
  * msitools
  * vlc-plugin-fluidsynth
  * libqt5designer5
- * libsndio6.1
  * libsdl2-2.0-0
  * libva-wayland2
- * python-zeroconf
- * python-pyqt5
- * libguess1
  * mpv
  * rtmpdump
  * mixxx
  * pinentry-qt
- * kdelibs5-dev
  * libxmlrpc-c++8-dev
  * ipython3
  * qtbase5-private-dev
@@ -131,18 +114,11 @@ tuxboot
  * libmediainfo0v5
  * libxml-xpath-perl
  * python3-wxgtk4.0
- * libgconf-2-4
 
 == HPLIP ==
 
  * hplip-gui
  * python3-notify2
-
-== DOCKER == THIS WILL PROBABLY NOT WORK. INCLUDED MANUALLY 
-
- * docker-ce
- * docker-ce-cli
- * containerd.io
 
 == OEM
 

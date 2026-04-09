@@ -2,8 +2,6 @@
  * (zero-lliurex-fritzing) # action : USER=root epic -u install fritzing.epi
  # * (zero-lliurex-blockly-arduino) # action: USER=root -u epic install blockly-arduino-plugin.epi
  * (librecad)
- * (freecad)
  * (inkscape)
- * (codium)
  * (avogadro)
  * (gperiodic)

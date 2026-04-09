@@ -2,10 +2,8 @@
  # * (zero-lliurex-blockly-arduino) # action : USER=root epic -u install blockly-arduino-plugin.epi
  * (blender)
  * (librecad)
- * (freecad)
  * (arduino)
  * (inkscape)
- * (codium)
  * (kalgebra)
  * (avogadro)
  * (gperiodic)

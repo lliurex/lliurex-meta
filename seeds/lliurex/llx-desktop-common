@@ -48,7 +48,6 @@
  * usb-creator-kde
  * (openshot-qt)
  * (musescore3)
- * (intef-exe-appimage)
  * (pdfarranger)
  * (kazam)
  * (onboard)
@@ -61,7 +60,6 @@
  * (zero-lliurex-openboard) # action : USER=root epic -u install openboard.epi 
  * (zero-lliurex-arasuite) # action : USER=root epic -u install arasuite.epi  
  * (zero-lliurex-nerd-dictation) # action : USER=root epic -u install nerd-dictation.epi
- * (handbreak)
  * (prusa-slicer)
  * (tuxtype)
  * (minuet)
@@ -76,7 +74,6 @@
  * (libreoffice-style-elementary)
  * libreoffice-base
  * libreoffice-calc
- * libreoffice-pdfimport 
  * libreoffice-wiki-publisher 
  * libreoffice-ogltrans
  * libreoffice-report-builder
@@ -96,7 +93,6 @@
  * (lliurex-on-chrome)
  * (lliurex-certificates)
  * (lliurex-unattended-upgrades)
- * (lliurex-desktop-layout-selector)
  * first-aid-kit
  * epi-gtk
  * llx-guest
