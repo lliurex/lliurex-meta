@@ -1,3 +1,9 @@
+lliurex-meta (25.26.4.16.1) noble; urgency=medium
+
+  * Add all lliurex 23 zomandos 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 16 Apr 2026 13:16:16 +0200
+
 lliurex-meta (25.26.4.16) noble; urgency=medium
 
   * regenerate meta
