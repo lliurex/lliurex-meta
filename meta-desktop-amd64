@@ -58,6 +58,7 @@ git
 gpart
 gwenview
 hdparm
+hodor
 info
 init
 inkscape
@@ -217,6 +218,7 @@ xz-utils
 zenity
 zero-center
 zero-lliurex-dvdcss
+zero-lliurex-flavours
 zero-lliurex-fonts
 zero-lliurex-hotpotatoes
 zero-lliurex-jclic-biblio
