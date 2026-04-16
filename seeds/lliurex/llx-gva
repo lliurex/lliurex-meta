@@ -1,8 +1,7 @@
-== Services ==
+= Services ==
  * openssh-server
  * acipu
  * register-service-client
- * register-service-gvasrv1-fix
  * lliurex-gva-presets
  * (lliurex-inventory-agent)
 
