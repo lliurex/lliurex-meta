@@ -1,5 +1,5 @@
 #!/bin/bash
-germinate-update-metapackage --nodch
+germinate-update-metapackage --nodch > ouput_germinate
 for x in $(cat metapackage-map | awk '{print $1}' | tr '\n' ' '); do
 	for y in $(ls ${x}*| grep -v old$); do
 		while read line; do
