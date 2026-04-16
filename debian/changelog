@@ -1,3 +1,9 @@
+lliurex-meta (25.26.4.16.2) noble; urgency=medium
+
+  * Regenerate meta only with stable baikonur repo 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 16 Apr 2026 17:53:59 +0200
+
 lliurex-meta (25.26.4.16.1) noble; urgency=medium
 
   * Add all lliurex 23 zomandos 
