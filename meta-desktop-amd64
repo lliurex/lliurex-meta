@@ -113,6 +113,7 @@ libu2f-udev
 libwmf-bin
 lliurex-apt-divert
 lliurex-auto-upgrade
+lliurex-auto-upgrade-plasmoid
 lliurex-base-files
 lliurex-common-utils
 lliurex-desktop-defaults
