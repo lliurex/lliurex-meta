@@ -111,6 +111,9 @@
  * lliurex-permission-control
  * lliurex-news-feed-plasmoid
  * lliurex-auto-upgrade-plasmoid
+ * (lliurex-shutdowner)
+ * (lliurex-shutdowner-common)
+ * (n4d-shutdowner-server)
 
 == Fonts ==
 
