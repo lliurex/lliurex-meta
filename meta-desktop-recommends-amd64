@@ -127,6 +127,8 @@ lliurex-on-chrome
 lliurex-on-fire
 lliurex-perfilreset
 lliurex-polkit-settings
+lliurex-shutdowner
+lliurex-shutdowner-common
 lliurex-ssh-login
 lliurex-store
 lliurex-unattended-upgrades
@@ -143,6 +145,7 @@ myspell-es
 mythes-ca
 mythes-en-us
 mythes-es
+n4d-shutdowner-server
 nano
 ncdu
 neon-apport
