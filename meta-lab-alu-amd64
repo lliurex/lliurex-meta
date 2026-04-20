@@ -15,6 +15,7 @@ blender
 breeze
 busybox-static
 ca-certificates
+ca-certificates
 console-setup
 cpio
 cron
@@ -58,6 +59,7 @@ fonts-symbola
 fonts-tomsontalks
 fonts-unfonts-core
 foomatic-db-compressed-ppds
+foomatic-db-compressed-ppds
 fotoalbum-kde-servicemenu
 ftp
 gdebi
@@ -77,6 +79,7 @@ inputattach
 iproute2
 iputils-ping
 isc-dhcp-client
+jclic
 jclic
 k3b
 kamoso
@@ -141,6 +144,7 @@ lliurex-preseed-common
 lliurex-profile-d
 lliurex-remote-installer-client
 lliurex-shutdowner
+lliurex-shutdowner
 lliurex-shutdowner-common
 lliurex-up
 lliurex-wifi-gva-control
@@ -167,6 +171,7 @@ n4d-iptablesmanager
 n4d-lliurex-base
 n4d-shutdowner-client
 n4d-shutdowner-server
+n4d-shutdowner-server
 natfree-lab-alu
 neon-hardware-integration
 neon-keyring
@@ -178,6 +183,7 @@ netplan.io
 nfs-common
 nftables
 okular
+openprinting-ppds
 openprinting-ppds
 oxygen-sounds
 p7zip-full
@@ -234,7 +240,10 @@ vlc
 wget
 whiptail
 wireless-tools
+wireless-tools
 wpasupplicant
+wpasupplicant
+xdg-user-dirs
 xdg-user-dirs
 xkb-data
 xorg
