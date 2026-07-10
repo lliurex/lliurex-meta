@@ -1,4 +1,5 @@
 client-register-plasmoid
+epoptes-client
 lliurex-client-register
 lliurex-client-register-cli
 lliurex-homework-harvester
@@ -6,6 +7,7 @@ lliurex-remote-installer-client
 lliurex-shutdowner
 lliurex-shutdowner-common
 n4d-clientvars
+n4d-epoptes-desktop
 n4d-homeworkharvester-client
 n4d-natfree-tie
 n4d-shutdowner-client
