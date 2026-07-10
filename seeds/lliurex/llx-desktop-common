@@ -98,7 +98,7 @@
  * llx-guest
  * lliurex-screen-mirroring
  * lliurex-auto-upgrade
- * (kscreen-system-settings)
+ * (kscreen-system)
  * (kmixtest)
  * (lliurex-access-control)
  * (bell-scheduler)
