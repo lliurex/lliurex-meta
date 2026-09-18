@@ -1,3 +1,9 @@
+lliurex-meta (25.26.8.18) noble; urgency=medium
+
+  * Add disabler-network-manager
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 18 Sep 2026 11:47:12 +0200
+
 lliurex-meta (25.26.7.10.1) noble; urgency=medium
 
   * regenerate meta: add lliurex-cssh
