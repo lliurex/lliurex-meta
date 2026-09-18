@@ -1,4 +1,4 @@
-lliurex-meta (23.26.4.20ubuntu1) jammy; urgency=medium
+lliurex-meta (23.26.9.18) jammy; urgency=medium
 
   * Add disabler-network-manager for all gva flavours
 
