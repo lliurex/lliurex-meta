@@ -137,6 +137,7 @@ lliurex-conky
 lliurex-desktops-keeper
 lliurex-disable-discover-indicator
 lliurex-firefox-settings
+lliurex-guard-natfree-client
 lliurex-hotpotatoes-data
 lliurex-java-panel
 lliurex-mime-settings
@@ -286,7 +287,6 @@ zero-lliurex-alpaca
 zero-lliurex-amd
 zero-lliurex-anaconda
 zero-lliurex-antimicrox
-zero-lliurex-anydesk
 zero-lliurex-anything-llm
 zero-lliurex-arasuite
 zero-lliurex-audacity-ai
